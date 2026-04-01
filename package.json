@@ -1,0 +1,25 @@
+{
+  "name": "family-tree",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "postbuild": "npx pagefind --site dist",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/react": "^5.0.2",
+    "@tailwindcss/vite": "^4.2.2",
+    "@types/d3": "^7.4.3",
+    "astro": "^6.1.2",
+    "d3": "^7.9.0",
+    "pagefind": "^1.4.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tailwindcss": "^4.2.2"
+  },
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}

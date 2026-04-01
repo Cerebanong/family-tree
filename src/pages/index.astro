@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SearchWidget from '../components/SearchWidget.astro';
+import { getSurnameGroups, getAllPeople } from '../lib/family-data';
+
+const surnameGroups = getSurnameGroups();
+const totalPeople = getAllPeople().length;
+const majorBranches = [...surnameGroups.entries()]
+  .filter(([, people]) => people.length >= 3)
+  .sort((a, b) => b[1].length - a[1].length);
+const minorBranches = [...surnameGroups.entries()]
+  .filter(([, people]) => people.length < 3)
+  .sort((a, b) => a[0].localeCompare(b[0]));
+---
+
+<BaseLayout title="Home">
+  <section class="text-center py-8 md:py-12">
+    <h1 class="text-3xl md:text-4xl font-bold mb-4">Frank-Miller Family Tree</h1>
+    <p class="text-earth-600 text-lg max-w-2xl mx-auto mb-8">
+      Exploring our shared history — {totalPeople} individuals across {surnameGroups.size} surname lines,
+      from the 1780s to today.
+    </p>
+    <div class="max-w-xl mx-auto mb-8">
+      <SearchWidget />
+    </div>
+  </section>
+
+  <section class="mb-12">
+    <h2 class="text-2xl font-bold mb-6 text-center">Family Branches</h2>
+    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
+      {majorBranches.map(([surname, people]) => (
+        <a
+          href={`/browse?surname=${encodeURIComponent(surname)}`}
+          class="no-underline bg-earth-100 border border-earth-200 rounded-lg p-3 text-center hover:shadow-md hover:border-earth-300 transition-all"
+        >
+          <span class="block font-serif font-bold text-earth-700">{surname}</span>
+          <span class="text-earth-500 text-sm">{people.length} people</span>
+        </a>
+      ))}
+    </div>
+    {minorBranches.length > 0 && (
+      <div class="mt-4 text-center">
+        <p class="text-earth-500 text-sm mb-2">Plus {minorBranches.length} more lines:</p>
+        <p class="text-earth-600 text-sm">
+          {minorBranches.map(([surname]) => surname).join(' · ')}
+        </p>
+      </div>
+    )}
+  </section>
+
+  <section class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-12">
+    <a href="/browse" class="no-underline bg-earth-100 border border-earth-200 rounded-lg p-6 text-center hover:shadow-md transition-all">
+      <h3 class="font-serif font-bold text-earth-700 mb-2">Browse All</h3>
+      <p class="text-earth-600 text-sm">Search and filter all {totalPeople} individuals</p>
+    </a>
+    <a href="/explore" class="no-underline bg-earth-100 border border-earth-200 rounded-lg p-6 text-center hover:shadow-md transition-all">
+      <h3 class="font-serif font-bold text-earth-700 mb-2">Explore the Tree</h3>
+      <p class="text-earth-600 text-sm">Interactive family tree visualization</p>
+    </a>
+    <a href="/research" class="no-underline bg-earth-100 border border-earth-200 rounded-lg p-6 text-center hover:shadow-md transition-all">
+      <h3 class="font-serif font-bold text-earth-700 mb-2">Research Status</h3>
+      <p class="text-earth-600 text-sm">Open questions and research leads</p>
+    </a>
+  </section>
+</BaseLayout>

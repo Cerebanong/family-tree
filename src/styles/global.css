@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@theme {
+  --color-earth-50: #fdf8f0;
+  --color-earth-100: #f5e6d3;
+  --color-earth-200: #e8cba7;
+  --color-earth-300: #d4a574;
+  --color-earth-400: #b8834a;
+  --color-earth-500: #8b6914;
+  --color-earth-600: #6b4f10;
+  --color-earth-700: #4a3610;
+  --color-earth-800: #2d2010;
+  --color-earth-900: #1a1209;
+
+  --color-sage-400: #8faa7b;
+  --color-sage-500: #6b8c55;
+  --color-sage-600: #4f6e3d;
+
+  --font-serif: "Merriweather", Georgia, serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+}
+
+body {
+  @apply bg-earth-50 text-earth-800 font-sans;
+  font-size: 1.0625rem;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4 {
+  @apply font-serif text-earth-700;
+}
+
+a {
+  @apply text-sage-600 underline decoration-sage-400/50 hover:text-sage-500 hover:decoration-sage-500 transition-colors;
+}

@@ -1,0 +1,214 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getAllPeople, getPersonById, getAllSurnames } from '../lib/family-data';
+import { getAllResearchItems, getAllBranchQuestions } from '../lib/markdown-parser';
+import { generateSlug } from '../lib/slug';
+import path from 'node:path';
+
+const peopleDir = path.resolve('src/data/people');
+const branchesDir = path.resolve('src/data/branches');
+
+const people = getAllPeople();
+const researchItems = getAllResearchItems(peopleDir);
+const branchQuestions = getAllBranchQuestions(branchesDir);
+const surnames = getAllSurnames();
+
+const leads = researchItems.filter((i) => i.type === 'lead');
+const gaps = researchItems.filter((i) => i.type === 'gap');
+
+// Group leads by person
+const leadsByPerson = new Map<number, { name: string; slug: string; items: string[] }>();
+for (const item of leads) {
+  if (!leadsByPerson.has(item.personId)) {
+    const person = getPersonById(item.personId);
+    leadsByPerson.set(item.personId, {
+      name: item.personName,
+      slug: person ? person.slug : '',
+      items: [],
+    });
+  }
+  leadsByPerson.get(item.personId)!.items.push(item.text);
+}
+
+// Group gaps by person
+const gapsByPerson = new Map<number, { name: string; slug: string; items: string[] }>();
+for (const item of gaps) {
+  if (!gapsByPerson.has(item.personId)) {
+    const person = getPersonById(item.personId);
+    gapsByPerson.set(item.personId, {
+      name: item.personName,
+      slug: person ? person.slug : '',
+      items: [],
+    });
+  }
+  gapsByPerson.get(item.personId)!.items.push(item.text);
+}
+
+// Missing data from JSON
+const missingBirth = people.filter((p) => !p.birth.date || p.birth.date.startsWith('~'));
+const missingDeath = people.filter((p) => !p.death.date && p.birth.date && !p.birth.date.startsWith('~') && p.birthYear && parseInt(p.birthYear) < 1950);
+const unknownParents = people.filter((p) => p.father_id == null || p.mother_id == null);
+const uncertainData = people.filter((p) =>
+  p.notes && /alternate|variant|duplicate|uncertain|discrepancy|possibly/i.test(p.notes)
+);
+---
+
+<BaseLayout title="Research Status">
+  <h1 class="text-3xl font-bold mb-2">Research Status</h1>
+  <p class="text-earth-600 mb-6">Open questions, missing data, and research leads across the family tree. Can you help fill in the gaps?</p>
+
+  <div class="mb-6 flex flex-wrap gap-3 items-end">
+    <div>
+      <label for="filter-type" class="block text-sm text-earth-600 mb-1">Category</label>
+      <select id="filter-type" class="bg-white border border-earth-300 rounded-lg px-3 py-2 text-sm text-earth-800">
+        <option value="">All categories</option>
+        <option value="leads">Research Leads</option>
+        <option value="gaps">Research Gaps</option>
+        <option value="missing-birth">Missing Birth Dates</option>
+        <option value="missing-death">Missing Death Dates</option>
+        <option value="unknown-parents">Unknown Parents</option>
+        <option value="uncertain">Uncertain Data</option>
+        <option value="branch-questions">Branch Questions</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="space-y-10">
+    <!-- Research Leads -->
+    <section data-category="leads">
+      <h2 class="text-2xl font-bold mb-4">Research Leads ({leads.length})</h2>
+      <div class="space-y-4">
+        {[...leadsByPerson.entries()].map(([id, { name, slug, items }]) => (
+          <div class="bg-earth-100 border border-earth-200 rounded-lg p-4">
+            <h3 class="font-serif font-bold mb-2">
+              <a href={`/people/${slug}`}>{name}</a>
+            </h3>
+            <ul class="space-y-1 text-sm">
+              {items.map((item) => (
+                <li class="flex items-start gap-2">
+                  <span class="text-earth-400 mt-0.5">☐</span>
+                  <span>{item}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- Research Gaps -->
+    <section data-category="gaps">
+      <h2 class="text-2xl font-bold mb-4">Research Gaps ({gaps.length})</h2>
+      <div class="space-y-4">
+        {[...gapsByPerson.entries()].map(([id, { name, slug, items }]) => (
+          <div class="bg-earth-100 border border-earth-200 rounded-lg p-4">
+            <h3 class="font-serif font-bold mb-2">
+              <a href={`/people/${slug}`}>{name}</a>
+            </h3>
+            <ul class="space-y-1 text-sm">
+              {items.map((item) => (
+                <li class="flex items-start gap-2">
+                  <span class="text-earth-400 mt-0.5">☐</span>
+                  <span>{item}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- Missing Birth Dates -->
+    <section data-category="missing-birth">
+      <h2 class="text-2xl font-bold mb-4">Missing or Approximate Birth Dates ({missingBirth.length})</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2">
+        {missingBirth.map((p) => (
+          <a href={`/people/${p.slug}`} class="text-sm no-underline bg-earth-100 border border-earth-200 rounded px-3 py-2 hover:shadow-sm transition-shadow">
+            <span class="text-earth-800">{p.fullName}</span>
+            <span class="text-earth-500 ml-1">{p.birth.date || 'unknown'}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Missing Death Dates -->
+    <section data-category="missing-death">
+      <h2 class="text-2xl font-bold mb-4">Missing Death Dates ({missingDeath.length})</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2">
+        {missingDeath.map((p) => (
+          <a href={`/people/${p.slug}`} class="text-sm no-underline bg-earth-100 border border-earth-200 rounded px-3 py-2 hover:shadow-sm transition-shadow">
+            <span class="text-earth-800">{p.fullName}</span>
+            <span class="text-earth-500 ml-1">b. {p.birthYear}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Unknown Parents -->
+    <section data-category="unknown-parents">
+      <h2 class="text-2xl font-bold mb-4">Unknown Parents ({unknownParents.length})</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2">
+        {unknownParents.map((p) => (
+          <a href={`/people/${p.slug}`} class="text-sm no-underline bg-earth-100 border border-earth-200 rounded px-3 py-2 hover:shadow-sm transition-shadow">
+            <span class="text-earth-800">{p.fullName}</span>
+            <span class="text-earth-500 ml-1">
+              {p.father_id == null && p.mother_id == null ? 'both unknown' : p.father_id == null ? 'father unknown' : 'mother unknown'}
+            </span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Uncertain Data -->
+    <section data-category="uncertain">
+      <h2 class="text-2xl font-bold mb-4">Uncertain or Conflicting Data ({uncertainData.length})</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2">
+        {uncertainData.map((p) => (
+          <a href={`/people/${p.slug}`} class="text-sm no-underline bg-earth-100 border border-earth-200 rounded px-3 py-2 hover:shadow-sm transition-shadow">
+            <span class="text-earth-800">{p.fullName}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Branch Open Questions -->
+    {branchQuestions.length > 0 && (
+      <section data-category="branch-questions">
+        <h2 class="text-2xl font-bold mb-4">Branch Open Questions ({branchQuestions.length})</h2>
+        <ul class="space-y-2">
+          {branchQuestions.map((q) => (
+            <li class="flex items-start gap-2 text-sm bg-earth-100 border border-earth-200 rounded px-3 py-2">
+              <span class="text-earth-400 mt-0.5">☐</span>
+              <span>
+                <span class="font-semibold text-earth-700">{q.branchName}:</span> {q.text}
+              </span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+  </div>
+
+  <div class="mt-12 text-center border-t border-earth-200 pt-8">
+    <p class="text-earth-600 mb-3">Have information that could help?</p>
+    <a
+      href="mailto:kevinlfrank@gmail.com?subject=Family Tree Tip: General&body=I have information about the Frank-Miller family tree:%0A%0A"
+      class="inline-block bg-sage-500 hover:bg-sage-600 text-white no-underline rounded-lg px-6 py-2.5 text-sm font-medium transition-colors"
+    >
+      Submit a Tip
+    </a>
+  </div>
+</BaseLayout>
+
+<script is:inline>
+  const typeFilter = document.getElementById('filter-type');
+
+  typeFilter?.addEventListener('change', () => {
+    const value = typeFilter.value;
+    const sections = document.querySelectorAll('[data-category]');
+    sections.forEach((section) => {
+      const category = section.getAttribute('data-category');
+      section.classList.toggle('hidden', value !== '' && category !== value);
+    });
+  });
+</script>

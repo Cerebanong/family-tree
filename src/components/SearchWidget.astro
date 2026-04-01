@@ -1,0 +1,51 @@
+---
+interface Props {
+  className?: string;
+}
+
+const { className = '' } = Astro.props;
+---
+
+<div class:list={["search-widget", className]} id="search"></div>
+
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', () => {
+    import('/pagefind/pagefind-ui.js')
+      .then((mod) => {
+        new mod.PagefindUI({
+          element: '#search',
+          showSubResults: false,
+          showImages: false,
+          resetStyles: false,
+        });
+      })
+      .catch(() => {
+        // Pagefind not available in dev mode
+      });
+  });
+</script>
+
+<style is:global>
+  .pagefind-ui__search-input {
+    background: white;
+    border: 1px solid var(--color-earth-300);
+    border-radius: 0.5rem;
+    padding: 0.625rem 1rem;
+    color: var(--color-earth-800);
+    width: 100%;
+    font-family: var(--font-sans);
+  }
+  .pagefind-ui__search-input:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px var(--color-sage-400);
+    border-color: var(--color-sage-400);
+  }
+  .pagefind-ui__result-link {
+    color: var(--color-sage-600);
+    font-family: var(--font-serif);
+  }
+  .pagefind-ui__result-excerpt {
+    color: var(--color-earth-600);
+    font-size: 0.875rem;
+  }
+</style>
