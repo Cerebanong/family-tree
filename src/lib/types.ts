@@ -54,3 +54,50 @@ export interface FamilyData {
   individuals: RawPerson[];
   sources: unknown[];
 }
+
+/** A person enriched with computed fields, for client-side use */
+export interface ClientPerson {
+  id: number;
+  firstName: string;
+  middleName: string;
+  lastName: string;
+  fullName: string;
+  slug: string;
+  sex: string;
+  birthDate: string;
+  birthPlace: string;
+  birthYear: string | null;
+  deathDate: string;
+  deathPlace: string;
+  deathCause: string;
+  deathYear: string | null;
+  ageAtDeath: string;
+  occupation: string;
+  residence: string;
+  burialPlace: string;
+  maritalStatus: string;
+  notes: string;
+  sourceCitations: string;
+  fatherId: number | null;
+  motherId: number | null;
+  spouseIds: number[];
+  childrenIds: number[];
+  siblingIds: number[];
+  aliases: string[];
+}
+
+/** A branch node representing a couple or individual at a generational level */
+export interface BranchNode {
+  id: string;
+  primaryPerson: ClientPerson;
+  secondaryPerson: ClientPerson | null;
+  displaySurname: string;
+  dateRange: string;
+  primaryDateRange: string;
+  secondaryDateRange: string | null;
+  childBranchIds: string[];
+  parentBranchIds: string[];
+  generation: number;
+  /** All individual person IDs contained in this branch node */
+  personIds: number[];
+}

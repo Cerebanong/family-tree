@@ -4,10 +4,9 @@ import '../styles/global.css';
 interface Props {
   title: string;
   description?: string;
-  pagefindBody?: boolean;
 }
 
-const { title, description = 'Frank-Miller Family Tree — 186 individuals spanning from ~1780 to present', pagefindBody = false } = Astro.props;
+const { title, description = 'Frank-Miller Family Tree' } = Astro.props;
 ---
 
 <!doctype html>
@@ -20,7 +19,6 @@ const { title, description = 'Frank-Miller Family Tree — 186 individuals spann
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Merriweather:wght@400;700&display=swap" rel="stylesheet" />
-    <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
   </head>
   <body class="min-h-screen flex flex-col">
     <nav class="bg-earth-700 text-earth-50 sticky top-0 z-50">
@@ -28,31 +26,14 @@ const { title, description = 'Frank-Miller Family Tree — 186 individuals spann
         <a href="/" class="font-serif text-lg font-bold no-underline text-earth-50 hover:text-earth-200">
           Frank-Miller Family Tree
         </a>
-        <button
-          id="nav-toggle"
-          class="md:hidden p-2 rounded hover:bg-earth-600"
-          aria-label="Toggle navigation"
-        >
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-          </svg>
-        </button>
-        <div id="nav-links" class="hidden md:flex items-center gap-6 text-sm">
-          <a href="/" class="no-underline text-earth-100 hover:text-white">Home</a>
-          <a href="/browse" class="no-underline text-earth-100 hover:text-white">Browse</a>
-          <a href="/explore" class="no-underline text-earth-100 hover:text-white">Explore</a>
+        <div class="flex items-center gap-6 text-sm">
+          <a href="/" class="no-underline text-earth-100 hover:text-white">Tree</a>
           <a href="/research" class="no-underline text-earth-100 hover:text-white">Research</a>
         </div>
       </div>
-      <div id="nav-mobile" class="hidden md:hidden px-4 pb-3 space-y-2 text-sm">
-        <a href="/" class="block no-underline text-earth-100 hover:text-white py-1">Home</a>
-        <a href="/browse" class="block no-underline text-earth-100 hover:text-white py-1">Browse</a>
-        <a href="/explore" class="block no-underline text-earth-100 hover:text-white py-1">Explore</a>
-        <a href="/research" class="block no-underline text-earth-100 hover:text-white py-1">Research</a>
-      </div>
     </nav>
 
-    <main class:list={["flex-1 max-w-6xl mx-auto px-4 py-8 w-full", { "data-pagefind-body": pagefindBody }]} {...pagefindBody ? { "data-pagefind-body": "" } : {}}>
+    <main class="flex-1 max-w-6xl mx-auto px-4 py-8 w-full">
       <slot />
     </main>
 
@@ -61,11 +42,5 @@ const { title, description = 'Frank-Miller Family Tree — 186 individuals spann
         <p>Frank-Miller Family Tree &middot; Researched by Kevin Frank</p>
       </div>
     </footer>
-
-    <script is:inline>
-      document.getElementById('nav-toggle')?.addEventListener('click', () => {
-        document.getElementById('nav-mobile')?.classList.toggle('hidden');
-      });
-    </script>
   </body>
 </html>
