@@ -48,13 +48,17 @@ export default function FamilyTreeApp() {
       setSelectedPerson(null);
       setViewLevel('branch');
     } else if (viewLevel === 'branch') {
+      // Restore focus to the branch that was selected before closing
+      if (selectedBranch) {
+        setFocusBranchId(selectedBranch.id);
+      }
       setSelectedBranch(null);
       setViewLevel('tree');
     } else if (viewLevel === 'search-results') {
       setSearchResults([]);
       setViewLevel('tree');
     }
-  }, [viewLevel]);
+  }, [viewLevel, selectedBranch]);
 
   const handleSearch = useCallback((results: ClientPerson[]) => {
     if (results.length === 1) {

@@ -1,5 +1,6 @@
 /**
  * BranchOverlay — Shows the individuals within a family branch node.
+ * Layout: Parents (top) → Selected couple (center, larger) → Children (bottom).
  * Rendered as an overlay panel on top of the dimmed tree canvas.
  */
 import type { BranchNode, ClientPerson } from '../lib/types';
@@ -11,8 +12,9 @@ interface Props {
   onClose: () => void;
 }
 
-function PersonCard({ person, onClick }: { person: ClientPerson; onClick: () => void }) {
+function PersonCard({ person, onClick, size = 'normal' }: { person: ClientPerson; onClick: () => void; size?: 'normal' | 'large' }) {
   const years = [person.birthYear, person.deathYear].filter(Boolean).join(' \u2013 ');
+  const isLarge = size === 'large';
 
   return (
     <button
@@ -21,13 +23,13 @@ function PersonCard({ person, onClick }: { person: ClientPerson; onClick: () => 
         display: 'flex',
         flexDirection: 'column',
         alignItems: 'center',
-        padding: '1.25rem 1.5rem',
+        padding: isLarge ? '1.75rem 2rem' : '1rem 1.25rem',
         background: '#fdf8f0',
-        border: '1.5px solid #d4a574',
+        border: `1.5px solid #d4a574`,
         borderRadius: '0.75rem',
         cursor: 'pointer',
         transition: 'all 0.2s ease',
-        minWidth: '180px',
+        minWidth: isLarge ? '220px' : '150px',
         fontFamily: 'Inter, system-ui, sans-serif',
       }}
       onMouseEnter={(e) => {
@@ -44,8 +46,8 @@ function PersonCard({ person, onClick }: { person: ClientPerson; onClick: () => 
       }}
     >
       <div style={{
-        width: '48px',
-        height: '48px',
+        width: isLarge ? '64px' : '40px',
+        height: isLarge ? '64px' : '40px',
         borderRadius: '50%',
         background: person.sex === 'Female' ? '#b8834a' : '#6b8c55',
         display: 'flex',
@@ -53,8 +55,8 @@ function PersonCard({ person, onClick }: { person: ClientPerson; onClick: () => 
         justifyContent: 'center',
         color: 'white',
         fontWeight: 700,
-        fontSize: '1.125rem',
-        marginBottom: '0.75rem',
+        fontSize: isLarge ? '1.35rem' : '0.95rem',
+        marginBottom: isLarge ? '0.75rem' : '0.5rem',
         fontFamily: 'Merriweather, Georgia, serif',
       }}>
         {person.firstName.charAt(0)}
@@ -62,7 +64,7 @@ function PersonCard({ person, onClick }: { person: ClientPerson; onClick: () => 
       <div style={{
         fontFamily: 'Merriweather, Georgia, serif',
         fontWeight: 700,
-        fontSize: '0.95rem',
+        fontSize: isLarge ? '1.15rem' : '0.85rem',
         color: '#4a3610',
         textAlign: 'center',
         marginBottom: '0.25rem',
@@ -71,7 +73,7 @@ function PersonCard({ person, onClick }: { person: ClientPerson; onClick: () => 
       </div>
       {years && (
         <div style={{
-          fontSize: '0.8rem',
+          fontSize: isLarge ? '0.85rem' : '0.75rem',
           color: '#6b4f10',
         }}>
           {years}
@@ -79,7 +81,7 @@ function PersonCard({ person, onClick }: { person: ClientPerson; onClick: () => 
       )}
       {person.occupation && (
         <div style={{
-          fontSize: '0.75rem',
+          fontSize: isLarge ? '0.8rem' : '0.7rem',
           color: '#8b6914',
           marginTop: '0.25rem',
           fontStyle: 'italic',
@@ -91,38 +93,58 @@ function PersonCard({ person, onClick }: { person: ClientPerson; onClick: () => 
   );
 }
 
+function SectionLabel({ children }: { children: React.ReactNode }) {
+  return (
+    <h3 style={{
+      fontFamily: 'Merriweather, Georgia, serif',
+      fontSize: '0.8rem',
+      fontWeight: 700,
+      color: '#8b6914',
+      textTransform: 'uppercase',
+      letterSpacing: '0.05em',
+      marginBottom: '0.5rem',
+      textAlign: 'center',
+    }}>
+      {children}
+    </h3>
+  );
+}
+
 export default function BranchOverlay({ branch, onPersonClick, onClose }: Props) {
   const people = [branch.primaryPerson];
   if (branch.secondaryPerson) people.push(branch.secondaryPerson);
 
-  // Get children of this couple
-  const childrenIds = new Set<number>();
+  // Get children of this couple (deduplicated)
+  const childrenSet = new Set<number>();
+  const children: ClientPerson[] = [];
   for (const person of people) {
-    for (const cid of person.childrenIds) {
-      childrenIds.add(cid);
+    for (const child of getChildren(person.id)) {
+      if (!childrenSet.has(child.id)) {
+        childrenSet.add(child.id);
+        children.push(child);
+      }
     }
   }
-  const children = [...childrenIds]
-    .map((id) => {
-      // Get children from the people array (all loaded data)
-      const allChildren = getChildren(people[0].id);
-      if (branch.secondaryPerson) {
-        allChildren.push(...getChildren(branch.secondaryPerson.id));
-      }
-      return allChildren;
-    })
-    .flat()
-    .filter((child, idx, arr) => arr.findIndex((c) => c.id === child.id) === idx);
 
-  // Get parents
+  // Get parents of primary person
   const primaryParents = getParents(branch.primaryPerson.id);
-  const parents: ClientPerson[] = [];
-  if (primaryParents.father) parents.push(primaryParents.father);
-  if (primaryParents.mother) parents.push(primaryParents.mother);
+  const primaryParentList: ClientPerson[] = [];
+  if (primaryParents.father) primaryParentList.push(primaryParents.father);
+  if (primaryParents.mother) primaryParentList.push(primaryParents.mother);
+
+  // Get parents of secondary person (if couple)
+  const secondaryParentList: ClientPerson[] = [];
+  if (branch.secondaryPerson) {
+    const secondaryParents = getParents(branch.secondaryPerson.id);
+    if (secondaryParents.father) secondaryParentList.push(secondaryParents.father);
+    if (secondaryParents.mother) secondaryParentList.push(secondaryParents.mother);
+  }
 
   const title = branch.secondaryPerson
     ? `${branch.primaryPerson.firstName} & ${branch.secondaryPerson.firstName} ${branch.displaySurname}`
     : branch.primaryPerson.fullName;
+
+  const hasParents = primaryParentList.length > 0 || secondaryParentList.length > 0;
 
   return (
     <div style={{
@@ -162,8 +184,59 @@ export default function BranchOverlay({ branch, onPersonClick, onClose }: Props)
         overflow: 'auto',
         animation: 'slideUp 0.3s ease',
       }}>
-        {/* Header */}
-        <div style={{ textAlign: 'center', marginBottom: '1.5rem' }}>
+        {/* Parents section (top) */}
+        {hasParents && (
+          <div style={{ marginBottom: '1.25rem' }}>
+            {primaryParentList.length > 0 && (
+              <div style={{ marginBottom: secondaryParentList.length > 0 ? '0.75rem' : 0 }}>
+                <SectionLabel>{branch.primaryPerson.firstName}&apos;s Parents</SectionLabel>
+                <div style={{
+                  display: 'flex',
+                  justifyContent: 'center',
+                  gap: '0.75rem',
+                  flexWrap: 'wrap',
+                }}>
+                  {primaryParentList.map((parent) => (
+                    <PersonCard
+                      key={parent.id}
+                      person={parent}
+                      onClick={() => onPersonClick(parent)}
+                    />
+                  ))}
+                </div>
+              </div>
+            )}
+            {secondaryParentList.length > 0 && (
+              <div>
+                <SectionLabel>{branch.secondaryPerson!.firstName}&apos;s Parents</SectionLabel>
+                <div style={{
+                  display: 'flex',
+                  justifyContent: 'center',
+                  gap: '0.75rem',
+                  flexWrap: 'wrap',
+                }}>
+                  {secondaryParentList.map((parent) => (
+                    <PersonCard
+                      key={parent.id}
+                      person={parent}
+                      onClick={() => onPersonClick(parent)}
+                    />
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Divider */}
+            <div style={{
+              height: '1px',
+              background: '#e8cba7',
+              margin: '1.25rem 2rem 0',
+            }} />
+          </div>
+        )}
+
+        {/* Header + couple cards (center, larger) */}
+        <div style={{ textAlign: 'center', marginBottom: '0.75rem' }}>
           <h2 style={{
             fontFamily: 'Merriweather, Georgia, serif',
             fontSize: '1.5rem',
@@ -186,70 +259,34 @@ export default function BranchOverlay({ branch, onPersonClick, onClose }: Props)
           )}
         </div>
 
-        {/* Couple cards */}
         <div style={{
           display: 'flex',
           justifyContent: 'center',
-          gap: '1rem',
+          gap: '1.25rem',
           flexWrap: 'wrap',
-          marginBottom: '1.5rem',
+          marginBottom: '1.25rem',
         }}>
           {people.map((person) => (
             <PersonCard
               key={person.id}
               person={person}
               onClick={() => onPersonClick(person)}
+              size="large"
             />
           ))}
         </div>
 
-        {/* Parents section */}
-        {parents.length > 0 && (
-          <div style={{ marginBottom: '1.5rem' }}>
-            <h3 style={{
-              fontFamily: 'Merriweather, Georgia, serif',
-              fontSize: '0.85rem',
-              fontWeight: 700,
-              color: '#8b6914',
-              textTransform: 'uppercase',
-              letterSpacing: '0.05em',
-              marginBottom: '0.75rem',
-              textAlign: 'center',
-            }}>
-              Parents
-            </h3>
-            <div style={{
-              display: 'flex',
-              justifyContent: 'center',
-              gap: '0.75rem',
-              flexWrap: 'wrap',
-            }}>
-              {parents.map((parent) => (
-                <PersonCard
-                  key={parent.id}
-                  person={parent}
-                  onClick={() => onPersonClick(parent)}
-                />
-              ))}
-            </div>
-          </div>
-        )}
-
-        {/* Children section */}
+        {/* Children section (bottom) */}
         {children.length > 0 && (
           <div>
-            <h3 style={{
-              fontFamily: 'Merriweather, Georgia, serif',
-              fontSize: '0.85rem',
-              fontWeight: 700,
-              color: '#8b6914',
-              textTransform: 'uppercase',
-              letterSpacing: '0.05em',
-              marginBottom: '0.75rem',
-              textAlign: 'center',
-            }}>
-              Children
-            </h3>
+            {/* Divider */}
+            <div style={{
+              height: '1px',
+              background: '#e8cba7',
+              margin: '0 2rem 1.25rem',
+            }} />
+
+            <SectionLabel>Children</SectionLabel>
             <div style={{
               display: 'flex',
               justifyContent: 'center',

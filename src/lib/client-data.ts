@@ -269,24 +269,67 @@ export function buildBranchTree(people: ClientPerson[]): BranchNode[] {
     }
   }
 
-  // Step 3: Assign generations (0 = roots/oldest, higher = more recent)
-  // Roots are nodes with no parent branches
+  // Step 3: Assign generations so that parents from both sides of a couple
+  // are always at the same level (pedigree chart alignment).
+  //
+  // Phase A: Forward pass from roots to get initial generation numbers.
   const roots = branchNodes.filter((n) => n.parentBranchIds.length === 0);
 
-  function assignGeneration(nodeId: string, gen: number, visited: Set<string>) {
+  function assignForward(nodeId: string, gen: number, visited: Set<string>) {
     if (visited.has(nodeId)) return;
     visited.add(nodeId);
     const node = branchById.get(nodeId);
     if (!node) return;
     node.generation = Math.max(node.generation, gen);
     for (const childId of node.childBranchIds) {
-      assignGeneration(childId, gen + 1, visited);
+      assignForward(childId, gen + 1, visited);
     }
   }
 
-  const visited = new Set<string>();
+  const fwdVisited = new Set<string>();
   for (const root of roots) {
-    assignGeneration(root.id, 0, visited);
+    assignForward(root.id, 0, fwdVisited);
+  }
+
+  // Phase B: Backward pass from the most recent generation to ensure
+  // all parents of a child are at the same generation level.
+  // Parent generation = max(child.generation) - 1 across all children.
+  const maxGenFwd = Math.max(...branchNodes.map((n) => n.generation));
+
+  // BFS backward from the most recent nodes
+  const genMap = new Map<string, number>();
+  const queue: Array<{ id: string; gen: number }> = [];
+
+  // Start from all nodes at the most recent generation
+  for (const node of branchNodes) {
+    if (node.generation === maxGenFwd) {
+      queue.push({ id: node.id, gen: maxGenFwd });
+      genMap.set(node.id, maxGenFwd);
+    }
+  }
+
+  while (queue.length > 0) {
+    const { id, gen } = queue.shift()!;
+    const node = branchById.get(id);
+    if (!node) continue;
+
+    for (const pid of node.parentBranchIds) {
+      const parentGen = gen - 1;
+      const existing = genMap.get(pid);
+      if (existing == null || existing < parentGen) {
+        genMap.set(pid, parentGen);
+        queue.push({ id: pid, gen: parentGen });
+      }
+    }
+  }
+
+  // Apply backward-pass generations to nodes reached from the most recent gen.
+  // Nodes not reached keep their forward-pass generation.
+  for (const node of branchNodes) {
+    const bwdGen = genMap.get(node.id);
+    if (bwdGen != null) {
+      node.generation = bwdGen;
+    }
   }
 
   // Store for later access
