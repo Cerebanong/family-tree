@@ -4864,7 +4864,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1835-11-01",
         "place": "Malanówko, Mochowo, sierpecki, mazowieckie, Poland"
@@ -4909,7 +4909,7 @@
         "maiden": "Cetkowska",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1840",
         "place": "Poland"
@@ -4953,7 +4953,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "~1940",
         "place": "New Jersey"
@@ -4994,7 +4994,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1949-12-15",
         "place": "New Jersey"
@@ -5038,7 +5038,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "~1942",
         "place": "New Jersey"
@@ -5081,7 +5081,7 @@
           "Louise"
         ]
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "",
         "place": "Puerto Rico"
@@ -5123,7 +5123,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "",
         "place": "Vermont"
@@ -5163,7 +5163,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1984-03-16",
         "place": "St. Johnsbury, Caledonia County, Vermont"
@@ -5204,7 +5204,7 @@
           "Irene H Lewis"
         ]
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "~1899",
         "place": "Nelson County, Virginia, United States"
@@ -5246,7 +5246,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1826-09-20",
         "place": "Poughkeepsie, Dutchess County, New York, United States"
@@ -5292,7 +5292,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "~1828",
         "place": "New York, United States"
@@ -5907,7 +5907,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1810-05-19",
         "place": "Bangor, Penobscot, Maine"
@@ -5952,7 +5952,7 @@
           "Hannah Babbage"
         ]
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1816-04-02",
         "place": "Bangor, Penobscot, Maine"
@@ -5994,7 +5994,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1877-03-11",
         "place": "Lee, Penobscot, Maine"
@@ -6034,7 +6034,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1880-04-19",
         "place": "Lee, Penobscot, Maine"
@@ -6075,7 +6075,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1883-07-28",
         "place": "Lee, Penobscot, Maine"
@@ -7028,7 +7028,7 @@
           "Anna Elizabeth Croft Frank"
         ]
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1905-02-02",
         "place": "New Jersey"
@@ -7071,7 +7071,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "~1865",
         "place": "Lambeth, London, England"
@@ -7119,7 +7119,7 @@
           "Sarah J Parsons"
         ]
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "~1866",
         "place": "St. Saviour Southwark, London, England"
@@ -7168,7 +7168,7 @@
           "Henry Hector Parsons"
         ]
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1890-Q2",
         "place": "Lambeth, London, England"
@@ -7211,7 +7211,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "~1886",
         "place": ""
@@ -7416,7 +7416,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "~1839",
         "place": "Southwark, Surrey, England"
@@ -7464,7 +7464,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "~1843",
         "place": "Lambeth, Surrey, England"
@@ -8632,7 +8632,7 @@
           "Gottfried Frank"
         ]
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1730",
         "place": "Nordheim, Brackenheim, Württemberg, Germany",
@@ -8673,7 +8673,7 @@
         "maiden": "Brecht",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1732",
         "place": "Nordheim, Brackenheim, Württemberg, Germany",
@@ -8716,7 +8716,7 @@
           "Peter Rudolph"
         ]
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1692",
         "place": "",
@@ -8758,7 +8758,7 @@
           "Anna Magdalena Rüser"
         ]
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1700",
         "place": "",
@@ -8799,7 +8799,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "~1813",
         "place": "Cripplegate, Middlesex, England",
@@ -8843,7 +8843,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "~1815",
         "place": "Rotherhithe, Surrey, England",
@@ -8887,7 +8887,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1812-08-04",
         "place": "Harrison, Cumberland, Maine"
@@ -8928,7 +8928,7 @@
           "Agnes Pennel"
         ]
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1811-04-13",
         "place": "Litchfield, Kennebec, Maine"
@@ -8967,7 +8967,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1773-04-08",
         "place": "Gorham, Cumberland, Maine"
@@ -9008,7 +9008,7 @@
           "Hiannah Newcomb"
         ]
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1771",
         "place": "Limington, York, Maine"
@@ -9051,7 +9051,7 @@
           "Capt Moses Whitney"
         ]
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1739-03-17",
         "place": "Desert Of Maine, Freeport, York, Massachusetts Bay Colony"
@@ -9093,7 +9093,7 @@
           "Mary Polly Page"
         ]
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1743-04-04",
         "place": "Derbyshire, England"
@@ -9132,7 +9132,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1709",
         "place": ""
@@ -9171,7 +9171,7 @@
         "maiden": "Day",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1714",
         "place": ""
@@ -9210,7 +9210,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1773",
         "place": ""
@@ -9249,7 +9249,7 @@
         "maiden": "Robinson",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1775",
         "place": ""
@@ -9288,7 +9288,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1733",
         "place": ""
@@ -9327,7 +9327,7 @@
         "maiden": "Young",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1748",
         "place": ""
@@ -9368,7 +9368,7 @@
           "Gottfried Frank"
         ]
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1702-03-02",
         "place": "Heilbronn, Oberamt Heilbronn, Württemberg, Germany"
@@ -9407,7 +9407,7 @@
         "maiden": "Krumm",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1699",
         "place": ""
@@ -9446,7 +9446,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1667",
         "place": ""
@@ -9485,7 +9485,7 @@
         "maiden": "Schmid",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1670",
         "place": ""
@@ -9524,7 +9524,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "~1700-07",
         "place": "Nordheim, Brackenheim, Württemberg, Germany"
@@ -9563,7 +9563,7 @@
         "maiden": "Engelbrecht",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1703-04-04",
         "place": "Nordheim, Württemberg, Germany"
@@ -9602,7 +9602,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "",
         "place": "Nordheim, Brackenheim, Württemberg, Germany"
@@ -9642,7 +9642,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1651",
         "place": "Nordheim, Württemberg, Germany"
@@ -9681,7 +9681,7 @@
         "maiden": "Schuckhner",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1668",
         "place": ""
@@ -9723,7 +9723,7 @@
           "William Eldredge Gurr"
         ]
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1810-08-19",
         "place": "Peasmarsh, Sussex, England"
@@ -9760,7 +9760,7 @@
         "maiden": "Russell",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1817",
         "place": ""
@@ -9797,7 +9797,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1784-07-20",
         "place": "Peasmarsh, Sussex, England"
@@ -9836,7 +9836,7 @@
         "maiden": "Eldridge",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1788",
         "place": ""
@@ -9875,7 +9875,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1752",
         "place": ""
@@ -9914,7 +9914,7 @@
         "maiden": "Burden",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1755",
         "place": ""
@@ -9953,7 +9953,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "M",
+      "sex": "Male",
       "birth": {
         "date": "1791",
         "place": "England"
@@ -9996,7 +9996,7 @@
         "maiden": "",
         "aliases": []
       },
-      "sex": "F",
+      "sex": "Female",
       "birth": {
         "date": "1797",
         "place": "England"
