@@ -8,8 +8,8 @@
 - **Burial:** Lincoln, Penobscot County, Maine
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Stephen B. Farrington
+- **Mother:** Abigail H. Archer
 - **Spouse:** Annie Orissa Hathaway (m. 1895-01-27, Medway, Penobscot County, Maine)
   - **Children:** Maye Mildred Farrington
 
@@ -25,9 +25,5 @@ Father of Maye Mildred Farrington (ID 79). Married Annie Orissa Hathaway on 27 J
 - [ ] Find burial record at Lincoln, Penobscot County, ME — identify cemetery name
 - [ ] Confirm 1900 census entry for Stephen W. Farrington household in Medway, ME (would list all children born by 1900)
 
-## Research Gaps
-- [ ] Father
-- [ ] Mother
-
 ---
-*Record completeness: 80%*
+*Record completeness: 95%*

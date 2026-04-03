@@ -9,8 +9,8 @@
 - **Also Known As:** Gowan
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Benjamin Franklin Gowen
+- **Mother:** Mary Tiff
 - **Spouse:** Eliza Holbrook Joy (m. 1834-01-02, Orono, Penobscot, Maine)
   - **Children:** Martha Ann Gowen
 
@@ -24,9 +24,5 @@ Father of Martha Ann Gowen. Kevin's 4x great-grandfather (maternal). Born 21 Aug
 - [ ] Parents: Benjamin Franklin Gowen (LVQY-DS9) and Mary Tiff (LRK2-186) — research further if gen 5 branch prioritized
 - [ ] Find occupation from census records
 
-## Research Gaps
-- [ ] Father
-- [ ] Mother
-
 ---
-*Record completeness: 80%*
+*Record completeness: 95%*

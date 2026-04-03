@@ -5,8 +5,8 @@
 - **Died:** —
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Christoph Franck
+- **Mother:** Maria Franck
 - **Spouse:** Maria Magdalena Schmid (m. 1690-07-29, Heilbronn, Württemberg, Germany)
   - **Children:** Georg Ludwig Franck
 
@@ -19,8 +19,6 @@ FamilySearch PID GN1D-J91. Married Maria Magdalena Schmid 29 Jul 1690, Heilbronn
 ## Research Gaps
 - [ ] Birth place
 - [ ] Death date
-- [ ] Father
-- [ ] Mother
 
 ---
-*Record completeness: 55%*
+*Record completeness: 70%*

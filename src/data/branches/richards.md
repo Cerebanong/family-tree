@@ -1,6 +1,6 @@
 # Richards Branch
 
-**Individuals:** 17 | **With birth dates:** 17/17 | **With sources:** 15/17 | **Avg completeness:** 77%
+**Individuals:** 17 | **With birth dates:** 17/17 | **With sources:** 16/17 | **Avg completeness:** 79%
 
 ## Individuals
 
@@ -16,7 +16,7 @@
 | 90 | Edith M Richards | 1937 |  | 80% |
 | 91 | Frances Richards | 1942 |  | 80% |
 | 92 | Janet L Richards | 1950 |  | 80% |
-| 223 | James Richards | ~1813 |  | 45% |
+| 223 | James Richards | ~1813 | 1880-Q2 | 80% |
 | 224 | Elizabeth Richards | ~1815 |  | 45% |
 | 191 | William Richards | ~1839 |  | 85% |
 | 192 | Mary Ann Richards | ~1843 |  | 65% |

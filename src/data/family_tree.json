@@ -4551,8 +4551,8 @@
       "marital_status": "Married",
       "residence": "Medway, ME (1866–c.1895); Lincoln, Penobscot County, Maine (by 1930)",
       "burial_place": "Lincoln, Penobscot County, Maine",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 312,
+      "mother_id": 313,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -4879,8 +4879,8 @@
       "marital_status": "Married",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 346,
+      "mother_id": 347,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -4924,8 +4924,8 @@
       "marital_status": "Married",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 364,
+      "mother_id": 365,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -5838,8 +5838,8 @@
       "marital_status": "Married",
       "residence": "Orono, Penobscot, Maine",
       "burial_place": "Riverside Cemetery, Orono, Penobscot, Maine",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 338,
+      "mother_id": 339,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -6318,8 +6318,8 @@
       "marital_status": "Married",
       "residence": "Mattawamkeag, Penobscot County, Maine",
       "burial_place": "Mattawamkeag Cemetery, Mattawamkeag, Penobscot County, Maine",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 328,
+      "mother_id": 329,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -8808,9 +8808,9 @@
         ]
       },
       "death": {
-        "date": "",
-        "place": "",
-        "source_ids": []
+        "date": "1880-Q2",
+        "place": "St Saviour Southwark, London, England",
+        "cause": ""
       },
       "father_id": null,
       "mother_id": null,
@@ -8818,7 +8818,7 @@
         "F78"
       ],
       "familysearch_pid": "",
-      "notes": "Father of William Richards (ID 191, tinman). Identified via 1851 Census (FindMyPast GBC/1851/0004652309). Occupation: Tinman. Born ~1813 in Cripplegate, Middlesex (City of London). In 1851, lived in Christchurch parish, St Saviour Southwark, with wife Elizabeth and 8 children: James (17, tinman), William (12, our ancestor), Maria (11), Christian (8), George (7), Thomas (6), Edward (5), Alice (infant). The tinsmith trade passed from father to son — both James Sr. and James Jr. listed as tinmen.",
+      "notes": "Father of William Richards (ID 191, tinman). Identified via 1851 Census (FindMyPast GBC/1851/0004652309). Occupation: Tinman. Born ~1813 in Cripplegate, Middlesex (City of London). In 1851, lived in Christchurch parish, St Saviour Southwark, with wife Elizabeth and 8 children: James (17, tinman), William (12, our ancestor), Maria (11), Christian (8), George (7), Thomas (6), Edward (5), Alice (infant). The tinsmith trade passed from father to son — both James Sr. and James Jr. listed as tinmen. 1841 census: living at Charlotte St, Great Broadwall, Christ Church, Southwark with wife Elizabeth and children James, William, Maria, Christian, and Elizabeth Pissell (b.~1799, possible mother-in-law). DEATH CONFIRMED: GRO Death Index Jun 1880, St Saviour Southwark, Vol 1d, Page 25, age 68 (born ~1812). Two possible Non-Conformist birth records in Cripplegate: (1) 31 Dec 1813, parents James Richards + Barbara Richards (ark:/61903/1:1:FWPS-GL2); (2) 29 Jun 1813, parents Robert Richards + Elizabeth Richards. Neither confirmed — need to order GRO death certificate to identify parents.",
       "interesting_facts": "Tinman by trade, same occupation as his son William (ID 191). Lived in Christchurch Southwark.",
       "research_leads": [
         "Search 1841 Census for James Richards (tinman, age ~28) in Christchurch Southwark — may show his parents",
@@ -8826,13 +8826,14 @@
         "Search GRO death index for James Richards (tinman) dying after 1851 in Southwark area"
       ],
       "research_gaps": [
-        "Death date",
         "Father",
         "Mother"
       ],
       "spouses": [
         224
-      ]
+      ],
+      "source_citations": "; FindMyPast 1841 Census GBC/1841/0006540411; GRO Death Index Jun 1880, St Saviour Southwark, Vol 1d p25, age 68 (FreeBMD)",
+      "age_at_death": "68"
     },
     {
       "id": 224,
@@ -8862,11 +8863,12 @@
         "F78"
       ],
       "familysearch_pid": "",
-      "notes": "Mother of William Richards (ID 191, tinman). Identified via 1851 Census (FindMyPast GBC/1851/0004652309). Born ~1815 in Rotherhithe, Surrey. Listed as 'At home' in 1851. Wife of James Richards (tinman). Maiden name unknown.",
+      "notes": "Mother of William Richards (ID 191, tinman). Identified via 1851 Census (FindMyPast GBC/1851/0004652309). Born ~1815 in Rotherhithe, Surrey. Listed as 'At home' in 1851. Wife of James Richards (tinman). Maiden name unknown. 1841 census shows Elizabeth Pissell (b.~1799) living in the household — likely mother, suggesting maiden name Pissell.",
       "interesting_facts": "",
       "research_leads": [
         "Search GRO marriage index for James Richards and Elizabeth ~1833 in Southwark/Rotherhithe — would reveal maiden name",
-        "Search 1861 Census for James and Elizabeth Richards in Southwark"
+        "Search 1861 Census for James and Elizabeth Richards in Southwark",
+        "Elizabeth Pissell (b.~1799) found in 1841 census household — possible maiden name Pissell/Pizell for Elizabeth Richards"
       ],
       "research_gaps": [
         "Death date",
@@ -9461,8 +9463,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 354,
+      "mother_id": 355,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -12299,6 +12301,2282 @@
       "interesting_facts": "",
       "research_leads": [],
       "spouses": []
+    },
+    {
+      "id": 312,
+      "name": {
+        "first": "Stephen",
+        "middle": "B.",
+        "last": "Farrington",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1825-10-03",
+        "place": "Lovell, Oxford, Maine, United States"
+      },
+      "death": {
+        "date": "1883-02-14",
+        "place": "Medway, Penobscot, Maine, United States",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 314,
+      "mother_id": 315,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: M841-FYN. Buried Medway Cemetery, Medway, ME.",
+      "source_citations": "FamilySearch Person M841-FYN; 23 sources attached",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        313
+      ]
+    },
+    {
+      "id": 313,
+      "name": {
+        "first": "Abigail",
+        "middle": "H.",
+        "last": "Archer",
+        "maiden": "Archer",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1835-10-27",
+        "place": "Charlotte, Washington, Maine, United States"
+      },
+      "death": {
+        "date": "~1903-03-06",
+        "place": "Lincoln, Penobscot, Maine, United States",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 326,
+      "mother_id": 327,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: 2CY7-X68. Also known as Abigail Hugh Archer.",
+      "source_citations": "FamilySearch Person 2CY7-X68; 23 sources attached",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        312
+      ]
+    },
+    {
+      "id": 314,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Farrington",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1802-02-23",
+        "place": "Chelsea, Suffolk, Massachusetts, United States"
+      },
+      "death": {
+        "date": "1894-06-19",
+        "place": "Mexico, Oxford, Maine, United States",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 316,
+      "mother_id": 317,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LCGX-VCP. Buried Center Lovell Cemetery, Lovell, ME.",
+      "source_citations": "FamilySearch Person LCGX-VCP; 29 sources attached",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        315
+      ]
+    },
+    {
+      "id": 315,
+      "name": {
+        "first": "Susan",
+        "middle": "P",
+        "last": "Eastman",
+        "maiden": "Eastman",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1803",
+        "place": ""
+      },
+      "death": {
+        "date": "1879",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LC3Z-DGG.",
+      "source_citations": "FamilySearch Person LC3Z-DGG",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        314
+      ]
+    },
+    {
+      "id": 316,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Farrington",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1761-02-20",
+        "place": "Dedham, Norfolk, Massachusetts, United States"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 318,
+      "mother_id": 319,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: KJ64-YVW. Two marriages: (1) Hannah Wiswall 1796, (2) Mary Bullman ~1801.",
+      "source_citations": "FamilySearch Person KJ64-YVW; 4 sources attached",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        317
+      ]
+    },
+    {
+      "id": 317,
+      "name": {
+        "first": "Mary",
+        "middle": "",
+        "last": "Bullman",
+        "maiden": "Bullman",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1780",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: KJ64-BSG.",
+      "source_citations": "FamilySearch Person KJ64-BSG",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        316
+      ]
+    },
+    {
+      "id": 318,
+      "name": {
+        "first": "Jonathan",
+        "middle": "Abel",
+        "last": "Farrington",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1728-04-29",
+        "place": "Dedham, Massachusetts Bay, British Colonial America"
+      },
+      "death": {
+        "date": "1807-02-25",
+        "place": "Canton, Norfolk, Massachusetts, United States",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 320,
+      "mother_id": 321,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "Revolutionary War — Second Company from Stoughton, marched 19 April 1775",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LH6L-28Y. Revolutionary War soldier; marched from Stoughton on 19 April 1775. Married (1) Mary Fales 1750, (2) Mary Puffer 1756. Buried Canton, Norfolk, MA.",
+      "source_citations": "FamilySearch Person LH6L-28Y; 17 sources attached; FindAGrave Memorial #173530744",
+      "interesting_facts": "",
+      "research_leads": [
+        "Research Mary Puffer's parents: John Puffer and Abigail Vose of Stoughton"
+      ],
+      "spouses": [
+        319
+      ]
+    },
+    {
+      "id": 319,
+      "name": {
+        "first": "Mary",
+        "middle": "",
+        "last": "Puffer",
+        "maiden": "Puffer",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1728",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: G362-77X. Daughter of John Puffer and Abigail Vose of Stoughton.",
+      "source_citations": "FamilySearch Person G362-77X",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        318
+      ]
+    },
+    {
+      "id": 320,
+      "name": {
+        "first": "Jonathan",
+        "middle": "Abel",
+        "last": "Farrington",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1699-11-05",
+        "place": "Dedham, Norfolk, Massachusetts Bay, British America"
+      },
+      "death": {
+        "date": "1752-04-24",
+        "place": "Dedham, Norfolk, Massachusetts, United States",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 322,
+      "mother_id": 323,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LZX1-T8C. Buried Dedham, Norfolk, MA.",
+      "source_citations": "FamilySearch Person LZX1-T8C; 32 sources attached",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        321
+      ]
+    },
+    {
+      "id": 321,
+      "name": {
+        "first": "Prudence",
+        "middle": "",
+        "last": "Child",
+        "maiden": "Child",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1703",
+        "place": ""
+      },
+      "death": {
+        "date": "1767",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LHLS-H41.",
+      "source_citations": "FamilySearch Person LHLS-H41",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        320
+      ]
+    },
+    {
+      "id": 322,
+      "name": {
+        "first": "Nathaniel",
+        "middle": "",
+        "last": "Farrington",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1656-08-09",
+        "place": "Dedham County, Massachusetts Bay Colony"
+      },
+      "death": {
+        "date": "1723-05-08",
+        "place": "Dedham County, Norfolk, Massachusetts Bay Colony",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 324,
+      "mother_id": 325,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: L6K2-94Y. Christened 7 Sep 1656, 1st Congregational Church, Dedham. Buried Old Village Cemetery, Dedham. FindAGrave Memorial #222006013.",
+      "source_citations": "FamilySearch Person L6K2-94Y; 23 sources attached; FindAGrave #222006013",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        323
+      ]
+    },
+    {
+      "id": 323,
+      "name": {
+        "first": "Sarah",
+        "middle": "",
+        "last": "Whiting",
+        "maiden": "Whiting",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1660",
+        "place": ""
+      },
+      "death": {
+        "date": "1732",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LKBF-81N.",
+      "source_citations": "FamilySearch Person LKBF-81N",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        322
+      ]
+    },
+    {
+      "id": 324,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Farrington",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1624",
+        "place": "England"
+      },
+      "death": {
+        "date": "1676-04-27",
+        "place": "Dedham, Massachusetts Bay Colony",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "Immigrated from England to Boston ~1635",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LWXS-FRP. Immigrant from England ~1635 to Boston. Townsman of Dedham by 1646. NOT the same person as John Farrington of Lynn who came on the Hopewell with Edmund Farrington. Parents unknown. Buried Old Village Cemetery, Dedham.",
+      "source_citations": "FamilySearch Person LWXS-FRP; 40 sources attached; WikiTree Farrington-154",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        325
+      ]
+    },
+    {
+      "id": 325,
+      "name": {
+        "first": "Mary",
+        "middle": "",
+        "last": "Bullard",
+        "maiden": "Bullard",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1628",
+        "place": ""
+      },
+      "death": {
+        "date": "1703",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: P9JD-XKT. Daughter of William Bullard. Married John Farrington 23 Feb 1649, Dedham.",
+      "source_citations": "FamilySearch Person P9JD-XKT",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        324
+      ]
+    },
+    {
+      "id": 326,
+      "name": {
+        "first": "John",
+        "middle": "Nye",
+        "last": "Archer",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1811",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LHX8-FTY.",
+      "source_citations": "FamilySearch Person LHX8-FTY",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        327
+      ]
+    },
+    {
+      "id": 327,
+      "name": {
+        "first": "Abigail",
+        "middle": "",
+        "last": "Hughes",
+        "maiden": "Hughes",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1812",
+        "place": ""
+      },
+      "death": {
+        "date": "1892",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LHX8-NMK.",
+      "source_citations": "FamilySearch Person LHX8-NMK",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        326
+      ]
+    },
+    {
+      "id": 328,
+      "name": {
+        "first": "Joshua",
+        "middle": "",
+        "last": "Hathaway",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1782-01-21",
+        "place": "Sutton, Worcester County, Massachusetts, United States"
+      },
+      "death": {
+        "date": "1857-02-12",
+        "place": "Passadumkeag, Penobscot County, Maine, United States",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Village Cemetery, Passadumkeag, Penobscot County, Maine",
+      "father_id": 330,
+      "mother_id": 331,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FindAGrave Memorial #114682595. Known as 'Squire'. Buried Village Cemetery, Passadumkeag, ME.",
+      "source_citations": "FindAGrave Memorial #114682595",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        329
+      ]
+    },
+    {
+      "id": 329,
+      "name": {
+        "first": "Sarah",
+        "middle": "Pond",
+        "last": "Phillips",
+        "maiden": "Phillips",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1789",
+        "place": ""
+      },
+      "death": {
+        "date": "1877",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FindAGrave (linked from Joshua Hathaway III memorial #114682595).",
+      "source_citations": "FindAGrave",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        328
+      ]
+    },
+    {
+      "id": 330,
+      "name": {
+        "first": "Joshua",
+        "middle": "",
+        "last": "Hathaway",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1760-04-15",
+        "place": "Freetown, Bristol County, Massachusetts, United States"
+      },
+      "death": {
+        "date": "1788",
+        "place": "Charlton, Worcester County, Massachusetts, United States",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 332,
+      "mother_id": 333,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FindAGrave Memorial #131309742. Source: Vital records of Freetown, Massachusetts, 1686-1795.",
+      "source_citations": "FindAGrave Memorial #131309742; Vital records of Freetown, MA",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        331
+      ]
+    },
+    {
+      "id": 331,
+      "name": {
+        "first": "Hannah",
+        "middle": "Harback",
+        "last": "Rich",
+        "maiden": "Rich",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1760",
+        "place": ""
+      },
+      "death": {
+        "date": "1844",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FindAGrave (linked from Joshua Hathaway Jr memorial #131309742).",
+      "source_citations": "FindAGrave",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        330
+      ]
+    },
+    {
+      "id": 332,
+      "name": {
+        "first": "Joshua",
+        "middle": "",
+        "last": "Hathaway",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1727-01-19",
+        "place": "Freetown, Bristol County, Massachusetts, United States"
+      },
+      "death": {
+        "date": "1807-05-04",
+        "place": "Sutton, Worcester County, Massachusetts, United States",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Armsby Cemetery, Sutton, Worcester County, Massachusetts",
+      "father_id": 334,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "Revolutionary War — Major under Col. Edward Pope",
+      "religion": "",
+      "education": "",
+      "notes": "FindAGrave Memorial #51796759. Revolutionary War Patriot, Major under Col. Edward Pope. Represented Freetown in Colony General Court. Buried Armsby Cemetery, Sutton, MA.",
+      "source_citations": "FindAGrave Memorial #51796759; Vital records of Freetown, MA",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        333
+      ]
+    },
+    {
+      "id": 333,
+      "name": {
+        "first": "Mary",
+        "middle": "",
+        "last": "Reed",
+        "maiden": "Reed",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1718",
+        "place": ""
+      },
+      "death": {
+        "date": "1792",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Also listed as Mary Reed Evans. Married Joshua Hathaway 23 Aug 1749, Freetown.",
+      "source_citations": "FindAGrave (linked from Maj Joshua Hathaway memorial #51796759)",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        332
+      ]
+    },
+    {
+      "id": 334,
+      "name": {
+        "first": "Isaac",
+        "middle": "",
+        "last": "Hathaway",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1704-07-16",
+        "place": "Freetown, Bristol County, Massachusetts, United States"
+      },
+      "death": {
+        "date": "1749-06-07",
+        "place": "Freetown, Bristol County, Massachusetts, United States",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Blacksmith",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Plummer Burial Ground, Freetown, Bristol County, Massachusetts",
+      "father_id": 336,
+      "mother_id": 337,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FindAGrave Memorial #16348419. Blacksmith. Gravestone inscription: 'In Memory of Isaac Hatheway died June ye 7th 1749 in ye 45th year of his Age'. Buried Plummer Burial Ground, Freetown, MA.",
+      "source_citations": "FindAGrave Memorial #16348419",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": []
+    },
+    {
+      "id": 335,
+      "name": {
+        "first": "Rebecca",
+        "middle": "",
+        "last": "Warren",
+        "maiden": "Warren",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1701-08-14",
+        "place": "Watertown, Middlesex County, Massachusetts, United States"
+      },
+      "death": {
+        "date": "~1787",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Daughter of Joshua Warren (1668-1760) and Rebecca Church (1678-1757). 2nd maternal great-granddaughter of Mayflower Compact signatory Richard Warren (~1585-1628). Living when cited as probate beneficiary 26 Mar 1773; deceased when estate divided 07 Aug 1787.",
+      "source_citations": "FindAGrave Memorial #16348419 (Isaac Hathaway bio)",
+      "interesting_facts": "Descendant of Mayflower passenger Richard Warren (~1585-1628)",
+      "research_leads": [],
+      "spouses": []
+    },
+    {
+      "id": 336,
+      "name": {
+        "first": "Jacob",
+        "middle": "",
+        "last": "Hathaway",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1675",
+        "place": ""
+      },
+      "death": {
+        "date": "1759",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FindAGrave (linked from Isaac Hathaway memorial #16348419). Father of Isaac Hathaway.",
+      "source_citations": "FindAGrave",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        337
+      ]
+    },
+    {
+      "id": 337,
+      "name": {
+        "first": "Philippa",
+        "middle": "Ruth",
+        "last": "Chase",
+        "maiden": "Chase",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1679",
+        "place": ""
+      },
+      "death": {
+        "date": "1754",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Also known as 'Philys'. FindAGrave (linked from Isaac Hathaway memorial #16348419).",
+      "source_citations": "FindAGrave",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        336
+      ]
+    },
+    {
+      "id": 338,
+      "name": {
+        "first": "Benjamin",
+        "middle": "Franklin",
+        "last": "Gowen",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1777",
+        "place": "Massachusetts, United States"
+      },
+      "death": {
+        "date": "1865-09-18",
+        "place": "Worcester, Worcester, Massachusetts, United States",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 340,
+      "mother_id": 341,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LVQY-DS9. Also known as Benjamin Cowan. Resided Old Town, ME (1850), Auburn, MA (1860), Worcester, MA (1865).",
+      "source_citations": "FamilySearch Person LVQY-DS9; 12 sources attached",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        339
+      ]
+    },
+    {
+      "id": 339,
+      "name": {
+        "first": "Mary",
+        "middle": "",
+        "last": "Tiff",
+        "maiden": "Tiff",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1783",
+        "place": "Oldtown, Maine, United States"
+      },
+      "death": {
+        "date": "~1865",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LRK2-186. Parents unknown.",
+      "source_citations": "FamilySearch Person LRK2-186; 10 sources attached",
+      "interesting_facts": "",
+      "research_leads": [
+        "Find parents of Mary Tiff — born ~1783 Oldtown, ME"
+      ],
+      "spouses": [
+        338
+      ]
+    },
+    {
+      "id": 340,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Gowen",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1745",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: MJXK-ZG2. Parents unknown. Marriage notice 11 Jan 1772 Mendon, Worcester, MA.",
+      "source_citations": "FamilySearch Person MJXK-ZG2; 8 sources attached",
+      "interesting_facts": "",
+      "research_leads": [
+        "Find parents of John Gowen — born ~1745, married Mendon, MA 1772"
+      ],
+      "spouses": [
+        341
+      ]
+    },
+    {
+      "id": 341,
+      "name": {
+        "first": "Lydia",
+        "middle": "",
+        "last": "Boyce",
+        "maiden": "Boyce",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1746-04-29",
+        "place": "Abington, Plymouth, Massachusetts Bay Colony"
+      },
+      "death": {
+        "date": "~1787",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 342,
+      "mother_id": 343,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: KHQ2-FKR.",
+      "source_citations": "FamilySearch Person KHQ2-FKR; 9 sources attached",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        340
+      ]
+    },
+    {
+      "id": 342,
+      "name": {
+        "first": "Benjamin",
+        "middle": "",
+        "last": "Boyce",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1721-02-14",
+        "place": "Mendon, Suffolk, Massachusetts Bay Colony"
+      },
+      "death": {
+        "date": "~1787",
+        "place": "Mendon, Worcester, Massachusetts, United States",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 344,
+      "mother_id": 345,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: L7SX-7SN. Also known as Benjamin Bain. Will names four surviving children: Jonathan, Lucius, Asa, Phoebe, and children of daughter Lydia Boyce Going. NOT to be confused with Benjamin Boyce of Salem/Cumberland/Smithfield, RI (~1712-1861).",
+      "source_citations": "FamilySearch Person L7SX-7SN; 25 sources attached",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        343
+      ]
+    },
+    {
+      "id": 343,
+      "name": {
+        "first": "Sarah",
+        "middle": "",
+        "last": "Dyer",
+        "maiden": "Dyer",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1726",
+        "place": ""
+      },
+      "death": {
+        "date": "1787",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: KD3B-FY9.",
+      "source_citations": "FamilySearch Person KD3B-FY9",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        342
+      ]
+    },
+    {
+      "id": 344,
+      "name": {
+        "first": "William",
+        "middle": "",
+        "last": "Boyce",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1690",
+        "place": ""
+      },
+      "death": {
+        "date": "1739",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: MQRS-56P.",
+      "source_citations": "FamilySearch Person MQRS-56P",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        345
+      ]
+    },
+    {
+      "id": 345,
+      "name": {
+        "first": "Bethiah",
+        "middle": "",
+        "last": "Hayward",
+        "maiden": "Hayward",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1694",
+        "place": ""
+      },
+      "death": {
+        "date": "1735",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LZF7-YDH.",
+      "source_citations": "FamilySearch Person LZF7-YDH",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        344
+      ]
+    },
+    {
+      "id": 346,
+      "name": {
+        "first": "Maciej",
+        "middle": "",
+        "last": "Malanowski",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1806-09-02",
+        "place": "Malanówko, Mochowo, sierpecki, mazowieckie, Poland"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 348,
+      "mother_id": 349,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: GHPD-CJG. Also known as Mateusz Malanowski. Christened 1806, Ligowo, Mochowo.",
+      "source_citations": "FamilySearch Person GHPD-CJG",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        347
+      ]
+    },
+    {
+      "id": 347,
+      "name": {
+        "first": "Marianna",
+        "middle": "",
+        "last": "Turska",
+        "maiden": "Turska",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1811",
+        "place": "Tłuchówko, Sierpc County, Masovia, Poland"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: GHPD-854.",
+      "source_citations": "FamilySearch Person GHPD-854",
+      "interesting_facts": "",
+      "research_leads": [
+        "Find parents of Marianna Turska — born 1811 Tłuchówko, Poland"
+      ],
+      "spouses": [
+        346
+      ]
+    },
+    {
+      "id": 348,
+      "name": {
+        "first": "Jan",
+        "middle": "",
+        "last": "Malanowski",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1768",
+        "place": "Malanówko, Mochowo, sierpecki, mazowieckie, Poland"
+      },
+      "death": {
+        "date": "1850",
+        "place": "Ligowo, Sierpc County, Masovia, Poland",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 350,
+      "mother_id": 351,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: GHYQ-56M. Two wives: (1) Marcjanna Pracka (d.1808), (2) Marianna Sumińska (m.1808).",
+      "source_citations": "FamilySearch Person GHYQ-56M",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        349
+      ]
+    },
+    {
+      "id": 349,
+      "name": {
+        "first": "Marcjanna",
+        "middle": "",
+        "last": "Pracka",
+        "maiden": "Pracka",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1783",
+        "place": ""
+      },
+      "death": {
+        "date": "1808",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: GHYW-QX3. Mother of Maciej Malanowski.",
+      "source_citations": "FamilySearch Person GHYW-QX3",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        348
+      ]
+    },
+    {
+      "id": 350,
+      "name": {
+        "first": "Kazimierz",
+        "middle": "",
+        "last": "Malanowski",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1750",
+        "place": ""
+      },
+      "death": {
+        "date": "1807-05-27",
+        "place": "Ligówko, Sierpc, Mazowieckie, Poland",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 352,
+      "mother_id": 353,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: GR3L-T5T. Buried Ligowo, Sierpc.",
+      "source_citations": "FamilySearch Person GR3L-T5T",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        351
+      ]
+    },
+    {
+      "id": 351,
+      "name": {
+        "first": "Bogumiła",
+        "middle": "",
+        "last": "Żółtowska",
+        "maiden": "Żółtowska",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1756",
+        "place": ""
+      },
+      "death": {
+        "date": "1794",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: GHY7-VL7.",
+      "source_citations": "FamilySearch Person GHY7-VL7",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        350
+      ]
+    },
+    {
+      "id": 352,
+      "name": {
+        "first": "Jan",
+        "middle": "",
+        "last": "Malanowski",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1710",
+        "place": ""
+      },
+      "death": {
+        "date": "~1766",
+        "place": "Malanówko, Ligowo, Mazowieckie, Poland",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: GR3L-YBH. Parents unknown. Earliest known Malanowski ancestor.",
+      "source_citations": "FamilySearch Person GR3L-YBH",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        353
+      ]
+    },
+    {
+      "id": 353,
+      "name": {
+        "first": "Justyna",
+        "middle": "",
+        "last": "Kowalewska",
+        "maiden": "Kowalewska",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "~1767",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: GR3L-TZF.",
+      "source_citations": "FamilySearch Person GR3L-TZF",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        352
+      ]
+    },
+    {
+      "id": 354,
+      "name": {
+        "first": "Christoph",
+        "middle": "",
+        "last": "Franck",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Heilbronn, Württemberg, Germany",
+      "burial_place": "",
+      "father_id": 356,
+      "mother_id": 357,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Father of Johann Georg Franck (ID 239). Christened 22 July 1635 in Heilbronn, Oberamt Heilbronn, Württemberg. Married Maria Eberlin in 1659 in Heilbronn. 9 children. FamilySearch PID: MRYZ-4YZ. 30 sources on FamilySearch.",
+      "source_citations": "FamilySearch Family Tree MRYZ-4YZ (30 sources)",
+      "interesting_facts": "Heilbronn citizen in the mid-1600s during the Thirty Years' War aftermath.",
+      "research_leads": [],
+      "spouses": [
+        355
+      ]
+    },
+    {
+      "id": 355,
+      "name": {
+        "first": "Maria",
+        "middle": "",
+        "last": "Franck",
+        "maiden": "Eberlin",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "",
+        "place": "Germany"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Heilbronn, Württemberg, Germany",
+      "burial_place": "",
+      "father_id": 358,
+      "mother_id": 359,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Mother of Johann Georg Franck (ID 239). Maiden name Eberlin. Born Germany (exact date unknown). Married Christoph Franck in 1659 in Heilbronn. 9 children. FamilySearch PID: 987D-J3Q. 20 sources on FamilySearch.",
+      "source_citations": "FamilySearch Family Tree 987D-J3Q (20 sources)",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        354
+      ]
+    },
+    {
+      "id": 356,
+      "name": {
+        "first": "Johann",
+        "middle": "",
+        "last": "Franck",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Father of Christoph Franck (ID 354). No dates known. Only 2 sources on FamilySearch. Dead end — no parents listed. FamilySearch PID: G6PT-PMK.",
+      "source_citations": "FamilySearch Family Tree G6PT-PMK (2 sources)",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        357
+      ]
+    },
+    {
+      "id": 357,
+      "name": {
+        "first": "Margarethe",
+        "middle": "",
+        "last": "Franck",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Mother of Christoph Franck (ID 354). Wife of Johann Franck (ID 356). No dates, no maiden name known. FamilySearch PID: G28V-DK7.",
+      "source_citations": "FamilySearch Family Tree G28V-DK7",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        356
+      ]
+    },
+    {
+      "id": 358,
+      "name": {
+        "first": "Johann Conrad",
+        "middle": "",
+        "last": "Eberlin",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1613-01-12",
+        "place": "Heilbronn, Oberamt Heilbronn, Württemberg"
+      },
+      "death": {
+        "date": "1663-01-12",
+        "place": "Heilbronn, Oberamt Heilbronn, Württemberg",
+        "cause": ""
+      },
+      "age_at_death": "50",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Heilbronn, Württemberg",
+      "burial_place": "Heilbronn, Oberamt Heilbronn, Württemberg",
+      "father_id": 360,
+      "mother_id": 361,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Father of Maria Eberlin (ID 355). Christened 12 January 1613 in Heilbronn. Buried 12 January 1663 in Heilbronn (died on the same calendar date as his christening, exactly 50 years later). Married Clara Anna on 29 February 1636 in Heilbronn. 3 children. FamilySearch PID: M4YR-1FC. 12 sources.",
+      "source_citations": "FamilySearch Family Tree M4YR-1FC (12 sources)",
+      "interesting_facts": "Died on the exact same calendar date (January 12) as his christening, 50 years later.",
+      "research_leads": [],
+      "spouses": [
+        359
+      ]
+    },
+    {
+      "id": 359,
+      "name": {
+        "first": "Clara Anna",
+        "middle": "",
+        "last": "Eberlin",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Heilbronn, Württemberg",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Mother of Maria Eberlin (ID 355). Wife of Johann Conrad Eberlin (ID 358). Married 29 February 1636 in Heilbronn. Maiden name unknown. FamilySearch PID: K48H-XCF.",
+      "source_citations": "FamilySearch Family Tree K48H-XCF",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        358
+      ]
+    },
+    {
+      "id": 360,
+      "name": {
+        "first": "Johann Conrad",
+        "middle": "",
+        "last": "Eberlin",
+        "maiden": "",
+        "aliases": [
+          "Johann Conrad Eberlin (elder)"
+        ]
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 362,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Father of Johann Conrad Eberlin (ID 358). Married Anna Maria Freyer on 23 October 1609 in Dettingen, Ehingen, Württemberg. 9 children. No birth/death dates known. FamilySearch PID: M4YT-MKV. 27 sources.",
+      "source_citations": "FamilySearch Family Tree M4YT-MKV (27 sources)",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        361
+      ]
+    },
+    {
+      "id": 361,
+      "name": {
+        "first": "Anna Maria",
+        "middle": "",
+        "last": "Eberlin",
+        "maiden": "Freyer",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 363,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Mother of Johann Conrad Eberlin (ID 358). Maiden name Freyer. Married Johann Conrad Eberlin (elder, ID 360) on 23 October 1609 in Dettingen, Ehingen, Württemberg. FamilySearch PID: M9QB-Q6N. 21 sources.",
+      "source_citations": "FamilySearch Family Tree M9QB-Q6N (21 sources)",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        360
+      ]
+    },
+    {
+      "id": 362,
+      "name": {
+        "first": "Johann",
+        "middle": "",
+        "last": "Eberlin",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Father of Johann Conrad Eberlin (elder, ID 360). No dates known. Only 1 source on FamilySearch. Dead end. FamilySearch PID: GR49-XGJ.",
+      "source_citations": "FamilySearch Family Tree GR49-XGJ (1 source)",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": []
+    },
+    {
+      "id": 363,
+      "name": {
+        "first": "Georg",
+        "middle": "",
+        "last": "Freyer",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Father of Anna Maria Freyer (ID 361). No dates known. Only 1 source on FamilySearch. Dead end. FamilySearch PID: GR49-7X4.",
+      "source_citations": "FamilySearch Family Tree GR49-7X4 (1 source)",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": []
+    },
+    {
+      "id": 364,
+      "name": {
+        "first": "Franciszek",
+        "middle": "",
+        "last": "Cetkowski",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1798-03-26",
+        "place": "Cetki, Rypin, Kuyavia-Pomerania, Poland"
+      },
+      "death": {
+        "date": "1848-02",
+        "place": "Świedziebnia, Brodnica, Kuyavia-Pomerania, Poland",
+        "cause": ""
+      },
+      "age_at_death": "~49",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Świedziebnia, Brodnica, Poland",
+      "burial_place": "",
+      "father_id": 366,
+      "mother_id": 367,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "Roman Catholic",
+      "education": "",
+      "notes": "Father of Wiktoria Cetkowska (ID 133). Born 26 March 1798 in Cetki, Rypin. Died February 1848 in Świedziebnia, Brodnica. Married Franciszka Okońska on 17 September 1831 in Świedziebnia, Brodnica. 5 children: Jan Adam (1834), Wiktoria (1840), Franciszek (1844), Agnieszka (1848-1885), Michalina. FamilySearch PID: GC99-HTH. 2 sources.",
+      "source_citations": "FamilySearch Family Tree GC99-HTH (2 sources)",
+      "interesting_facts": "Born in Cetki village, a settlement near Rypin in the Kuyavia-Pomerania region.",
+      "research_leads": [
+        "Search Rypin parish registers for Franciszek Cetkowski's birth/christening record (1798)"
+      ],
+      "spouses": [
+        365
+      ]
+    },
+    {
+      "id": 365,
+      "name": {
+        "first": "Franciszka",
+        "middle": "",
+        "last": "Cetkowski",
+        "maiden": "Okońska",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1810-10-04",
+        "place": "Piskorczyn, Rypin, Kuyavia-Pomerania, Poland"
+      },
+      "death": {
+        "date": "1887-02-10",
+        "place": "Rogowo, Rypin, Kuyavia-Pomerania, Poland",
+        "cause": ""
+      },
+      "age_at_death": "76",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Świedziebnia/Rogowo, Poland",
+      "burial_place": "",
+      "father_id": 368,
+      "mother_id": 369,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "Roman Catholic",
+      "education": "",
+      "notes": "Mother of Wiktoria Cetkowska (ID 133). Born 4 October 1810 in Piskorczyn, Rypin. Died 10 February 1887 in Rogowo, Rypin. Maiden name Okońska. Married Franciszek Cetkowski on 17 September 1831 in Świedziebnia, Brodnica. 5 children. Survived her husband by nearly 40 years. FamilySearch PID: GC99-6HX. 2 sources.",
+      "source_citations": "FamilySearch Family Tree GC99-6HX (2 sources)",
+      "interesting_facts": "Survived her husband Franciszek by nearly 40 years (he died 1848, she died 1887). Died in Rogowo, a different town from their marriage place of Świedziebnia.",
+      "research_leads": [],
+      "spouses": [
+        364
+      ]
+    },
+    {
+      "id": 366,
+      "name": {
+        "first": "Antoni",
+        "middle": "",
+        "last": "Cetkowski",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Rypin area, Poland",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "Roman Catholic",
+      "education": "",
+      "notes": "Father of Franciszek Cetkowski (ID 364). Married Magdalena Śniechowska on 4 February 1782 in Rypin, rypiński, kujawsko-pomorskie, Poland. No dates known. No sources on FamilySearch. Dead end — parish records for Rypin area not indexed in Geneteka or FamilySearch. FamilySearch PID: GR3Y-J31.",
+      "source_citations": "FamilySearch Family Tree GR3Y-J31 (0 sources)",
+      "interesting_facts": "",
+      "research_leads": [
+        "Search Rypin parish registers for Antoni Cetkowski — marriage 1782 may list parents"
+      ],
+      "spouses": [
+        367
+      ]
+    },
+    {
+      "id": 367,
+      "name": {
+        "first": "Magdalena",
+        "middle": "",
+        "last": "Cetkowski",
+        "maiden": "Śniechowska",
+        "aliases": [
+          "Sniechowska"
+        ]
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Rypin area, Poland",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "Roman Catholic",
+      "education": "",
+      "notes": "Mother of Franciszek Cetkowski (ID 364). Maiden name Śniechowska. Married Antoni Cetkowski on 4 February 1782 in Rypin. FamilySearch PID: GR3B-48H.",
+      "source_citations": "FamilySearch Family Tree GR3B-48H",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        366
+      ]
+    },
+    {
+      "id": 368,
+      "name": {
+        "first": "Franciszek",
+        "middle": "",
+        "last": "Okoński",
+        "maiden": "",
+        "aliases": [
+          "Okonski"
+        ]
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Żałe/Brzuze area, Poland",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "Roman Catholic",
+      "education": "",
+      "notes": "Father of Franciszka Okońska (ID 365). Married Marianna Ostrowska in 1808 in Żałe, Brzuze, radziejowski, kujawsko-pomorskie, Poland. 4 children: Franciszka (1810), Stanisław Franciszek (1814-1841), Józefa Bogumiła (1816), Marianna. No dates known. FamilySearch PID: GR3B-N44. 0 sources.",
+      "source_citations": "FamilySearch Family Tree GR3B-N44 (0 sources)",
+      "interesting_facts": "Married in Żałe, Brzuze — the same village where the Malanowski family was based.",
+      "research_leads": [
+        "Search Brzuze/Żałe parish registers for Franciszek Okoński marriage 1808"
+      ],
+      "spouses": [
+        369
+      ]
+    },
+    {
+      "id": 369,
+      "name": {
+        "first": "Marianna",
+        "middle": "",
+        "last": "Okoński",
+        "maiden": "Ostrowska",
+        "aliases": [
+          "Ostrowska"
+        ]
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Żałe/Brzuze area, Poland",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "Roman Catholic",
+      "education": "",
+      "notes": "Mother of Franciszka Okońska (ID 365). Maiden name Ostrowska. Married Franciszek Okoński in 1808 in Żałe, Brzuze. FamilySearch PID: GR3B-RMK.",
+      "source_citations": "FamilySearch Family Tree GR3B-RMK",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        368
+      ]
     }
   ],
   "families": [
@@ -14061,6 +16339,398 @@
         "source": ""
       },
       "children": []
+    },
+    {
+      "id": "F124",
+      "husband_id": 312,
+      "wife_id": 313,
+      "marriage": {
+        "date": "1853-12-23",
+        "place": "Lincoln, Maine, United States",
+        "officiant": "",
+        "source": "FamilySearch"
+      },
+      "children": [
+        125
+      ]
+    },
+    {
+      "id": "F125",
+      "husband_id": 314,
+      "wife_id": 315,
+      "marriage": {
+        "date": "1825-03-31",
+        "place": "Lovell, Oxford, Maine, United States",
+        "officiant": "",
+        "source": "FamilySearch"
+      },
+      "children": [
+        312
+      ]
+    },
+    {
+      "id": "F126",
+      "husband_id": 316,
+      "wife_id": 317,
+      "marriage": {
+        "date": "~1801",
+        "place": "Chelsea, Suffolk, Massachusetts",
+        "officiant": "",
+        "source": "FamilySearch"
+      },
+      "children": [
+        314
+      ]
+    },
+    {
+      "id": "F127",
+      "husband_id": 318,
+      "wife_id": 319,
+      "marriage": {
+        "date": "1756-04-15",
+        "place": "Stoughton, Suffolk, Massachusetts Bay Colony",
+        "officiant": "",
+        "source": "FamilySearch"
+      },
+      "children": [
+        316
+      ]
+    },
+    {
+      "id": "F128",
+      "husband_id": 320,
+      "wife_id": 321,
+      "marriage": {
+        "date": "1727-08-10",
+        "place": "Dedham, Suffolk, Massachusetts Bay Colony",
+        "officiant": "",
+        "source": "FamilySearch"
+      },
+      "children": [
+        318
+      ]
+    },
+    {
+      "id": "F129",
+      "husband_id": 322,
+      "wife_id": 323,
+      "marriage": {
+        "date": "1685",
+        "place": "Dedham, Norfolk, Massachusetts",
+        "officiant": "",
+        "source": "FamilySearch"
+      },
+      "children": [
+        320
+      ]
+    },
+    {
+      "id": "F130",
+      "husband_id": 324,
+      "wife_id": 325,
+      "marriage": {
+        "date": "1649-02-23",
+        "place": "Dedham, Suffolk, Massachusetts Bay Colony",
+        "officiant": "",
+        "source": "FamilySearch"
+      },
+      "children": [
+        322
+      ]
+    },
+    {
+      "id": "F131",
+      "husband_id": 326,
+      "wife_id": 327,
+      "marriage": {
+        "date": "~1833",
+        "place": "Waldo, Maine, United States",
+        "officiant": "",
+        "source": "FamilySearch"
+      },
+      "children": [
+        313
+      ]
+    },
+    {
+      "id": "F132",
+      "husband_id": 328,
+      "wife_id": 329,
+      "marriage": {
+        "date": "",
+        "place": "",
+        "officiant": "",
+        "source": "FindAGrave"
+      },
+      "children": [
+        166
+      ]
+    },
+    {
+      "id": "F133",
+      "husband_id": 330,
+      "wife_id": 331,
+      "marriage": {
+        "date": "~1781",
+        "place": "",
+        "officiant": "",
+        "source": "FindAGrave"
+      },
+      "children": [
+        328
+      ]
+    },
+    {
+      "id": "F134",
+      "husband_id": 332,
+      "wife_id": 333,
+      "marriage": {
+        "date": "1749-08-23",
+        "place": "Freetown, Bristol County, Massachusetts",
+        "officiant": "",
+        "source": "FindAGrave; Vital records of Freetown, MA"
+      },
+      "children": [
+        330
+      ]
+    },
+    {
+      "id": "F135",
+      "husband_id": 334,
+      "wife_id": 335,
+      "marriage": {
+        "date": "~1727",
+        "place": "",
+        "officiant": "",
+        "source": "FindAGrave Memorial #16348419"
+      },
+      "children": [
+        332
+      ]
+    },
+    {
+      "id": "F136",
+      "husband_id": 336,
+      "wife_id": 337,
+      "marriage": {
+        "date": "",
+        "place": "",
+        "officiant": "",
+        "source": "FindAGrave"
+      },
+      "children": [
+        334
+      ]
+    },
+    {
+      "id": "F137",
+      "husband_id": 338,
+      "wife_id": 339,
+      "marriage": {
+        "date": "1806",
+        "place": "",
+        "officiant": "",
+        "source": "FamilySearch"
+      },
+      "children": [
+        155
+      ]
+    },
+    {
+      "id": "F138",
+      "husband_id": 340,
+      "wife_id": 341,
+      "marriage": {
+        "date": "1772-01-11",
+        "place": "Mendon, Worcester, Massachusetts",
+        "officiant": "",
+        "source": "FamilySearch"
+      },
+      "children": [
+        338
+      ]
+    },
+    {
+      "id": "F139",
+      "husband_id": 342,
+      "wife_id": 343,
+      "marriage": {
+        "date": "1744-05-17",
+        "place": "Bristol, Bristol, Rhode Island",
+        "officiant": "",
+        "source": "FamilySearch"
+      },
+      "children": [
+        341
+      ]
+    },
+    {
+      "id": "F140",
+      "husband_id": 344,
+      "wife_id": 345,
+      "marriage": {
+        "date": "1715-04-14",
+        "place": "Mendon, Worcester, Massachusetts",
+        "officiant": "",
+        "source": "FamilySearch"
+      },
+      "children": [
+        342
+      ]
+    },
+    {
+      "id": "F141",
+      "husband_id": 346,
+      "wife_id": 347,
+      "marriage": {
+        "date": "1834",
+        "place": "Tłuchowo, lipnowski, kujawsko-pomorskie, Poland",
+        "officiant": "",
+        "source": "FamilySearch"
+      },
+      "children": [
+        132
+      ]
+    },
+    {
+      "id": "F142",
+      "husband_id": 348,
+      "wife_id": 349,
+      "marriage": {
+        "date": "",
+        "place": "",
+        "officiant": "",
+        "source": "FamilySearch"
+      },
+      "children": [
+        346
+      ]
+    },
+    {
+      "id": "F143",
+      "husband_id": 350,
+      "wife_id": 351,
+      "marriage": {
+        "date": "",
+        "place": "",
+        "officiant": "",
+        "source": "FamilySearch"
+      },
+      "children": [
+        348
+      ]
+    },
+    {
+      "id": "F144",
+      "husband_id": 352,
+      "wife_id": 353,
+      "marriage": {
+        "date": "",
+        "place": "",
+        "officiant": "",
+        "source": "FamilySearch"
+      },
+      "children": [
+        350
+      ]
+    },
+    {
+      "id": "F145",
+      "husband_id": 356,
+      "wife_id": 357,
+      "marriage": {
+        "date": "",
+        "place": "",
+        "officiant": "",
+        "source": "FamilySearch Family Tree"
+      },
+      "children": [
+        354
+      ]
+    },
+    {
+      "id": "F146",
+      "husband_id": 354,
+      "wife_id": 355,
+      "marriage": {
+        "date": "1659",
+        "place": "Heilbronn, Württemberg, Germany",
+        "officiant": "",
+        "source": "FamilySearch Family Tree MRYZ-4YZ"
+      },
+      "children": [
+        239
+      ]
+    },
+    {
+      "id": "F147",
+      "husband_id": 360,
+      "wife_id": 361,
+      "marriage": {
+        "date": "1609-10-23",
+        "place": "Dettingen, Ehingen, Württemberg, Deutschland",
+        "officiant": "",
+        "source": "FamilySearch Family Tree M4YT-MKV"
+      },
+      "children": [
+        358
+      ]
+    },
+    {
+      "id": "F148",
+      "husband_id": 358,
+      "wife_id": 359,
+      "marriage": {
+        "date": "1636-02-29",
+        "place": "Heilbronn, Oberamt Heilbronn, Württemberg",
+        "officiant": "",
+        "source": "FamilySearch Family Tree M4YR-1FC"
+      },
+      "children": [
+        355
+      ]
+    },
+    {
+      "id": "F149",
+      "husband_id": 364,
+      "wife_id": 365,
+      "marriage": {
+        "date": "1831-09-17",
+        "place": "Świedziebnia, Brodnica, bydgoskie, Poland",
+        "officiant": "",
+        "source": "FamilySearch Family Tree GC99-HTH"
+      },
+      "children": [
+        133
+      ]
+    },
+    {
+      "id": "F150",
+      "husband_id": 366,
+      "wife_id": 367,
+      "marriage": {
+        "date": "1782-02-04",
+        "place": "Rypin, rypiński, kujawsko-pomorskie, Poland",
+        "officiant": "",
+        "source": "FamilySearch Family Tree GR3Y-J31"
+      },
+      "children": [
+        364
+      ]
+    },
+    {
+      "id": "F151",
+      "husband_id": 368,
+      "wife_id": 369,
+      "marriage": {
+        "date": "1808",
+        "place": "Żałe, Brzuze, radziejowski, kujawsko-pomorskie, Poland",
+        "officiant": "",
+        "source": "FamilySearch Family Tree GR3B-N44"
+      },
+      "children": [
+        365
+      ]
     }
   ],
   "sources": [
@@ -16673,6 +19343,114 @@
       "location": "Chatham, Kent, England",
       "url": "",
       "notes": ""
+    },
+    {
+      "id": 295,
+      "type": "FamilySearch Family Tree",
+      "description": "Farrington line — Stephen B. Farrington (M841-FYN) through John Farrington of Dedham (LWXS-FRP)",
+      "date": "2026-04-03",
+      "location": "FamilySearch.org",
+      "url": "https://www.familysearch.org/tree/person/details/M841-FYN",
+      "notes": "8 generations traced. Immigrant ancestor John Farrington (~1624) from England, parents unknown."
+    },
+    {
+      "id": 296,
+      "type": "FamilySearch Family Tree",
+      "description": "Abigail H. Archer (2CY7-X68) and parents John Nye Archer (LHX8-FTY) + Abigail Hughes (LHX8-NMK)",
+      "date": "2026-04-03",
+      "location": "FamilySearch.org",
+      "url": "https://www.familysearch.org/tree/person/details/2CY7-X68",
+      "notes": ""
+    },
+    {
+      "id": 297,
+      "type": "FindAGrave",
+      "description": "Hathaway line — Joshua 'Squire' Hathaway III (#114682595) through Jacob Hathaway (#16348419)",
+      "date": "2026-04-03",
+      "location": "FindAGrave.com",
+      "url": "https://www.findagrave.com/memorial/114682595/joshua-hathaway",
+      "notes": "5 generations traced. Isaac Hathaway's wife Rebecca Warren connects to Mayflower passenger Richard Warren."
+    },
+    {
+      "id": 298,
+      "type": "FindAGrave",
+      "description": "Joshua Hathaway Jr (#131309742)",
+      "date": "2026-04-03",
+      "location": "FindAGrave.com",
+      "url": "https://www.findagrave.com/memorial/131309742/joshua-hathaway",
+      "notes": "Source: Vital records of Freetown, Massachusetts, 1686-1795"
+    },
+    {
+      "id": 299,
+      "type": "FindAGrave",
+      "description": "Maj Joshua Hathaway (#51796759)",
+      "date": "2026-04-03",
+      "location": "FindAGrave.com",
+      "url": "https://www.findagrave.com/memorial/51796759/joshua-hathaway",
+      "notes": "Revolutionary War Patriot. Armsby Cemetery, Sutton, MA."
+    },
+    {
+      "id": 300,
+      "type": "FindAGrave",
+      "description": "Isaac Hathaway (#16348419)",
+      "date": "2026-04-03",
+      "location": "FindAGrave.com",
+      "url": "https://www.findagrave.com/memorial/16348419/isaac-hathaway",
+      "notes": "Plummer Burial Ground, Freetown, MA. Gravestone inscription included."
+    },
+    {
+      "id": 301,
+      "type": "FamilySearch Family Tree",
+      "description": "Gowen/Boyce line — Benjamin Franklin Gowen (LVQY-DS9) through William Boyce (MQRS-56P)",
+      "date": "2026-04-03",
+      "location": "FamilySearch.org",
+      "url": "https://www.familysearch.org/tree/person/details/LVQY-DS9",
+      "notes": "John Gowen (~1745) parents unknown. Maternal Boyce line extends to William Boyce (1690)."
+    },
+    {
+      "id": 302,
+      "type": "FamilySearch Family Tree",
+      "description": "Malanowski line — Maciej Malanowski (GHPD-CJG) through Jan Malanowski (GR3L-YBH)",
+      "date": "2026-04-03",
+      "location": "FamilySearch.org",
+      "url": "https://www.familysearch.org/tree/person/details/GHPD-CJG",
+      "notes": "4 generations traced in Malanówko/Ligowo, Mochowo parish, Poland. Jan Malanowski (~1710) parents unknown."
+    },
+    {
+      "id": 303,
+      "type": "FindMyPast 1841 Census",
+      "description": "James Richards household, 1841 census, Charlotte St, Great Broadwall, Christ Church, Southwark",
+      "date": "1841-06-06",
+      "location": "Christ Church, St Saviour Southwark, London & Surrey, England",
+      "url": "https://www.findmypast.co.uk/transcript?id=GBC%2F1841%2F0006540411",
+      "notes": "Ref: HO107/1083. Household: James Richards (b.1812), Elizabeth (b.1813), James (b.1834), William (b.1838), Maria (b.1839), Christian (b.1841), Elizabeth Pissell (b.1799). Elizabeth Pissell may be Elizabeth Richards' mother (possible maiden name)."
+    },
+    {
+      "id": 304,
+      "type": "FamilySearch Family Tree",
+      "description": "Franck/Eberlin/Freyer line — Christoph Franck (MRYZ-4YZ), Maria Eberlin (987D-J3Q), Johann Franck (G6PT-PMK), Margarethe (G28V-DK7), Johann Conrad Eberlin (M4YR-1FC), Clara Anna (K48H-XCF), Johann Conrad Eberlin elder (M4YT-MKV), Anna Maria Freyer (M9QB-Q6N), Johann Eberlin (GR49-XGJ), Georg Freyer (GR49-7X4)",
+      "date": "2026-04-03",
+      "location": "FamilySearch.org",
+      "url": "https://www.familysearch.org/tree/person/details/MRYZ-4YZ",
+      "notes": "10 individuals traced. Franck paternal line: 2 generations added (Christoph b.1635, Johann). Eberlin maternal line: 3 generations (Johann Conrad b.1613, Johann Conrad elder, Johann Eberlin + Anna Maria Freyer, Georg Freyer)."
+    },
+    {
+      "id": 305,
+      "type": "GRO Death Index",
+      "description": "James Richards death registration, Jun 1880, St Saviour Southwark, Vol 1d, Page 25, age 68",
+      "date": "2026-04-03",
+      "location": "FreeBMD.org.uk",
+      "url": "https://www.freebmd.org.uk",
+      "notes": "Confirmed death of James Richards (ID 223) in Q2 1880 at age 68 (born ~1812). Matches 1851 census data. Found via FreeBMD search."
+    },
+    {
+      "id": 306,
+      "type": "FamilySearch Family Tree",
+      "description": "Cetkowski/Okońska/Śniechowska/Ostrowska line — Franciszek Cetkowski (GC99-HTH), Franciszka Okońska (GC99-6HX), Antoni Cetkowski (GR3Y-J31), Magdalena Śniechowska (GR3B-48H), Franciszek Okoński (GR3B-N44), Marianna Ostrowska (GR3B-RMK)",
+      "date": "2026-04-03",
+      "location": "FamilySearch.org",
+      "url": "https://www.familysearch.org/tree/person/details/GC99-HTH",
+      "notes": "6 individuals traced. Cetkowski paternal: 2 generations (Franciszek b.1798, Antoni). Okoński maternal: 1 generation (Franciszek Okoński + Marianna Ostrowska)."
     }
   ]
 }

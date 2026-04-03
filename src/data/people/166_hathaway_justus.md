@@ -8,8 +8,8 @@
 - **Burial:** Mattawamkeag Cemetery, Mattawamkeag, Penobscot County, Maine
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Joshua Hathaway
+- **Mother:** Sarah Pond Phillips
 - **Spouse:** Mary Ann Hathaway (m. 1839-10-04, Maine)
   - **Children:** John Adams Hathaway
 
@@ -33,9 +33,5 @@ His daughter Adelaide S. Hathaway married John Otis Hale; his son John Adams Hat
 - [ ] Resolve birth year: 1808 (FindAGrave) vs 1809 (headstone transcript) — search FamilySearch for Justus Hathaway born Orrington ME
 - [ ] Find 1850, 1860, 1870, 1880 Maine census records for Justus Hathaway household
 
-## Research Gaps
-- [ ] Father
-- [ ] Mother
-
 ---
-*Record completeness: 80%*
+*Record completeness: 95%*

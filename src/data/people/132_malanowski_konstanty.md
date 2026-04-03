@@ -7,8 +7,8 @@
 - **Religion:** Roman Catholic
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Maciej Malanowski
+- **Mother:** Marianna Turska
 - **Spouse:** Wiktoria Cetkowska (m. 1860, Żałe, Brzuze, radziejowski, kujawsko-pomorskie, Poland)
   - **Children:** Michael Marian Malanoski
 
@@ -27,9 +27,5 @@ Stayed in Poland while his son Michael emigrated to the United States in 1888. H
 - [ ] Find marriage record for Konstanty Malanowski and Wiktoria Cetkowska, 1860, Żałe, Brzuze, radziejowski county — should be in Catholic parish registers.
 - [ ] Research Frank J Malanoski (1863–1952, GHTC-3V8) and William Ignatius Malanoski (1874–1941, GHDG-XD8) as collateral siblings of Michael who also emigrated to the US.
 
-## Research Gaps
-- [ ] Father
-- [ ] Mother
-
 ---
-*Record completeness: 80%*
+*Record completeness: 95%*

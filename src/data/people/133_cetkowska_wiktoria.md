@@ -8,8 +8,8 @@
 - **Maiden Name:** Cetkowska
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Franciszek Cetkowski
+- **Mother:** Franciszka Cetkowski
 - **Spouse:** Konstanty Malanowski (m. 1860, Żałe, Brzuze, radziejowski, kujawsko-pomorskie, Poland)
   - **Children:** Michael Marian Malanoski
 
@@ -27,9 +27,5 @@ Like her husband Konstanty, Wiktoria stayed in Poland and died there in 1903 —
 - [ ] Find death record for Wiktoria Cetkowska — died 1903 Kuyavia-Pomerania, Poland. Search civil death registrations in radziejowski or Rypin county archives.
 - [ ] Consider adding Wiktoria's parents Franciszek Cetkowski (GC99-HTH) and Franciszka Okońska (GC99-6HX) as generation 6 stubs in a future session — low priority (gen 6 from Pauline).
 
-## Research Gaps
-- [ ] Father
-- [ ] Mother
-
 ---
-*Record completeness: 80%*
+*Record completeness: 95%*
