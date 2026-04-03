@@ -8,7 +8,6 @@
 ## Family
 - **Father:** Bert E Lewis
 - **Mother:** Rena M Whitehill
-- **Siblings:** Elizabeth Gale Lewis
 
 ## Sources
 FindAGrave #243226667 (linked); AncientFaces.com; Barton Chronicle obit for Elizabeth Lewis

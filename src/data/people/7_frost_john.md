@@ -11,7 +11,7 @@
 - **Father:** Mark Frost
 - **Mother:** Catherine E. Gibberd
 - **Spouse:** Carrie Wilder Storer (m. 1878-06-02, Bradford, Penobscot, ME)
-  - **Children:** John Andrew Frost, Ida Ethel Frost, Edith Izola Frost, Rychie Elba Frost, Lewis Edmond Frost, Eva May Frost, Elsie E. Frost
+  - **Children:** John Andrew Frost, Ida Ethel Frost, Edith I Frost, Rychie Elba Frost, Lewis Edmund Frost, Eva May Frost, Elsie E. Frost
 - **Siblings:** William H. Frost, Sarah F Frost, James L. Frost, Clara R. Frost, Etta Clarista J Frost, Nellie Burton Frost
 
 ## Sources

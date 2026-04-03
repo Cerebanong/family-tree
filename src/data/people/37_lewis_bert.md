@@ -10,7 +10,7 @@
 - **Father:** Unknown
 - **Mother:** Unknown
 - **Spouse:** Avis D Whitehill
-  - **Children:** Irma M Lewis, Elizabeth Gale Lewis
+  - **Children:** Elizabeth Gale Lewis
 - **Spouse:** Rena M Whitehill
   - **Children:** Irma M Lewis
 

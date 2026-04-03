@@ -8,7 +8,7 @@
 
 ## Family
 - **Father:** Franklin J Miller
-- **Mother:** Anna Miller
+- **Mother:** Anna M Miller
 - **Siblings:** Robert Lee Miller
 
 ## Sources

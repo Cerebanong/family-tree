@@ -11,8 +11,8 @@
 - **Also Known As:** Friedrika Rudolph, Friderika Rudolph, Fridericka Rudolph
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Johann Stephan Rudolph
+- **Mother:** Susanna Margarethe von Olnhausen
 - **Spouse:** Johannes Franck (m. 1817-11-25, Nordheim, Brackenheim, Württemberg, Germany)
   - **Children:** Jacob Friedrich Franck
 
@@ -28,9 +28,5 @@ Outlived her husband Johannes by nearly 4 years, dying in the same village of Kl
 ## Research Leads
 - [ ] Research Christine's parents: Johann Stephan Rudolph (KPH3-MQY) and Susanna Margarethe von Olnhausen (LZ8R-XKG) if gen-6+ research is desired
 
-## Research Gaps
-- [ ] Father
-- [ ] Mother
-
 ---
-*Record completeness: 80%*
+*Record completeness: 95%*

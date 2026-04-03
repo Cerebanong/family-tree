@@ -1,6 +1,6 @@
 # Frost Branch
 
-**Individuals:** 22 | **With birth dates:** 22/22 | **With sources:** 22/22 | **Avg completeness:** 85%
+**Individuals:** 22 | **With birth dates:** 22/22 | **With sources:** 22/22 | **Avg completeness:** 89%
 
 ## Individuals
 
@@ -17,17 +17,17 @@
 | 9 | Nellie Burton Frost | 1859-09 | 1939-04-06 | 95% |
 | 143 | William Leslie Frost | 1874-10-02 | 1962-09-28 | 95% |
 | 144 | Harriet May Frost | 1880-04-08 |  | 80% |
-| 12 | Ida Ethel Frost | 1881-02-08 | 1961-01-31 | 80% |
+| 12 | Ida Ethel Frost | 1881-02-08 | 1961-01-31 | 95% |
+| 13 | Edith I Frost | 1882-11-22 | 1947-12-29 | 95% |
 | 145 | James W Frost | 1883-07 |  | 80% |
 | 146 | Winfield C. Frost | 1884-01-23 | 1919-10-06 | 95% |
-| 14 | Rychie Elba Frost | 1885-06-09 | 1988-04-12 | 80% |
+| 14 | Rychie Elba Frost | 1885-06-09 | 1988-04-12 | 95% |
 | 147 | Cora B Frost | 1886-10 |  | 80% |
-| 15 | Lewis Edmond Frost | 1890-03-04 | 1962-07-12 | 80% |
+| 15 | Lewis Edmund Frost | 1890-03-04 | 1962-07-12 | 95% |
+| 16 | Eva May Frost | 1892-05-27 | 1977 | 90% |
 | 17 | Elsie E. Frost | 1894-06-02 | 1966-09-04 | 95% |
 | 8 | Etta Clarista J Frost | ~1858 | 1920 | 85% |
 | 11 | John Andrew Frost | ~1879 | 1882 | 80% |
-| 13 | Edith Izola Frost | ~1882 | 1947 | 80% |
-| 16 | Eva May Frost | ~1892 | 1977 | 80% |
 
 ## Open Questions
 - [ ] Benjamin Frost (ID 61): parents unknown

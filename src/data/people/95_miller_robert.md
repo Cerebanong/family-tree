@@ -10,7 +10,7 @@
 
 ## Family
 - **Father:** Franklin J Miller
-- **Mother:** Anna Miller
+- **Mother:** Anna M Miller
 - **Spouse:** Belle Miller (m. 1902)
   - **Children:** Karl Francis Miller, Robert Glen Miller, Ethel Josephine Prentice, Anna Evangeline Nolan, Walter E Miller, Ernest S Miller, Ella L Polk
 - **Siblings:** Earnest Miller

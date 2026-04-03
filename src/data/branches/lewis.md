@@ -1,6 +1,6 @@
 # Lewis Branch
 
-**Individuals:** 9 | **With birth dates:** 9/9 | **With sources:** 8/9 | **Avg completeness:** 87%
+**Individuals:** 11 | **With birth dates:** 11/11 | **With sources:** 10/11 | **Avg completeness:** 85%
 
 ## Individuals
 
@@ -15,6 +15,8 @@
 | 36 | Mildred Elsie Lewis | 1918-07-05 | 2007-02-26 | 95% |
 | 140 | Irene A Lewis | ~1899 |  | 65% |
 | 54 | Muriel D Lewis | ~1914 | ~2011 | 80% |
+| 204 | Anna Kathryn Lewis | ~1929 |  | 80% |
+| 205 | D Harvey Lewis | ~1936 |  | 80% |
 
 ## Open Questions
 - [ ] Henry John Lewis (ID 64): parents unknown

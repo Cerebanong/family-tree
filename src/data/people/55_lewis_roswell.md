@@ -18,6 +18,9 @@ FamilySearch GPZ5-T68; FindAGrave (Roswell E Lewis, Brigadier General William C.
 ## Notes
 Son of Roswell E Lewis and Muriel Helena Bickford. Brother of Mildred Elsie Lewis. Military veteran buried at NJ Veterans Memorial Cemetery. FindAGrave confirms birth 25 Apr 1917, death 1 Apr 2005. FamilySearch PID: GPZ5-T68.
 
+## Research Leads
+- [ ] Find birth record to confirm birth place — likely Gloucester County, NJ (parents resided there by 1917)
+
 ## Research Gaps
 - [ ] Birth place
 

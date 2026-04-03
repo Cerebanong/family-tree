@@ -11,6 +11,7 @@
 - **Father:** Unknown
 - **Mother:** Unknown
 - **Spouse:** Douglas B Lewis (m. 1919-04-02, Nelson, Virginia, United States)
+  - **Children:** Anna Kathryn Lewis, D Harvey Lewis
 
 ## Sources
 Virginia Bureau of Vital Statistics Marriage Register ark:/61903/1:1:Z2N9-TNPZ; 1920 US Census ark:/61903/1:1:M45Z-1Y3

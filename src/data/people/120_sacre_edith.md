@@ -12,7 +12,7 @@
 - **Father:** Richard Ellis
 - **Mother:** Annie Ellis
 - **Spouse:** Edwin William G Sacre (m. 1904, Woolwich, London, England)
-  - **Children:** Violet Dorothy Richards
+  - **Children:** Harriet Annie Sacre, Edwin Richard Sacre, Violet Dorothy Richards, Arthur George Sacre, Joseph Leonard Sacre, Elsie Dorothy Sacre, Archie Sacre
 
 ## Sources
 England and Wales Marriage Registration Index 1837-2005, Q1 1904, Woolwich, Vol 1D, p 1366 — Edith Mary Ellis (FamilySearch ark:/61903/1:1:26QT-3GR, source 98); England and Wales Birth Registration Index 1837-2008, Q4 1885, Canterbury district, page 805, affiliate 107 (FamilySearch ark:/61903/1:1:2XG8-4ZQ, collection 2285338, source 114); England and Wales Census 1901, Charlton and Kidbrooke — Edith M Ellis, age 15, born Canterbury Kent (FamilySearch ark:/61903/1:1:X98S-3DZ, source 115); FamilySearch Family Tree GDNK-3SK — Edith Mary Ellis (1885-1962) (source 113); England and Wales Census 1891, household 975230, Charlton Next Woolwich — Edith M Ellis, Daughter, age 5, Kent (source 118); England and Wales Census 1901, household 994159, Charlton — Annie Ellis (Wife) confirms Richard Ellis as Head/father (source 120); England and Wales Census 1911, household 28460359 — Annie Ellis as widowed mother of Samuel Ellis (Edith's brother) (source 119)

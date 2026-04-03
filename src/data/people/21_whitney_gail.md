@@ -13,7 +13,7 @@
 - **Siblings:** Spencer Hale Whitney
 
 ## Sources
-Family knowledge (Kevin Frank, 2026-03-30); FamilySearch GSVM-7J6 (mother's record)
+Family knowledge (Kevin Frank, 2026-03-30); FamilySearch GSVM-7J6 (mother's record); FamilySearch NJ Births and Christenings (ark:/61903/1:1:Q2SZ-5XN6) — listed as 'Mrs. Lewis Frank', mother of child born 1 Jul 1968
 
 ## Notes
 Kevin's mother. Still alive and living in Fairbanks, AK. Daughter of Clifton Eugene Whitney and Mary Elizabeth Mosher. Married Lewis Frank. Kevin remembers her father's name as "Clifford" but records show "Clifton."

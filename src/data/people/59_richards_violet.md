@@ -13,6 +13,7 @@
 - **Mother:** Edith Mary Sacre
 - **Spouse:** William Joshua M Richards (m. 1930, Lambeth, London, England)
   - **Children:** William J M Richards, Dorothy A Richards, Ruth Richards, Irene Richards, Edith M Richards, Frances Richards, Beryl Miller, Janet L Richards
+- **Siblings:** Harriet Annie Sacre, Edwin Richard Sacre, Arthur George Sacre, Joseph Leonard Sacre, Elsie Dorothy Sacre, Archie Sacre
 
 ## Sources
 England and Wales Birth Registration Index 1837-2008, Q3 1908, Woolwich, Vol 1D, p 1196 (FamilySearch ark:/61903/1:1:2FV9-RB7); England and Wales Marriage Registration Index 1837-2005, Q1 1930, Lambeth, Vol 1D, p 394 (FamilySearch ark:/61903/1:1:QV8S-ZKNN); Family knowledge (Kevin Frank, 2026-03-29); WikiTree genealogy database, Violet Dorothy (Sacre) Richards profile, death 10 October 1982 (source 103); Death Registration Index 1837-2007 (Source 217, ark:/61903/1:1:QVZQ-7131): death registered 1982, London, birth 15 June 1908

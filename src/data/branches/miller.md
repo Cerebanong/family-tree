@@ -1,13 +1,13 @@
 # Miller Branch
 
-**Individuals:** 15 | **With birth dates:** 15/15 | **With sources:** 13/15 | **Avg completeness:** 84%
+**Individuals:** 15 | **With birth dates:** 15/15 | **With sources:** 13/15 | **Avg completeness:** 85%
 
 ## Individuals
 
 | ID | Name | Born | Died | Completeness |
 |----|------|------|------|-------------|
 | 171 | Franklin J Miller | 1855-03 |  | 70% |
-| 172 | Anna Miller | 1857-03 | ~1900-1920 | 80% |
+| 172 | Anna M Miller | 1857-03 | ~1900-1920 | 95% |
 | 95 | Robert Lee Miller | 1883-05-01 | 1945 | 95% |
 | 96 | Belle Miller | 1883-10-07 | 1976 | 95% |
 | 93 | Karl Francis Miller | 1905-10-16 | 1954-03-24 | 100% |
@@ -24,4 +24,3 @@
 
 ## Open Questions
 - [ ] Franklin J Miller (ID 171): parents unknown
-- [ ] Anna Miller (ID 172): parents unknown

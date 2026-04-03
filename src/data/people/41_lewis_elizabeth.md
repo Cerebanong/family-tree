@@ -10,7 +10,6 @@
 ## Family
 - **Father:** Bert E Lewis
 - **Mother:** Avis D Whitehill
-- **Siblings:** Irma M Lewis
 
 ## Sources
 Barton Chronicle obituary Sept 23, 2015; FindAGrave (not yet memorialized); Barton VT Land Records (estate 2016-2017)

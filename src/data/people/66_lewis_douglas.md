@@ -12,6 +12,7 @@
 - **Father:** William H Lewis
 - **Mother:** May Booth
 - **Spouse:** Irene A Lewis (m. 1919-04-02, Nelson, Virginia, United States)
+  - **Children:** Anna Kathryn Lewis, D Harvey Lewis
 - **Siblings:** Elsie Lewis, Roswell Eldridge Lewis
 
 ## Sources

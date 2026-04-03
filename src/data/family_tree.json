@@ -336,48 +336,48 @@
       "sex": "Female",
       "birth": {
         "date": "1881-02-08",
-        "place": ""
+        "place": "Maine, United States"
       },
       "death": {
         "date": "1961-01-31",
-        "place": "",
+        "place": "Bangor, Penobscot, Maine, United States",
         "cause": ""
       },
       "age_at_death": "",
       "occupation": "",
-      "marital_status": "",
+      "marital_status": "Single",
       "burial_place": "Hill Crest Cemetery, Lagrange, ME",
       "father_id": 7,
       "mother_id": 10,
-      "notes": "",
-      "source_citations": "FindAGrave",
+      "notes": "Child of John Lyman Frost and Carrie Wilder Storer. FamilySearch PID: LYMX-TXG (8 sources). Never married. Listed on FamilySearch with companion Eva Louise Grant (1880-1975, PID M5D8-WSM); no marriage event recorded. Residences: 1900 Bangor Ward 1; 1910 Bangor Ward 6; 1930 Cleveland, Cuyahoga, Ohio; 1940 Cleveland Ward 15; 1950 Bangor, Maine. Lived in Cleveland, Ohio for ~20 years before returning to Maine.",
+      "source_citations": "FindAGrave; FamilySearch Family Tree LYMX-TXG (8 sources — name, sex, birth, death, burial, residences, 1950 census)",
       "spouses": []
     },
     {
       "id": 13,
       "name": {
         "first": "Edith",
-        "middle": "Izola",
+        "middle": "I",
         "last": "Frost"
       },
       "sex": "Female",
       "birth": {
-        "date": "~1882",
-        "place": ""
+        "date": "1882-11-22",
+        "place": "Maine, United States"
       },
       "death": {
-        "date": "1947",
-        "place": "",
+        "date": "1947-12-29",
+        "place": "Maine, United States",
         "cause": ""
       },
       "age_at_death": "",
       "occupation": "",
       "marital_status": "Married",
-      "burial_place": "",
+      "burial_place": "Penobscot, Maine, United States",
       "father_id": 7,
       "mother_id": 10,
-      "notes": "Married name Wilder.",
-      "source_citations": "FindAGrave",
+      "notes": "Child of John Lyman Frost and Carrie Wilder Storer. FamilySearch PID: LYMX-55H (11 sources). Middle initial 'I' per FamilySearch; earlier records said 'Izola'. Married Frank Albert Wilder (ID 187, 1882-1944) on 14 Apr 1906 in Maine. No children. Residences: 1900 Bangor Ward 1; 1906 Bangor (at time of marriage); 1910-1940 Milo, Piscataquis, Maine (lived in Milo throughout married life). Survived husband by ~3 years.",
+      "source_citations": "FindAGrave; FamilySearch Family Tree LYMX-55H (11 sources — name, sex, birth, death, burial, censuses 1900-1940, marriage)",
       "spouses": []
     },
     {
@@ -390,49 +390,50 @@
       "sex": "Female",
       "birth": {
         "date": "1885-06-09",
-        "place": ""
+        "place": "Lagrange, Penobscot, Maine, United States"
       },
       "death": {
         "date": "1988-04-12",
-        "place": "",
+        "place": "Howland, Penobscot, Maine, United States",
         "cause": ""
       },
       "age_at_death": "",
       "occupation": "",
-      "marital_status": "",
+      "marital_status": "Single",
       "burial_place": "Hill Crest Cemetery, Lagrange, ME",
       "father_id": 7,
       "mother_id": 10,
-      "notes": "Lived to 102.",
-      "source_citations": "FindAGrave",
+      "notes": "Child of John Lyman Frost and Carrie Wilder Storer. FamilySearch PID: KG35-SQM (12 sources). Never married. Lived to age 102. Residences: 1900 Bangor Ward 1; 1910 Bangor Ward 6; 1930 Brewer, Penobscot, Maine; 1940 Bangor Ward 6; 1950 Lagrange, Penobscot, Maine; later Howland, Penobscot, Maine (where she died). Social Security claim filed 10 July 1950.",
+      "source_citations": "FindAGrave; FamilySearch Family Tree KG35-SQM (12 sources — name, sex, birth, death, burial, censuses 1900-1950, SS claim)",
       "spouses": []
     },
     {
       "id": 15,
       "name": {
         "first": "Lewis",
-        "middle": "Edmond",
+        "middle": "Edmund",
         "last": "Frost"
       },
       "sex": "Male",
       "birth": {
         "date": "1890-03-04",
-        "place": ""
+        "place": "Orneville Township, Piscataquis, Maine, United States"
       },
       "death": {
         "date": "1962-07-12",
-        "place": "",
+        "place": "Bangor, Penobscot, Maine, United States",
         "cause": ""
       },
       "age_at_death": "",
       "occupation": "",
-      "marital_status": "",
+      "marital_status": "Married",
       "burial_place": "Hill Crest Cemetery, Lagrange, ME",
       "father_id": 7,
       "mother_id": 10,
-      "notes": "",
-      "source_citations": "FindAGrave",
-      "spouses": []
+      "notes": "Child of John Lyman Frost and Carrie Wilder Storer. FamilySearch PID: LYMX-G3L (20 sources). Married (1) Vera Louise Smith (ID 189, 1897-Deceased, PID KGZG-7JQ), 28 Jun 1922, North Attleboro, Bristol, Massachusetts. One child: infant son Frost (1924-1924, PID GF7W-MF5), died in infancy. Married (2) Angelina Cora Moyen (ID 190, 1917-1989, PID GXG1-HN7), after 1944, Maine. Three children (not yet added). Residences: 1900 Bangor Ward 1; 1930-1940 North Attleborough, Bristol, Massachusetts; 1950 Lagrange, Penobscot, Maine. Race: Caucasian.",
+      "source_citations": "FindAGrave; FamilySearch Family Tree LYMX-G3L (20 sources — name, sex, birth, death, burial, military drafts, censuses 1900-1950, marriages)",
+      "spouses": [],
+      "military_service": "WWI: Draft registration 1917-1918, Penobscot ME; enlisted 29 Apr 1918 Great Works, ME; discharged 20 Jun 1919. WWII: Draft registration 1942, North Attleboro, MA."
     },
     {
       "id": 16,
@@ -443,8 +444,8 @@
       },
       "sex": "Female",
       "birth": {
-        "date": "~1892",
-        "place": ""
+        "date": "1892-05-27",
+        "place": "Orneville Township, Piscataquis, Maine, United States"
       },
       "death": {
         "date": "1977",
@@ -457,8 +458,8 @@
       "burial_place": "Hill Crest Cemetery, Lagrange, ME",
       "father_id": 7,
       "mother_id": 10,
-      "notes": "",
-      "source_citations": "FindAGrave",
+      "notes": "Child of John Lyman Frost and Carrie Wilder Storer. FamilySearch PID: LYMF-MTF (8 sources). Never married, no children. Residences: 1900 Bangor Ward 1; 1910 Bangor Ward 6. Note: FamilySearch has an erroneous 1852 residence entry (data error — Eva was born 1892). Burial in Penobscot, Maine (specific cemetery not confirmed, but likely Hill Crest Cemetery, Lagrange). No FindAGrave memorial found.",
+      "source_citations": "FindAGrave; FamilySearch Family Tree LYMF-MTF (8 sources — name, sex, birth, death, burial, censuses 1900-1910)",
       "spouses": []
     },
     {
@@ -608,7 +609,7 @@
       "father_id": 20,
       "mother_id": 19,
       "notes": "Kevin's mother. Still alive and living in Fairbanks, AK. Daughter of Clifton Eugene Whitney and Mary Elizabeth Mosher. Married Lewis Frank. Kevin remembers her father's name as \"Clifford\" but records show \"Clifton.\"",
-      "source_citations": "Family knowledge (Kevin Frank, 2026-03-30); FamilySearch GSVM-7J6 (mother's record)",
+      "source_citations": "Family knowledge (Kevin Frank, 2026-03-30); FamilySearch GSVM-7J6 (mother's record); FamilySearch NJ Births and Christenings (ark:/61903/1:1:Q2SZ-5XN6) — listed as 'Mrs. Lewis Frank', mother of child born 1 Jul 1968",
       "residence": "Fairbanks, AK",
       "spouses": [
         22
@@ -641,7 +642,7 @@
       "father_id": 35,
       "mother_id": 36,
       "notes": "Kevin's father. Grew up on Mill Creek Road, Swedesboro, Gloucester County, NJ. Currently living in Fairbanks, AK. Full name: Lewis G Frank. The 1950 census indexed his name as \"Davis G Frank\" — a transcription error; the \"G\" middle initial matches. 1950 census (ark:/61903/1:1:6F9P-64PY) lists 'Davis G Frank, Son, M, 5 years' in Joseph Frank household. Middle initial 'G' matches Lewis G Frank; age 5 in May 1950 is consistent with birth Jul 1944. 'Davis' may be a census transcription error or an unused given name.",
-      "source_citations": "Family knowledge (Kevin Frank, 2026-03-30); 1950 US Census (FamilySearch ark:/61903/1:1:6F9P-64PY) — indexed as \"Davis G Frank, son, age 5\"; 1950 US Census as 'Davis G Frank' (FamilySearch ark:/61903/1:1:6F9P-64PY)",
+      "source_citations": "Family knowledge (Kevin Frank, 2026-03-30); 1950 US Census (FamilySearch ark:/61903/1:1:6F9P-64PY) — indexed as \"Davis G Frank, son, age 5\"; 1950 US Census as 'Davis G Frank' (FamilySearch ark:/61903/1:1:6F9P-64PY); FamilySearch NJ Births and Christenings (ark:/61903/1:1:Q2SZ-5XN6) — listed as father of child 'Frank' born 1 Jul 1968",
       "residence": "Mill Creek Road, Swedesboro, NJ (childhood); Fairbanks, AK (current)",
       "spouses": [
         21
@@ -656,8 +657,8 @@
       },
       "sex": "Male",
       "birth": {
-        "date": "",
-        "place": ""
+        "date": "1968-07-01",
+        "place": "Woodbury, Gloucester County, NJ"
       },
       "death": {
         "date": "",
@@ -666,15 +667,16 @@
       },
       "age_at_death": "",
       "occupation": "",
-      "marital_status": "",
+      "marital_status": "Married",
       "burial_place": "",
       "father_id": 22,
       "mother_id": 21,
-      "notes": "The researcher.",
-      "source_citations": "",
+      "notes": "The researcher. Born 1 July 1968 in Woodbury, Gloucester County, NJ. Son of Lewis G Frank and Gail Frances Whitney.",
+      "source_citations": "FamilySearch NJ Births and Christenings (ark:/61903/1:1:Q2SZ-5XN6) — child 'Frank', born 1 Jul 1968, Woodbury, Gloucester, NJ, father Lewis Frank; Family knowledge (Kevin Frank, confirmed 2026-04-01)",
       "spouses": [
         56
-      ]
+      ],
+      "residence": "Olympia, WA"
     },
     {
       "id": 24,
@@ -1050,8 +1052,8 @@
       "burial_place": "",
       "father_id": 68,
       "mother_id": 69,
-      "notes": "Kevin's paternal grandfather. Full name: Joseph Franklin Frank. Christened 12 Apr 1925, Bridgeport, Logan Township, Gloucester, NJ. Youngest of 10 children of William Biddle Frank and Mary E. Farnkopf. Married Mildred Elsie Lewis. Father died when Joseph was 4 years old. Occupation: Operator (per 1950 census). Race: White. Buried in Gloucester County, NJ (cemetery TBD). FamilySearch PID: GDT8-FWZ. NJ Death Index: State File 20100066448. 9 siblings: William T (1896-1974), Laura (1898-1898), Augustus (1899-1986), Harry D (1902-1992), Harry H (1903-1992), George Reed (1903-1988), Anna Elizabeth Croft (1905-1992), Warren DuBois (1909-1966), Albert Jacob (1912-2001). 1940 census: married with infant daughter Mildred E (age 0) in Logan Township; Mildred wife listed as age 21 (born ~1918-1919, consistent with actual birth July 1918). Residence in 1935 was same house (Logan Township). Marriage likely ~1938-1939. 1950 census: 4 children listed — Mildred E (daughter, 10), Thomas W (son), Joseph D (son, 8), Davis G (son, 5). RESOLVED: 'Davis G Frank, son, age 5' in 1950 census IS Lewis G Frank (born 1944-07-15, age 5 on May 18, 1950). 'Davis' was a transcription error of 'Lewis'; the 'G' middle initial matches. Confirmed by Kevin Frank. Known children (from 1940/1950 census): Mildred E (~1940, ID 134), Thomas W (~1941, ID 135), Joseph D (~1942, ID 136), Lewis (1944, ID 22), and possibly Davis G (~1945, identity unclear). 1920 census (age 4, 'Joseph F Frank') in William B Frank household, Gloucester, NJ (Source 212). Mother's 1956 obituary confirms 'Joseph, of Swedesboro' as one of seven surviving sons. 1950 census (ark:/61903/1:1:6F9P-64PY) shows household: Joseph L Frank (head, age 34, operator, chemical plant), wife Mildred E Frank (age 31), daughter Mildred E (age 10), son Joseph D (age 8), son Davis G (age 5), son Thomas W. 'Davis G Frank' (age 5) is likely Lewis G Frank — matching middle initial and birth year (~1944-45).",
-      "source_citations": "Family knowledge (Kevin Frank, 2026-03-30); NJ Death Index 2001-2017 (State File 20100066448); FamilySearch GDT8-FWZ; FamilySearch 1950 Census Logan Township, Gloucester, NJ; 1940 US Census Logan Township (FamilySearch ark:/61903/1:1:K4RH-NQ7); 1950 US Census Logan Township (FamilySearch ark:/61903/1:1:6F9P-64PY); 1920 US Census (Source 212); Mother's obituary (Source 211)",
+      "notes": "Kevin's paternal grandfather. Full name: Joseph Franklin Frank. Christened 12 Apr 1925, Bridgeport, Logan Township, Gloucester, NJ. Youngest of 10 children of William Biddle Frank and Mary E. Farnkopf. Married Mildred Elsie Lewis. Father died when Joseph was 4 years old. Occupation: Operator (per 1950 census). Race: White. Buried in Gloucester County, NJ (cemetery TBD). FamilySearch PID: GDT8-FWZ. NJ Death Index: State File 20100066448. 9 siblings: William T (1896-1974), Laura (1898-1898), Augustus (1899-1986), Harry D (1902-1992), Harry H (1903-1992), George Reed (1903-1988), Anna Elizabeth Croft (1905-1992), Warren DuBois (1909-1966), Albert Jacob (1912-2001). 1940 census: married with infant daughter Mildred E (age 0) in Logan Township; Mildred wife listed as age 21 (born ~1918-1919, consistent with actual birth July 1918). Residence in 1935 was same house (Logan Township). Marriage likely ~1938-1939. 1950 census: 4 children listed — Mildred E (daughter, 10), Thomas W (son), Joseph D (son, 8), Davis G (son, 5). RESOLVED: 'Davis G Frank, son, age 5' in 1950 census IS Lewis G Frank (born 1944-07-15, age 5 on May 18, 1950). 'Davis' was a transcription error of 'Lewis'; the 'G' middle initial matches. Confirmed by Kevin Frank. Known children (from 1940/1950 census): Mildred E (~1940, ID 134), Thomas W (~1941, ID 135), Joseph D (~1942, ID 136), Lewis (1944, ID 22), and possibly Davis G (~1945, identity unclear). 1920 census (age 4, 'Joseph F Frank') in William B Frank household, Gloucester, NJ (Source 212). Mother's 1956 obituary confirms 'Joseph, of Swedesboro' as one of seven surviving sons. 1950 census (ark:/61903/1:1:6F9P-64PY) shows household: Joseph L Frank (head, age 34, operator, chemical plant), wife Mildred E Frank (age 31), daughter Mildred E (age 10), son Joseph D (age 8), son Davis G (age 5), son Thomas W. 'Davis G Frank' (age 5) is likely Lewis G Frank — matching middle initial and birth year (~1944-45). CHRISTENING: 12 Apr 1925 at Bridgeport, Logan Township, NJ (same date as brothers Warren and Albert — batch christening). FamilySearch PID: GDT8-FWZ. 1940 CENSUS (Source 225): Head of household at Bridgeport, Logan Township, age 24, married, born NJ. Wife E Mildred Frank age 21. Daughter M Mildred Frank age 0. Residence in 1935: same house.",
+      "source_citations": "Family knowledge (Kevin Frank, 2026-03-30); NJ Death Index 2001-2017 (State File 20100066448); FamilySearch GDT8-FWZ; FamilySearch 1950 Census Logan Township, Gloucester, NJ; 1940 US Census Logan Township (FamilySearch ark:/61903/1:1:K4RH-NQ7); 1950 US Census Logan Township (FamilySearch ark:/61903/1:1:6F9P-64PY); 1920 US Census (Source 212); Mother's obituary (Source 211); 1940 US Census (Source 225, FamilySearch ark:/61903/1:1:K4RH-NQ7); FamilySearch tree GDT8-FWZ (Source 226)",
       "residence": "Bridgeport/Logan Twp, Gloucester, NJ (1915-1920); Logan Township, NJ (1950); Swedesboro, NJ",
       "research_leads": [
         "Find Joseph and Mildred Frank marriage record — likely 1938-1939, Gloucester County, NJ. NJ marriage certificates from 1848 held by State Archives.",
@@ -1073,7 +1075,7 @@
       "sex": "Female",
       "birth": {
         "date": "1918-07-05",
-        "place": "Clarksboro, Gloucester County, NJ"
+        "place": "Clarksboro, East Greenwich Township, Gloucester County, NJ"
       },
       "death": {
         "date": "2007-02-26",
@@ -1086,8 +1088,8 @@
       "burial_place": "",
       "father_id": 42,
       "mother_id": 43,
-      "notes": "Kevin's paternal grandmother. Maiden name Lewis. Family from Vermont with property in Barton, Orleans County, VT. NJ Death Index: State File 20070012676. Possible connection to Bert E Lewis family of Barton/Newport, VT. Canadian ancestry suspected (Nova Scotia/Quebec border area). Full name: Mildred Elsie Lewis. FamilySearch GPZ3-8HB. Parents: Roswell Eldridge Lewis (M46N-HXT) and Muriel Helena Bickford (KGNR-86G). Married Joseph Franklin Frank. AKA Mildred E Frank. Vermont connection through mother (Bickford family of Barton, VT). Canadian connection through maternal great-grandfather Michael L Fay (b. Saint-Armand, Quebec).",
-      "source_citations": "Family knowledge; NJ Death Index 2001-2017 (State File 20070012676); FamilySearch GPZ3-8HB",
+      "notes": "Kevin's paternal grandmother. Maiden name Lewis. Family from Vermont with property in Barton, Orleans County, VT. NJ Death Index: State File 20070012676. Possible connection to Bert E Lewis family of Barton/Newport, VT. Canadian ancestry suspected (Nova Scotia/Quebec border area). Full name: Mildred Elsie Lewis. FamilySearch GPZ3-8HB. Parents: Roswell Eldridge Lewis (M46N-HXT) and Muriel Helena Bickford (KGNR-86G). Married Joseph Franklin Frank. AKA Mildred E Frank. Vermont connection through mother (Bickford family of Barton, VT). Canadian connection through maternal great-grandfather Michael L Fay (b. Saint-Armand, Quebec). FamilySearch PID: GPZ3-8HB. Birthplace confirmed as Clarksboro, East Greenwich Township (not just Gloucester County). Parents per FamilySearch tree: Roswell Eldridge Lewis (M46N-HXT, 1891-1968) and Muriel Helena Bickford (KGNR-86G, 1891-1962), married 6 Mar 1914 in Bucks County, PA. Siblings: Muriel D Lewis (1914-2011, G5HC-M9V), Roswell Eldridge Lewis Jr (1917-2005, GPZS-T68). 1940 Census (Source 225): listed as 'E Mildred Frank' age 21.",
+      "source_citations": "Family knowledge; NJ Death Index 2001-2017 (State File 20070012676); FamilySearch GPZ3-8HB; 1940 US Census (Source 225); FamilySearch tree GPZ3-8HB (Source 228)",
       "residence": "Clarksboro, NJ (1918-1920); East Greenwich, NJ (1930); Logan Township, NJ (1950); Swedesboro, NJ",
       "spouses": [
         35
@@ -1656,7 +1658,10 @@
       "mother_id": 43,
       "notes": "Eldest child of Roswell E Lewis and Muriel Helena Bickford. Sister of Roswell Jr and Mildred Elsie Lewis. Married name Vanderpool (per FindAGrave #100007615 for father Roswell: lists child 'Muriel Lewis Vanderpool 1914-2011'). FamilySearch PID: G5HC-M9V.",
       "source_citations": "FamilySearch G5HC-M9V; FindAGrave #100007615 (father Roswell, lists children)",
-      "spouses": []
+      "spouses": [],
+      "research_leads": [
+        "Find birth record to confirm birth place — parents married March 1914 in Bucks County, PA; family in NJ by 1918"
+      ]
     },
     {
       "id": 55,
@@ -1685,7 +1690,10 @@
       "notes": "Son of Roswell E Lewis and Muriel Helena Bickford. Brother of Mildred Elsie Lewis. Military veteran buried at NJ Veterans Memorial Cemetery. FindAGrave confirms birth 25 Apr 1917, death 1 Apr 2005. FamilySearch PID: GPZ5-T68.",
       "source_citations": "FamilySearch GPZ5-T68; FindAGrave (Roswell E Lewis, Brigadier General William C. Doyle Veterans Memorial Cemetery)",
       "military_service": "Veteran (branch unknown)",
-      "spouses": []
+      "spouses": [],
+      "research_leads": [
+        "Find birth record to confirm birth place — likely Gloucester County, NJ (parents resided there by 1917)"
+      ]
     },
     {
       "id": 56,
@@ -1893,16 +1901,16 @@
       "marital_status": "Married",
       "father_id": 183,
       "mother_id": 184,
-      "notes": "Beryl's father. Full name William Joshua M Richards (third given name initial M, full name unknown). Born 7 May 1902, registered Q2 1902 in Lambeth, London (Vol 1D, p 331). Married Violet Dorothy Sacre Q1 1930 in Lambeth. Died September 1988, Greenwich, London. Family lived in south London (Woolwich, Camberwell, Southwark) during the 1930s, then relocated to Sturminster, Dorset ~1940-42 (possibly WWII-related). At least 8 children born 1931-1950. Family may have returned to London area after the war (youngest child Janet born London 1950). Died in Greenwich, suggesting he lived in south London in later life. Henry Richards (d. 1954) and Gertrude Richards (d. 1978) buried in Sturminster Newton Cemetery — possibly William's parents or relatives who remained in Dorset. Parents identified: William Richards (ID 183, b. ~1865, Lambeth, carman) and Sarah Richards (ID 184, b. ~1865, Lambeth). Identification based on 1911 census showing a 'William Richards, Son, M, 9, born Lambeth' in household of William and Sarah Richards in Lambeth — matching the only William Richards born Q2 1902 in Lambeth (William Joshua M). 1901 census of same household shows older brother Henry Richards (age 11), who later settled in Sturminster Newton, Dorset (d. 1954, FindAGrave #192271800). Henry's presence in Dorset likely drew William's family to evacuate there from London during WWII (~1940-1942).",
-      "source_citations": "England and Wales Birth Registration Index 1837-2008, Q2 1902, Lambeth, Vol 1D, p 331 (FamilySearch ark:/61903/1:1:2F8Z-NT9); England and Wales Marriage Registration Index 1837-2005, Q1 1930, Lambeth, Vol 1D, p 394 (FamilySearch ark:/61903/1:1:QV8S-CPVZ); England and Wales Death Registration Index 1837-2007, Sep 1988, Greenwich, London, birth 7 May 1902 (FamilySearch); Family knowledge (Kevin Frank, 2026-03-29); 1901 Census of father's household (Source 213, ark:/61903/1:1:X9H6-B2B); 1911 Census — William Richards age 9 in household of William and Sarah Richards, Lambeth (Source 214, ark:/61903/1:1:XWP1-G55)",
+      "notes": "Beryl's father. Full name William Joshua M Richards (third given name initial M, full name unknown). Born 7 May 1902, registered Q2 1902 in Lambeth, London (Vol 1D, p 331). Married Violet Dorothy Sacre Q1 1930 in Lambeth. Died September 1988, Greenwich, London. Family lived in south London (Woolwich, Camberwell, Southwark) during the 1930s, then relocated to Sturminster, Dorset ~1940-42 (possibly WWII-related). At least 8 children born 1931-1950. Family may have returned to London area after the war (youngest child Janet born London 1950). Died in Greenwich, suggesting he lived in south London in later life. Henry Richards (d. 1954) and Gertrude Richards (d. 1978) buried in Sturminster Newton Cemetery — possibly William's parents or relatives who remained in Dorset. Parents identified: William Richards (ID 183, b. ~1865, Lambeth, carman) and Sarah Richards (ID 184, b. ~1865, Lambeth). Identification based on 1911 census showing a 'William Richards, Son, M, 9, born Lambeth' in household of William and Sarah Richards in Lambeth — matching the only William Richards born Q2 1902 in Lambeth (William Joshua M). 1901 census of same household shows older brother Henry Richards (age 11), who later settled in Sturminster Newton, Dorset (d. 1954, FindAGrave #192271800). Henry's presence in Dorset likely drew William's family to evacuate there from London during WWII (~1940-1942). 1939 Register (Findmypast): William Richards, birth year 1902, residing at 196 Quinn Square, Waterloo, Lambeth, borough of Southwark, London. This confirms his south London residence immediately before WWII, and is consistent with the family relocating to Sturminster, Dorset ~1940-42.",
+      "source_citations": "England and Wales Birth Registration Index 1837-2008, Q2 1902, Lambeth, Vol 1D, p 331 (FamilySearch ark:/61903/1:1:2F8Z-NT9); England and Wales Marriage Registration Index 1837-2005, Q1 1930, Lambeth, Vol 1D, p 394 (FamilySearch ark:/61903/1:1:QV8S-CPVZ); England and Wales Death Registration Index 1837-2007, Sep 1988, Greenwich, London, birth 7 May 1902 (FamilySearch); Family knowledge (Kevin Frank, 2026-03-29); 1901 Census of father's household (Source 213, ark:/61903/1:1:X9H6-B2B); 1911 Census — William Richards age 9 in household of William and Sarah Richards, Lambeth (Source 214, ark:/61903/1:1:XWP1-G55); 1939 Register (Findmypast): William Richards, birth 1902, 196 Quinn Square, Waterloo, Lambeth, Southwark, London",
       "research_leads": [
         "Henry Richards (d. 1954) and Gertrude Richards (d. 1978) in Sturminster Newton Cemetery — possible parents or relatives",
-        "Search 1939 Register for Richards household in Sturminster or London",
         "Search FindAGrave for William Joshua M Richards in Greenwich/south London area",
-        "Confirm identification: the 1911 census 'William Richards' age 9 in Lambeth is the same person as William Joshua M Richards (birth reg Q2 1902, Lambeth, Vol 1D, p 331) — only one William Richards born Lambeth 1902 in the GRO index matches this census household; the other (William George Richards) appears in a different 1911 household in Camberwell with different parents."
+        "Confirm identification: the 1911 census 'William Richards' age 9 in Lambeth is the same person as William Joshua M Richards (birth reg Q2 1902, Lambeth, Vol 1D, p 331) — only one William Richards born Lambeth 1902 in the GRO index matches this census household; the other (William George Richards) appears in a different 1911 household in Camberwell with different parents.",
+        "Check Findmypast newspaper collection: St. Pancras Gazette and Islington News mention inquest on a William Joshua Richards at Pancras Coroners Court — verify whether this is our William (d. Sep 1988 Greenwich) or a different person"
       ],
       "age_at_death": "86",
-      "residence": "Lambeth, London (birth); Woolwich/Southwark, London (1930s); Sturminster, Dorset (1940s); Greenwich, London (death 1988)",
+      "residence": "Lambeth, London (birth, 1902); Woolwich/Southwark, London (1930s); 196 Quinn Square, Waterloo, Lambeth, Southwark, London (29 Sep 1939, 1939 Register); Sturminster, Dorset (1940s); Greenwich, London (death 1988)",
       "burial_place": "",
       "nationality_changes": "",
       "immigration": "",
@@ -2172,7 +2180,9 @@
         "Check WWII draft registration",
         "Irene A Harvey parents — from Nelson County, Virginia ~1899. Search Nelson County VA census 1900 for Harvey family."
       ],
-      "spouses": []
+      "spouses": [
+        140
+      ]
     },
     {
       "id": 67,
@@ -2242,13 +2252,10 @@
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Kevin's paternal great-grandfather. Full name: William Biddle Frank. Born July 1869 in New Jersey. Died 14 Feb 1920 in Bridgeport, Logan Twp, NJ. Married Mary E. Farnkopf. 10 children. Youngest of 7 children of Jacob Friedrich Franck and Mary Magdeline Bundes. Resided: 1900-1920 Logan Township, Gloucester, NJ. 12 sources on FamilySearch. Quality Score: High. FamilySearch PID: G6GV-XYH. FamilySearch PIDs for his 10 children: William T Frank (1896-1974) GDT8-N44; Laura Frank (1898-1898) GDT8-JY7; Augustus Frank (1899-1986) L7HZ-XH4; Harry D Frank (1902-1992) GDT8-CW3; Harry H Frank (1903-1992) GTSS-QP6; George Reed Frank (1903-1988) GDT8-CWZ; Anna Elizabeth Croft Frank (1905-1992) GDT8-4VV; Warren DuBois Frank (1909-1966) GDT8-4JK; Albert Jacob Frank (1912-2001) GDT8-J4F; Joseph Franklin Frank (1915-2010) GDT8-FWZ. Note: Harry D (1902) and Harry H (1903) are two distinct sons both named Harry — different middle names/initials. Burial: Not recorded on FamilySearch (Add button shown). Likely Bridgeport Cemetery with wife Mary Farnkopf Frank. FindAGrave memorial #118358101 confirms burial at Bridgeport Cemetery with headstone reading 'WILLIAM B. FRANK 1869 — 1920'. Photo of William available on memorial. Father's birthplace Germany, mother's birthplace Germany (1920 census). 1920 census shows 7 of 10 children still at home.",
+      "notes": "Kevin's paternal great-grandfather. Full name: William Biddle Frank. Born July 1869 in New Jersey. Died 14 Feb 1920 in Bridgeport, Logan Twp, NJ. Married Mary E. Farnkopf. 10 children. Youngest of 7 children of Jacob Friedrich Franck and Mary Magdeline Bundes. Resided: 1900-1920 Logan Township, Gloucester, NJ. 12 sources on FamilySearch. Quality Score: High. FamilySearch PID: G6GV-XYH. FamilySearch PIDs for his 10 children: William T Frank (1896-1974) GDT8-N44; Laura Frank (1898-1898) GDT8-JY7; Augustus Frank (1899-1986) L7HZ-XH4; Harry D Frank (1902-1992) GDT8-CW3; Harry H Frank (1903-1992) GTSS-QP6; George Reed Frank (1903-1988) GDT8-CWZ; Anna Elizabeth Croft Frank (1905-1992) GDT8-4VV; Warren DuBois Frank (1909-1966) GDT8-4JK; Albert Jacob Frank (1912-2001) GDT8-J4F; Joseph Franklin Frank (1915-2010) GDT8-FWZ. Note: Harry D (1902) and Harry H (1903) are two distinct sons both named Harry — different middle names/initials. Burial: Not recorded on FamilySearch (Add button shown). Likely Bridgeport Cemetery with wife Mary Farnkopf Frank. FindAGrave memorial #118358101 confirms burial at Bridgeport Cemetery with headstone reading 'WILLIAM B. FRANK 1869 — 1920'. Photo of William available on memorial. Father's birthplace Germany, mother's birthplace Germany (1920 census). 1920 census shows 7 of 10 children still at home. All 10 children now documented in tree (IDs 193-199, 182, 35, plus Laura 194 who died in infancy). FamilySearch PID: G6GV-XYH.",
       "source_citations": "FamilySearch G6GV-XYH (12 sources); NJ Deaths and Burials 1720-1988; NJ Marriages 1678-1985 (Source 209); FindAGrave #118358101 (Source 210); 1920 US Census (Source 212)",
       "interesting_facts": "",
-      "research_leads": [
-        "Find burial location - likely Bridgeport Cemetery",
-        "Search for marriage record to Mary Farnkopf"
-      ],
+      "research_leads": [],
       "spouses": [
         69
       ]
@@ -3131,7 +3138,7 @@
       "age_at_death": "48",
       "occupation": "Foreman",
       "marital_status": "Married",
-      "residence": "Truxton, Cortland, NY (1910); Chemung, NY (1915, 1925); Waverly, Tioga, NY (1920); Ashland, Chemung, NY (1930); Chemung, NY (1950)",
+      "residence": "Truxton, Cortland, NY (1910 Census); Chemung, NY (1915 NY State Census); Waverly, Tioga, NY (1920 Census); Chemung, NY (1925 NY State Census); Ashland, Chemung, NY (1930 Census); Chemung, NY (1950 Census, 10 Apr 1950)",
       "burial_place": "Saint James Cemetery, Waverly, Tioga, New York",
       "father_id": 95,
       "mother_id": 96,
@@ -3140,8 +3147,8 @@
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "John S Miller's father. Pauline's paternal grandfather. Died when John was about 11 years old. One of 9 children of Robert L Miller and Belle Curtis. AKA 'Carl'. FamilySearch PID: GS5B-S45. 10 sources on FamilySearch. FindAGrave: Karl F Miller, Saint James Cemetery, Waverly, Tioga County, NY (16 Oct 1905 – 25 Mar 1954). Note: FamilySearch death date is 24 Mar 1954; FindAGrave says 25 Mar 1954 — minor discrepancy, possibly burial vs death date.",
-      "source_citations": "FamilySearch GS5B-S45 (10 sources); FindAGrave Saint James Cemetery, Waverly, Tioga County, NY",
+      "notes": "John S Miller's father. Pauline's paternal grandfather. Died when John was about 11 years old. One of 9 children of Robert L Miller and Belle Curtis. AKA 'Carl'. FamilySearch PID: GS5B-S45. 10 sources on FamilySearch. FindAGrave: Karl F Miller, Saint James Cemetery, Waverly, Tioga County, NY (16 Oct 1905 – 25 Mar 1954). Note: FamilySearch death date is 24 Mar 1954; FindAGrave says 25 Mar 1954 — minor discrepancy, possibly burial vs death date. Burial: 28 March 1954 at Waverly, Barton, Tioga, NY (per FamilySearch tree).",
+      "source_citations": "FamilySearch GS5B-S45 (10 sources); FindAGrave Saint James Cemetery, Waverly, Tioga County, NY; New York, County Marriages, 1778-1848; 1908-1937 — Karl F Miller & Bernice F Bailey, marriage 31 May 1930 (license) and 14 June 1930, Monroe, NY (FamilySearch); US Census 1910: Carl F Miller, Truxton, Cortland, NY — parents Robert L Miller, Belle C Miller (FamilySearch); US Census 1920: Carl F Miller, Tioga, NY — parents Belle C Miller, Robert L Miller (FamilySearch); US Census 1930: Carl F Miller, Ashland, Chemung, NY — parents Robert L Miller, Belle C Miller (FamilySearch)",
       "interesting_facts": "Had 8 siblings. Died relatively young at 48.",
       "research_leads": [
         "Order death certificate for cause of death",
@@ -3173,7 +3180,7 @@
       "age_at_death": "67-68",
       "occupation": "",
       "marital_status": "Married",
-      "residence": "Waverly, Tioga, NY (1920, 1925)",
+      "residence": "Waverly, Tioga, NY (1920 Census); Barton, Tioga, NY (1925 NY State Census)",
       "burial_place": "Saint James Cemetery, Waverly, Tioga, New York",
       "father_id": 97,
       "mother_id": 98,
@@ -3182,8 +3189,8 @@
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "John S Miller's mother. Pauline's paternal grandmother. Maiden name Bailey — this is the 'Bailey branch' Kevin remembers. Mother Elizabeth Malanoski died 1924 when Bernice was 14. Family originally Polish — surname likely Americanized from 'Bialy'. FamilySearch PID: GSR7-ZVH. 5 sources. FindAGrave memorial #142529905.",
-      "source_citations": "FamilySearch GSR7-ZVH (5 sources); FindAGrave #142529905 (Bernice Miller, Saint James Cemetery, Waverly)",
+      "notes": "John S Miller's mother. Pauline's paternal grandmother. Maiden name Bailey — this is the 'Bailey branch' Kevin remembers. Mother Elizabeth Malanoski died 1924 when Bernice was 14. Family originally Polish — surname likely Americanized from 'Bialy'. FamilySearch PID: GSR7-ZVH. 5 sources. FindAGrave memorial #142529905. FamilySearch confirms 8 siblings with mix of Bailey/Bialy surnames: Harriett T Bialy (1908-1999, G7DL-Z7Y), Jadwiga Bialy (1908, GCN9-3RR), Harriet Bailey (1909, GSR7-JVX), Marie Bailey (1913-1973, GZG4-8J1), Alexander Bialy (1914, GSR7-T48), Helen Bailey (1917, GSR7-PF7), Margaret Bailey (1920, GSR7-T4W). Father John Bailey PID: GSRQ-TVL. Mother Elizabeth Malanoski PID: GHD2-158. Parents married 14 May 1906, New York.",
+      "source_citations": "FamilySearch GSR7-ZVH (5 sources); FindAGrave #142529905 (Bernice Miller, Saint James Cemetery, Waverly); New York State Census 1925: Bernice Bailey, Barton, Tioga, NY (FamilySearch hint)",
       "interesting_facts": "Polish-American. Bailey is likely an Americanization of 'Bialy' (Polish for 'white').",
       "research_leads": [
         "Find death record for exact date",
@@ -4272,7 +4279,7 @@
         "Find Edwin William G Sacre in 1911 census to confirm wife's full name and household (should show Edith Mary née Ellis and children, including Violet born 1908)",
         "Determine full middle name represented by initial G",
         "Find death certificate (October 1951) to confirm place of death",
-        "Identify all children — 7 confirmed: Edwin Richard (1905), Violet Dorothy (1908), Harriet Annie (1909), Arthur George (1911), Joseph Leonard (1917), Elsie Dorothy (1920), Archie (1926)"
+        "Children added to tree (session 2026-04-02): Harriet Annie (206), Edwin Richard (207), Arthur George (208), Joseph Leonard (209), Elsie Dorothy (210), Archie (211). Violet Dorothy (59) was already present. Verify Harriet Annie birth date (1904 vs 1909)."
       ],
       "confidence": "high",
       "spouses": [
@@ -4345,7 +4352,7 @@
         "place": "Woolwich, Kent, England"
       },
       "death": {
-        "date": "1931",
+        "date": "1931-12-08",
         "place": "London, England",
         "cause": ""
       },
@@ -4361,7 +4368,7 @@
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Violet Dorothy Sacre's paternal grandfather. Father of Edwin William G Sacre (ID 119). Born ~1861-1862 in Woolwich (then Kent): 1891 census gives birth 1862 in Kent; 1901 census gives 1862 Woolwich; 1911 census gives 1862 Woolwich Kent; death registration index gives birth 1861. Used ~1862 as best estimate. Woolwich was part of Kent until 1889 when London County Council was formed. Married Ann Alice (surname unknown) in 1892 per the 1911 census duration-of-marriage field. Died 1931 in London (FamilySearch death registration index). WikiTree gives death date 8 December 1931.",
+      "notes": "Violet Dorothy Sacre's paternal grandfather. Father of Edwin William G Sacre (ID 119). Born ~1861-1862 in Woolwich (then Kent): 1891 census gives birth 1862 in Kent; 1901 census gives 1862 Woolwich; 1911 census gives 1862 Woolwich Kent; death registration index gives birth 1861. Used ~1862 as best estimate. Woolwich was part of Kent until 1889 when London County Council was formed. Married Ann Alice (surname unknown) in 1892 per the 1911 census duration-of-marriage field. Died 1931 in London (FamilySearch death registration index). WikiTree gives death date 8 December 1931. WikiTree profile confirms exact death date: 8 December 1931 (previously recorded as just 1931).",
       "source_citations": "England and Wales Census 1891, Woolwich (FamilySearch); England and Wales Census 1901, Woolwich — head of household, children include Edwin W G Sacre (FamilySearch, source 99); England and Wales Census 1911, Woolwich — full name Edwin William Sacre, wife Ann Alice, married 1892 (FamilySearch, source 100); England and Wales Death Registration Index 1837-2007, 1931, London, birth 1861 (FamilySearch, source 101); WikiTree genealogy database — death 8 December 1931 (source 103)",
       "interesting_facts": "Part of a multi-generational Woolwich Sacre family. A Thomas G Sacre (born 1855, Woolwich) also appears in Woolwich records with children — possibly Edwin William's brother or cousin.",
       "research_leads": [
@@ -4372,6 +4379,7 @@
       ],
       "confidence": "high",
       "spouses": [
+        122,
         127
       ]
     },
@@ -4389,7 +4397,7 @@
       },
       "sex": "Female",
       "birth": {
-        "date": "",
+        "date": "~1867",
         "place": ""
       },
       "death": {
@@ -4409,7 +4417,7 @@
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Violet Dorothy Sacre's paternal step-grandmother. Second wife of Edwin William Sacre (ID 121). Full name Ann Alice per 1911 census; abbreviated as 'Anne A' in 1901 census. Married Edwin William Sacre in 1892 per the 1911 census (duration of marriage field). IMPORTANT CORRECTION (session 13, 2026-03-30): Ann Alice is NOT the biological mother of Edwin William G Sacre (ID 119). Edwin's biological mother was Harriet Gurr (ID 127, born 1860, died October 1889). Edwin William Sacre first married Harriet Gurr in October 1880; Harriet died in October 1889 when Edwin W G was ~8. Edwin William Sacre then married Ann Alice as his second wife c.1892. Ann Alice therefore raised Edwin W G Sacre as his stepmother from age ~11. Maiden name unknown.",
+      "notes": "Violet Dorothy Sacre's paternal step-grandmother. Second wife of Edwin William Sacre (ID 121). Full name Ann Alice per 1911 census; abbreviated as 'Anne A' in 1901 census. Married Edwin William Sacre in 1892 per the 1911 census (duration of marriage field). IMPORTANT CORRECTION (session 13, 2026-03-30): Ann Alice is NOT the biological mother of Edwin William G Sacre (ID 119). Edwin's biological mother was Harriet Gurr (ID 127, born 1860, died October 1889). Edwin William Sacre first married Harriet Gurr in October 1880; Harriet died in October 1889 when Edwin W G was ~8. Edwin William Sacre then married Ann Alice as his second wife c.1892. Ann Alice therefore raised Edwin W G Sacre as his stepmother from age ~11. Maiden name unknown. MyHeritage search snippet (2026-04-02) gives birth year ~1867.",
       "source_citations": "England and Wales Census 1901, Woolwich — listed as wife of Edwin W Sacre, mother of Edwin W G Sacre (FamilySearch, source 99); England and Wales Census 1911, Woolwich — listed as Ann Alice Sacre, married 1892 (FamilySearch, source 100)",
       "interesting_facts": "",
       "research_leads": [
@@ -4418,7 +4426,9 @@
         "Resolve question of Edwin W G Sacre's parentage: born 1881 before 1892 marriage — was there a first marriage for Edwin William Sacre, or was the 1892 marriage date inaccurate?"
       ],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        121
+      ]
     },
     {
       "id": 123,
@@ -4965,8 +4975,8 @@
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Daughter of Joseph Franklin Frank and Mildred Elsie Lewis Frank. First child, named after her mother. Appears in 1940 census (age 0, infant) and 1950 census (age 10) in Logan Township, Gloucester County, NJ. Kevin's paternal aunt.",
-      "source_citations": "1940 US Census (FamilySearch ark:/61903/1:1:K4RH-NQ7); 1950 US Census (FamilySearch ark:/61903/1:1:6F9P-64PY)",
+      "notes": "Daughter of Joseph Franklin Frank and Mildred Elsie Lewis Frank. First child, named after her mother. Appears in 1940 census (age 0, infant) and 1950 census (age 10) in Logan Township, Gloucester County, NJ. Kevin's paternal aunt. 1940 Census (Source 225): Listed as 'M Mildred Frank' age 0 — confirms she was born ~1940 in NJ. Her initial 'M' and name 'Mildred' suggest she was named after her mother (E Mildred/Mildred Elsie Lewis).",
+      "source_citations": "1940 US Census (FamilySearch ark:/61903/1:1:K4RH-NQ7); 1950 US Census (FamilySearch ark:/61903/1:1:6F9P-64PY); 1940 US Census (Source 225)",
       "interesting_facts": "Named after her mother Mildred Elsie Lewis Frank. Appears as infant (age 0) in the 1940 census.",
       "research_leads": [
         "Determine full name and birth date. Search NJ birth records ~1940 for Gloucester County.",
@@ -5223,7 +5233,9 @@
         "Find parents of Irene A Harvey in Nelson County, VA — search 1900/1910 census for Harvey family in Nelson County"
       ],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        66
+      ]
     },
     {
       "id": 141,
@@ -6121,8 +6133,8 @@
       "marital_status": "Married",
       "residence": "",
       "burial_place": "Klingenberg, Brackenheim, Württemberg, Germany (buried 21 February 1853)",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 213,
+      "mother_id": 214,
       "nationality_changes": "German",
       "immigration": "",
       "military_service": "",
@@ -6168,8 +6180,8 @@
       "marital_status": "Married",
       "residence": "",
       "burial_place": "Klingenberg, Brackenheim, Württemberg, Germany (buried 20 January 1857)",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 215,
+      "mother_id": 216,
       "nationality_changes": "German",
       "immigration": "",
       "military_service": "",
@@ -6544,15 +6556,15 @@
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Robert L Miller's father. Pauline's paternal great-great-grandfather. FamilySearch PID: GS5Y-5KH. Full name Franklin J Miller (from NUMIDENT, ark:/61903/1:1:6K4J-YS7W). Head of household in 1900 US Census, Burdett, Hector Township, ED 50, Schuyler County, NY (household 277). Wife: Anna Everetts (born March 1857 NY). Two sons listed in 1900 census: Robert (born May 1883) and Earnest (born ~1886). In 1920 US Census (ark:/61903/1:1:MVSP-S5M): living in Waverly, Barton, Tioga County, NY, listed as widowed. Father's birthplace: New York. Mother's birthplace: New York. Occupation: farmer (based on rural Hector Township location in 1900). Anna died between 1900 and 1920 (Frank listed as widowed in 1920 census). 1880 US Census (Source 206): Frank Miller, age 24, single, farmer, head of household, Hector, District 3, Schuyler County, NY. Father born New York, mother born Delaware. Living with Mary Miller, F, 54, widowed, born Delaware, relationship \"Other\" — possibly his mother. CONFLICT: NUMIDENT (Source 204) names mother as \"Lucy\"; 1920 census (Source 203) says mother born NY; 1880 census says mother born Delaware. The 1880 Mary Miller may or may not be his mother — she is listed as \"Other\" not \"Mother\" in the relationship field. If Mary is his mother, her name discrepancy with \"Lucy\" could indicate: (a) her full name was Mary Lucy or Lucy Mary, (b) NUMIDENT was inaccurate (Frank was ~80 when he applied), or (c) Mary was not his mother.",
-      "source_citations": "FamilySearch GS5Y-5KH; Source 134: US Census 1900 (FamilySearch ark:/61903/1:1:MSGC-LD4) — listed as head of household, Frank Miller, born March 1855 NY; Source 203: US Census 1920 (FamilySearch ark:/61903/1:1:MVSP-S5M) — Franklin Miller, widowed, Waverly, Barton, Tioga, NY, father's and mother's birthplace both NY; Source 204: NUMIDENT (FamilySearch ark:/61903/1:1:6K4J-YS7W) — Franklin J Miller, born 1 Mar 1855, parents Robert Miller and Lucy; Source 206: US Census 1880 — Frank Miller, Hector, Schuyler, NY (ark:/61903/1:1:MZFG-TGB)",
+      "notes": "Robert L Miller's father. Pauline's paternal great-great-grandfather. FamilySearch PID: GS5Y-5KH. Full name Franklin J Miller (from NUMIDENT, ark:/61903/1:1:6K4J-YS7W). Head of household in 1900 US Census, Burdett, Hector Township, ED 50, Schuyler County, NY (household 277). Wife: Anna Everetts (born March 1857 NY). Two sons listed in 1900 census: Robert (born May 1883) and Earnest (born ~1886). In 1920 US Census (ark:/61903/1:1:MVSP-S5M): living in Waverly, Barton, Tioga County, NY, listed as widowed. Father's birthplace: New York. Mother's birthplace: New York. Occupation: farmer (based on rural Hector Township location in 1900). Anna died between 1900 and 1920 (Frank listed as widowed in 1920 census). 1880 US Census (Source 206): Frank Miller, age 24, single, farmer, head of household, Hector, District 3, Schuyler County, NY. Father born New York, mother born Delaware. Living with Mary Miller, F, 54, widowed, born Delaware, relationship \"Other\" — possibly his mother. CONFLICT: NUMIDENT (Source 204) names mother as \"Lucy\"; 1920 census (Source 203) says mother born NY; 1880 census says mother born Delaware. The 1880 Mary Miller may or may not be his mother — she is listed as \"Other\" not \"Mother\" in the relationship field. If Mary is his mother, her name discrepancy with \"Lucy\" could indicate: (a) her full name was Mary Lucy or Lucy Mary, (b) NUMIDENT was inaccurate (Frank was ~80 when he applied), or (c) Mary was not his mother. 1860 Census (Source 235): John F Miller, age 5, born ~1855, New York, in household of Mary Miller (age 45, Connecticut), William Miller (age 36, NY), Emmeline Miller (19, NY), Harrison Miller (17, NY), Mary L Miller (8, NY), Catharine, Schuyler County, NY (ark:/61903/1:1:MC4D-H6J). \"John F\" likely = Franklin (\"Frank\" / \"John Franklin\"). Catharine township is adjacent to Hector in Schuyler County. CONFLICT: This 1860 household head is Mary (45, born CT), not Robert — NUMIDENT names father as Robert Miller. William Miller (36) in household could be an uncle, older brother, or other relation.",
+      "source_citations": "FamilySearch GS5Y-5KH; Source 134: US Census 1900 (FamilySearch ark:/61903/1:1:MSGC-LD4) — listed as head of household, Frank Miller, born March 1855 NY; Source 203: US Census 1920 (FamilySearch ark:/61903/1:1:MVSP-S5M) — Franklin Miller, widowed, Waverly, Barton, Tioga, NY, father's and mother's birthplace both NY; Source 204: NUMIDENT (FamilySearch ark:/61903/1:1:6K4J-YS7W) — Franklin J Miller, born 1 Mar 1855, parents Robert Miller and Lucy; Source 206: US Census 1880 — Frank Miller, Hector, Schuyler, NY (ark:/61903/1:1:MZFG-TGB); Source 235: US Census 1860 — John F Miller, Catharine, Schuyler, NY (ark:/61903/1:1:MC4D-H6J)",
       "interesting_facts": "",
       "research_leads": [
-        "Resolve mother identity: NUMIDENT says 'Lucy', 1880 census household has 'Mary Miller' age 54 from Delaware. Search for Mary Miller or Lucy Miller in Delaware birth/marriage records ~1826.",
+        "Resolve mother identity: NUMIDENT says 'Lucy', 1880 census household has 'Mary Miller' age 54 from Delaware, 1860 census has 'Mary Miller' age 45 from Connecticut — two different Marys or census errors?",
+        "Identify William Miller (age 36, NY) from 1860 census in Catharine — relationship to Franklin?",
         "Find Frank's death record — alive 1920 Waverly (age 65); check NY death indexes 1920-1940 in Tioga County",
-        "Search NY State Census 1875 for Frank Miller in Hector/Schuyler area — would be ~20, may still be with parents",
-        "Search 1860 census for Miller family in Schuyler/Tompkins/Chemung County area with son Frank born ~1855",
-        "Not buried at Montour Cemetery per FindAGrave search — check Saint James Cemetery Waverly or other Tioga County cemeteries"
+        "Search NY State Census 1875 for Frank Miller in Hector/Schuyler area",
+        "Not buried at Montour Cemetery — check Saint James Cemetery Waverly or other Tioga County cemeteries"
       ],
       "confidence": "high",
       "spouses": [
@@ -6563,11 +6575,14 @@
       "id": 172,
       "name": {
         "first": "Anna",
-        "middle": "",
+        "middle": "M",
         "last": "Miller",
         "maiden": "Everetts",
         "aliases": [
-          "Anna Everetts"
+          "Anna Everetts",
+          "Anna M. Everts",
+          "Anna M Everts",
+          "Anna Everet"
         ]
       },
       "sex": "Female",
@@ -6583,23 +6598,23 @@
       "age_at_death": "",
       "occupation": "",
       "marital_status": "Married",
-      "residence": "Burdett, Hector Township, Schuyler County, New York (1900)",
+      "residence": "Dix, Schuyler County, NY (1860); Montour, Schuyler County, NY (1870-1880); Burdett, Hector Township, Schuyler County, NY (1900)",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 200,
+      "mother_id": 201,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Robert L Miller's mother. Pauline's paternal great-great-grandmother. FamilySearch PID: GS5Y-KY7. Maiden name Everetts (from 1920 census listing of husband Frank as widowed, and from FamilySearch tree which lists her as Anna Everetts). Birth: March 1857, New York (birth month from 1900 census). Listed as wife of Frank Miller in 1900 US Census, Burdett, Hector Township, ED 50, Schuyler County, NY. Two sons listed in 1900 household: Robert (born May 1883) and Earnest (born ~1886). Died between 1900 and 1920 — husband Frank listed as widowed in 1920 census.",
-      "source_citations": "FamilySearch GS5Y-KY7; Source 134: US Census 1900 (FamilySearch ark:/61903/1:1:MSGC-LD4) — listed as Anna Miller, wife, born March 1857 NY; Source 203: US Census 1920 (FamilySearch ark:/61903/1:1:MVSP-S5M) — husband Frank listed as widowed, confirming Anna's death before 1920",
+      "notes": "Robert L Miller's mother. Pauline's paternal great-great-grandmother. FamilySearch PIDs: GS5Y-KY7 (as Anna, wife of Frank Miller) and GN1Q-71S (as Anna M. Everts, daughter of Aranthus). These are duplicate FamilySearch tree records for the same person. Maiden name Everetts/Everts (confirmed by 1860 census spelling 'Anna Everetts' in father Aranthus's household, and by 1920 census listing husband Frank as widowed). Middle initial M (from 1880 census as Anna M. Everts). Birth: March 1857, New York (from 1900 census). 1860 Census (Source 232): Anna Everetts, age 3, in household of Alanthus W Everetts, Dix, Schuyler County. 1870 Census (Source 233): Anna Everet, age 13, in household of Aranthus Everet, Montour, Schuyler County. 1880 Census (Source 234): Anna M. Everts, age 23, SINGLE, daughter, living with parents in Montour, Schuyler County. Married Franklin Miller ~1881 (per FamilySearch tree GS5Y-KY7). 1900 Census: Anna Miller, wife of Frank, Burdett, Hector Township. Both Anna and Franklin were single in 1880 in adjacent Schuyler County townships (Montour and Hector). Died between 1900 and 1920 — husband Frank listed as widowed in 1920 census. Parents: Aranthus W Everts (1828-1904) and Harriet M Everts (born 1833). 8 siblings: Mary, James L, Hannah, Alpha E, Eva C, Aranthus W Jr, Clara Hurd, Blovindia.",
+      "source_citations": "FamilySearch GS5Y-KY7 and GN1Q-71S; Source 134: US Census 1900 (ark:/61903/1:1:MSGC-LD4); Source 203: US Census 1920 (ark:/61903/1:1:MVSP-S5M); Source 232: US Census 1860 (ark:/61903/1:1:MC48-24S); Source 233: US Census 1870 (ark:/61903/1:1:M8KD-H46); Source 234: US Census 1880 (ark:/61903/1:1:MZFP-42M)",
       "interesting_facts": "",
       "research_leads": [
         "Find death record — died between 1900 and 1920 in New York; check NY death indexes for Anna Miller or Anna Everetts Miller in Schuyler/Tioga County",
-        "Search 1880 census for Frank and Anna Miller as a couple in Schuyler County",
-        "Confirm maiden name Everetts — search marriage records ~1881 in Schuyler County for Frank Miller + Anna Everetts",
-        "Search FindAGrave for Anna Miller/Everetts in Schuyler County cemeteries"
+        "Find marriage record for Franklin Miller and Anna Everetts/Everts ~1881 in Schuyler County",
+        "Find burial location — check Montour Cemetery and other Schuyler County cemeteries",
+        "Merge duplicate FamilySearch PIDs GS5Y-KY7 and GN1Q-71S"
       ],
       "confidence": "high",
       "spouses": [
@@ -7004,28 +7019,29 @@
       "id": 182,
       "name": {
         "first": "Anna",
-        "middle": "S",
-        "last": "Craft",
+        "middle": "Elizabeth",
+        "last": "Croft",
         "maiden": "Frank",
         "aliases": [
-          "Hannah E. Craft",
           "Anna S Frank",
-          "Hannah Frank"
+          "Hannah E. Craft",
+          "Anna Elizabeth Croft Frank"
         ]
       },
       "sex": "F",
       "birth": {
-        "date": "~1906",
+        "date": "1905-02-02",
         "place": "New Jersey"
       },
       "death": {
-        "date": "",
-        "place": ""
+        "date": "1992-01-24",
+        "place": "Pinellas County, FL",
+        "cause": ""
       },
-      "age_at_death": "",
+      "age_at_death": "86",
       "occupation": "",
       "marital_status": "Married",
-      "residence": "Northport, New York (as of 1956)",
+      "residence": "Logan Township, Gloucester, NJ (1910-1920); Northport, Suffolk County, NY (per mother's 1956 obituary)",
       "burial_place": "",
       "father_id": 68,
       "mother_id": 69,
@@ -7034,14 +7050,14 @@
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Identified from two sources: (1) 1920 US Census lists 'Anna S Frank, Daughter, F, age 14' in William B Frank household — born ~1906. (2) Mother Mary E. Frank's 1956 obituary names 'a daughter, Mrs. Hannah E. Craft of Northport, N.Y.' as a survivor. Anna/Hannah appears to be the same person — either 'Anna' was her given name with 'Hannah' as a married/preferred name, or vice versa. The 'S' middle initial (1920 census) vs 'E' in obituary (if 'E' is middle initial rather than first initial of married name) is a minor discrepancy. She is the only daughter of William and Mary. Not listed on either parent's FindAGrave memorial as a child. Married surname Craft; husband's first name unknown.",
-      "source_citations": "1920 US Census as 'Anna S Frank' (Source 212); Mother's obituary as 'Mrs. Hannah E. Craft of Northport, N.Y.' (Source 211)",
+      "notes": "Sixth child and only surviving daughter of William and Mary. FamilySearch PID: GDT8-4VV. FamilySearch tree name: 'Anna Elizabeth Croft Frank' (married name Croft). 1920 census listed as 'Anna S Frank' age 14. Mother's 1956 obituary referred to her as 'Mrs. Hannah E. Craft of Northport, N.Y.' The name discrepancy (Anna vs. Hannah, Croft vs. Craft) likely reflects: (a) Anna/Hannah being used interchangeably, (b) Croft/Craft being spelling variants of the same surname. The 'S' middle initial from 1920 census does not match 'Elizabeth' from FamilySearch tree — requires further verification. Died in Pinellas County, Florida.",
+      "source_citations": "1920 US Census as 'Anna S Frank' (Source 212); Mother's obituary as 'Mrs. Hannah E. Craft of Northport, N.Y.' (Source 211); FamilySearch tree GDT8-4VV (Source 226)",
       "interesting_facts": "Only daughter among 10 children of William and Mary Frank. Living in Northport, Long Island, NY at time of mother's death in 1956.",
       "research_leads": [
-        "Determine whether given name is Anna or Hannah — search NJ birth records ~1906 for Frank family in Logan Township.",
-        "Find marriage record for Anna/Hannah Frank to Mr. Craft — likely married in NJ before moving to Northport, NY.",
-        "Search for Hannah E. Craft or Anna Craft in Northport, Suffolk County, NY census and death records.",
-        "Search FindAGrave for Hannah Craft or Anna Craft in Long Island, NY area."
+        "Resolve middle initial discrepancy: 1920 census says 'Anna S' but FamilySearch tree says 'Anna Elizabeth.' Check NJ birth records ~1905.",
+        "Find marriage record for Anna Frank to Mr. Croft/Craft.",
+        "Search for Anna Elizabeth Croft death record in Pinellas County FL 1992.",
+        "Search FindAGrave for Anna Croft or Anna Craft in Pinellas County FL."
       ],
       "confidence": "high",
       "spouses": []
@@ -7068,23 +7084,23 @@
       "age_at_death": "",
       "occupation": "Carman (rubbish contractor)",
       "marital_status": "Married",
-      "residence": "Lambeth, London (1901, 1911)",
+      "residence": "1881: St George The Martyr Southwark (with parents); 1891: St George The Martyr Southwark (with parents, age 22); 1901: Lambeth, London; 1911: Lambeth, London",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 191,
+      "mother_id": 192,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Father of William Joshua M Richards (ID 60). Identified through 1901 and 1911 census records. Age 36 in 1901 (b. ~1865), age 44 in 1911 (b. ~1867) — typical census age discrepancy. Born Lambeth, London. Occupation: carman (horse-drawn cart driver), industry listed as 'rubbish contractor' in 1911. FamilySearch tree PID: GNGZ-YT9. Family lived in Lambeth (Kennington/Vauxhall SE area) through at least 1911.",
-      "source_citations": "1901 Census (Source 213, ark:/61903/1:1:X9H6-B2B); 1911 Census (Source 214, ark:/61903/1:1:XWP1-G55); FamilySearch tree PID GNGZ-YT9",
+      "notes": "Father of William Joshua M Richards (ID 60). Identified through 1901 and 1911 census records. Age 36 in 1901 (b. ~1865), age 44 in 1911 (b. ~1867) — typical census age discrepancy. Born Lambeth, London. Occupation: carman (horse-drawn cart driver), industry listed as 'rubbish contractor' in 1911. FamilySearch tree PID: GNGZ-YT9. Family lived in Lambeth (Kennington/Vauxhall SE area) through at least 1911. Parents identified via 1881 census (Source 224): father William Richards (ID 191, tinman, b. ~1839 Southwark) and mother Mary Ann Richards (ID 192, b. ~1843 Lambeth). In 1881, William was age 15, a scholar, living at St George The Martyr Southwark with parents and 5 siblings: Mary (16), Eliza (13), Emma (8), James (4), Betsy (2). FamilySearch tree links: this William is GT3T-MSY, father LXQS-P1Y, mother LXQS-SM5. 1891 CENSUS (Source 229): Still living in parents' household at St George The Martyr Southwark, listed as 'William Richards, Son, M, 22 years, London, England.' No wife or children present — appears to have been unmarried in April 1891. This means he married Sarah Parsons AFTER the 1891 census, likely in Q2 1893 (Source 230). Age 22 in 1891 gives birth ~1869, vs age 15 in 1881 (born ~1866), age 36 in 1901 (born ~1865), age 44 in 1911 (born ~1867) — typical census age variation, suggesting actual birth ~1865-1869. MARRIAGE RECORD FOUND (Source 230): William Richards married Sarah Parsons in Lambeth, Q2 1893 (Apr-May-Jun), Vol 1D, p 709. Cross-referenced via Sarah Parsons entry at same Vol/Page/Quarter (ark:/61903/1:1:2DFN-9DZ). This reveals Sarah's maiden name as PARSONS.",
+      "source_citations": "1901 Census (Source 213, ark:/61903/1:1:X9H6-B2B); 1911 Census (Source 214, ark:/61903/1:1:XWP1-G55); FamilySearch tree PID GNGZ-YT9; 1881 Census (Source 224, ark:/61903/1:1:Q27Q-QPVS); 1891 Census (Source 229, ark:/61903/1:1:QHF8-GMM); Marriage Registration Index Q2 1893 Lambeth (Source 230, ark:/61903/1:1:2DFN-C1R)",
       "interesting_facts": "",
       "research_leads": [
-        "Search GRO birth index for William Richards born Q1-Q4 1865 in Lambeth — need Vol/Page for birth certificate order",
-        "Search 1891 Census for William and Sarah Richards in Lambeth with eldest child Henry (~1 year old)",
-        "Search GRO death index for William Richards born ~1865 dying after 1911 in London area",
-        "Search 1871/1881 Census for Richards family in Lambeth with boy William born ~1865 — to identify his parents"
+        "Search GRO birth index for William Richards born Q1-Q4 1865-1869 in Lambeth — need Vol/Page for birth certificate order",
+        "Search GRO death index for William Richards (carman, born ~1865) dying after 1911 in London area",
+        "Order GRO marriage certificate (Q2 1893, Lambeth, Vol 1D, p 709) — would show exact date, ages, fathers' names, and occupations for both William and Sarah",
+        "Search 1911 Census original image for 'years married' field — would confirm 1893 marriage date"
       ],
       "confidence": "high",
       "spouses": [
@@ -7095,15 +7111,18 @@
       "id": 184,
       "name": {
         "first": "Sarah",
-        "middle": "",
+        "middle": "J",
         "last": "Richards",
-        "maiden": "",
-        "aliases": []
+        "maiden": "Parsons",
+        "aliases": [
+          "Sarah Parsons",
+          "Sarah J Parsons"
+        ]
       },
       "sex": "F",
       "birth": {
-        "date": "~1865",
-        "place": "Lambeth, London, England"
+        "date": "~1866",
+        "place": "St. Saviour Southwark, London, England"
       },
       "death": {
         "date": "",
@@ -7111,9 +7130,9 @@
         "cause": ""
       },
       "age_at_death": "",
-      "occupation": "",
+      "occupation": "Washer (1891 census)",
       "marital_status": "Married",
-      "residence": "Lambeth, London (1901, 1911)",
+      "residence": "Lambeth, London (1891, 1901, 1911); born St. Saviour Southwark",
       "burial_place": "",
       "father_id": null,
       "mother_id": null,
@@ -7122,13 +7141,16 @@
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Mother of William Joshua M Richards (ID 60). Identified through 1901 and 1911 census records. Age 36 in 1901 (b. ~1865), age 46 in 1911 (b. ~1865). Born Lambeth, London. Maiden name unknown — need marriage record or birth certificates of children to determine. Had at least 9 children between ~1890 and ~1910.",
-      "source_citations": "1901 Census (Source 213, ark:/61903/1:1:X9H6-B2B); 1911 Census (Source 214, ark:/61903/1:1:XWP1-G55)",
+      "notes": "Mother of William Joshua M Richards (ID 60). Identified through 1901 and 1911 census records. Age 36 in 1901 (b. ~1865), age 46 in 1911 (b. ~1865). BIRTH REGISTRATION FOUND: Sarah J Parsons, Q4 1866, St. Saviour Southwark, Vol 1D, Page 13 (Source 236). This is the SAME registration district where the Richards tinman family (IDs 191, 192) lived in 1881, 1891, and ~1899 — strongly suggesting the Parsons and Richards families were neighbors in Southwark. MAIDEN NAME IDENTIFIED: Parsons. Married William Richards in Lambeth, Q2 1893 (Apr-May-Jun), Vol 1D, p 709 (Source 230). 1891 CENSUS: Sarah Parsons, age 25, WIDOWED, Washer, Head of Household, Lambeth, with son Henry Parsons age 1 (Source 237). The 'widowed' status is likely a social convention to avoid stigma of illegitimacy — no marriage record for Sarah to anyone before the 1893 marriage to William Richards has been found in the GRO Marriage Registration Index. Henry (born Q2 1890 as Henry Hector Parsons) predates the Q2 1893 marriage by ~3 years. FamilySearch tree PID 9WF8-QGF (separate from the Richards tree entry) shows Sarah with spouse 'Henry Parsons' (9WF8-QG8) — this is likely an error; no corroborating marriage record found. Birth year discrepancy: GRO says 1866, 1891 census says ~1866 (age 25), 1901 census says ~1865 (age 36), 1911 census says ~1865 (age 46). The GRO birth index is the most reliable; the 1901/1911 ages are ~1 year off.",
+      "source_citations": "1901 Census (Source 213, ark:/61903/1:1:X9H6-B2B); 1911 Census (Source 214, ark:/61903/1:1:XWP1-G55); Marriage Registration Index Q2 1893 Lambeth (Source 230, ark:/61903/1:1:2DFN-9DZ); GRO Birth Registration Index Q4 1866 St. Saviour Southwark (Source 236, ark:/61903/1:1:2XSC-VDZ); 1891 Census Lambeth (Source 237, ark:/61903/1:1:QC6P-BT2)",
       "interesting_facts": "",
       "research_leads": [
-        "Find marriage record for William Richards and Sarah in Lambeth ~1888-1890 (before Henry's birth ~1890) — will reveal maiden name",
-        "Search GRO birth index for Sarah born ~1865 in Lambeth — need maiden name first",
-        "Search 1911 Census original image to check if 'years married' field was completed — would narrow marriage date"
+        "Order GRO birth certificate (Q4 1866, St. Saviour Southwark, Vol 1D, p 13) — would reveal mother's maiden name and father's name/occupation, identifying Sarah's parents",
+        "Order GRO marriage certificate (Q2 1893, Lambeth, Vol 1D, p 709) — would confirm Sarah's father's name",
+        "Search 1881 Census for Sarah Parsons age ~15 in Southwark area — would show her parents' household",
+        "Search 1871 Census for Parsons family in St Saviour Southwark area with daughter Sarah born ~1866",
+        "Investigate FamilySearch tree PID 9WF8-QGF — merge with Richards tree entry if confirmed same person",
+        "Search for death record of Sarah Richards — not yet found"
       ],
       "confidence": "high",
       "spouses": [
@@ -7142,11 +7164,13 @@
         "middle": "",
         "last": "Richards",
         "maiden": "",
-        "aliases": []
+        "aliases": [
+          "Henry Hector Parsons"
+        ]
       },
       "sex": "M",
       "birth": {
-        "date": "~1890",
+        "date": "1890-Q2",
         "place": "Lambeth, London, England"
       },
       "death": {
@@ -7166,11 +7190,11 @@
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Older brother of William Joshua M Richards (ID 60). Listed as 'Henry Richards, Son, M, 11' in 1901 census (Lambeth). Not present in 1911 census household (aged ~21, moved out). Married Gertrude (ID 186). Buried at Sturminster Newton Cemetery, Dorset. His presence in Sturminster Newton likely explains why his brother William's family relocated from London to Dorset during WWII (~1940-1942). Born ~1890 per 1901 census age 11; headstone says aged 65 at death in 1954, implying birth ~1889 — 1-year discrepancy typical of census age estimates.",
-      "source_citations": "1901 Census (Source 213, ark:/61903/1:1:X9H6-B2B); FindAGrave memorial #192271800 (Source 215)",
+      "notes": "Older brother of William Joshua M Richards (ID 60). BIRTH NAME: Henry Hector Parsons. Birth registered Q2 1890 (Apr-May-Jun), Lambeth, Vol 1D, Page 390 (Source 238). Registered under mother's maiden name Parsons — born ~3 years BEFORE parents' Q2 1893 marriage. 1891 Census: 'Henry Parsons, Son, M, 1 year' in household of Sarah Parsons (widowed, age 25) in Lambeth (Source 237). After mother married William Richards in 1893, Henry took the Richards surname. Listed as 'Henry Richards, Son, M, 11' in 1901 census (Lambeth). Not present in 1911 census household (aged ~21, moved out). Married Gertrude (ID 186). Buried at Sturminster Newton Cemetery, Dorset. FamilySearch tree PID for birth record: 9WF8-QLG (as Henry Hector Parsons). Middle name 'Hector' from GRO birth index — not used in later life (all census records show just 'Henry'). Age discrepancy: 1901 census age 11 (born ~1890) matches GRO birth Q2 1890. FindAGrave headstone says aged 65 at death Dec 1954, implying birth ~1889 — off by ~6 months (born Apr-Jun 1890, died Dec 1954 = age 64, headstone says 65).",
+      "source_citations": "1901 Census (Source 213, ark:/61903/1:1:X9H6-B2B); FindAGrave memorial #192271800 (Source 215); 1891 Census Lambeth as Henry Parsons (Source 237, ark:/61903/1:1:QC6P-BT2); GRO Birth Registration Index Q2 1890 Lambeth (Source 238, ark:/61903/1:1:2XY1-XNG)",
       "interesting_facts": "His residence in Sturminster Newton, Dorset likely drew his brother William's family to evacuate from London to the same town during WWII, where Beryl Richards (Pauline's mother) was born in 1944.",
       "research_leads": [
-        "Search GRO birth index for Henry Richards born ~1889-1890 in Lambeth — confirm exact birth date",
+        "Order GRO birth certificate (Q2 1890, Lambeth, Vol 1D, p 390) — registered as Henry Hector Parsons; would show mother's name and possibly father's name (may be blank if illegitimate)",
         "Search for Henry Richards marriage to Gertrude ~1910-1915 in London or Dorset area",
         "Search 1911 Census for Henry Richards age ~21 in London — may show occupation and lodgings",
         "Search 1939 Register for Henry and Gertrude Richards in Sturminster Newton area"
@@ -7218,6 +7242,1641 @@
       ],
       "confidence": "high",
       "spouses": []
+    },
+    {
+      "id": 187,
+      "name": {
+        "first": "Frank",
+        "middle": "Albert",
+        "last": "Wilder",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1882-10-29",
+        "place": "Greene, Androscoggin, Maine, United States"
+      },
+      "death": {
+        "date": "1944-01-27",
+        "place": "Maine, United States",
+        "cause": ""
+      },
+      "age_at_death": "61",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Milo, Piscataquis, Maine (1900-1940)",
+      "burial_place": "Lagrange, Penobscot, Maine, United States",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "WWI draft registration 1917-1918, Piscataquis, Maine",
+      "religion": "",
+      "education": "",
+      "notes": "Husband of Edith I Frost (ID 13). FamilySearch PID: KHC2-PTV (14 sources). Parents on FamilySearch: Lewis Horton Wilder (LLWR-L4Y, 1853-1924) and Abbie Jane Sprague (L174-KR4, 1856-1884). One sibling: Sarah J. Wilder (KHQM-ZWJ, 1876-1934). Married Edith I Frost 14 Apr 1906 in Maine. No children. Residences: 1900 Lake View/Milo, Piscataquis; 1906 Milo (at marriage); 1910-1940 Milo, Piscataquis, Maine. Social Security application Oct 1937. Buried Lagrange, Penobscot, Maine (Jan 1944). Not found on FindAGrave.",
+      "source_citations": "FamilySearch Family Tree KHC2-PTV (14 sources — name, sex, birth, death, burial, military draft, censuses 1900-1940, marriage, SS application)",
+      "interesting_facts": "",
+      "research_leads": [
+        "Search FindAGrave for Frank Albert Wilder burial at Hill Crest Cemetery or other Lagrange cemeteries",
+        "Find Maine death certificate for exact death location and cause of death"
+      ],
+      "confidence": "high",
+      "spouses": []
+    },
+    {
+      "id": 188,
+      "name": {
+        "first": "Eva",
+        "middle": "Louise",
+        "last": "Grant",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1880",
+        "place": ""
+      },
+      "death": {
+        "date": "1975",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Listed as companion/partner of Ida Ethel Frost (ID 12) on FamilySearch Family Tree. FamilySearch PID: M5D8-WSM. No marriage event recorded on FamilySearch. Ida's marital status listed as 'Single' despite this relationship listing. Further research needed to determine relationship nature and biographical details.",
+      "source_citations": "FamilySearch Family Tree M5D8-WSM (linked to Ida Ethel Frost LYMX-TXG)",
+      "interesting_facts": "",
+      "research_leads": [
+        "Search FamilySearch and census records for Eva Louise Grant born 1880 — determine birthplace, parents, and relationship to Ida Ethel Frost",
+        "Check 1930-1940 Cleveland OH census and 1950 Bangor ME census for Eva Grant living with Ida Frost"
+      ],
+      "confidence": "medium",
+      "spouses": []
+    },
+    {
+      "id": 189,
+      "name": {
+        "first": "Vera",
+        "middle": "Louise",
+        "last": "Smith",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1897",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "First wife of Lewis Edmund Frost (ID 15). FamilySearch PID: KGZG-7JQ. Married Lewis Edmund Frost 28 Jun 1922 in North Attleboro, Bristol, Massachusetts. One child: infant son Frost (1924-1924, PID GF7W-MF5), died in infancy. Death date unknown (listed as 'Deceased' on FamilySearch).",
+      "source_citations": "FamilySearch Family Tree KGZG-7JQ (linked to Lewis Edmund Frost LYMX-G3L)",
+      "interesting_facts": "",
+      "research_leads": [
+        "Search Massachusetts vital records for Vera Louise Smith born ~1897 — birthplace and parents",
+        "Search for Vera Smith/Frost death record — may have divorced Lewis before his second marriage ~1944"
+      ],
+      "confidence": "medium",
+      "spouses": []
+    },
+    {
+      "id": 190,
+      "name": {
+        "first": "Angelina",
+        "middle": "Cora",
+        "last": "Moyen",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1917",
+        "place": ""
+      },
+      "death": {
+        "date": "1989",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Second wife of Lewis Edmund Frost (ID 15). FamilySearch PID: GXG1-HN7. Married Lewis Edmund Frost after 1944 in Maine. Three children (not yet added as individuals). 27 years younger than Lewis.",
+      "source_citations": "FamilySearch Family Tree GXG1-HN7 (linked to Lewis Edmund Frost LYMX-G3L)",
+      "interesting_facts": "",
+      "research_leads": [
+        "Search Maine marriage records for Lewis Frost and Angelina Moyen ~1944-1950",
+        "Identify the three children of Lewis and Angelina from FamilySearch or census records"
+      ],
+      "confidence": "medium",
+      "spouses": []
+    },
+    {
+      "id": 191,
+      "name": {
+        "first": "William",
+        "middle": "",
+        "last": "Richards",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1839",
+        "place": "Southwark, Surrey, England"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Tinman / Iron & Tin Plate Worker",
+      "marital_status": "Married",
+      "residence": "1881: St George The Martyr Southwark; 1891: St George The Martyr Southwark (St Saviour Southwark registration district)",
+      "burial_place": "",
+      "father_id": 223,
+      "mother_id": 224,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Father of William Richards (ID 183, born ~1866 Lambeth). Identified through 1881 census at St George The Martyr Southwark. Age 42 in 1881 (born ~1839). Birthplace recorded as Southwark, Surrey in census; FamilySearch tree (LXQS-P1Y) gives birthplace as Lambeth, Surrey — the two districts are adjacent and the boundary was often blurred. Occupation: Tinman (a worker in tin/sheet metal). FamilySearch PID: LXQS-P1Y. 1891 CENSUS (Source 229): Still living at St George The Martyr Southwark with wife Mary (age 50), and children William (22), Eliza (24), Emma (19), James (14), Betsy (12). Eldest daughter Mary (age ~26) no longer in household. Occupation recorded as 'Iron & Tin Plate Worker' — same trade as 'Tinman' from 1881. Age 52 in 1891 (born ~1839), consistent with 1881 age 42 (born ~1839). Registration district: St Saviour Southwark. Piece/Folio: 344/161, RG12. Household ID 655715. PARENTS IDENTIFIED via 1851 Census (FindMyPast GBC/1851/0004652309): father James Richards (tinman, b. ~1813, Cripplegate, Middlesex) and mother Elizabeth Richards (b. ~1815, Rotherhithe, Surrey). In 1851, William (age 12) was a scholar living with parents and 7 siblings in Christchurch, St Saviour Southwark. 1871 CENSUS (FindMyPast GBC/1871/0003870524): William Richards, Head, age 30, Tin plate worker, born Christ Church Surrey, living in St Mary Newington with wife Mary (28, b. St George Martyr) and children Mary (7), William (4), Lizer A (3).",
+      "source_citations": "1881 Census (Source 224, ark:/61903/1:1:Q27Q-QPVS); FamilySearch tree LXQS-P1Y; 1891 Census (Source 229, ark:/61903/1:1:QHF8-GMM)",
+      "interesting_facts": "Three generations of William Richards: this William (tinman, b. ~1839), his son William (carman, b. ~1866, ID 183), and his grandson William Joshua M (b. 1902, ID 60).",
+      "research_leads": [
+        "Search 1871 Census for William Richards (tinman, age ~32) in Lambeth/Southwark with wife Mary Ann — would confirm family continuity 1871-1881-1891",
+        "Search GRO birth index for William Richards born ~1839 in Southwark/Lambeth — need Vol/Page for birth certificate",
+        "Search GRO marriage index for William Richards and Mary Ann ~1863 in Lambeth/Southwark — before eldest child Mary born ~1865",
+        "Possible death: William Richards, 1899, St Saviour Southwark, age 59, Vol 1D p 64 (Source 231). Age 59 gives birth ~1840, close to ~1839 estimates. Same registration district as 1891 census. Needs confirmation — order GRO death certificate to verify."
+      ],
+      "confidence": "high",
+      "spouses": [
+        192
+      ],
+      "source_ids": [
+        256
+      ]
+    },
+    {
+      "id": 192,
+      "name": {
+        "first": "Mary Ann",
+        "middle": "",
+        "last": "Richards",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1843",
+        "place": "Lambeth, Surrey, England"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "1881: St George The Martyr Southwark; 1891: St George The Martyr Southwark",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Mother of William Richards (ID 183, born ~1866 Lambeth). Wife of William Richards the tinman (ID 191). Identified through 1881 census. Age 38 in 1881 (born ~1843). Born Lambeth, Surrey. Listed as 'Wife' in census. Maiden name unknown. FamilySearch PIDs: LXQS-SM5 and GT3R-34W. 1891 CENSUS (Source 229): Listed as 'Mary Richards, Wife, F, 50 years, London, England.' Name recorded as 'Mary' (shortened from Mary Ann). Age 50 in 1891 gives birth ~1841, vs age 38 in 1881 giving birth ~1843. Birth year discrepancy of ~2 years is typical for census records.",
+      "source_citations": "1881 Census (Source 224, ark:/61903/1:1:Q27Q-QPGC); FamilySearch tree LXQS-SM5 / GT3R-34W; 1891 Census (Source 229, ark:/61903/1:1:QHF8-GMM)",
+      "interesting_facts": "",
+      "research_leads": [
+        "Find marriage record for William Richards and Mary Ann ~1863 in Lambeth/Southwark — will reveal maiden name",
+        "Search 1871 Census for Mary Ann Richards with husband William in Lambeth/Southwark area",
+        "Search GRO birth index for Mary Ann born ~1841-1843 in Lambeth — need maiden name first",
+        "Search 1901 Census for Mary Ann Richards (age ~58-60) in Southwark/Lambeth — to determine if she survived to 1901"
+      ],
+      "confidence": "high",
+      "spouses": [
+        191
+      ]
+    },
+    {
+      "id": 193,
+      "name": {
+        "first": "William",
+        "middle": "T",
+        "last": "Frank",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1896-02-03",
+        "place": "New Jersey"
+      },
+      "death": {
+        "date": "1974-08-26",
+        "place": "Kendall Park, Middlesex County, NJ",
+        "cause": ""
+      },
+      "age_at_death": "78",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "Logan Township, Gloucester, NJ (1900-1920)",
+      "burial_place": "",
+      "father_id": 68,
+      "mother_id": 69,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Eldest child of William Biddle Frank and Mary Elizabeth Farnkopf. Listed in 1900, 1910, 1915, 1920 censuses in Logan Township. FamilySearch PID: GDT8-N44. No spouse recorded in FamilySearch tree. Listed as 'William T' in mother's 1956 obituary (of Bridgeport).",
+      "source_citations": "FamilySearch tree GDT8-N44 (Source 226); FindAGrave #118358101 (Source 210); Mother's obituary (Source 211)",
+      "interesting_facts": "",
+      "research_leads": [
+        "Find marriage record if he married.",
+        "Find death record or obituary for Kendall Park/Middlesex County NJ 1974.",
+        "Determine middle name — 'T' initial only."
+      ],
+      "confidence": "high",
+      "spouses": []
+    },
+    {
+      "id": 194,
+      "name": {
+        "first": "Laura",
+        "middle": "",
+        "last": "Frank",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1898-03-28",
+        "place": "Gloucester County, NJ"
+      },
+      "death": {
+        "date": "1898-07-30",
+        "place": "Logan Township, Gloucester County, NJ",
+        "cause": ""
+      },
+      "age_at_death": "4 months",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 68,
+      "mother_id": 69,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Died in infancy at 4 months. Second child of William and Mary. FamilySearch PID: GDT8-JY7. Not listed on father's FindAGrave memorial or mother's obituary (died before 1900 census).",
+      "source_citations": "FamilySearch tree GDT8-JY7 (Source 226)",
+      "interesting_facts": "",
+      "research_leads": [
+        "Search NJ death records 1898 for Laura Frank in Logan Township to confirm cause of death."
+      ],
+      "confidence": "high",
+      "spouses": []
+    },
+    {
+      "id": 195,
+      "name": {
+        "first": "Augustus",
+        "middle": "",
+        "last": "Frank",
+        "maiden": "",
+        "aliases": [
+          "Augustus Farenkoph Frank"
+        ]
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1899-08-14",
+        "place": "Logan Township, Gloucester County, NJ"
+      },
+      "death": {
+        "date": "1986-03-03",
+        "place": "Bridgeport, Logan Township, Gloucester County, NJ",
+        "cause": ""
+      },
+      "age_at_death": "86",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "Logan Township, Gloucester, NJ (1900-1920)",
+      "burial_place": "",
+      "father_id": 68,
+      "mother_id": 69,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Third child of William and Mary. Also known as 'Augustus Farenkoph Frank' on FindAGrave (using mother's maiden name variant as middle name). Listed in 1900, 1910, 1915 censuses. Not in 1920 census household (age ~21, likely moved out). FamilySearch PID: L7HZ-XH4. Mother's obituary listed him as 'August, of Bridgeport.'",
+      "source_citations": "FamilySearch tree L7HZ-XH4 (Source 226); FindAGrave #118358101 (Source 210); Mother's obituary (Source 211)",
+      "interesting_facts": "Middle name/alias 'Farenkoph' is a variant spelling of mother's maiden name Farnkopf.",
+      "research_leads": [
+        "Find marriage record — no spouse listed in FamilySearch tree.",
+        "Search for obituary in Gloucester County NJ 1986."
+      ],
+      "confidence": "high",
+      "spouses": []
+    },
+    {
+      "id": 196,
+      "name": {
+        "first": "Harry",
+        "middle": "Henry",
+        "last": "Frank",
+        "maiden": "",
+        "aliases": [
+          "Harry D Frank"
+        ]
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1902-01",
+        "place": "New Jersey"
+      },
+      "death": {
+        "date": "1992-11-25",
+        "place": "Salem County, NJ",
+        "cause": ""
+      },
+      "age_at_death": "90",
+      "occupation": "Still Man",
+      "marital_status": "Married",
+      "residence": "Logan Township, Gloucester, NJ (1910-1950)",
+      "burial_place": "",
+      "father_id": 68,
+      "mother_id": 69,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Fourth surviving child of William and Mary. FamilySearch has two profiles that appear to be duplicates: Harry D Frank (GDT8-CW3, b. Jan 1902, d. 25 Nov 1992 Salem NJ) and Harry H Frank (GTSS-QP6, b. 1903, d. 25 Nov 1992 West Deptford Twp). Both share same death date. FindAGrave memorial on father's page lists 'Harry Henry Frank 1902-1992.' 1920 census lists 'Harry D Frank' age 17 (b. ~1903). Mother's obituary lists 'Harry, of Bridgeport.' The 'D' initial may be a census middle initial while 'Henry' is the actual middle name. Married Edith M Hughes (1902-1988) per FamilySearch tree GTSS-QP6. Had 6 children per tree.",
+      "source_citations": "FamilySearch trees GDT8-CW3 and GTSS-QP6 (Source 226); FindAGrave #118358101 (Source 210); Mother's obituary (Source 211); 1920 Census (Source 212)",
+      "interesting_facts": "Occupation listed as 'Still Man' — operated a distillery still or industrial still.",
+      "research_leads": [
+        "Resolve Harry D vs. Harry H duplicate in FamilySearch — likely same person, need merge.",
+        "Confirm birth date from NJ birth records ~1902.",
+        "Find FindAGrave memorial for Harry Henry Frank."
+      ],
+      "confidence": "high",
+      "spouses": []
+    },
+    {
+      "id": 197,
+      "name": {
+        "first": "George",
+        "middle": "Reed",
+        "last": "Frank",
+        "maiden": "",
+        "aliases": [
+          "George Reed Frank Sr"
+        ]
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1903-11-03",
+        "place": "New Jersey"
+      },
+      "death": {
+        "date": "1988-04-17",
+        "place": "Bridgeport, Gloucester County, NJ",
+        "cause": ""
+      },
+      "age_at_death": "84",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Logan Township, Gloucester, NJ (1910-1930); Asbury, Woolwich Township, Gloucester, NJ (1940)",
+      "burial_place": "",
+      "father_id": 68,
+      "mother_id": 69,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Fifth surviving child of William and Mary. FamilySearch PID: GDT8-CWZ. Married Emma B Lord (1900-1989, K2XD-PBL) on 9 Jan 1923 in NJ. Had 6 children: James Lord Frank Sr (1923-2013), Esther M, George Jr (1926-2003), Mary A, Robert Irving (1932-1996), Joyce Ann (1936-2003). Mother's obituary listed him as 'George, of Repauno.' 1920 census: 'George R Frank' age 16.",
+      "source_citations": "FamilySearch tree GDT8-CWZ (Source 226); FindAGrave #118358101 (Source 210); Mother's obituary (Source 211); 1920 Census (Source 212)",
+      "interesting_facts": "Resided in Repauno (now part of Gibbstown) per mother's obituary — a DuPont dynamite manufacturing village.",
+      "research_leads": [
+        "Find FindAGrave memorial for George Reed Frank Sr.",
+        "Search for obituary in Gloucester County NJ 1988."
+      ],
+      "confidence": "high",
+      "spouses": []
+    },
+    {
+      "id": 198,
+      "name": {
+        "first": "Warren",
+        "middle": "DuBois",
+        "last": "Frank",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1909-08-12",
+        "place": "Bridgeport, Logan Township, Gloucester County, NJ"
+      },
+      "death": {
+        "date": "1966-08-13",
+        "place": "Gloucester County, NJ",
+        "cause": ""
+      },
+      "age_at_death": "57",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Logan Township, Gloucester, NJ (1910-1920); Pedricktown, NJ",
+      "burial_place": "First Baptist Church Cemetery, Pedricktown, Salem County, NJ",
+      "father_id": 68,
+      "mother_id": 69,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Seventh child of William and Mary. FamilySearch PID: GDT8-4JK. Christened 12 Apr 1925 at Bridgeport (same date as Joseph and Albert — batch christening). Married Eva Vesta Perry (1898-1987, KLS8-PT8) in 1938, NJ. Died the day after his 57th birthday. Mother's obituary listed him as 'Warren, of Pedricktown.' FindAGrave confirms burial at First Baptist Church Cemetery, Pedricktown, Salem County, NJ.",
+      "source_citations": "FamilySearch tree GDT8-4JK (Source 226); FindAGrave search result (Source 227); Mother's obituary (Source 211); 1920 Census (Source 212)",
+      "interesting_facts": "Died one day after his 57th birthday. Middle name DuBois may reflect Dutch heritage common in southern NJ. Christened at age 16 in batch ceremony with brothers Joseph and Albert.",
+      "research_leads": [
+        "Find FindAGrave memorial number for Warren DuBois Frank at First Baptist Church Cemetery, Pedricktown."
+      ],
+      "confidence": "high",
+      "spouses": []
+    },
+    {
+      "id": 199,
+      "name": {
+        "first": "Albert",
+        "middle": "Jacob",
+        "last": "Frank",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1912-07-12",
+        "place": "New Jersey"
+      },
+      "death": {
+        "date": "2001-07-18",
+        "place": "Hendersonville, Henderson County, NC",
+        "cause": ""
+      },
+      "age_at_death": "89",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Logan Township, Gloucester, NJ (1915-1950); Hendersonville, NC",
+      "burial_place": "Eglington Cemetery, Clarksboro, Gloucester County, NJ",
+      "father_id": 68,
+      "mother_id": 69,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Eighth child of William and Mary (youngest son before Joseph). FamilySearch PID: GDT8-J4F. Christened 12 Apr 1925 at Bridgeport (batch christening with Warren and Joseph). Married Evelyn Hilda Johns (1914-2003, GX6C-Z9Y) in 1935, NJ. Also had second wife Marion Frank (1914-Deceased, G6GK-GD6). Moved to Hendersonville, NC later in life. Mother's obituary listed him as 'Albert, of Bridgeport.'",
+      "source_citations": "FamilySearch tree GDT8-J4F (Source 226); FindAGrave #118358101 (Source 210); Mother's obituary (Source 211); 1920 Census (Source 212)",
+      "interesting_facts": "Middle name Jacob — likely named after paternal grandfather Jacob Franks (1823-1889). Buried in Clarksboro despite dying in North Carolina.",
+      "research_leads": [
+        "Find FindAGrave memorial for Albert Jacob Frank at Eglington Cemetery.",
+        "Search for obituary in Henderson County NC or Gloucester County NJ 2001."
+      ],
+      "confidence": "high",
+      "spouses": []
+    },
+    {
+      "id": 200,
+      "name": {
+        "first": "Aranthus",
+        "middle": "W",
+        "last": "Everts",
+        "maiden": "",
+        "aliases": [
+          "Alanthus W Everetts",
+          "Erantus W. Everts",
+          "Aranthus W Evarts"
+        ]
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1828-08",
+        "place": "New York, United States"
+      },
+      "death": {
+        "date": "1904-04-14",
+        "place": "Watkins Glen, Dix, Schuyler, New York, United States",
+        "cause": ""
+      },
+      "age_at_death": "~75",
+      "occupation": "",
+      "marital_status": "Widowed",
+      "residence": "Dix, Schuyler County, NY (1855-1860); Montour, Schuyler County, NY (1870-1900)",
+      "burial_place": "",
+      "father_id": 202,
+      "mother_id": 203,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Anna Everetts Miller's father. Pauline's 3x great-grandfather (maternal side). FamilySearch PID: GF7Y-KCB. Lived in Dix and Montour, Schuyler County, NY throughout his life. 12 sources on FamilySearch tree. Surname spelled variously as Everts, Everetts, Evarts, Everet in census records. Died 14 April 1904 in Watkins Glen. 1860 Census: Alanthus W Everetts, age 31, Dix, Schuyler County (ark:/61903/1:1:MC48-2WB). 1870 Census: Aranthus Everet, age 47, Havana/Montour, Schuyler County (ark:/61903/1:1:M8KD-H4C). 1880 Census: Aranthus W. Everts, age 51, Montour, Schuyler County (ark:/61903/1:1:MZFP-4KY). Nine children with wife Harriet: Mary, James L, Anna M, Hannah, Alpha E, Eva C, Aranthus W Jr, Clara Hurd, Blovindia.",
+      "source_citations": "FamilySearch GF7Y-KCB (12 sources); Source 232: US Census 1860 (ark:/61903/1:1:MC48-2WB); Source 233: US Census 1870 (ark:/61903/1:1:M8KD-H4C); Source 234: US Census 1880 (ark:/61903/1:1:MZFP-4KY)",
+      "interesting_facts": "Unusual first name 'Aranthus' — consistently spelled differently by different census enumerators.",
+      "research_leads": [
+        "Find burial location — died Watkins Glen 1904; check Schuyler County cemeteries",
+        "Find marriage record for Aranthus and Harriet — likely ~1854 in Schuyler County",
+        "Identify Harriet's maiden name and parents"
+      ],
+      "confidence": "high",
+      "spouses": [
+        201
+      ]
+    },
+    {
+      "id": 201,
+      "name": {
+        "first": "Harriet",
+        "middle": "M",
+        "last": "Everts",
+        "maiden": "",
+        "aliases": [
+          "Harriette Everet",
+          "Harriet M Everetts",
+          "Harriet M Evarts"
+        ]
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1833-04",
+        "place": "New York, United States"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Dix, Schuyler County, NY (1860); Montour, Schuyler County, NY (1870-1880)",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Anna Everetts Miller's mother. Pauline's 3x great-grandmother (maternal side). FamilySearch PID: GF7B-QL8. 9 sources on FamilySearch tree. Born April 1833, New York. Maiden name unknown. 1860 Census: Harriet M Everetts, age 28, Dix, Schuyler County. 1870 Census: Harriette Everet, age 38, Montour, Schuyler County. 1880 Census: Harriet Everts, age 47, Montour, Schuyler County. Aranthus listed as widowed on FamilySearch, so Harriet likely died before him (before 1904). Nine children.",
+      "source_citations": "FamilySearch GF7B-QL8 (9 sources); Source 232: US Census 1860 (ark:/61903/1:1:MC48-2WB); Source 233: US Census 1870 (ark:/61903/1:1:M8KD-H4C); Source 234: US Census 1880 (ark:/61903/1:1:MZFP-4KY)",
+      "interesting_facts": "",
+      "research_leads": [
+        "Find maiden name — search marriage records for Aranthus Everts ~1854 in Schuyler County",
+        "Find death record — died before 1904 (Aranthus listed as widowed). Check NY death indexes",
+        "Find burial location — likely Schuyler County"
+      ],
+      "confidence": "high",
+      "spouses": [
+        200
+      ]
+    },
+    {
+      "id": 202,
+      "name": {
+        "first": "Alanson",
+        "middle": "G",
+        "last": "Everts",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1802",
+        "place": ""
+      },
+      "death": {
+        "date": "1876",
+        "place": ""
+      },
+      "age_at_death": "~74",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Dix, Schuyler, New York",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Aranthus W Everts's father. Pauline's 4x great-grandfather (maternal side). FamilySearch PID: G86K-RRD. Married Anna Leavitt in 1825 in Dix, Schuyler County, NY. Five sons: Aranthus W, George W Everts Thompson, Josiah G, Charles Harvey, Alanson G Jr.",
+      "source_citations": "FamilySearch G86K-RRD",
+      "interesting_facts": "",
+      "research_leads": [
+        "Find census records — should appear in 1830-1870 censuses in Schuyler County",
+        "Find birth and death details — likely born and died in New York"
+      ],
+      "confidence": "medium",
+      "spouses": [
+        203
+      ]
+    },
+    {
+      "id": 203,
+      "name": {
+        "first": "Anna",
+        "middle": "",
+        "last": "Everts",
+        "maiden": "Leavitt",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1804",
+        "place": ""
+      },
+      "death": {
+        "date": "1876",
+        "place": ""
+      },
+      "age_at_death": "~72",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Dix, Schuyler, New York",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Aranthus W Everts's mother. Pauline's 4x great-grandmother (maternal side). FamilySearch PID: G862-W35. Maiden name Leavitt. Married Alanson G Everts in 1825 in Dix, Schuyler County, NY. Both she and Alanson died in 1876.",
+      "source_citations": "FamilySearch G862-W35",
+      "interesting_facts": "",
+      "research_leads": [
+        "Find census records and vital records for birth/death details"
+      ],
+      "confidence": "medium",
+      "spouses": [
+        202
+      ]
+    },
+    {
+      "id": 204,
+      "name": {
+        "first": "Anna",
+        "middle": "Kathryn",
+        "last": "Lewis",
+        "maiden": "",
+        "aliases": [
+          "Kathryn Lewis",
+          "Anna K Lewis"
+        ]
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1929",
+        "place": "New Jersey, United States"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "East Greenwich Township, Gloucester County, New Jersey",
+      "burial_place": "",
+      "father_id": 66,
+      "mother_id": 140,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Daughter of Douglas B Lewis and Irene A Harvey. First appears in 1930 census as 'Anna K Lewis' (age ~1). In 1940 census as 'Anna K Lewis'. In 1950 census as 'Kathryn Lewis' — suggesting full name Anna Kathryn, went by Kathryn later in life. Added 2026-04-02 from census data documented in father's record.",
+      "source_citations": "1930 US Census (East Greenwich Twp, Gloucester, NJ — per father's FamilySearch record GXTR-2VQ); 1940 US Census (per father's record); 1950 US Census (per father's record)",
+      "interesting_facts": "",
+      "research_leads": [
+        "Find 1930 census image to confirm exact age and birth year",
+        "Search for marriage record — may have married under name Kathryn Lewis",
+        "Search NJ birth index for Anna K Lewis ~1929 Gloucester County"
+      ],
+      "confidence": "high",
+      "spouses": []
+    },
+    {
+      "id": 205,
+      "name": {
+        "first": "D",
+        "middle": "Harvey",
+        "last": "Lewis",
+        "maiden": "",
+        "aliases": [
+          "Harvey Lewis"
+        ]
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1936",
+        "place": "New Jersey, United States"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "East Greenwich Township, Gloucester County, New Jersey",
+      "burial_place": "",
+      "father_id": 66,
+      "mother_id": 140,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Son of Douglas B Lewis and Irene A Harvey. First appears in 1940 census as 'D Harvey Lewis' (age ~4). In 1950 census as 'Harvey Lewis'. First initial 'D' may stand for Douglas (named after father). Middle name Harvey is mother's maiden surname. Added 2026-04-02 from census data documented in father's record.",
+      "source_citations": "1940 US Census (East Greenwich Twp, Gloucester, NJ — per father's FamilySearch record GXTR-2VQ); 1950 US Census (per father's record)",
+      "interesting_facts": "Named with mother's maiden surname Harvey as middle name — a common naming pattern in this period.",
+      "research_leads": [
+        "Confirm birth year from 1940 census image (age ~4 in 1940 = born ~1936)",
+        "Search for full first name — 'D' initial likely Douglas",
+        "Search NJ birth index for D Harvey Lewis ~1936 Gloucester County",
+        "Search for military service records (Korean War era)"
+      ],
+      "confidence": "high",
+      "spouses": []
+    },
+    {
+      "id": 206,
+      "name": {
+        "first": "Harriet",
+        "middle": "Annie",
+        "last": "Sacre",
+        "maiden": "",
+        "aliases": [
+          "Harriet Annie Godfrey"
+        ]
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1904-05-31",
+        "place": "Woolwich, London, England"
+      },
+      "death": {
+        "date": "1993-10",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "89",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 119,
+      "mother_id": 120,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Eldest child of Edwin W G Sacre and Edith Mary Ellis. Married surname Godfrey. WikiTree managed by Sarah Black. CONFLICT NOTE: Existing tree notes for ID 119 list Harriet Annie as born 1909, but WikiTree gives 31 May 1904 — only ~2 months after parents' Q1 1904 marriage. The 1904 date is specific and from WikiTree profile; 1909 may be an error in the prior session's notes. Birth registration would resolve this.",
+      "source_citations": "WikiTree Sacre Genealogy (source 247)",
+      "interesting_facts": "Born just 2 months after parents' marriage. If WikiTree date correct, was the eldest of 7 children.",
+      "research_leads": [
+        "Verify birth date (1904 vs 1909) — search GRO birth registration Q2 1904 or Q3 1909 Woolwich for Harriet Annie Sacre",
+        "Find married name details — Godfrey. Search GRO marriage index for Sacre/Godfrey ~1925-1935"
+      ],
+      "confidence": "medium",
+      "spouses": []
+    },
+    {
+      "id": 207,
+      "name": {
+        "first": "Edwin",
+        "middle": "Richard",
+        "last": "Sacre",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1905-10-07",
+        "place": "Charlton, London, England"
+      },
+      "death": {
+        "date": "1963-03",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "57",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 119,
+      "mother_id": 120,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Son of Edwin W G Sacre and Edith Mary Ellis. Named Edwin after father and grandfather. Born in Charlton (adjacent to Woolwich). WikiTree managed by Sarah Black.",
+      "source_citations": "WikiTree Sacre Genealogy (source 247)",
+      "interesting_facts": "Third generation of Edwin Sacre — grandfather Edwin William, father Edwin William G, son Edwin Richard.",
+      "research_leads": [
+        "Find 1911 census record — should appear as child aged 5 in Edwin W G Sacre household",
+        "Search for marriage record and spouse"
+      ],
+      "confidence": "high",
+      "spouses": []
+    },
+    {
+      "id": 208,
+      "name": {
+        "first": "Arthur",
+        "middle": "George",
+        "last": "Sacre",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1911-06-17",
+        "place": "Kent, London, England"
+      },
+      "death": {
+        "date": "1994-10-10",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "83",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 119,
+      "mother_id": 120,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Son of Edwin W G Sacre and Edith Mary Ellis. Born June 1911. Should appear as infant in 1911 census (taken 2 April 1911 — born 17 June 1911, so would NOT appear in 1911 census as born after census date). WikiTree managed by Sarah Black.",
+      "source_citations": "WikiTree Sacre Genealogy (source 247)",
+      "interesting_facts": "Born after the 1911 census date (2 April 1911), so would not appear in that census.",
+      "research_leads": [
+        "Find birth registration GRO Q3 1911 Woolwich district",
+        "Search for WW2 military service records (age 28 at outbreak of war)"
+      ],
+      "confidence": "high",
+      "spouses": []
+    },
+    {
+      "id": 209,
+      "name": {
+        "first": "Joseph",
+        "middle": "Leonard",
+        "last": "Sacre",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1917-12-01",
+        "place": "Woolwich, London, England"
+      },
+      "death": {
+        "date": "2003-06-06",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "85",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 119,
+      "mother_id": 120,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Son of Edwin W G Sacre and Edith Mary Ellis. Born during WW1. WikiTree managed by Sarah Black.",
+      "source_citations": "WikiTree Sacre Genealogy (source 247)",
+      "interesting_facts": "Born during World War I in December 1917.",
+      "research_leads": [
+        "Find birth registration GRO Q4 1917 Woolwich",
+        "Search for WW2 military service (age 21 at outbreak)"
+      ],
+      "confidence": "high",
+      "spouses": []
+    },
+    {
+      "id": 210,
+      "name": {
+        "first": "Elsie",
+        "middle": "Dorothy",
+        "last": "Sacre",
+        "maiden": "",
+        "aliases": [
+          "Elsie Dorothy McCarthey"
+        ]
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1920-12",
+        "place": "St Olave, London, England"
+      },
+      "death": {
+        "date": "2011-04-15",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "90",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 119,
+      "mother_id": 120,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Daughter of Edwin W G Sacre and Edith Mary Ellis. Married surname McCarthey. Born in St Olave registration district (south bank of Thames, near Bermondsey/Southwark), not Woolwich — family may have moved temporarily. WikiTree managed by Sarah Black.",
+      "source_citations": "WikiTree Sacre Genealogy (source 247)",
+      "interesting_facts": "Born in St Olave rather than Woolwich like most of her siblings — possibly born while family was temporarily living south of the Thames. Lived to age 90.",
+      "research_leads": [
+        "Find birth registration GRO Q4 1920 St Olave",
+        "Find married name details — McCarthey. Search GRO marriage index ~1940-1950"
+      ],
+      "confidence": "high",
+      "spouses": []
+    },
+    {
+      "id": 211,
+      "name": {
+        "first": "Archie",
+        "middle": "",
+        "last": "Sacre",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1926",
+        "place": "Woolwich, London, England"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 119,
+      "mother_id": 120,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Youngest child of Edwin W G Sacre and Edith Mary Ellis. Referenced in ID 119's research leads as born ~1926. Not found on WikiTree, so less information available than siblings. 'Archie' may be a given name or short for Archibald.",
+      "source_citations": "Prior session notes for ID 119 (source 247)",
+      "interesting_facts": "",
+      "research_leads": [
+        "Verify identity — added from existing tree notes with no independent corroboration from WikiTree or other sources",
+        "Find birth registration GRO ~Q1-Q4 1926 Woolwich for Archie/Archibald Sacre",
+        "Search 1939 Register for Archie Sacre in Woolwich area"
+      ],
+      "confidence": "low",
+      "spouses": []
+    },
+    {
+      "id": 212,
+      "name": {
+        "first": "Olive",
+        "middle": "Ann Ada",
+        "last": "Sacre",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "",
+        "place": "Woolwich, London, England"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 121,
+      "mother_id": 122,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Daughter of Edwin William Sacre (ID 121) and Ann Alice Sacre (ID 122). Identified from MyHeritage search results. MyHeritage lists 3 children for Edwin and Ann Alice — Olive Ann Ada is the only one named in the search snippet.",
+      "source_citations": "MyHeritage search snippet — Edwin Sacre family records (source 247)",
+      "interesting_facts": "",
+      "research_leads": [
+        "Verify identity — added from single source (MyHeritage snippet) with weak corroboration",
+        "Find birth registration in GRO index — search Sacre births Woolwich ~1893-1910",
+        "Find Olive Ann Ada in 1901 or 1911 census with parents Edwin and Ann Alice"
+      ],
+      "confidence": "low",
+      "spouses": []
+    },
+    {
+      "id": 213,
+      "name": {
+        "first": "Jacob Friederich",
+        "middle": "",
+        "last": "Franck",
+        "maiden": "",
+        "aliases": [
+          "Jacob Friedrich Franck",
+          "Jacob Friedrich Frank"
+        ]
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1764",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany"
+      },
+      "death": {
+        "date": "1832",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany",
+        "cause": ""
+      },
+      "age_at_death": "~68",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Nordheim, Brackenheim, Württemberg, Germany",
+      "burial_place": "",
+      "father_id": 219,
+      "mother_id": 220,
+      "nationality_changes": "German",
+      "immigration": "",
+      "military_service": "",
+      "religion": "Lutheran",
+      "education": "",
+      "notes": "Kevin's paternal great-great-great-great-grandfather (gen 6). Father of Johannes Franck (ID 162). FamilySearch PID: 97LY-JVS. Married Anna Margaretha Mack 21 November 1785 in Nordheim. Born ~1764 in Nordheim, died ~1832 in Nordheim.",
+      "source_citations": "FamilySearch Family Tree 97LY-JVS",
+      "interesting_facts": "Grandfather of the immigrant Jacob Friedrich Franck (ID 70) who emigrated to New Jersey in 1853.",
+      "research_leads": [
+        "Access FamilySearch profile 97LY-JVS to find parents (gen 7)",
+        "Search Nordheim church records at Landeskirchliches Archiv Stuttgart for baptism ~1764"
+      ],
+      "confidence": "high",
+      "spouses": [
+        214
+      ]
+    },
+    {
+      "id": 214,
+      "name": {
+        "first": "Anna Margaretha",
+        "middle": "",
+        "last": "Mack",
+        "maiden": "Mack",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1764",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany"
+      },
+      "death": {
+        "date": "1834",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany",
+        "cause": ""
+      },
+      "age_at_death": "~70",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Nordheim, Brackenheim, Württemberg, Germany",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "German",
+      "immigration": "",
+      "military_service": "",
+      "religion": "Lutheran",
+      "education": "",
+      "notes": "Kevin's paternal great-great-great-great-grandmother (gen 6). Mother of Johannes Franck (ID 162). FamilySearch PID: MRBZ-6BF. Married Jacob Friederich Franck 21 November 1785 in Nordheim. Born ~1764, died ~1834 in Nordheim.",
+      "source_citations": "FamilySearch Family Tree MRBZ-6BF",
+      "interesting_facts": "",
+      "research_leads": [
+        "Access FamilySearch profile MRBZ-6BF to find parents (gen 7)",
+        "Search Nordheim church records for baptism ~1764 under surname Mack"
+      ],
+      "confidence": "high",
+      "spouses": [
+        213
+      ]
+    },
+    {
+      "id": 215,
+      "name": {
+        "first": "Johann Stephan",
+        "middle": "",
+        "last": "Rudolph",
+        "maiden": "",
+        "aliases": [
+          "Stephan Rudolph"
+        ]
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1731",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany"
+      },
+      "death": {
+        "date": "1808",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany",
+        "cause": ""
+      },
+      "age_at_death": "~77",
+      "occupation": "Anwalt (Lawyer)",
+      "marital_status": "Married",
+      "residence": "Nordheim, Brackenheim, Württemberg, Germany",
+      "burial_place": "",
+      "father_id": 221,
+      "mother_id": 222,
+      "nationality_changes": "German",
+      "immigration": "",
+      "military_service": "",
+      "religion": "Lutheran",
+      "education": "",
+      "notes": "Kevin's paternal great-great-great-great-grandfather (gen 6). Father of Christine Friederike Rudolph (ID 163). FamilySearch PID: KPH3-MQY. Occupation: Anwalt (Lawyer) in Nordheim. Married Susanna Margarethe von Olnhausen 20 April 1771 in Nordheim. Sources reference Family register of Nordheim and Church books of Nordheim from Landeskirchliches Archiv Stuttgart.",
+      "source_citations": "FamilySearch Family Tree KPH3-MQY; WikiTree Rudolph-116",
+      "interesting_facts": "Served as Anwalt (lawyer) in Nordheim, a town where the von Olnhausen family had held the positions of judge and mayor for generations.",
+      "research_leads": [
+        "Access FamilySearch profile KPH3-MQY to find parents (gen 7)",
+        "Search Nordheim church records for baptism ~1731"
+      ],
+      "confidence": "high",
+      "spouses": [
+        216
+      ]
+    },
+    {
+      "id": 216,
+      "name": {
+        "first": "Susanna Margarethe",
+        "middle": "",
+        "last": "von Olnhausen",
+        "maiden": "von Olnhausen",
+        "aliases": [
+          "Susanna Margaretha von Olnhausen"
+        ]
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1748-05-26",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany"
+      },
+      "death": {
+        "date": "1820-05-31",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany",
+        "cause": ""
+      },
+      "age_at_death": "72",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Nordheim, Brackenheim, Württemberg, Germany",
+      "burial_place": "",
+      "father_id": 217,
+      "mother_id": 218,
+      "nationality_changes": "German",
+      "immigration": "",
+      "military_service": "",
+      "religion": "Lutheran",
+      "education": "",
+      "notes": "Kevin's paternal great-great-great-great-grandmother (gen 6). Mother of Christine Friederike Rudolph (ID 163). FamilySearch PID: LZ8R-XKG. Married Johann Stephan Rudolph 20 April 1771 in Nordheim. The von Olnhausen family were originally knights (Heinz von Otting zu Olnhausen), later settled in Nordheim by 1661 when Johannes von Olnhausen (1640–1698) became town judge and blacksmith. Johann Conrad von Ohlhausen (1674–1757) served as judge and mayor of Nordheim.",
+      "source_citations": "FamilySearch Family Tree LZ8R-XKG; WikiTree Von_Olnhausen-1",
+      "interesting_facts": "Descended from the knightly von Olnhausen family who held the positions of judge and mayor in Nordheim for generations. Outlived her husband Stephan by 12 years.",
+      "research_leads": [
+        "Access FamilySearch profile LZ8R-XKG for additional details",
+        "Find Maria Barbara's maiden name from Nordheim church records"
+      ],
+      "confidence": "high",
+      "spouses": [
+        215
+      ]
+    },
+    {
+      "id": 217,
+      "name": {
+        "first": "Johann Bernhard",
+        "middle": "",
+        "last": "von Olnhausen",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany"
+      },
+      "death": {
+        "date": "",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Farmer",
+      "marital_status": "Married",
+      "residence": "Nordheim, Brackenheim, Württemberg, Germany",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "German",
+      "immigration": "",
+      "military_service": "",
+      "religion": "Lutheran",
+      "education": "",
+      "notes": "Kevin's paternal 3x great-great-grandfather (gen 7). Father of Susanna Margarethe von Olnhausen (ID 216). Occupation: Farmer (Bauer) in Nordheim. The von Olnhausen family were prominent in Nordheim — Johann Conrad von Ohlhausen (1674–1757) served as judge and mayor. Johann Christoph von Olnhausen (1737–1804) was also from Nordheim and may be a relative or sibling.",
+      "source_citations": "WikiTree Von_Olnhausen-1; Bettcher Family blog on von Olnhausen family",
+      "interesting_facts": "Member of the von Olnhausen family, originally knights who settled in Nordheim in 1661.",
+      "research_leads": [
+        "Find birth and death dates from Nordheim church records",
+        "Determine relationship to Johann Christoph von Olnhausen (1737–1804)",
+        "Search Nordheim family register for full family group"
+      ],
+      "confidence": "medium",
+      "spouses": [
+        218
+      ]
+    },
+    {
+      "id": 218,
+      "name": {
+        "first": "Maria Barbara",
+        "middle": "",
+        "last": "von Olnhausen",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Nordheim, Brackenheim, Württemberg, Germany",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "German",
+      "immigration": "",
+      "military_service": "",
+      "religion": "Lutheran",
+      "education": "",
+      "notes": "Kevin's paternal 3x great-great-grandmother (gen 7). Mother of Susanna Margarethe von Olnhausen (ID 216). Wife of Johann Bernhard von Olnhausen. Maiden name unknown — recorded only as 'Maria Barbara' in genealogical sources.",
+      "source_citations": "WikiTree Von_Olnhausen-1",
+      "interesting_facts": "",
+      "research_leads": [
+        "Find maiden name from Nordheim marriage records",
+        "Find birth and death dates from Nordheim church records"
+      ],
+      "confidence": "medium",
+      "spouses": [
+        217
+      ]
+    },
+    {
+      "id": 219,
+      "name": {
+        "first": "Gottfried",
+        "middle": "",
+        "last": "Franck",
+        "maiden": "",
+        "aliases": [
+          "Gottfried Frank"
+        ]
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1730",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany",
+        "source_ids": [
+          254
+        ]
+      },
+      "death": {
+        "date": "1785",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany",
+        "source_ids": [
+          254
+        ]
+      },
+      "father_id": null,
+      "mother_id": null,
+      "family_ids": [
+        "F76"
+      ],
+      "familysearch_pid": "MRBZ-7RD",
+      "notes": "Father of Jacob Friederich Franck (ID 213). Identified via FamilySearch tree page for ID 213 (97LY-JVS). Lived in Nordheim, Württemberg.",
+      "interesting_facts": "",
+      "research_leads": [],
+      "research_gaps": [
+        "Father",
+        "Mother"
+      ],
+      "spouses": [
+        220
+      ]
+    },
+    {
+      "id": 220,
+      "name": {
+        "first": "Magdalena",
+        "middle": "",
+        "last": "Brecht",
+        "maiden": "Brecht",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1732",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany",
+        "source_ids": [
+          254
+        ]
+      },
+      "death": {
+        "date": "1768",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany",
+        "source_ids": [
+          254
+        ]
+      },
+      "father_id": null,
+      "mother_id": null,
+      "family_ids": [
+        "F76"
+      ],
+      "familysearch_pid": "G4K1-FZD",
+      "notes": "Mother of Jacob Friederich Franck (ID 213). Identified via FamilySearch tree page for ID 213 (97LY-JVS). Died 1768 in Nordheim — when Jacob Friederich was about 4 years old.",
+      "interesting_facts": "",
+      "research_leads": [],
+      "research_gaps": [
+        "Father",
+        "Mother"
+      ],
+      "spouses": [
+        219
+      ]
+    },
+    {
+      "id": 221,
+      "name": {
+        "first": "Johann Peter",
+        "middle": "",
+        "last": "Rudolph",
+        "maiden": "",
+        "aliases": [
+          "Peter Rudolph"
+        ]
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1692",
+        "place": "",
+        "source_ids": [
+          255
+        ]
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "source_ids": []
+      },
+      "father_id": null,
+      "mother_id": null,
+      "family_ids": [
+        "F77"
+      ],
+      "familysearch_pid": "KZN5-1VX",
+      "notes": "Father of Johann Stephan Rudolph (ID 215). Identified via FamilySearch tree page for ID 215 (KPH3-MQY). Birth year 1692; death date and place unknown (listed as 'Deceased' on FamilySearch).",
+      "interesting_facts": "",
+      "research_leads": [],
+      "research_gaps": [
+        "Death date",
+        "Father",
+        "Mother"
+      ],
+      "spouses": [
+        222
+      ]
+    },
+    {
+      "id": 222,
+      "name": {
+        "first": "Anna Magdalena",
+        "middle": "",
+        "last": "Rueser",
+        "maiden": "Rueser",
+        "aliases": [
+          "Anna Magdalena Rüser"
+        ]
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1700",
+        "place": "",
+        "source_ids": [
+          255
+        ]
+      },
+      "death": {
+        "date": "1759",
+        "place": "",
+        "source_ids": [
+          255
+        ]
+      },
+      "father_id": null,
+      "mother_id": null,
+      "family_ids": [
+        "F77"
+      ],
+      "familysearch_pid": "LTFK-L93",
+      "notes": "Mother of Johann Stephan Rudolph (ID 215). Identified via FamilySearch tree page for ID 215 (KPH3-MQY). Born 1700, died 1759.",
+      "interesting_facts": "",
+      "research_leads": [],
+      "research_gaps": [
+        "Father",
+        "Mother"
+      ],
+      "spouses": [
+        221
+      ]
+    },
+    {
+      "id": 223,
+      "name": {
+        "first": "James",
+        "middle": "",
+        "last": "Richards",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1813",
+        "place": "Cripplegate, Middlesex, England",
+        "source_ids": [
+          256
+        ]
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "source_ids": []
+      },
+      "father_id": null,
+      "mother_id": null,
+      "family_ids": [
+        "F78"
+      ],
+      "familysearch_pid": "",
+      "notes": "Father of William Richards (ID 191, tinman). Identified via 1851 Census (FindMyPast GBC/1851/0004652309). Occupation: Tinman. Born ~1813 in Cripplegate, Middlesex (City of London). In 1851, lived in Christchurch parish, St Saviour Southwark, with wife Elizabeth and 8 children: James (17, tinman), William (12, our ancestor), Maria (11), Christian (8), George (7), Thomas (6), Edward (5), Alice (infant). The tinsmith trade passed from father to son — both James Sr. and James Jr. listed as tinmen.",
+      "interesting_facts": "Tinman by trade, same occupation as his son William (ID 191). Lived in Christchurch Southwark.",
+      "research_leads": [
+        "Search 1841 Census for James Richards (tinman, age ~28) in Christchurch Southwark — may show his parents",
+        "Search GRO marriage index for James Richards married ~1833 in Southwark/Rotherhithe — wife Elizabeth from Rotherhithe",
+        "Search GRO death index for James Richards (tinman) dying after 1851 in Southwark area"
+      ],
+      "research_gaps": [
+        "Death date",
+        "Father",
+        "Mother"
+      ],
+      "spouses": [
+        224
+      ]
+    },
+    {
+      "id": 224,
+      "name": {
+        "first": "Elizabeth",
+        "middle": "",
+        "last": "Richards",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1815",
+        "place": "Rotherhithe, Surrey, England",
+        "source_ids": [
+          256
+        ]
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "source_ids": []
+      },
+      "father_id": null,
+      "mother_id": null,
+      "family_ids": [
+        "F78"
+      ],
+      "familysearch_pid": "",
+      "notes": "Mother of William Richards (ID 191, tinman). Identified via 1851 Census (FindMyPast GBC/1851/0004652309). Born ~1815 in Rotherhithe, Surrey. Listed as 'At home' in 1851. Wife of James Richards (tinman). Maiden name unknown.",
+      "interesting_facts": "",
+      "research_leads": [
+        "Search GRO marriage index for James Richards and Elizabeth ~1833 in Southwark/Rotherhithe — would reveal maiden name",
+        "Search 1861 Census for James and Elizabeth Richards in Southwark"
+      ],
+      "research_gaps": [
+        "Death date",
+        "Father",
+        "Mother",
+        "Maiden name"
+      ],
+      "spouses": [
+        223
+      ]
     }
   ],
   "families": [
@@ -7261,7 +8920,6 @@
       "wife_id": 39,
       "marriage": {},
       "children": [
-        40,
         41
       ]
     },
@@ -7326,7 +8984,8 @@
       "marriage": {},
       "children": [
         23
-      ]
+      ],
+      "source_citations": "Source 244: NJ Births and Christenings — Kevin Frank born 1 Jul 1968"
     },
     {
       "id": "F9",
@@ -7547,8 +9206,15 @@
         "source": "NJ Marriages 1678-1985 (Source 209), FamilySearch ark:/61903/1:1:FZR6-CB7"
       },
       "children": [
-        35,
-        182
+        193,
+        194,
+        195,
+        196,
+        197,
+        182,
+        198,
+        199,
+        35
       ]
     },
     {
@@ -7630,7 +9296,7 @@
         "date": "1930-06-14",
         "place": "Batavia, Genesee, New York, United States",
         "officiant": "",
-        "source": "FamilySearch GS5B-S45 and GSR7-ZVH"
+        "source": "New York, County Marriages, 1778-1848; 1908-1937 (FamilySearch); FamilySearch tree GS5B-S45 and GSR7-ZVH. License date: 31 May 1930, Monroe, NY."
       },
       "children": [
         99,
@@ -7669,7 +9335,7 @@
         "date": "1906-05-14",
         "place": "New York, United States",
         "officiant": "",
-        "source": "FamilySearch GSRQ-TVL and GHD2-158"
+        "source": "FamilySearch tree GSRQ-TVL and GHD2-158; marriage 14 May 1906, New York"
       },
       "children": [
         94
@@ -7800,7 +9466,13 @@
         "source": "GRO Marriage Registration Index, Q1 1904, Vol. 1D, p. 1366 (FamilySearch ark:/61903/1:1:26QT-3GR)"
       },
       "children": [
-        59
+        206,
+        207,
+        59,
+        208,
+        209,
+        210,
+        211
       ]
     },
     {
@@ -7813,7 +9485,9 @@
         "officiant": "",
         "source": "England and Wales Census 1911 — duration of marriage indicates ~1892 (FamilySearch, source 100) NOTE: Edwin W G Sacre (ID 119) is NOT a child of this marriage — he is from Edwin's first marriage to Harriet Gurr (F44). Corrected session 13, 2026-03-30."
       },
-      "children": []
+      "children": [
+        212
+      ]
     },
     {
       "id": "F42",
@@ -7939,7 +9613,10 @@
         "officiant": "",
         "source": "Virginia Bureau of Vital Statistics ark:/61903/1:1:Z2N9-TNPZ"
       },
-      "children": []
+      "children": [
+        204,
+        205
+      ]
     },
     {
       "id": "F51",
@@ -8087,10 +9764,10 @@
       "husband_id": 183,
       "wife_id": 184,
       "marriage": {
-        "date": "~1889",
+        "date": "1893-Q2",
         "place": "Lambeth, London, England",
         "officiant": "",
-        "source": "Estimated from eldest child Henry born ~1890"
+        "source": "GRO Marriage Registration Index: William Richards & Sarah Parsons, Q2 1893 (Apr-May-Jun), Lambeth, Vol 1D, p 709. (Source 230)"
       },
       "children": [
         185,
@@ -8108,6 +9785,232 @@
         "source": ""
       },
       "children": []
+    },
+    {
+      "id": "F63",
+      "husband_id": 187,
+      "wife_id": 13,
+      "marriage": {
+        "date": "1906-04-14",
+        "place": "Maine, United States",
+        "officiant": "",
+        "source": "FamilySearch Family Tree LYMX-55H, KHC2-PTV"
+      },
+      "children": []
+    },
+    {
+      "id": "F64",
+      "husband_id": 15,
+      "wife_id": 189,
+      "marriage": {
+        "date": "1922-06-28",
+        "place": "North Attleboro, Bristol, Massachusetts, United States",
+        "officiant": "",
+        "source": "FamilySearch Family Tree LYMX-G3L, KGZG-7JQ"
+      },
+      "children": []
+    },
+    {
+      "id": "F65",
+      "husband_id": 15,
+      "wife_id": 190,
+      "marriage": {
+        "date": "~1944",
+        "place": "Maine, United States",
+        "officiant": "",
+        "source": "FamilySearch Family Tree LYMX-G3L, GXG1-HN7"
+      },
+      "children": []
+    },
+    {
+      "id": "F66",
+      "husband_id": 191,
+      "wife_id": 192,
+      "marriage": {
+        "date": "~1863",
+        "place": "Lambeth or Southwark, London, England",
+        "officiant": "",
+        "source": "Estimated from eldest child Mary born ~1865"
+      },
+      "children": [
+        183
+      ]
+    },
+    {
+      "id": "F67",
+      "husband_id": 196,
+      "wife_id": null,
+      "marriage": {
+        "date": "",
+        "place": "",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [],
+      "notes": "Spouse: Edith M Hughes (1902-1988, FamilySearch GTSS-QPF). Not added as individual — not in direct ancestral line. Had 6 children per FamilySearch tree."
+    },
+    {
+      "id": "F68",
+      "husband_id": 197,
+      "wife_id": null,
+      "marriage": {
+        "date": "1923-01-09",
+        "place": "New Jersey",
+        "officiant": "",
+        "source": "FamilySearch tree GDT8-CWZ (Source 226)"
+      },
+      "children": [],
+      "notes": "Spouse: Emma B Lord (1900-1989, FamilySearch K2XD-PBL). Not added as individual — not in direct ancestral line. Had 6 children per FamilySearch tree."
+    },
+    {
+      "id": "F69",
+      "husband_id": 198,
+      "wife_id": null,
+      "marriage": {
+        "date": "1938",
+        "place": "New Jersey",
+        "officiant": "",
+        "source": "FamilySearch tree GDT8-4JK (Source 226)"
+      },
+      "children": [],
+      "notes": "Spouse: Eva Vesta Perry (1898-1987, FamilySearch KLS8-PT8). Not added as individual — not in direct ancestral line."
+    },
+    {
+      "id": "F70",
+      "husband_id": 199,
+      "wife_id": null,
+      "marriage": {
+        "date": "1935",
+        "place": "New Jersey",
+        "officiant": "",
+        "source": "FamilySearch tree GDT8-J4F (Source 226)"
+      },
+      "children": [],
+      "notes": "Spouse: Evelyn Hilda Johns (1914-2003, FamilySearch GX6C-Z9Y). Not added as individual — not in direct ancestral line. Albert also had second wife Marion Frank (1914-Deceased, G6GK-GD6)."
+    },
+    {
+      "id": "F71",
+      "husband_id": 200,
+      "wife_id": 201,
+      "marriage": {
+        "date": "~1854",
+        "place": "Schuyler County, New York (estimated)",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        172
+      ]
+    },
+    {
+      "id": "F72",
+      "husband_id": 202,
+      "wife_id": 203,
+      "marriage": {
+        "date": "1825",
+        "place": "Dix, Schuyler, New York, United States",
+        "officiant": "",
+        "source": "FamilySearch G86K-RRD"
+      },
+      "children": [
+        200
+      ]
+    },
+    {
+      "id": "F73",
+      "husband_id": 213,
+      "wife_id": 214,
+      "marriage": {
+        "date": "1785-11-21",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany",
+        "officiant": "",
+        "source": "FamilySearch 97LY-JVS"
+      },
+      "children": [
+        162
+      ]
+    },
+    {
+      "id": "F74",
+      "husband_id": 215,
+      "wife_id": 216,
+      "marriage": {
+        "date": "1771-04-20",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany",
+        "officiant": "",
+        "source": "FamilySearch KPH3-MQY"
+      },
+      "children": [
+        163
+      ]
+    },
+    {
+      "id": "F75",
+      "husband_id": 217,
+      "wife_id": 218,
+      "marriage": {
+        "date": "",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        216
+      ]
+    },
+    {
+      "id": "F76",
+      "husband_id": 219,
+      "wife_id": 220,
+      "marriage": {
+        "date": "",
+        "place": "Nordheim, Brackenheim, Württemberg, Germany",
+        "source_ids": [
+          254
+        ]
+      },
+      "children_ids": [
+        213
+      ],
+      "source_ids": [
+        254
+      ]
+    },
+    {
+      "id": "F77",
+      "husband_id": 221,
+      "wife_id": 222,
+      "marriage": {
+        "date": "",
+        "place": "",
+        "source_ids": [
+          255
+        ]
+      },
+      "children_ids": [
+        215
+      ],
+      "source_ids": [
+        255
+      ]
+    },
+    {
+      "id": "F78",
+      "husband_id": 223,
+      "wife_id": 224,
+      "marriage": {
+        "date": "~1833",
+        "place": "Southwark or Rotherhithe, Surrey, England",
+        "source_ids": [
+          256
+        ]
+      },
+      "children_ids": [
+        191
+      ],
+      "source_ids": [
+        256
+      ]
     }
   ],
   "sources": [
@@ -10016,6 +11919,368 @@
       "location": "London, England",
       "url": "https://www.familysearch.org/ark:/61903/1:1:QVZQ-7131",
       "notes": "Confirms exact birth date 15 June 1908. Death registered in London, consistent with existing death date of 10 October 1982."
+    },
+    {
+      "id": 218,
+      "type": "FamilySearch Family Tree",
+      "description": "Ida Ethel Frost — FamilySearch PID LYMX-TXG. Full vitals: birth Feb 1881 Maine, death 31 Jan 1961 Bangor ME, burial Hill Crest Cemetery Lagrange. 8 attached sources including censuses 1900-1950.",
+      "date": "2026-04-01",
+      "location": "",
+      "url": "https://www.familysearch.org/tree/person/details/LYMX-TXG",
+      "notes": "Marital status: Single. Companion: Eva Louise Grant (M5D8-WSM). Residences include Cleveland OH 1930-1940."
+    },
+    {
+      "id": 219,
+      "type": "FamilySearch Family Tree",
+      "description": "Edith I Frost — FamilySearch PID LYMX-55H. Full vitals: birth 22 Nov 1882 Maine, death 29 Dec 1947 Maine, burial Penobscot ME. 11 attached sources including censuses 1900-1940 and marriage.",
+      "date": "2026-04-01",
+      "location": "",
+      "url": "https://www.familysearch.org/tree/person/details/LYMX-55H",
+      "notes": "Married Frank Albert Wilder 14 Apr 1906. Lived in Milo, Piscataquis ME 1910-1940."
+    },
+    {
+      "id": 220,
+      "type": "FamilySearch Family Tree",
+      "description": "Rychie Elba Frost — FamilySearch PID KG35-SQM. Full vitals: birth 9 Jun 1885 Lagrange ME, death 12 Apr 1988 Howland ME, burial Hill Crest Cemetery. 12 attached sources including censuses 1900-1950.",
+      "date": "2026-04-01",
+      "location": "",
+      "url": "https://www.familysearch.org/tree/person/details/KG35-SQM",
+      "notes": "Marital status: Single. Lived to 102. SS claim 10 Jul 1950."
+    },
+    {
+      "id": 221,
+      "type": "FamilySearch Family Tree",
+      "description": "Lewis Edmund Frost — FamilySearch PID LYMX-G3L. Full vitals: birth 4 Mar 1890 Orneville Twp ME, death 12 Jul 1962 Bangor ME, burial Hill Crest Cemetery 1962. 20 attached sources.",
+      "date": "2026-04-01",
+      "location": "",
+      "url": "https://www.familysearch.org/tree/person/details/LYMX-G3L",
+      "notes": "Two marriages: (1) Vera Louise Smith 1922, (2) Angelina Cora Moyen after 1944. WWI and WWII military records."
+    },
+    {
+      "id": 222,
+      "type": "FamilySearch Family Tree",
+      "description": "Eva May Frost — FamilySearch PID LYMF-MTF. Full vitals: birth 27 May 1892 Orneville Twp ME, death 1977, burial Penobscot ME. 8 attached sources.",
+      "date": "2026-04-01",
+      "location": "",
+      "url": "https://www.familysearch.org/tree/person/details/LYMF-MTF",
+      "notes": "No spouse or children. Residences: Bangor 1900-1910."
+    },
+    {
+      "id": 223,
+      "type": "FamilySearch Family Tree",
+      "description": "Frank Albert Wilder — FamilySearch PID KHC2-PTV. Full vitals: birth 29 Oct 1882 Greene ME, death 27 Jan 1944 Maine, burial Lagrange ME. 14 attached sources.",
+      "date": "2026-04-01",
+      "location": "",
+      "url": "https://www.familysearch.org/tree/person/details/KHC2-PTV",
+      "notes": "Married Edith I Frost 1906. Parents: Lewis Horton Wilder & Abbie Jane Sprague. Lived in Milo ME."
+    },
+    {
+      "id": 224,
+      "type": "Census",
+      "description": "England and Wales Census 1881 — William Richards household, St George The Martyr Southwark, London. Head: William Richards, age 42, Tinman, born Southwark. Wife: Mary Ann Richards, age 38, born Lambeth. Children at home: Mary (16), William (15, scholar), Eliza (13), Emma (8), James (4), Betsy (2) — all born Lambeth. Piece/Folio 522/76, RG11.",
+      "date": "1881-04-03",
+      "location": "St George The Martyr Southwark, London, Surrey, England",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:Q27Q-QPVS",
+      "notes": "William Richards (son, age 15) is the same family line as the 1901/1911 Lambeth census household. FamilySearch tree links: son GT3T-MSY, father LXQS-P1Y, mother LXQS-SM5 (GT3R-34W)."
+    },
+    {
+      "id": 225,
+      "type": "Census",
+      "description": "United States Census 1940 — I Joseph Frank, Head, M, age 24, married, born NJ. Wife: E Mildred Frank, F, age 21, born NJ. Daughter: M Mildred Frank, F, age 0, born NJ. Residence: Bridgeport, Logan Township, Gloucester, NJ. Enumeration District 8-24. (FamilySearch ark:/61903/1:1:K4RH-NQ7)",
+      "date": "1940",
+      "location": "Logan Township, Gloucester, NJ",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:K4RH-NQ7",
+      "notes": "Joseph listed as 'I Joseph Frank'. Wife as 'E Mildred Frank'. Daughter 'M Mildred Frank' age 0 — born ~1940."
+    },
+    {
+      "id": 226,
+      "type": "FamilySearch Tree",
+      "description": "FamilySearch Family Tree profiles for children of William B. Frank (G6GV-XYH) and Mary E. Farnkopf (G7NJ-TCW): William T Frank (GDT8-N44), Laura Frank (GDT8-JY7), Augustus Frank (L7HZ-XH4), Harry D/H Frank (GDT8-CW3 / GTSS-QP6), George Reed Frank (GDT8-CWZ), Anna Elizabeth Croft Frank (GDT8-4VV), Warren DuBois Frank (GDT8-4JK), Albert Jacob Frank (GDT8-J4F), Joseph Franklin Frank (GDT8-FWZ). Accessed 2026-04-01.",
+      "date": "2026-04-01",
+      "location": "",
+      "url": "https://www.familysearch.org/tree/person/details/G6GV-XYH",
+      "notes": "Multiple tree profiles reviewed for dates, places, spouses, and burial information. Harry D Frank (GDT8-CW3) and Harry H Frank (GTSS-QP6) appear to be duplicate profiles for the same individual."
+    },
+    {
+      "id": 227,
+      "type": "FindAGrave",
+      "description": "FindAGrave — Warren DuBois Frank, First Baptist Church Cemetery, Pedricktown, Salem County, NJ. Birth 12 Aug 1908, Death 13 Aug 1966.",
+      "date": "2026-04-01",
+      "location": "Pedricktown, Salem County, NJ",
+      "url": "https://www.findagrave.com/memorial/search?firstname=warren&middlename=dubois&lastname=frank",
+      "notes": "Burial location confirmed at Pedricktown, not Bridgeport Cemetery like parents."
+    },
+    {
+      "id": 228,
+      "type": "FamilySearch Tree",
+      "description": "FamilySearch Family Tree — Mildred Elsie Lewis (GPZ3-8HB). Birth: 5 July 1918, Clarksboro, East Greenwich Township, Gloucester, NJ. Death: 26 February 2007. Parents: Roswell Eldridge Lewis (M46N-HXT, 1891-1968) and Muriel Helena Bickford (KGNR-86G, 1891-1962). Siblings: Muriel D Lewis (1914-2011), Roswell Eldridge Lewis Jr (1917-2005). Accessed 2026-04-01.",
+      "date": "2026-04-01",
+      "location": "",
+      "url": "https://www.familysearch.org/tree/person/details/GPZ3-8HB",
+      "notes": "Confirms Mildred's full name, DOB, birthplace Clarksboro, and parentage. FamilySearch PID: GPZ3-8HB."
+    },
+    {
+      "id": 229,
+      "type": "Census",
+      "description": "England and Wales Census 1891 — William Richards, Head, age 52, Iron & Tin Plate Worker, born London. Wife: Mary, age 50, born London. Children: Eliza (24), William (22), Emma (19), James (14), Betsy (12). All born London. St George The Martyr Southwark, Southwark, London. Registration District: St Saviour Southwark. Piece/Folio: 344/161, RG12. Household ID 655715.",
+      "date": "1891",
+      "location": "St George The Martyr Southwark, London, England",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:QHF8-GMM",
+      "notes": "Confirms tinman William Richards (ID 191) and family still in same Southwark location as 1881. Son William (ID 183) age 22 still at home with no wife — he was not yet married to Sarah. FamilySearch tree match: LXQS-P1Y."
+    },
+    {
+      "id": 230,
+      "type": "Marriage Registration",
+      "description": "England and Wales Marriage Registration Index — William Richards married Sarah Parsons, Q2 1893 (Apr-May-Jun), Lambeth, London. Vol 1D, p 709.",
+      "date": "1893-Q2",
+      "location": "Lambeth, London, England",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:2DFN-C1R (William) and ark:/61903/1:1:2DFN-9DZ (Sarah)",
+      "notes": "Cross-referenced: both William Richards and Sarah Parsons entries share identical Vol 1D, p 709, Q2 1893, Lambeth — confirming they married each other. Possible co-registrants also listed (Alice Davies, William Sturgeon) but the Richards-Parsons pairing is confirmed by the matching page numbers. Reveals Sarah's maiden name as PARSONS. From 'England & Wales Marriages, 1837-2005' via findmypast, sourced from General Register Office, Southport."
+    },
+    {
+      "id": 231,
+      "type": "Death Registration (tentative)",
+      "description": "England and Wales Death Registration Index — William Richards, age 59, 1899, St. Saviour Southwark, London. Vol 1D, p 64.",
+      "date": "1899",
+      "location": "St. Saviour Southwark, London, England",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:2J55-1TQ",
+      "notes": "TENTATIVE match for William Richards the tinman (ID 191). Age 59 gives birth ~1840, close to ~1839 from census records. Same registration district (St Saviour Southwark) as 1891 census. However, William Richards is a common name — needs verification via GRO death certificate order. Not yet linked to tree individual."
+    },
+    {
+      "id": 232,
+      "type": "Census",
+      "description": "United States Census 1860 — Anna Everetts, age 3, in household of Alanthus W Everetts (31, NY) and Harriet M Everetts (28, NY), Dix, Schuyler County, NY. Also in household: Mary Everetts (6), James Everetts (4), Polly L Crawford (29), Harriet M Crawford (3). Page 39, NARA M653.",
+      "date": "1860",
+      "location": "Dix, Schuyler, New York",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:MC48-24S",
+      "notes": "Surname indexed as 'Everetts' — exact match to maiden name in tree. Attached to FamilySearch tree person GN1Q-71S (Anna M. Everts)."
+    },
+    {
+      "id": 233,
+      "type": "Census",
+      "description": "United States Census 1870 — Anna Everet, age 13, in household of Aranthus Everet (47, NY) and Harriette Everet (38, NY), Havana (Montour), Schuyler County, NY. Siblings: Mary (16), James (15), Hannah (9), Eva (4), Effa (4), Aranthus (1). Household 7, Line 37, Page 1, NARA M593.",
+      "date": "1870",
+      "location": "Montour, Schuyler, New York",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:M8KD-H46",
+      "notes": "Surname indexed as 'Everet'. Citation: Entry for Aranthus Everet and Harriette Everet, 1870. Attached to FamilySearch tree person GN1Q-71S."
+    },
+    {
+      "id": 234,
+      "type": "Census",
+      "description": "United States Census 1880 — Anna M. Everts, age 23, single, occupation 'At Home', daughter, in household of Aranthus W. Everts (51, NY) and Harriet Everts (47, NY), Montour, ED 149, Schuyler County, NY. Siblings in household: James L (24), Hannah (19), Alpha E (14), Eva C (14), Aranthus W (11), Clara H (7). Father's birthplace: NY. Mother's birthplace: NY. Sheet A, #388.",
+      "date": "1880",
+      "location": "Montour, Schuyler, New York",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:MZFP-42M",
+      "notes": "CRITICAL: Anna M. Everts listed as SINGLE in 1880, still living with parents. She married Franklin Miller ~1881 after this census. Attached to FamilySearch tree person GN1Q-71S."
+    },
+    {
+      "id": 235,
+      "type": "Census",
+      "description": "United States Census 1860 — John F Miller, age 5, born ~1855, New York, in household of Mary Miller (45, Connecticut) as head, William Miller (36, NY), Emmeline Miller (19, NY), Harrison Miller (17, NY), Mary L Miller (8, NY). Catharine, Schuyler County, NY. Page 43, NARA M653.",
+      "date": "1860",
+      "location": "Catharine, Schuyler, New York",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:MC4D-H6J",
+      "notes": "John F Miller (age 5, born ~1855) is likely our Franklin J Miller (ID 171). 'John F' could be John Franklin or Franklin with middle initial J. Catharine township is adjacent to Hector in Schuyler County. No 'Robert' or 'Lucy' in this household — conflicts with NUMIDENT parent names."
+    },
+    {
+      "id": 236,
+      "type": "Birth Registration Index",
+      "description": "England and Wales Birth Registration Index — Sarah J Parsons, Q4 1866 (Oct-Nov-Dec), St. Saviour Southwark, London. Vol 1D, Page 13. Citing General Register Office, Southport, England. Via findmypast.",
+      "date": "1866",
+      "location": "St. Saviour Southwark, London, England",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:2XSC-VDZ",
+      "notes": "Birth registration for Sarah J Parsons (later Sarah Richards, ID 184). St. Saviour Southwark is the same registration district as the Richards tinman family."
+    },
+    {
+      "id": 237,
+      "type": "Census",
+      "description": "England and Wales Census 1891 — Sarah Parsons, Head, Female, age 25, Widowed, Washer, born Surrey. Son: Henry Parsons, Male, age 1, born Surrey. Lambeth, London. Enumeration District 28, Piece/Folio 401/109, RG12. Household 760295.",
+      "date": "1891",
+      "location": "Lambeth, London, England",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:QC6P-BT2",
+      "notes": "Sarah Parsons (future Sarah Richards, ID 184) living as head of household in Lambeth with infant son Henry Parsons (future Henry Richards, ID 185). Listed as 'widowed' — likely a social convention; no prior marriage record found. FamilySearch tree PID 9WF8-QGF."
+    },
+    {
+      "id": 238,
+      "type": "Birth Registration Index",
+      "description": "England and Wales Birth Registration Index — Henry Hector Parsons, Q2 1890 (Apr-May-Jun), Lambeth, London. Vol 1D, Page 390. Citing General Register Office, Southport, England. Via findmypast.",
+      "date": "1890",
+      "location": "Lambeth, London, England",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:2XY1-XNG",
+      "notes": "Birth registration for Henry Hector Parsons (later Henry Richards, ID 185). Registered under mother's maiden name. FamilySearch tree PID 9WF8-QLG."
+    },
+    {
+      "id": 239,
+      "type": "Marriage Record",
+      "description": "New York, County Marriages, 1778-1848; 1908-1937 — Karl F Miller and Bernice F Bailey, marriage recorded 31 May 1930 and 14 June 1930, Monroe, New York. Parents listed: Robt L Miller, Belle Curtis.",
+      "date": "1930-06-14",
+      "location": "Monroe, New York",
+      "url": "FamilySearch Historical Records",
+      "notes": "Two entries found: 31 May 1930 (with parents named) and 14 June 1930. The 31 May date may be the license; 14 June the ceremony. FamilySearch tree says Batavia, Genesee, NY — Batavia is the county seat of Genesee County, adjacent to Monroe County."
+    },
+    {
+      "id": 240,
+      "type": "1939 Register",
+      "description": "1939 Register of England and Wales — William Richards, birth year 1902, residing at 196 Quinn Square, Waterloo, Lambeth, borough of Southwark, London, England. Recorded 29 September 1939.",
+      "date": "1939-09-29",
+      "location": "196 Quinn Square, Waterloo, Lambeth, London",
+      "url": "Findmypast 1939 Register",
+      "notes": "Matches William Joshua M Richards (ID 60) — birth year 1902, south London residence consistent with known pattern. Southwark borough aligns with his children born in Southwark area in 1930s."
+    },
+    {
+      "id": 241,
+      "type": "Census",
+      "description": "US Census 1910 — Carl F Miller, age 4, Truxton, Cortland, New York. Household of Robert L Miller and Belle C Miller. Sibling: Arland Miller.",
+      "date": "1910",
+      "location": "Truxton, Cortland, New York",
+      "url": "FamilySearch Historical Records",
+      "notes": ""
+    },
+    {
+      "id": 242,
+      "type": "Census",
+      "description": "US Census 1920 — Carl F Miller, age 15, Tioga, New York. Household of Robert L Miller and Belle C Miller. Siblings: Walter E, Anna A, Charles I, Ethel J, Robert G Miller.",
+      "date": "1920",
+      "location": "Tioga, New York",
+      "url": "FamilySearch Historical Records",
+      "notes": ""
+    },
+    {
+      "id": 243,
+      "type": "Census",
+      "description": "US Census 1930 — Carl F Miller, age 25, Ashland, Chemung, New York. Household of Robert L Miller and Belle C Miller. Siblings: Anna E, Walter E, Doris A, Arland C, Robert G, Ella L, Stuart E, Ethel I Miller.",
+      "date": "1930",
+      "location": "Ashland, Chemung, New York",
+      "url": "FamilySearch Historical Records",
+      "notes": "Karl was still living with parents at age 25, before his June 1930 marriage to Bernice."
+    },
+    {
+      "id": 244,
+      "title": "NJ Births and Christenings — Kevin Frank",
+      "type": "vital record",
+      "repository": "FamilySearch",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:Q2SZ-5XN6",
+      "date_accessed": "2026-04-01",
+      "notes": "Child 'Frank', born 1 Jul 1968, Woodbury, Gloucester, NJ. Father: Lewis Frank. Mother: Mrs. Lewis Frank. Confirmed by Kevin Frank as his birth record."
+    },
+    {
+      "id": 245,
+      "title": "FamilySearch Tree — Kevin-side research session",
+      "type": "online tree",
+      "repository": "FamilySearch",
+      "url": "",
+      "date_accessed": "2026-04-01",
+      "notes": "Session 13 review of FamilySearch tree profiles for Joseph Franklin Frank (GDT8-FWZ), Mildred Elsie Lewis (GPZ3-8HB), Clifton Eugene Whitney (L6B6-TFD), Mary Elizabeth Mosher (GSVM-7J6), William G Whitney (9V4H-Z8Q), Maye Mildred Farrington (LWRW-D8V), James Albert Mosher (L4CB-9V9), Elsie E Frost (LBDR-KS4). Verified existing PIDs and sibling data. No new individuals needed — Eleanor Mosher (GBKF-9VP), Barbara Mosher/DeWolfe (P7FX-4ZP), Laurel Whitney (LBRZ-M84) already in tree."
+    },
+    {
+      "id": 246,
+      "type": "Census Analysis",
+      "description": "Children of Douglas B Lewis and Irene A Harvey identified from 1930, 1940, and 1950 US Census records as documented in FamilySearch GXTR-2VQ and prior research session (2026-03-31). Anna K Lewis first appears in 1930 census; D Harvey Lewis first appears in 1940 census.",
+      "date": "2026-04-02",
+      "location": "East Greenwich Township, Gloucester County, New Jersey",
+      "url": "",
+      "notes": "Children extracted from census data already captured in Douglas B Lewis notes. Original census ARKs pending verification via FamilySearch when accessible."
+    },
+    {
+      "id": 247,
+      "type": "WikiTree / Web Search",
+      "description": "WikiTree Sacre Genealogy page (wikitree.com/genealogy/SACRE) — profiles managed by Sarah Black, last edited 12 Sep 2022. Cross-referenced with MyHeritage search snippets. Dates and places for children of Edwin W G Sacre and Edith Mary Ellis confirmed across multiple WikiTree profiles.",
+      "date": "2026-04-02",
+      "location": "",
+      "url": "https://www.wikitree.com/genealogy/SACRE",
+      "notes": "WikiTree and MyHeritage were blocked by egress proxy; data extracted from search engine result snippets which included structured genealogical data."
+    },
+    {
+      "id": 248,
+      "type": "FamilySearch Family Tree",
+      "title": "Jacob Friederich Franck — FamilySearch Family Tree",
+      "url": "https://www.familysearch.org/tree/person/details/97LY-JVS",
+      "accessed": "2026-04-02",
+      "details": "FamilySearch PID 97LY-JVS. Father of Johannes Franck (KHP1-Q73). Born ~1764 Nordheim, died ~1832 Nordheim. Married Anna Margaretha Mack 21 Nov 1785.",
+      "individuals": [
+        213
+      ]
+    },
+    {
+      "id": 249,
+      "type": "FamilySearch Family Tree",
+      "title": "Anna Margaretha Mack — FamilySearch Family Tree",
+      "url": "https://www.familysearch.org/tree/person/details/MRBZ-6BF",
+      "accessed": "2026-04-02",
+      "details": "FamilySearch PID MRBZ-6BF. Mother of Johannes Franck (KHP1-Q73). Born ~1764 Nordheim, died ~1834 Nordheim.",
+      "individuals": [
+        214
+      ]
+    },
+    {
+      "id": 250,
+      "type": "FamilySearch Family Tree",
+      "title": "Johann Stephan Rudolph — FamilySearch Family Tree",
+      "url": "https://www.familysearch.org/tree/person/details/KPH3-MQY",
+      "accessed": "2026-04-02",
+      "details": "FamilySearch PID KPH3-MQY. Father of Christine Friederike Rudolph (941J-3L5). Anwalt (Lawyer) in Nordheim. Born ~1731, died ~1808. Married Susanna Margarethe von Olnhausen 20 Apr 1771.",
+      "individuals": [
+        215
+      ]
+    },
+    {
+      "id": 251,
+      "type": "FamilySearch Family Tree",
+      "title": "Susanna Margarethe von Olnhausen — FamilySearch Family Tree",
+      "url": "https://www.familysearch.org/tree/person/details/LZ8R-XKG",
+      "accessed": "2026-04-02",
+      "details": "FamilySearch PID LZ8R-XKG. Mother of Christine Friederike Rudolph (941J-3L5). Born 26 May 1748 Nordheim, died 31 May 1820 Nordheim. Daughter of farmer Johann Bernhard von Olnhausen and Maria Barbara.",
+      "individuals": [
+        216
+      ]
+    },
+    {
+      "id": 252,
+      "type": "WikiTree",
+      "title": "Susanna Margaretha (von Olnhausen) Rudolph — WikiTree",
+      "url": "https://www.wikitree.com/wiki/Von_Olnhausen-1",
+      "accessed": "2026-04-02",
+      "details": "WikiTree profile confirming Susanna Margaretha von Olnhausen (1748-1820), daughter of farmer Johann Bernhard von Olnhausen and Maria Barbara. Married Stephan Rudolph, Anwalt, in Nordheim 20 Apr 1771.",
+      "individuals": [
+        216,
+        217,
+        218
+      ]
+    },
+    {
+      "id": 253,
+      "type": "WikiTree",
+      "title": "Stephan Rudolph (1731-1808) — WikiTree",
+      "url": "https://www.wikitree.com/wiki/Rudolph-116",
+      "accessed": "2026-04-02",
+      "details": "WikiTree profile for Stephan Rudolph (1731-1808), Anwalt in Nordheim. Sources: Family register of Nordheim and Church books of Nordheim, Landeskirchliches Archiv Stuttgart.",
+      "individuals": [
+        215
+      ]
+    },
+    {
+      "id": 254,
+      "title": "FamilySearch Family Tree — Gottfried Franck (MRBZ-7RD) and Magdalena Brecht (G4K1-FZD)",
+      "type": "online_tree",
+      "url": "https://www.familysearch.org/tree/person/details/97LY-JVS",
+      "accessed": "2026-04-02",
+      "notes": "Parents of Jacob Friederich Franck (97LY-JVS) identified on his FamilySearch tree page."
+    },
+    {
+      "id": 255,
+      "title": "FamilySearch Family Tree — Johann Peter Rudolph (KZN5-1VX) and Anna Magdalena Rueser (LTFK-L93)",
+      "type": "online_tree",
+      "url": "https://www.familysearch.org/tree/person/details/KPH3-MQY",
+      "accessed": "2026-04-02",
+      "notes": "Parents of Johann Stephan Rudolph (KPH3-MQY) identified on his FamilySearch tree page."
+    },
+    {
+      "id": 256,
+      "title": "1851 Census — James Richards household, Christchurch, St Saviour Southwark",
+      "type": "census",
+      "url": "https://www.findmypast.com/transcript?id=GBC/1851/0004652309",
+      "accessed": "2026-04-02",
+      "notes": "FindMyPast transcript GBC/1851/0004652309. HO107, Piece 1558. James Richards (38, tinman, b. Cripplegate) with wife Elizabeth (36, b. Rotherhithe) and 8 children incl. William (12, b. Christchurch Surrey). Also found 1871 Census (GBC/1871/0003870524) confirming William Richards as Head, age 30, Tin plate worker, born Christ Church Surrey, in St Mary Newington, St Saviour Southwark."
     }
   ]
 }

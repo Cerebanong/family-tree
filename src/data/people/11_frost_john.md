@@ -9,7 +9,7 @@
 ## Family
 - **Father:** John Lyman Frost
 - **Mother:** Carrie Wilder Storer
-- **Siblings:** Ida Ethel Frost, Edith Izola Frost, Rychie Elba Frost, Lewis Edmond Frost, Eva May Frost, Elsie E. Frost
+- **Siblings:** Ida Ethel Frost, Edith I Frost, Rychie Elba Frost, Lewis Edmund Frost, Eva May Frost, Elsie E. Frost
 
 ## Sources
 FindAGrave

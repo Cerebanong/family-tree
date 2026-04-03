@@ -11,7 +11,7 @@
 - **Father:** Augustus Farnkopf
 - **Mother:** Mary Ann Haverly
 - **Spouse:** William Biddle Frank (m. 1895-04-01, Woolwich Township, Gloucester County, New Jersey)
-  - **Children:** Joseph Franklin Frank, Anna S Craft
+  - **Children:** William T Frank, Laura Frank, Augustus Frank, Harry Henry Frank, George Reed Frank, Anna Elizabeth Croft, Warren DuBois Frank, Albert Jacob Frank, Joseph Franklin Frank
 
 ## Sources
 FamilySearch G7NJ-TCW (14 sources); NJ Deaths and Burials 1720-1988; NJ Marriages 1678-1985 as 'Mary E. Farenkopf' (Source 209); FindAGrave #118358084 with obituary (Source 211); 1920 US Census as 'Mary L Frank' (Source 212)

@@ -11,7 +11,7 @@
 - **Mother:** Carrie Wilder Storer
 - **Spouse:** James Albert Mosher (m. 1916-09-02, Bangor, Penobscot County, ME)
   - **Children:** Mary Elizabeth Mosher, Eleanor F Mosher, Barbara Louise DeWolfe
-- **Siblings:** John Andrew Frost, Ida Ethel Frost, Edith Izola Frost, Rychie Elba Frost, Lewis Edmond Frost, Eva May Frost
+- **Siblings:** John Andrew Frost, Ida Ethel Frost, Edith I Frost, Rychie Elba Frost, Lewis Edmund Frost, Eva May Frost
 
 ## Sources
 FamilySearch LBDR-KS4 (18 sources); US Census 1900, 1910, 1920, 1930, 1940; Mount Hope Cemetery records

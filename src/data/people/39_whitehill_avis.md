@@ -10,7 +10,7 @@
 - **Father:** Unknown
 - **Mother:** Unknown
 - **Spouse:** Bert E Lewis
-  - **Children:** Irma M Lewis, Elizabeth Gale Lewis
+  - **Children:** Elizabeth Gale Lewis
 
 ## Sources
 FindAGrave #243226788; Barton Chronicle obituary for Elizabeth G Lewis (Sept 23, 2015)

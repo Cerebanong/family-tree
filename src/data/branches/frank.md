@@ -1,25 +1,31 @@
 # Frank Branch
 
-**Individuals:** 12 | **With birth dates:** 9/12 | **With sources:** 6/12 | **Avg completeness:** 77%
+**Individuals:** 19 | **With birth dates:** 17/19 | **With sources:** 14/19 | **Avg completeness:** 86%
 
 ## Individuals
 
 | ID | Name | Born | Died | Completeness |
 |----|------|------|------|-------------|
-| 23 | Kevin Frank |  |  | 35% |
 | 56 | Pauline Marie Frank |  |  | 55% |
 | 138 | Michael Steven Frank |  |  | 70% |
 | 68 | William Biddle Frank | 1869-07 | 1920-02-14 | 95% |
+| 193 | William T Frank | 1896-02-03 | 1974-08-26 | 95% |
+| 194 | Laura Frank | 1898-03-28 | 1898-07-30 | 95% |
+| 195 | Augustus Frank | 1899-08-14 | 1986-03-03 | 95% |
+| 197 | George Reed Frank | 1903-11-03 | 1988-04-17 | 95% |
+| 198 | Warren DuBois Frank | 1909-08-12 | 1966-08-13 | 95% |
+| 199 | Albert Jacob Frank | 1912-07-12 | 2001-07-18 | 95% |
 | 35 | Joseph Franklin Frank | 1915-07-06 | 2010-12-28 | 100% |
 | 22 | Lewis G Frank | 1944-07-15 |  | 80% |
 | 135 | Thomas William Frank | 1949-12-15 |  | 85% |
+| 23 | Kevin Frank | 1968-07-01 |  | 80% |
 | 139 | Brian Thomas Frank | 1984-03-16 |  | 80% |
 | 74 | Axton Joseph Frank | 2007-09-29 |  | 80% |
 | 75 | Kitara Violet Frank | 2010-03-26 |  | 80% |
+| 196 | Harry Henry Frank | ~1902-01 | 1992-11-25 | 100% |
 | 134 | Mildred E Frank | ~1940 |  | 80% |
 | 136 | Joseph D Frank | ~1942 |  | 80% |
 
 ## Open Questions
-- [ ] Kevin Frank (ID 23): birth date missing
 - [ ] Pauline Marie Frank (ID 56): birth date missing
 - [ ] Michael Steven Frank (ID 138): birth date missing
