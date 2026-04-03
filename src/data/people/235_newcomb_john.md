@@ -5,8 +5,8 @@
 - **Died:** 1817
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Joshua Newcomb
+- **Mother:** Eunice Bullard
 - **Spouse:** Abigail Young (m. 1765-10-10, Wellfleet, Barnstable, Massachusetts Bay Colony)
   - **Children:** Hannah Newcomb
 
@@ -18,8 +18,6 @@ FamilySearch PID KNSJ-VFZ. Father of Hannah Newcomb. Married Abigail Young 10 Oc
 
 ## Research Gaps
 - [ ] Birth place
-- [ ] Father
-- [ ] Mother
 
 ---
-*Record completeness: 65%*
+*Record completeness: 80%*

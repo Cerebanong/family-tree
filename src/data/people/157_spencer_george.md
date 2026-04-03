@@ -6,8 +6,8 @@
 - **Burial:** Fairview Cemetery, Veazie, Penobscot, Maine
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Isaac Spencer
+- **Mother:** Lucy Harthorn
 - **Spouse:** Hannah Spencer (m. 1834-10-21, Bangor, Penobscot, Maine)
   - **Children:** Hannah Delanah Spencer
 
@@ -20,9 +20,5 @@ Father of Hannah Delanah Spencer (ID 81). Born Bangor, lived Bangor and Veazie, 
 ## Research Leads
 - [ ] Add parents Isaac Spencer (L418-QTF) and Lucy Harthorn (LHNX-FFD) — gen 5 from Kevin, low priority
 
-## Research Gaps
-- [ ] Father
-- [ ] Mother
-
 ---
-*Record completeness: 80%*
+*Record completeness: 95%*

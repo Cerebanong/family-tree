@@ -8,8 +8,8 @@
 - **Residence:** Burnside Township, Goodhue County, Minnesota (1857-1870); Sioux Falls, Dakota Territory / South Dakota (1880-1907)
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Richard Booth
+- **Mother:** Nancy Booth
 - **Spouse:** Sarah C Booth (m. ~1849, New York, United States)
   - **Children:** May Booth
 
@@ -29,9 +29,5 @@ FamilySearch PID: LVVS-QBY. Father born England; mother born New York. Family mi
 - [ ] Confirm Poughkeepsie NY birth — search Dutchess County NY birth records ~1826
 - [ ] Identify father born England — search NY immigration records ~1800-1820
 
-## Research Gaps
-- [ ] Father
-- [ ] Mother
-
 ---
-*Record completeness: 85%*
+*Record completeness: 100%*

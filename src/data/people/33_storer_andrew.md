@@ -9,8 +9,8 @@
 - **Also Known As:** Andrew Storer
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Christian David Storer
+- **Mother:** Catharine Mary Heavener
 - **Spouse:** Mary Mink Keizer (m. 1809-11-16, Waldoboro, Lincoln, Maine)
   - **Children:** Andrew Obed Storer
 
@@ -20,9 +20,5 @@ FamilySearch KHP6-SDP (10 sources); FindAGrave #74157768 (gravestone of son ment
 ## Notes
 Part of the German Storer family of Waldoboro. Parents: Christian David Storer (KG6R-3FJ, 1752-1827) and Catharine Mary Heavener (KG6R-3NJ, 1758-1824). The Storer family arrived in Broad Bay (later Waldoboro) from Germany circa 1752. Andrew George was one of 10 children. Married Mary Mink Keizer 16 Nov 1809 in Waldoboro. Had 7 children. Died age 53 in New Vineyard, Franklin County — apparently moved west within Maine. Son Andrew Obed was 19 when father died.
 
-## Research Gaps
-- [ ] Father
-- [ ] Mother
-
 ---
-*Record completeness: 80%*
+*Record completeness: 95%*
