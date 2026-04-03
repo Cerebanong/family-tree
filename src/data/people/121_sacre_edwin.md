@@ -8,8 +8,8 @@
 - **Also Known As:** Edwin W Sacre
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Joseph Robert Sacre
+- **Mother:** Charlotte Sacre
 - **Spouse:** Ann Alice Sacre (m. 1892)
   - **Children:** Olive Ann Ada Sacre
 - **Spouse:** Harriet Gurr (m. 1880-10, Woolwich, Kent, England)
@@ -30,9 +30,5 @@ Part of a multi-generational Woolwich Sacre family. A Thomas G Sacre (born 1855,
 - [ ] Determine relationship between Edwin William Sacre and Thomas G Sacre (born 1855, Woolwich) — possibly brothers
 - [ ] Obtain death certificate (December 1931) to confirm exact death date and place
 
-## Research Gaps
-- [ ] Father
-- [ ] Mother
-
 ---
-*Record completeness: 80%*
+*Record completeness: 95%*

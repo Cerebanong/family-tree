@@ -1,12 +1,17 @@
 # Frost Branch
 
-**Individuals:** 22 | **With birth dates:** 22/22 | **With sources:** 22/22 | **Avg completeness:** 89%
+**Individuals:** 38 | **With birth dates:** 38/38 | **With sources:** 38/38 | **Avg completeness:** 85%
 
 ## Individuals
 
 | ID | Name | Born | Died | Completeness |
 |----|------|------|------|-------------|
-| 61 | Benjamin Frost | 1769 | 1849 | 65% |
+| 289 | William Frost | 1495-07-01 | 1549-09-15 | 85% |
+| 285 | John Frost | 1564 |  | 85% |
+| 281 | William Frost | 1644 | 1690-05-18 | 100% |
+| 277 | Stephen Frost | 1719-04-12 | ~1759 | 95% |
+| 275 | Mark Frost | 1749-10-20 | 1835-10-05 | 95% |
+| 61 | Benjamin Frost | 1769 | 1849 | 90% |
 | 149 | Nathaniel Frost | 1804 | 1879 | 90% |
 | 1 | Mark Frost | 1818-04-21 | 1877-03-19 | 100% |
 | 4 | Sarah F Frost | 1848 |  | 80% |
@@ -26,8 +31,27 @@
 | 15 | Lewis Edmund Frost | 1890-03-04 | 1962-07-12 | 95% |
 | 16 | Eva May Frost | 1892-05-27 | 1977 | 90% |
 | 17 | Elsie E. Frost | 1894-06-02 | 1966-09-04 | 95% |
+| 290 | Philippa Frost | ~1497 | 1578-01-20 | 70% |
+| 287 | John Frost | ~1538 | 1610-02-09 | 100% |
+| 288 | Anne Frost | ~1538 | 1588-07-30 | 70% |
+| 286 | Prudence Frost | ~1583 | 1641 | 65% |
+| 283 | George Frost | ~1600 | 1666 | 95% |
+| 284 | Alice Frost | ~1610 | 1663 | 65% |
+| 282 | Mary Frost | ~1649 | 1690 | 65% |
+| 279 | James Sr. Frost | ~1683 | 1744 | 95% |
+| 280 | Margaret Frost | ~1687 | 1763 | 65% |
+| 278 | Lucy Frost | ~1722 |  | 55% |
+| 276 | Hannah Frost | ~1752 | 1839 | 65% |
 | 8 | Etta Clarista J Frost | ~1858 | 1920 | 85% |
 | 11 | John Andrew Frost | ~1879 | 1882 | 80% |
 
 ## Open Questions
-- [ ] Benjamin Frost (ID 61): parents unknown
+- [ ] William Frost (ID 289): parents unknown
+- [ ] Philippa Frost (ID 290): parents unknown
+- [ ] Anne Frost (ID 288): parents unknown
+- [ ] Prudence Frost (ID 286): parents unknown
+- [ ] Alice Frost (ID 284): parents unknown
+- [ ] Mary Frost (ID 282): parents unknown
+- [ ] Margaret Frost (ID 280): parents unknown
+- [ ] Lucy Frost (ID 278): parents unknown
+- [ ] Hannah Frost (ID 276): parents unknown

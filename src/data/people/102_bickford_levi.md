@@ -7,8 +7,8 @@
 - **Burial:** Sheffield, Caledonia, Vermont
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Ebenezer Bickford
+- **Mother:** Susanna Bickford
 - **Spouse:** Salley Kenaston
   - **Children:** Harris S Bickford
 
@@ -25,9 +25,5 @@ Father of 5 children in Sheffield, VT. Line traces back to Ebenezer Bickford (17
 - [ ] Find Salley Kenaston's death date and parents
 - [ ] Research Ebenezer Bickford further
 
-## Research Gaps
-- [ ] Father
-- [ ] Mother
-
 ---
-*Record completeness: 75%*
+*Record completeness: 90%*

@@ -1934,7 +1934,7 @@
       "sex": "Male",
       "birth": {
         "date": "1769",
-        "place": ""
+        "place": "Berwick, York, Maine"
       },
       "death": {
         "date": "1849",
@@ -1946,14 +1946,14 @@
       "marital_status": "Married",
       "residence": "Belgrade, Kennebec County, ME",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 275,
+      "mother_id": 276,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Father of Mark Frost. Had 15 children with wife Abigail Lord. Married 23 May 1793 in Maine. FamilySearch PID: K4KG-11L.",
+      "notes": "Father of Mark Frost. Had 15 children with wife Abigail Lord. Married 23 May 1793 in Maine. FamilySearch PID: K4KG-11L. Parents: Mark Frost (1749-1835) and Hannah Hersom (1752-1839). FamilySearch PID: K4KG-11L.",
       "source_citations": "FamilySearch K4KG-11L; Maine Births and Christenings 1739-1900",
       "interesting_facts": "Had 15 children, many died young.",
       "research_leads": [
@@ -3528,8 +3528,8 @@
       "marital_status": "Married",
       "residence": "",
       "burial_place": "Sheffield, Caledonia, Vermont",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 254,
+      "mother_id": 255,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -4361,8 +4361,8 @@
       "marital_status": "Married",
       "residence": "Woolwich, London (1891–1911+)",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 307,
+      "mother_id": 308,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -9134,12 +9134,12 @@
       },
       "sex": "Male",
       "birth": {
-        "date": "1709",
-        "place": ""
+        "date": "1709-12-12",
+        "place": "York, York, Maine"
       },
       "death": {
         "date": "1804",
-        "place": "",
+        "place": "Gorham, Cumberland, Maine",
         "cause": ""
       },
       "age_at_death": "",
@@ -9147,8 +9147,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 291,
+      "mother_id": 292,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -9975,13 +9975,13 @@
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "FamilySearch PID MMM5-4FN. Born 1791, England. Father of Henry John Lewis (ID 64). 10 children. Residence: 1865 and 1875 Ward 20, Brooklyn, Kings, New York. No parents listed on FamilySearch.",
+      "notes": "FamilySearch PID MMM5-4FN. Born 1791, England. Father of Henry John Lewis (ID 64). 10 children. Residence: 1865 and 1875 Ward 20, Brooklyn, Kings, New York. No parents listed on FamilySearch. 1865 NY State Census: Ward 20, Brooklyn with wife Mary and children. 1875 NY State Census: Brooklyn with wife Mary J. NYC Municipal Death record of daughter Josephine Lewis names mother as Mary J. Wiseham — possible maiden name for wife. Another death record (child Eliza Louisa) gives William's birthplace as 'Wales, England'. Needs further research.",
       "source_citations": "Source 286: FamilySearch MMM5-4FN (6 sources)",
       "interesting_facts": "",
       "research_leads": [
-        "Search English christening records for William Lewis b.1791",
-        "Search 1841 England census if family was still in England",
-        "Search New York passenger arrival lists 1830s for William Lewis from England"
+        "Mary Jane's maiden name possibly Wiseham/Wiseman — search NYC Municipal Death records for Josephine Lewis",
+        "Possible Welsh origin — search Welsh christening records for William Lewis b. ~1791",
+        "Search NY passenger arrival lists 1830s-1840s for William Lewis from England/Wales with family"
       ],
       "spouses": [
         253
@@ -10028,6 +10028,2277 @@
       "spouses": [
         252
       ]
+    },
+    {
+      "id": 254,
+      "name": {
+        "first": "Ebenezer",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1752",
+        "place": "Dunham, Missisquoi, Canada East"
+      },
+      "death": {
+        "date": "~1809",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 256,
+      "mother_id": 257,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: K8SW-YY1. Father of Levi Bickford. Married Susanna Cook 21 Apr 1776, Dover, NH. 6 children.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        255
+      ]
+    },
+    {
+      "id": 255,
+      "name": {
+        "first": "Susanna",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "Cook",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1756",
+        "place": "Madbury, Strafford, New Hampshire"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 273,
+      "mother_id": 274,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: K4X4-QZ5. Wife of Ebenezer Bickford. Married 21 Apr 1776, Dover, NH.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        254
+      ]
+    },
+    {
+      "id": 256,
+      "name": {
+        "first": "Ebenezer",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1715",
+        "place": "Newington, Rockingham, New Hampshire"
+      },
+      "death": {
+        "date": "1763",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 258,
+      "mother_id": 259,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: K2TZ-GXD. Christened 18 Oct 1741, Newington. Father of Ebenezer Jr. 6 children.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        257
+      ]
+    },
+    {
+      "id": 257,
+      "name": {
+        "first": "Ann",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "Quint",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1720",
+        "place": ""
+      },
+      "death": {
+        "date": "1802",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: K2TZ-GC1. Wife of Ebenezer Bickford Sr. Married Feb 1741, Newington, NH.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        256
+      ]
+    },
+    {
+      "id": 258,
+      "name": {
+        "first": "Thomas",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1692",
+        "place": "Newington, Rockingham, New Hampshire"
+      },
+      "death": {
+        "date": "1774",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 260,
+      "mother_id": 261,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LQRC-RRP. 5 sources. Christened 12 Dec 1736. Grantee of Barnstead. 10 children.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        259
+      ]
+    },
+    {
+      "id": 259,
+      "name": {
+        "first": "Sarah",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "Simpson",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1691",
+        "place": ""
+      },
+      "death": {
+        "date": "1774",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LHNW-HG3. Wife of Thomas Bickford. Married 26 Jul 1711, Newington, NH.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        258
+      ]
+    },
+    {
+      "id": 260,
+      "name": {
+        "first": "Benjamin",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1672-10-20",
+        "place": "Dover, Norfolk, Massachusetts Bay Colony"
+      },
+      "death": {
+        "date": "1725",
+        "place": "Newington, New Hampshire",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Planter/Constable",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 262,
+      "mother_id": 263,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LBGV-DBD. 4 sources. Will dated 4 Apr 1724, proved 2 Jun 1725. Constable of Newington. 11 children. Founding member of Newington church 1715.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "Founding member of Newington church in 1715. His will provides detailed family information.",
+      "research_leads": [],
+      "spouses": [
+        261
+      ]
+    },
+    {
+      "id": 261,
+      "name": {
+        "first": "Sarah",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "Barsham",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "1676-08-11",
+        "place": "Watertown, Massachusetts"
+      },
+      "death": {
+        "date": "1752-06-23",
+        "place": "Newcastle",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LCT2-FM6. Daughter of John and Mehitabel Barsham. Married 2nd Jotham Odiorne.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        260
+      ]
+    },
+    {
+      "id": 262,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1625",
+        "place": "Rattery, Devon, England"
+      },
+      "death": {
+        "date": "1697-11-08",
+        "place": "Dover, Strafford, New Hampshire",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 264,
+      "mother_id": 265,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LL7S-MWS. 19 sources. Born Northleigh, England. Emigrated to New England before 1647. Married Temperance Hull at Oyster River, NH. 9 children. Daughter Lydia killed 1694 as Indian captive.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "Early settler of Oyster River (Durham), NH. Bickford land identified on 1667 map.",
+      "research_leads": [],
+      "spouses": [
+        263
+      ]
+    },
+    {
+      "id": 263,
+      "name": {
+        "first": "Temperance",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "Hull",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1626",
+        "place": ""
+      },
+      "death": {
+        "date": "1697",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LZYD-8BK. Born in Northleigh rectory when her father served as parish minister. Married John Bickford 1646, Oyster River.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        262
+      ]
+    },
+    {
+      "id": 264,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1607-09-19",
+        "place": "Rattery, Devon, England"
+      },
+      "death": {
+        "date": "~1677",
+        "place": "Oyster River, Durham, New Hampshire",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Fisherman & Ferryman",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 266,
+      "mother_id": 267,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LZKR-T6Y. 12 sources. Christened 1635, Coffinswell, Devon. Emigrated ~1623 to Dover Neck, NH. Two wives: Temperance Furber (d. ~1635) and Elizabeth Cator (1620-1672). DO NOT COMBINE with Temperance Hull or dates outside b.1607, d.1676.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "Emigrated to New Hampshire ~1623 from Devon, England. Fisherman and ferryman.",
+      "research_leads": [],
+      "spouses": [
+        265
+      ]
+    },
+    {
+      "id": 265,
+      "name": {
+        "first": "Temperance",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "Furber",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1604",
+        "place": ""
+      },
+      "death": {
+        "date": "~1635",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: M3FZ-KT5. First wife of John Bickford (1607-1677). Married ~1624, Dover, NH.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        264
+      ]
+    },
+    {
+      "id": 266,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "",
+        "aliases": [
+          "John Bickeford"
+        ]
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1580",
+        "place": "Rattery, Devon, England"
+      },
+      "death": {
+        "date": "1625-12-14",
+        "place": "Ratterye, Devonshire, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 268,
+      "mother_id": 269,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LDLV-TCW. 2 sources. Three wives: Doritie Harris, Mary Harper, Alice Babb.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        267
+      ]
+    },
+    {
+      "id": 267,
+      "name": {
+        "first": "Doritie",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "Harris",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1585",
+        "place": ""
+      },
+      "death": {
+        "date": "~1620",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LC3V-V66. Wife of John Bickford 'Of Devon'. Married before 1600, Dunsland, Devon.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        266
+      ]
+    },
+    {
+      "id": 268,
+      "name": {
+        "first": "Richard",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1549",
+        "place": "Devon, England"
+      },
+      "death": {
+        "date": "1620-01",
+        "place": "Abbotskerswell, Devon, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 270,
+      "mother_id": 271,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: KVV7-HLW. 2 sources. Also recorded as birth name John Bickford.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        269
+      ]
+    },
+    {
+      "id": 269,
+      "name": {
+        "first": "Mary",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "Ricord",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1531",
+        "place": ""
+      },
+      "death": {
+        "date": "~1560",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LZKR-69L. Wife of Richard Bickford. Married 30 Jan 1556, Abbotskerswell, Devon.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        268
+      ]
+    },
+    {
+      "id": 270,
+      "name": {
+        "first": "Richard",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1530",
+        "place": "Rattery, Devon, England"
+      },
+      "death": {
+        "date": "1620-01-21",
+        "place": "Abbotskerswell, Devon, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 272,
+      "mother_id": 271,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: KVV7-H9N. 0 sources on FamilySearch. 8 children.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        271
+      ]
+    },
+    {
+      "id": 271,
+      "name": {
+        "first": "Grace",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "Arscott",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1510",
+        "place": ""
+      },
+      "death": {
+        "date": "~1560",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LVQW-Q7L. Wife of Richard Bickford (1530). Married 1528, Abbotskerswell, Devon.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        270,
+        272
+      ]
+    },
+    {
+      "id": 272,
+      "name": {
+        "first": "William",
+        "middle": "",
+        "last": "Bickford",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1500",
+        "place": "Diptford, Devon, England"
+      },
+      "death": {
+        "date": "1534",
+        "place": "Abbottskerswell, Devon, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: G552-4VN. 0 sources. Dead end — no parents listed. 3 children.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        271
+      ]
+    },
+    {
+      "id": 273,
+      "name": {
+        "first": "Hezekiah",
+        "middle": "",
+        "last": "Cook",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1717",
+        "place": ""
+      },
+      "death": {
+        "date": "1807",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LC85-QS2. Father of Susanna Cook. 9 children.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        274
+      ]
+    },
+    {
+      "id": 274,
+      "name": {
+        "first": "Sarah",
+        "middle": "",
+        "last": "Cook",
+        "maiden": "Davis",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1719",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: L7JX-8WM. Wife of Hezekiah Cook. Married 1750, New Hampshire.",
+      "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        273
+      ]
+    },
+    {
+      "id": 275,
+      "name": {
+        "first": "Mark",
+        "middle": "",
+        "last": "Frost",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1749-10-20",
+        "place": "South Berwick, York, Maine"
+      },
+      "death": {
+        "date": "1835-10-05",
+        "place": "Belgrade, Kennebec, Maine",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Woodside Cemetery, Belgrade, Kennebec, Maine",
+      "father_id": 277,
+      "mother_id": 278,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: KHJ9-DF8. 9 sources. Father of Benjamin Frost. 9 children with Hannah Hersom.",
+      "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        276
+      ]
+    },
+    {
+      "id": 276,
+      "name": {
+        "first": "Hannah",
+        "middle": "",
+        "last": "Frost",
+        "maiden": "Hersom",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1752",
+        "place": ""
+      },
+      "death": {
+        "date": "1839",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: KD9Q-7K5. Wife of Mark Frost. Married 5 May 1770, Berwick, York, Maine.",
+      "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        275
+      ]
+    },
+    {
+      "id": 277,
+      "name": {
+        "first": "Stephen",
+        "middle": "",
+        "last": "Frost",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1719-04-12",
+        "place": "South Berwick, York, Maine"
+      },
+      "death": {
+        "date": "~1759",
+        "place": "Massachusetts Bay Colony",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Berwick, York County, Maine",
+      "father_id": 279,
+      "mother_id": 280,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: KLXJ-K95. 4 sources. Christened 12 Apr 1719, Berwick. 8 children with Lucy Jellison.",
+      "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        278
+      ]
+    },
+    {
+      "id": 278,
+      "name": {
+        "first": "Lucy",
+        "middle": "",
+        "last": "Frost",
+        "maiden": "Jellison",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1722",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LWXS-RPD. Wife of Stephen Frost. Married ~1740, Berwick, York, Maine.",
+      "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        277
+      ]
+    },
+    {
+      "id": 279,
+      "name": {
+        "first": "James",
+        "middle": "Sr.",
+        "last": "Frost",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1683",
+        "place": "Berwick, York, Massachusetts Bay Colony"
+      },
+      "death": {
+        "date": "1744",
+        "place": "Maine",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 281,
+      "mother_id": 282,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LKKM-V9L. 21 sources. Christened 21 Feb 1722, Berwick. Probated 17 Sep 1744. 10 children. Married Margaret Goodwin 15 May 1707, Kittery.",
+      "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        280
+      ]
+    },
+    {
+      "id": 280,
+      "name": {
+        "first": "Margaret",
+        "middle": "",
+        "last": "Frost",
+        "maiden": "Goodwin",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1687",
+        "place": ""
+      },
+      "death": {
+        "date": "1763",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LDK4-16N. Wife of James Frost Sr. Sister of William Goodwin. Her sister-in-law Mehetable Goodwin was captured by Indians.",
+      "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        279
+      ]
+    },
+    {
+      "id": 281,
+      "name": {
+        "first": "William",
+        "middle": "",
+        "last": "Frost",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1644",
+        "place": "Saco, York, Maine"
+      },
+      "death": {
+        "date": "1690-05-18",
+        "place": "Wells, York, Maine",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Cordwainer",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 283,
+      "mother_id": 284,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LZKV-Q56. 5 sources. Killed by Indians 18 May 1690 at Wells, Maine. Moved to Salem 1675-79 during Indian War. Land grants in Wells.",
+      "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
+      "interesting_facts": "Killed by Indians at Wells, Maine in 1690 during King William's War. His son Nathaniel was captured.",
+      "research_leads": [],
+      "spouses": [
+        282
+      ]
+    },
+    {
+      "id": 282,
+      "name": {
+        "first": "Mary",
+        "middle": "",
+        "last": "Frost",
+        "maiden": "Wakefield",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1649",
+        "place": ""
+      },
+      "death": {
+        "date": "1690",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: GCM2-2NG. Wife of William Frost. Daughter of John and Elizabeth (Littlefield) Wakefield. Married 1670, Wells, Maine.",
+      "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        281
+      ]
+    },
+    {
+      "id": 283,
+      "name": {
+        "first": "George",
+        "middle": "",
+        "last": "Frost",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1600",
+        "place": "England"
+      },
+      "death": {
+        "date": "1666",
+        "place": "Biddeford Pool, York, Maine",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Winter Harbor, Hancock, Maine",
+      "father_id": 285,
+      "mother_id": 286,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LV12-SHB. 1 source. Emigrated from England to Maine. Two wives: Alice Sheldon and Ellen Goodale.",
+      "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
+      "interesting_facts": "Early English settler in Maine.",
+      "research_leads": [],
+      "spouses": [
+        284
+      ]
+    },
+    {
+      "id": 284,
+      "name": {
+        "first": "Alice",
+        "middle": "",
+        "last": "Frost",
+        "maiden": "Sheldon",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1610",
+        "place": ""
+      },
+      "death": {
+        "date": "1663",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: PQ2X-JVC. First wife of George Frost. Married ~1630, Maine.",
+      "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        283
+      ]
+    },
+    {
+      "id": 285,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Frost",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1564",
+        "place": "Glemsford, Suffolk, England"
+      },
+      "death": {
+        "date": "",
+        "place": "Glemsford, Suffolk, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 287,
+      "mother_id": 288,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: M8FN-WWM. 11 sources. Christened 2 Apr 1564, Glemsford, Suffolk. Residences: Haddenham, Cambridge. 9 children with Prudence Valyant.",
+      "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        286
+      ]
+    },
+    {
+      "id": 286,
+      "name": {
+        "first": "Prudence",
+        "middle": "",
+        "last": "Frost",
+        "maiden": "Valyant",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1583",
+        "place": ""
+      },
+      "death": {
+        "date": "1641",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LRZG-57L. Wife of John Frost (1564). Married in England.",
+      "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        285
+      ]
+    },
+    {
+      "id": 287,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Frost",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1538",
+        "place": "Glemsford, Suffolk, England"
+      },
+      "death": {
+        "date": "1610-02-09",
+        "place": "Hartest, Suffolk, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Clothier",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Hartest, Suffolk, England",
+      "father_id": 289,
+      "mother_id": 290,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LZ2D-JXC. 31 sources. Called 'yonge John' in father's will. Clothier in Glemsford and Hartest. Will dated 6 Feb 1609/10. Married 1st Anne Scott 29 Jan 1558, Glemsford; 2nd Ellen. 11 children by Anne.",
+      "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
+      "interesting_facts": "Clothier in the wool trade in Glemsford and Hartest, Suffolk.",
+      "research_leads": [],
+      "spouses": [
+        288
+      ]
+    },
+    {
+      "id": 288,
+      "name": {
+        "first": "Anne",
+        "middle": "",
+        "last": "Frost",
+        "maiden": "Scott",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1538",
+        "place": ""
+      },
+      "death": {
+        "date": "1588-07-30",
+        "place": "Hartest, Suffolk, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: M5WW-CCW. Daughter of Richard Scott, clothier of Glemsford. Married John Frost 29 Jan 1558, Glemsford. Buried Hartest 30 Jul 1588.",
+      "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        287
+      ]
+    },
+    {
+      "id": 289,
+      "name": {
+        "first": "William",
+        "middle": "",
+        "last": "Frost",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1495-07-01",
+        "place": "Glemsford, Suffolk, England"
+      },
+      "death": {
+        "date": "1549-09-15",
+        "place": "Glemsford, Suffolk, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Yeoman",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Glemsford, Suffolk, England",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: L585-N2V. 19 sources. Will dated 5 Jul 1549, proved Archdeaconry of Sudbury. Listed in Glemsford subsidy list 1524 (taxed 2s on £4). Wife Philippa remarried John Webb of Lidgate. 7 children.",
+      "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
+      "interesting_facts": "Will provides detailed family and property information. Active in Glemsford cloth trade.",
+      "research_leads": [],
+      "spouses": [
+        290
+      ]
+    },
+    {
+      "id": 290,
+      "name": {
+        "first": "Philippa",
+        "middle": "",
+        "last": "Frost",
+        "maiden": "Scott",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1497",
+        "place": ""
+      },
+      "death": {
+        "date": "1578-01-20",
+        "place": "Lidgate, Suffolk, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LTKG-61W. Wife of William Frost. Married ~1530, Glemsford. After William's death, married John Webb of Lidgate 15 Sep 1552.",
+      "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        289
+      ]
+    },
+    {
+      "id": 291,
+      "name": {
+        "first": "Nathaniel",
+        "middle": "",
+        "last": "Whitney",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1680-04-14",
+        "place": "York Village, York, Maine"
+      },
+      "death": {
+        "date": "1768",
+        "place": "Gorham, Cumberland, Maine",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Weaver",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "South Street Cemetery, Gorham, Cumberland, Maine",
+      "father_id": 293,
+      "mother_id": 294,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LV3P-7KV. 14 sources. Father of Nathaniel Whitney (1709). 11 children.",
+      "source_citations": "Source 290: FamilySearch Family Tree — Whitney line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        292
+      ]
+    },
+    {
+      "id": 292,
+      "name": {
+        "first": "Sarah",
+        "middle": "",
+        "last": "Whitney",
+        "maiden": "Ford",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1679",
+        "place": ""
+      },
+      "death": {
+        "date": "1755",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LDMF-NKB. Wife of Nathaniel Whitney (1680). Married 1705, Kittery, York.",
+      "source_citations": "Source 290: FamilySearch Family Tree — Whitney line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        291
+      ]
+    },
+    {
+      "id": 293,
+      "name": {
+        "first": "Benjamin",
+        "middle": "",
+        "last": "Whitney",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1643-04-06",
+        "place": "Boston, Suffolk, Massachusetts Bay Colony"
+      },
+      "death": {
+        "date": "1723-03-26",
+        "place": "Sherborn, Middlesex, Massachusetts",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Sherborn Center Cemetery, Sherborn, Middlesex, Massachusetts",
+      "father_id": 295,
+      "mother_id": 296,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: 97YV-T6R. 30 sources. Two wives: Jane Varney Poor (m. 1668) and Mary Poore (m. 1696). 10 children by first wife.",
+      "source_citations": "Source 290: FamilySearch Family Tree — Whitney line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        294
+      ]
+    },
+    {
+      "id": 294,
+      "name": {
+        "first": "Jane",
+        "middle": "",
+        "last": "Whitney",
+        "maiden": "Poor",
+        "aliases": [
+          "Jane Varney Poor"
+        ]
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1647",
+        "place": ""
+      },
+      "death": {
+        "date": "1690",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: M5NC-DJN. First wife of Benjamin Whitney. Married 19 Jan 1668, Watertown, Middlesex.",
+      "source_citations": "Source 290: FamilySearch Family Tree — Whitney line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        293
+      ]
+    },
+    {
+      "id": 295,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Whitney",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1592-07-20",
+        "place": "Isleworth, Middlesex, England"
+      },
+      "death": {
+        "date": "1673-06-01",
+        "place": "Watertown, Middlesex, Massachusetts",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Merchant Tailor / Town Clerk / Selectman",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Old Burying Place, Watertown, Middlesex, Massachusetts",
+      "father_id": 297,
+      "mother_id": 298,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: L525-1J4. 48 sources. Great Migration immigrant. Baptized St Margaret, Westminster. Apprenticed to William Pring, Merchant Tailors Company, 1607. Freeman 1636. Selectman 1638-1655. Town Clerk 1655. Immigrated on ship 'Elizabeth and Anne' April-May 1635 with family.",
+      "source_citations": "Source 290: FamilySearch Family Tree — Whitney line",
+      "interesting_facts": "Great Migration colonist. Member of Merchant Tailors Company. Selectman of Watertown 18 years. Educated at Westminster School.",
+      "research_leads": [],
+      "spouses": [
+        296
+      ]
+    },
+    {
+      "id": 296,
+      "name": {
+        "first": "Elinor",
+        "middle": "",
+        "last": "Whitney",
+        "maiden": "Arnold",
+        "aliases": [
+          "Ellen Whitney",
+          "Elizabeth Whitney"
+        ]
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1599",
+        "place": ""
+      },
+      "death": {
+        "date": "1659-05-11",
+        "place": "Watertown, Middlesex, Massachusetts",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: L1CB-TGD. Wife of John Whitney. Married 24 May 1618, London. Maiden name unknown with certainty.",
+      "source_citations": "Source 290: FamilySearch Family Tree — Whitney line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        295
+      ]
+    },
+    {
+      "id": 297,
+      "name": {
+        "first": "Thomas",
+        "middle": "",
+        "last": "Whitney",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1560-07-14",
+        "place": "Lambeth, Surrey, England"
+      },
+      "death": {
+        "date": "1637-04-14",
+        "place": "Westminster, Middlesex, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Gentleman",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "St Margaret, Westminster, Middlesex, England",
+      "father_id": 299,
+      "mother_id": 300,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: L5TN-J5C. 57 sources. Baptized St Andrew, Holborn. Occupation: Gentleman. 12 children. CONFLICT: connection to Robert Whitney III (1498-1555) considered 'highly improbable' by Jacobus.",
+      "source_citations": "Source 290: FamilySearch Family Tree — Whitney line",
+      "interesting_facts": "Described as 'gentleman' — a man of education not constrained to manual labor.",
+      "research_leads": [],
+      "spouses": [
+        298
+      ]
+    },
+    {
+      "id": 298,
+      "name": {
+        "first": "Mary",
+        "middle": "",
+        "last": "Whitney",
+        "maiden": "Bray",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1563",
+        "place": ""
+      },
+      "death": {
+        "date": "1629",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LDK9-355. Wife of Thomas Whitney. Married 12 May 1583, Westminster, London.",
+      "source_citations": "Source 290: FamilySearch Family Tree — Whitney line",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        297
+      ]
+    },
+    {
+      "id": 299,
+      "name": {
+        "first": "Robert",
+        "middle": "III",
+        "last": "Whitney",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1498",
+        "place": "Pencombe, Herefordshire, England"
+      },
+      "death": {
+        "date": "1555",
+        "place": "Westminster, Middlesex, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 301,
+      "mother_id": 302,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: L5TN-FW1. 18 sources. DISPUTED: Connection from Thomas Whitney (1560) to this Robert Whitney III questioned by Jacobus as 'highly improbable'. Date conflicts: death 1555 but marriage to Elizabeth listed as 1559. Burial listed 19 Dec 1612 (contradicts death 1555).",
+      "source_citations": "Source 290: FamilySearch Family Tree — Whitney line [DISPUTED CONNECTION]",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        300
+      ]
+    },
+    {
+      "id": 300,
+      "name": {
+        "first": "Elizabeth",
+        "middle": "G.",
+        "last": "Whitney",
+        "maiden": "Williams",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1530",
+        "place": ""
+      },
+      "death": {
+        "date": "1588",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LYKH-MML. Wife of Robert Whitney III. Married 1559, Lambeth, Surrey. Also known as Elizabeth Guillims.",
+      "source_citations": "Source 290: FamilySearch Family Tree — Whitney line [DISPUTED CONNECTION]",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        299
+      ]
+    },
+    {
+      "id": 301,
+      "name": {
+        "first": "Robert",
+        "middle": "II",
+        "last": "Whitney",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1473",
+        "place": "Whitney-on-Wye, Herefordshire, England"
+      },
+      "death": {
+        "date": "1522-08-05",
+        "place": "Whitney-on-Wye, Herefordshire, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 303,
+      "mother_id": 304,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: 2DXL-XKF. 10 sources. [DISPUTED — part of Whitney-on-Wye gentry line, connection to Thomas Whitney uncertain]",
+      "source_citations": "Source 290: FamilySearch Family Tree — Whitney line [DISPUTED CONNECTION]",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        302
+      ]
+    },
+    {
+      "id": 302,
+      "name": {
+        "first": "Blanche",
+        "middle": "",
+        "last": "Whitney",
+        "maiden": "Milbourne",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1470",
+        "place": ""
+      },
+      "death": {
+        "date": "1496",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: GKKS-WJH. [DISPUTED CONNECTION]",
+      "source_citations": "Source 290: FamilySearch Family Tree — Whitney line [DISPUTED CONNECTION]",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        301
+      ]
+    },
+    {
+      "id": 303,
+      "name": {
+        "first": "Robert",
+        "middle": "I",
+        "last": "Whitney",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1436",
+        "place": "Herefordshire, England"
+      },
+      "death": {
+        "date": "1494-10-06",
+        "place": "Whitney-on-Wye, Herefordshire, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Knight / Sheriff of Herefordshire",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 305,
+      "mother_id": 306,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: LDQL-6JD. 9 sources. Read-only record. Sir Robert Whitney, Lord of Whitney, Sheriff of Herefordshire 1474-5. Active in Wars of the Roses. Attainted as Yorkist 1459. [DISPUTED CONNECTION to later Whitneys]",
+      "source_citations": "Source 290: FamilySearch Family Tree — Whitney line [DISPUTED CONNECTION]",
+      "interesting_facts": "Knight, Sheriff of Herefordshire. Active in Wars of the Roses.",
+      "research_leads": [],
+      "spouses": [
+        304
+      ]
+    },
+    {
+      "id": 304,
+      "name": {
+        "first": "Constance",
+        "middle": "",
+        "last": "Whitney",
+        "maiden": "Touchet",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1443",
+        "place": "Heleigh, Staffordshire, England"
+      },
+      "death": {
+        "date": "~1531",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: KFX4-S26. Daughter of James Touchet, Lord Audley. [DISPUTED CONNECTION]",
+      "source_citations": "Source 290: FamilySearch Family Tree — Whitney line [DISPUTED CONNECTION]",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        303
+      ]
+    },
+    {
+      "id": 305,
+      "name": {
+        "first": "Eustace",
+        "middle": "",
+        "last": "Whitney",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1411",
+        "place": ""
+      },
+      "death": {
+        "date": "1481",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: MDBL-PMG. Knight of the Shire of Herefordshire. [DISPUTED CONNECTION — end of traceable Whitney line]",
+      "source_citations": "Source 290: FamilySearch Family Tree — Whitney line [DISPUTED CONNECTION]",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        306
+      ]
+    },
+    {
+      "id": 306,
+      "name": {
+        "first": "Jennet",
+        "middle": "",
+        "last": "Whitney",
+        "maiden": "Trussell",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1414",
+        "place": ""
+      },
+      "death": {
+        "date": "1441",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: L5TN-MH2. Wife of Eustace Whitney. Daughter of Sir William Trussell. [DISPUTED CONNECTION]",
+      "source_citations": "Source 290: FamilySearch Family Tree — Whitney line [DISPUTED CONNECTION]",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        305
+      ]
+    },
+    {
+      "id": 307,
+      "name": {
+        "first": "Joseph",
+        "middle": "Robert",
+        "last": "Sacre",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "1830-10-24",
+        "place": "Chatham, Kent, England"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Ladies Shoemaker",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 309,
+      "mother_id": 310,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FamilySearch PID: M935-YG1. Christened 21 Nov 1830, Strood, Kent. Father of Edwin William Sacre. In 1871 census at Gillingham, Kent, age 40, occupation Labourer. In 1851 census in Woolwich with parents Thomas and Hannah, age 20, occupation Ladies Shoemaker.",
+      "source_citations": "Source 291; Source 292; Source 293",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        308
+      ]
+    },
+    {
+      "id": 308,
+      "name": {
+        "first": "Charlotte",
+        "middle": "",
+        "last": "Sacre",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1832",
+        "place": "Woolwich, Kent, England"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Wife of Joseph Robert Sacre. In 1871 census at Gillingham, age 39, born Woolwich. 7 children including Edwin William Sacre.",
+      "source_citations": "Source 291",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        307
+      ]
+    },
+    {
+      "id": 309,
+      "name": {
+        "first": "Thomas",
+        "middle": "",
+        "last": "Sacre",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "~1801",
+        "place": "New Romney, Kent, England"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Boot Maker",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Father of Joseph Robert Sacre. In 1851 census at Woolwich, age 50, Boot Maker. Married 1st Jane Mowatt 19 Apr 1824, Chatham. Married 2nd Hannah Jones 4 Nov 1849, Crayford. Children by Jane include: Thomas, William Joseph, Joseph Robert, Jane, Sarah Ann, Robert Mowat.",
+      "source_citations": "Source 292; Source 294",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": [
+        310
+      ]
+    },
+    {
+      "id": 310,
+      "name": {
+        "first": "Jane",
+        "middle": "",
+        "last": "Sacre",
+        "maiden": "Mowatt",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "First wife of Thomas Sacre. Married 19 Apr 1824, Chatham Town, Kent. Mother of Joseph Robert Sacre (christened 1830). Died before 1849 when Thomas married Hannah Jones.",
+      "source_citations": "Source 293; Source 294",
+      "interesting_facts": "",
+      "research_leads": [
+        "Search for Jane Mowatt birth/christening in Chatham/Strood area",
+        "Search for Jane Sacre death record pre-1849"
+      ],
+      "spouses": [
+        309
+      ]
+    },
+    {
+      "id": 311,
+      "name": {
+        "first": "Hannah",
+        "middle": "",
+        "last": "Sacre",
+        "maiden": "Jones",
+        "aliases": []
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "~1802",
+        "place": "Wodensborough, Kent, England"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Second wife of Thomas Sacre. Married 4 Nov 1849, Crayford, Kent. In 1851 census at Woolwich, age 49.",
+      "source_citations": "Source 292",
+      "interesting_facts": "",
+      "research_leads": [],
+      "spouses": []
     }
   ],
   "families": [
@@ -11372,6 +13643,424 @@
       "children": [
         64
       ]
+    },
+    {
+      "id": "F94",
+      "husband_id": 254,
+      "wife_id": 255,
+      "marriage": {
+        "date": "1776-04-21",
+        "place": "Dover, Strafford, New Hampshire",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        102
+      ]
+    },
+    {
+      "id": "F95",
+      "husband_id": 256,
+      "wife_id": 257,
+      "marriage": {
+        "date": "1741-02",
+        "place": "Newington, Strafford, New Hampshire",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        254
+      ]
+    },
+    {
+      "id": "F96",
+      "husband_id": 258,
+      "wife_id": 259,
+      "marriage": {
+        "date": "1711-07-26",
+        "place": "Newington, Rockingham, New Hampshire",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        256
+      ]
+    },
+    {
+      "id": "F97",
+      "husband_id": 260,
+      "wife_id": 261,
+      "marriage": {
+        "date": "~1692",
+        "place": "Newington, New Hampshire",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        258
+      ]
+    },
+    {
+      "id": "F98",
+      "husband_id": 262,
+      "wife_id": 263,
+      "marriage": {
+        "date": "1646",
+        "place": "Oyster River Parish, Strafford, New Hampshire",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        260
+      ]
+    },
+    {
+      "id": "F99",
+      "husband_id": 264,
+      "wife_id": 265,
+      "marriage": {
+        "date": "~1624",
+        "place": "Dover, Strafford, New Hampshire",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        262
+      ]
+    },
+    {
+      "id": "F100",
+      "husband_id": 266,
+      "wife_id": 267,
+      "marriage": {
+        "date": "",
+        "place": "Dunsland, Devon, England",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        264
+      ]
+    },
+    {
+      "id": "F101",
+      "husband_id": 268,
+      "wife_id": 269,
+      "marriage": {
+        "date": "1556-01-30",
+        "place": "Abbotskerswell, Devon, England",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        266
+      ]
+    },
+    {
+      "id": "F102",
+      "husband_id": 270,
+      "wife_id": 271,
+      "marriage": {
+        "date": "1528",
+        "place": "Abbotskerswell, Devon, England",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        268
+      ]
+    },
+    {
+      "id": "F103",
+      "husband_id": 272,
+      "wife_id": 271,
+      "marriage": {
+        "date": "1528",
+        "place": "Abbotskerswell, Devon, England",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        270
+      ]
+    },
+    {
+      "id": "F104",
+      "husband_id": 273,
+      "wife_id": 274,
+      "marriage": {
+        "date": "1750",
+        "place": "New Hampshire",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        255
+      ]
+    },
+    {
+      "id": "F105",
+      "husband_id": 275,
+      "wife_id": 276,
+      "marriage": {
+        "date": "1770-05-05",
+        "place": "Berwick, York, Maine",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        61
+      ]
+    },
+    {
+      "id": "F106",
+      "husband_id": 277,
+      "wife_id": 278,
+      "marriage": {
+        "date": "~1740",
+        "place": "Berwick, York, Maine",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        275
+      ]
+    },
+    {
+      "id": "F107",
+      "husband_id": 279,
+      "wife_id": 280,
+      "marriage": {
+        "date": "1707-05-15",
+        "place": "Kittery, York, Massachusetts Bay Colony",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        277
+      ]
+    },
+    {
+      "id": "F108",
+      "husband_id": 281,
+      "wife_id": 282,
+      "marriage": {
+        "date": "1670",
+        "place": "Wells, York, Maine",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        279
+      ]
+    },
+    {
+      "id": "F109",
+      "husband_id": 283,
+      "wife_id": 284,
+      "marriage": {
+        "date": "~1630",
+        "place": "Maine",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        281
+      ]
+    },
+    {
+      "id": "F110",
+      "husband_id": 285,
+      "wife_id": 286,
+      "marriage": {
+        "date": "",
+        "place": "England",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        283
+      ]
+    },
+    {
+      "id": "F111",
+      "husband_id": 287,
+      "wife_id": 288,
+      "marriage": {
+        "date": "1558-01-29",
+        "place": "Glemsford, Suffolk, England",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        285
+      ]
+    },
+    {
+      "id": "F112",
+      "husband_id": 289,
+      "wife_id": 290,
+      "marriage": {
+        "date": "~1530",
+        "place": "Glemsford, Suffolk, England",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        287
+      ]
+    },
+    {
+      "id": "F113",
+      "husband_id": 291,
+      "wife_id": 292,
+      "marriage": {
+        "date": "1705",
+        "place": "Kittery, York, Massachusetts Bay Colony",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        231
+      ]
+    },
+    {
+      "id": "F114",
+      "husband_id": 293,
+      "wife_id": 294,
+      "marriage": {
+        "date": "1668-01-19",
+        "place": "Watertown, Middlesex, Massachusetts Bay Colony",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        291
+      ]
+    },
+    {
+      "id": "F115",
+      "husband_id": 295,
+      "wife_id": 296,
+      "marriage": {
+        "date": "1618-05-24",
+        "place": "London, England",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        293
+      ]
+    },
+    {
+      "id": "F116",
+      "husband_id": 297,
+      "wife_id": 298,
+      "marriage": {
+        "date": "1583-05-12",
+        "place": "Westminster, London, England",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        295
+      ]
+    },
+    {
+      "id": "F117",
+      "husband_id": 299,
+      "wife_id": 300,
+      "marriage": {
+        "date": "1559",
+        "place": "Lambeth, Surrey, England",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        297
+      ]
+    },
+    {
+      "id": "F118",
+      "husband_id": 301,
+      "wife_id": 302,
+      "marriage": {
+        "date": "~1497",
+        "place": "Whitney-on-Wye, Herefordshire, England",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        299
+      ]
+    },
+    {
+      "id": "F119",
+      "husband_id": 303,
+      "wife_id": 304,
+      "marriage": {
+        "date": "",
+        "place": "",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        301
+      ]
+    },
+    {
+      "id": "F120",
+      "husband_id": 305,
+      "wife_id": 306,
+      "marriage": {
+        "date": "",
+        "place": "",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        303
+      ]
+    },
+    {
+      "id": "F121",
+      "husband_id": 307,
+      "wife_id": 308,
+      "marriage": {
+        "date": "",
+        "place": "Woolwich, Kent, England",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        121
+      ]
+    },
+    {
+      "id": "F122",
+      "husband_id": 309,
+      "wife_id": 310,
+      "marriage": {
+        "date": "1824-04-19",
+        "place": "Chatham Town, Kent, England",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        307
+      ]
+    },
+    {
+      "id": "F123",
+      "husband_id": 309,
+      "wife_id": 311,
+      "marriage": {
+        "date": "1849-11-04",
+        "place": "Crayford, Kent, England",
+        "officiant": "",
+        "source": ""
+      },
+      "children": []
     }
   ],
   "sources": [
@@ -13920,6 +16609,69 @@
       "date": "",
       "location": "England / Brooklyn, NY",
       "url": "https://www.familysearch.org/tree/person/details/MMM5-4NQ",
+      "notes": ""
+    },
+    {
+      "id": 288,
+      "type": "Online Database",
+      "description": "FamilySearch Family Tree — Bickford line (PIDs: K8SW-YY1, K4X4-QZ5, K2TZ-GXD, K2TZ-GC1, LQRC-RRP, LHNW-HG3, LBGV-DBD, LCT2-FM6, LL7S-MWS, LZYD-8BK, LZKR-T6Y, M3FZ-KT5, LDLV-TCW, LC3V-V66, KVV7-HLW, LZKR-69L, KVV7-H9N, LVQW-Q7L, G552-4VN, LC85-QS2, L7JX-8WM)",
+      "date": "2026-04-03",
+      "location": "",
+      "url": "https://www.familysearch.org/tree/person/details/K8SW-YY1",
+      "notes": "Bickford patrilineal line traced from Levi Bickford back to William Bickford (1500, Devon, England)"
+    },
+    {
+      "id": 289,
+      "type": "Online Database",
+      "description": "FamilySearch Family Tree — Frost line (PIDs: KHJ9-DF8, KD9Q-7K5, KLXJ-K95, LWXS-RPD, LKKM-V9L, LDK4-16N, LZKV-Q56, GCM2-2NG, LV12-SHB, PQ2X-JVC, M8FN-WWM, LRZG-57L, LZ2D-JXC, M5WW-CCW, L585-N2V, LTKG-61W)",
+      "date": "2026-04-03",
+      "location": "",
+      "url": "https://www.familysearch.org/tree/person/details/KHJ9-DF8",
+      "notes": "Frost patrilineal line traced from Benjamin Frost (1769) back to William Frost (1495, Glemsford, Suffolk, England)"
+    },
+    {
+      "id": 290,
+      "type": "Online Database",
+      "description": "FamilySearch Family Tree — Whitney line (PIDs: LV3P-7KV, LDMF-NKB, 97YV-T6R, M5NC-DJN, L525-1J4, L1CB-TGD, L5TN-J5C, LDK9-355, L5TN-FW1, LYKH-MML, 2DXL-XKF, GKKS-WJH, LDQL-6JD, KFX4-S26, MDBL-PMG, L5TN-MH2)",
+      "date": "2026-04-03",
+      "location": "",
+      "url": "https://www.familysearch.org/tree/person/details/LV3P-7KV",
+      "notes": "Whitney patrilineal line traced from Nathaniel Whitney (1709) through John Whitney immigrant (1592) back to Eustace Whitney (1411). Note: link from Thomas Whitney (1560) to Robert Whitney III (1498) disputed by Jacobus."
+    },
+    {
+      "id": 291,
+      "type": "Census",
+      "description": "1871 England Census — Sacre family in Gillingham, Kent. Edwin Wm Sacre age 9, son of Joseph Robt Sacre (40, Chatham) and Charlotte (39, Woolwich). FamilySearch ark:/61903/1:1:VFXX-BPW",
+      "date": "1871",
+      "location": "Gillingham, Kent, England",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:VFXX-BPW",
+      "notes": "Confirmed Edwin William Sacre's parents as Joseph Robert Sacre and Charlotte"
+    },
+    {
+      "id": 292,
+      "type": "Census",
+      "description": "1851 England Census — Sacre family in Woolwich, Kent. Joseph Sacre age 20, son of Thomas Sacre (50, New Romney, Boot Maker) and Hannah (49, Wodensborough). FamilySearch ark:/61903/1:1:SGLV-KK6",
+      "date": "1851",
+      "location": "Woolwich, Kent, England",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:SGLV-KK6",
+      "notes": "Joseph Robert Sacre in his parents' household. Thomas Sacre's 2nd wife Hannah; his 1st wife was Jane Mowatt (m. 1824 Chatham)."
+    },
+    {
+      "id": 293,
+      "type": "Church Record",
+      "description": "Non-Conformist Record — Joseph Robert Sacre christened 21 November 1830, Strood, Kent. Parents: Thomas and Jane Sacre. FamilySearch England Births and Christenings.",
+      "date": "1830-11-21",
+      "location": "Strood, Kent, England",
+      "url": "",
+      "notes": "Born 24 October 1830. Father Thomas Sacre, mother Jane (Mowatt)."
+    },
+    {
+      "id": 294,
+      "type": "Marriage Record",
+      "description": "Thomas Sacre married Jane Mowatt, 19 April 1824, Chatham Town, Kent. FamilySearch England Marriages 1538-1973.",
+      "date": "1824-04-19",
+      "location": "Chatham, Kent, England",
+      "url": "",
       "notes": ""
     }
   ]
