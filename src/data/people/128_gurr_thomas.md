@@ -8,7 +8,7 @@
 - **Also Known As:** Thomas Gurr
 
 ## Family
-- **Father:** Unknown
+- **Father:** William Eldridge Gurr
 - **Mother:** Unknown
 - **Spouse:** Harriet Ann Gurr (m. 1856-07-13, Woolwich, Greenwich, London, England)
   - **Children:** Harriet Gurr
@@ -26,8 +26,7 @@ Father of Harriet Gurr (ID 127). FamilySearch PID LRL4-FQQ. Born 15 July 1833 in
 - [ ] Research siblings of Harriet Gurr (ID 127): William Gurr (1857-1932) and Elizabeth Edith Gurr (1861-1901) — add to tree or research leads.
 
 ## Research Gaps
-- [ ] Father
 - [ ] Mother
 
 ---
-*Record completeness: 80%*
+*Record completeness: 87%*

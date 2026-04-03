@@ -1,13 +1,17 @@
 # Whitney Branch
 
-**Individuals:** 9 | **With birth dates:** 8/9 | **With sources:** 8/9 | **Avg completeness:** 86%
+**Individuals:** 13 | **With birth dates:** 12/13 | **With sources:** 12/13 | **Avg completeness:** 87%
 
 ## Individuals
 
 | ID | Name | Born | Died | Completeness |
 |----|------|------|------|-------------|
 | 21 | Gail Frances Whitney |  |  | 55% |
-| 80 | Joseph Franklin Whitney | 1841-01-03 | 1915-07-05 | 80% |
+| 231 | Nathaniel Whitney | 1709 | 1804 | 65% |
+| 229 | Moses Whitney | 1739-03-17 | 1820-04-12 | 95% |
+| 227 | Enoch Whitney | 1773-04-08 | 1857-05-01 | 95% |
+| 225 | William G Whitney | 1812-08-04 | 1875-03-09 | 90% |
+| 80 | Joseph Franklin Whitney | 1841-01-03 | 1915-07-05 | 95% |
 | 159 | Bertha Agness Whitney | 1877-03-11 | 1961-04-03 | 95% |
 | 160 | Joseph Greenlaw Whitney | 1880-04-19 | 1968-04-05 | 95% |
 | 161 | Mary H. Whitney | 1883-07-28 | 1900-04-22 | 95% |
@@ -18,4 +22,4 @@
 
 ## Open Questions
 - [ ] Gail Frances Whitney (ID 21): birth date missing
-- [ ] Joseph Franklin Whitney (ID 80): parents unknown
+- [ ] Nathaniel Whitney (ID 231): parents unknown

@@ -8,8 +8,8 @@
 - **Nationality:** Born England, emigrated to United States
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** William Lewis
+- **Mother:** Mary Jane
 - **Spouse:** Catherine Snyder (m. ~1839)
   - **Children:** William H Lewis
 
@@ -28,9 +28,5 @@ English immigrant ancestor on Kevin's paternal Lewis line.
 - [ ] Find death record Brooklyn, October 1905 — NYC death certificates available via NYC Municipal Archives
 - [ ] Parents William Lewis (MMM5-4FN) and Mary Jane (MMM5-4NQ) on FamilySearch — consider adding gen 5 ancestors if Kevin requests
 
-## Research Gaps
-- [ ] Father
-- [ ] Mother
-
 ---
-*Record completeness: 75%*
+*Record completeness: 90%*

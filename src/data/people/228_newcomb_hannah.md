@@ -1,20 +1,22 @@
 # Hannah Newcomb (ID: 228)
 
 ## Vital Information
-- **Born:** 1771
+- **Born:** 1771, Limington, York, Maine
 - **Died:** 1824
+- **Maiden Name:** Newcomb
+- **Also Known As:** Hiannah Newcomb
 
 ## Family
-- **Father:** John Newcomb (1733-1812, FamilySearch KNSJ-VFZ)
-- **Mother:** Abigail Young (1748-1835, FamilySearch 2S4K-5QH)
+- **Father:** John Newcomb
+- **Mother:** Abigail Young
 - **Spouse:** Enoch Whitney (m. 1792-06-02)
-  - **Children:** William G Whitney (ID: 225)
+  - **Children:** William G Whitney
 
 ## Sources
-FamilySearch Family Tree M86J-XCJ
+Source 260: FamilySearch M86J-XCJ (3 sources)
 
 ## Notes
-Paternal grandmother of Joseph Franklin Whitney (ID 80). Mother of William G Whitney (ID 225). Married Enoch Whitney on 2 June 1792. FamilySearch PID: M86J-XCJ. Parents married 10 October 1765 in Wellfleet, Barnstable, Massachusetts Bay.
+FamilySearch PID M86J-XCJ. Born 1771, Limington, York, Maine. Died 1824. Married Enoch Whitney 2 Jun 1792. 8 children.
 
-## Research Gaps
-- [ ] Birth and death places not confirmed
+---
+*Record completeness: 90%*

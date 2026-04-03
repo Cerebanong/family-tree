@@ -1,12 +1,13 @@
 # Lewis Branch
 
-**Individuals:** 11 | **With birth dates:** 11/11 | **With sources:** 10/11 | **Avg completeness:** 85%
+**Individuals:** 12 | **With birth dates:** 12/12 | **With sources:** 11/12 | **Avg completeness:** 85%
 
 ## Individuals
 
 | ID | Name | Born | Died | Completeness |
 |----|------|------|------|-------------|
-| 64 | Henry John Lewis | 1819-06-16 | 1905 | 75% |
+| 252 | William Lewis | 1791 |  | 65% |
+| 64 | Henry John Lewis | 1819-06-16 | 1905 | 90% |
 | 44 | William H Lewis | 1842-02 | 1925-07 | 95% |
 | 67 | Elsie Lewis | 1887-10 | ~1912 | 90% |
 | 42 | Roswell Eldridge Lewis | 1891-09-21 | 1968-12-28 | 100% |
@@ -19,5 +20,5 @@
 | 205 | D Harvey Lewis | ~1936 |  | 80% |
 
 ## Open Questions
-- [ ] Henry John Lewis (ID 64): parents unknown
+- [ ] William Lewis (ID 252): parents unknown
 - [ ] Irene A Lewis (ID 140): parents unknown

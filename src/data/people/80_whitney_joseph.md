@@ -7,8 +7,8 @@
 - **Burial:** Academy Cemetery, Lee, Penobscot, Maine
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** William G Whitney
+- **Mother:** Agnes Smith
 - **Spouse:** Hannah Delanah Spencer (m. 1875-09-19, Lee, Penobscot County, ME)
   - **Children:** William G Whitney, Bertha Agness Whitney, Joseph Greenlaw Whitney, Mary H. Whitney
 
@@ -18,9 +18,5 @@ FamilySearch K872-9H1 (22 sources: census 1850–1910, Maine vital records, marr
 ## Notes
 Lifelong Lee, Penobscot, ME resident. Parents: William G Whitney (1812–1875, FS KCK8-SZG) and Agnes Smith (1811–, FS K8C7-CRM) — not yet added to tree (gen 5 from Kevin). Buried Academy Cemetery, Lee, alongside wife Hannah Spencer Whitney.
 
-## Research Gaps
-- [ ] Father
-- [ ] Mother
-
 ---
-*Record completeness: 80%*
+*Record completeness: 95%*
