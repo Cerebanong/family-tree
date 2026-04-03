@@ -20,10 +20,10 @@ interface LayoutNode {
   y: number;
 }
 
-const NODE_WIDTH = 200;
-const NODE_HEIGHT = 60;
-const H_GAP = 40;
-const V_GAP = 100;
+const NODE_WIDTH = 130;
+const NODE_HEIGHT = 70;
+const H_GAP = 16;
+const V_GAP = 80;
 const SNAP_DURATION = 400;
 
 export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, onFocusChange }: Props) {
@@ -178,25 +178,30 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
       }
     }
 
-    // Compute total width needed based on maximum nodes at any generation
-    let maxNodesInGen = 0;
-    for (const [, nodes] of byGen) {
-      if (nodes.length > maxNodesInGen) maxNodesInGen = nodes.length;
-    }
-    const TOTAL_WIDTH = Math.max(maxNodesInGen * (NODE_WIDTH + H_GAP), 800);
-
+    // Convert fractional positions to pixel positions with consistent gaps.
+    // Sort each generation's nodes by their fractional center, then space evenly.
     const layoutNodes: LayoutNode[] = [];
 
-    for (const node of branchNodes) {
-      const pos = positions.get(node.id);
-      if (!pos) continue; // Skip unreachable nodes
+    for (const gen of generations) {
+      const nodesAtGen = (byGen.get(gen) ?? [])
+        .filter((n) => positions.has(n.id))
+        .sort((a, b) => {
+          const pa = positions.get(a.id)!;
+          const pb = positions.get(b.id)!;
+          return (pa.frac + pa.width / 2) - (pb.frac + pb.width / 2);
+        });
 
-      // Center the node within its allocated fraction
-      const centerFrac = pos.frac + pos.width / 2;
-      const x = (centerFrac - 0.5) * TOTAL_WIDTH - NODE_WIDTH / 2;
-      const y = (maxGen - node.generation) * (NODE_HEIGHT + V_GAP);
+      const totalWidth = nodesAtGen.length * NODE_WIDTH + (nodesAtGen.length - 1) * H_GAP;
+      const startX = -totalWidth / 2;
+      const y = (maxGen - gen) * (NODE_HEIGHT + V_GAP);
 
-      layoutNodes.push({ branch: node, x, y });
+      for (let i = 0; i < nodesAtGen.length; i++) {
+        layoutNodes.push({
+          branch: nodesAtGen[i],
+          x: startX + i * (NODE_WIDTH + H_GAP),
+          y,
+        });
+      }
     }
 
     return layoutNodes;
@@ -219,35 +224,25 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
   }, []);
 
   // Collect all connected ancestor/descendant branch IDs via BFS
+  const branchMapRef = useRef(new Map<string, BranchNode>());
+  branchMapRef.current = new Map(branchNodes.map((n) => [n.id, n]));
+
   const getConnectedBranches = useCallback((branchId: string): Set<string> => {
-    const branchMap = new Map(branchNodes.map((n) => [n.id, n]));
+    const bMap = branchMapRef.current;
     const connected = new Set<string>([branchId]);
-    // Walk ancestors (parentBranchIds = older generations)
-    const ancestorQueue = [branchId];
-    while (ancestorQueue.length > 0) {
-      const current = branchMap.get(ancestorQueue.shift()!);
-      if (!current) continue;
-      for (const pid of current.parentBranchIds) {
-        if (!connected.has(pid)) {
-          connected.add(pid);
-          ancestorQueue.push(pid);
-        }
-      }
-    }
-    // Walk descendants (childBranchIds = more recent generations)
-    const descendantQueue = [branchId];
-    while (descendantQueue.length > 0) {
-      const current = branchMap.get(descendantQueue.shift()!);
-      if (!current) continue;
-      for (const cid of current.childBranchIds) {
-        if (!connected.has(cid)) {
-          connected.add(cid);
-          descendantQueue.push(cid);
+    const queue = [branchId];
+    while (queue.length > 0) {
+      const node = bMap.get(queue.shift()!);
+      if (!node) continue;
+      for (const id of [...node.parentBranchIds, ...node.childBranchIds]) {
+        if (!connected.has(id)) {
+          connected.add(id);
+          queue.push(id);
         }
       }
     }
     return connected;
-  }, [branchNodes]);
+  }, []);
 
   // Snap to center on a specific branch node
   const snapToBranch = useCallback((branchId: string) => {
@@ -391,14 +386,26 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
       .attr('stroke', '#d4a574')
       .attr('stroke-width', 1.5);
 
+    // First names line (hidden by default, shown on focus)
+    nodeGroups.append('text')
+      .attr('class', 'first-names-label')
+      .attr('x', NODE_WIDTH / 2)
+      .attr('y', 18)
+      .attr('text-anchor', 'middle')
+      .attr('font-family', 'Inter, system-ui, sans-serif')
+      .attr('font-size', '10px')
+      .attr('fill', '#6b4f10')
+      .attr('opacity', 0)
+      .text('');
+
     // Surname text (always visible)
     nodeGroups.append('text')
       .attr('class', 'surname-label')
       .attr('x', NODE_WIDTH / 2)
-      .attr('y', NODE_HEIGHT / 2 - 6)
+      .attr('y', NODE_HEIGHT / 2 + 2)
       .attr('text-anchor', 'middle')
       .attr('font-family', 'Merriweather, Georgia, serif')
-      .attr('font-size', '13px')
+      .attr('font-size', '12px')
       .attr('font-weight', '700')
       .attr('fill', '#4a3610')
       .text((d) => d.branch.displaySurname);
@@ -407,10 +414,10 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
     nodeGroups.append('text')
       .attr('class', 'date-label')
       .attr('x', NODE_WIDTH / 2)
-      .attr('y', NODE_HEIGHT / 2 + 12)
+      .attr('y', NODE_HEIGHT / 2 + 16)
       .attr('text-anchor', 'middle')
       .attr('font-family', 'Inter, system-ui, sans-serif')
-      .attr('font-size', '10px')
+      .attr('font-size', '9px')
       .attr('fill', '#6b4f10')
       .text((d) => d.branch.dateRange);
 
@@ -442,11 +449,15 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
         // Snap to nearest node after pan ends
         if (snapTimeoutRef.current) clearTimeout(snapTimeoutRef.current);
         snapTimeoutRef.current = window.setTimeout(() => {
+          // Re-check: a click-to-focus may have started a snap since the timeout was queued
+          if (isSnappingRef.current) return;
+
           const transform = event.transform as d3.ZoomTransform;
           const centerX = (width / 2 - transform.x) / transform.k;
           const centerY = (height / 2 - transform.y) / transform.k;
           const nearest = findNearestNode(centerX, centerY, layout);
-          if (nearest && nearest.branch.id !== focusedId) {
+          // Use ref for latest focusedId (avoids stale closure)
+          if (nearest && nearest.branch.id !== focusedIdRef.current) {
             setFocusedId(nearest.branch.id);
             onFocusChange(nearest.branch.id);
 
@@ -561,20 +572,24 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
       // Update text content for focused/unfocused
       const branch = d.branch;
       if (isFocused) {
-        const fullName = branch.secondaryPerson
+        // Show first names above surname
+        const firstNames = branch.secondaryPerson
           ? `${branch.primaryPerson.firstName} & ${branch.secondaryPerson.firstName}`
-          : branch.primaryPerson.fullName;
-        const label = branch.secondaryPerson
-          ? `${fullName} ${branch.displaySurname}`
-          : fullName;
-        group.select('.surname-label').text(label);
+          : branch.primaryPerson.firstName;
+        group.select('.first-names-label').text(firstNames).attr('opacity', 1);
+        group.select('.surname-label')
+          .text(branch.displaySurname)
+          .attr('y', NODE_HEIGHT / 2 + 2);
 
         const dates = branch.secondaryDateRange
           ? `${branch.primaryDateRange} / ${branch.secondaryDateRange}`
           : branch.primaryDateRange;
         group.select('.date-label').text(dates);
       } else {
-        group.select('.surname-label').text(branch.displaySurname);
+        group.select('.first-names-label').text('').attr('opacity', 0);
+        group.select('.surname-label')
+          .text(branch.displaySurname)
+          .attr('y', NODE_HEIGHT / 2 + 2);
         group.select('.date-label').text(branch.dateRange);
       }
     });
