@@ -272,39 +272,48 @@ export function buildBranchTree(people: ClientPerson[]): BranchNode[] {
   // Step 3: Assign generations so that parents from both sides of a couple
   // are always at the same level (pedigree chart alignment).
   //
-  // Phase A: Forward pass from roots to get initial generation numbers.
+  // Phase A: BFS forward from roots — longest path from any root.
+  // Uses BFS with re-processing: when a deeper root proposes a higher
+  // generation for a node, the node is re-enqueued so its descendants
+  // also get updated. This ensures each node's generation equals the
+  // length of the longest path from any root to that node.
   const roots = branchNodes.filter((n) => n.parentBranchIds.length === 0);
 
-  function assignForward(nodeId: string, gen: number, visited: Set<string>) {
-    if (visited.has(nodeId)) return;
-    visited.add(nodeId);
+  for (const node of branchNodes) node.generation = 0;
+  const fwdQueue: string[] = [];
+  for (const root of roots) {
+    root.generation = 0;
+    fwdQueue.push(root.id);
+  }
+  while (fwdQueue.length > 0) {
+    const nodeId = fwdQueue.shift()!;
     const node = branchById.get(nodeId);
-    if (!node) return;
-    node.generation = Math.max(node.generation, gen);
+    if (!node) continue;
     for (const childId of node.childBranchIds) {
-      assignForward(childId, gen + 1, visited);
+      const child = branchById.get(childId);
+      if (!child) continue;
+      const proposed = node.generation + 1;
+      if (proposed > child.generation) {
+        child.generation = proposed;
+        fwdQueue.push(childId);
+      }
     }
   }
 
-  const fwdVisited = new Set<string>();
-  for (const root of roots) {
-    assignForward(root.id, 0, fwdVisited);
-  }
-
-  // Phase B: Backward pass from the most recent generation to ensure
-  // all parents of a child are at the same generation level.
-  // Parent generation = max(child.generation) - 1 across all children.
+  // Phase B: Backward pass from leaf nodes to ensure all parents of a
+  // child are at the same generation level. Seeds from ALL leaf nodes
+  // (not just maxGen) so every branch of the tree is reachable.
   const maxGenFwd = Math.max(...branchNodes.map((n) => n.generation));
 
-  // BFS backward from the most recent nodes
+  // BFS backward from all leaf nodes
   const genMap = new Map<string, number>();
   const queue: Array<{ id: string; gen: number }> = [];
 
-  // Start from all nodes at the most recent generation
+  // Start from all leaf nodes (no children) at their forward-pass generation
   for (const node of branchNodes) {
-    if (node.generation === maxGenFwd) {
-      queue.push({ id: node.id, gen: maxGenFwd });
-      genMap.set(node.id, maxGenFwd);
+    if (node.childBranchIds.length === 0) {
+      queue.push({ id: node.id, gen: node.generation });
+      genMap.set(node.id, node.generation);
     }
   }
 
