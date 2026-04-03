@@ -117,7 +117,8 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
     // Two passes per generation:
     //   Pass 1: Collect the combined range each parent should span from all its children.
     //   Pass 2: For parents with 2 grandparent branches, split their range left/right.
-    for (let g = maxGen; g >= 0; g--) {
+    const minGen = generations[0];
+    for (let g = maxGen; g >= minGen; g--) {
       const nodesAtGen = byGen.get(g);
       if (!nodesAtGen) continue;
 
