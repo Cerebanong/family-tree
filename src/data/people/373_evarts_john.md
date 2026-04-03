@@ -1,0 +1,17 @@
+# John Evarts (ID: 373)
+
+## Vital Information
+- **Born:** 1639-12-29, Concord, Middlesex, MA
+- **Died:** 1692-12-28, Guilford, New Haven, CT
+
+## Family
+- **Father:** John Evarts
+- **Mother:** Elizabeth Evarts
+- **Spouse:** Mary French (m. 1665-09-14, New Haven, CT)
+  - **Children:** Nathaniel Evarts
+
+## Sources
+FamilySearch Family Tree, PID: L6B8-M29
+
+---
+*Record completeness: 95%*

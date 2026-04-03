@@ -7,8 +7,8 @@
 - **Also Known As:** Ernest Miller
 
 ## Family
-- **Father:** Franklin J Miller
-- **Mother:** Anna M Miller
+- **Father:** Aranthus Everts
+- **Mother:** Margaret Mathews
 - **Siblings:** Robert Lee Miller
 
 ## Sources

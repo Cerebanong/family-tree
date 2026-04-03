@@ -6,8 +6,8 @@
 - **Maiden Name:** Eldridge
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** William Eldridge
+- **Mother:** Anne Walter
 - **Spouse:** James Gurr (m. 1809-10-07, Peasmarsh, Sussex, England)
   - **Children:** William Eldridge Gurr
 
@@ -19,8 +19,6 @@ FamilySearch PID LL9M-9MC. Married James Gurr 7 Oct 1809, Peasmarsh, Sussex.
 
 ## Research Gaps
 - [ ] Birth place
-- [ ] Father
-- [ ] Mother
 
 ---
-*Record completeness: 65%*
+*Record completeness: 80%*

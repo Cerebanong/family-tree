@@ -6,8 +6,8 @@
 - **Maiden Name:** Burden
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Richard Burden
+- **Mother:** Mary Knowlden
 - **Spouse:** Thomas Gurr (m. 1773-02-19, Hothfield, Kent, England)
   - **Children:** James Gurr
 
@@ -19,8 +19,6 @@ FamilySearch PID M3HY-M1W. Married Thomas Gurr 19 Feb 1773, Hothfield, Kent.
 
 ## Research Gaps
 - [ ] Birth place
-- [ ] Father
-- [ ] Mother
 
 ---
-*Record completeness: 65%*
+*Record completeness: 80%*
