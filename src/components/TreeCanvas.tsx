@@ -65,52 +65,42 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
       positions.set(node.id, { frac: i * rootWidth, width: rootWidth });
     });
 
-    // Classify a node's parent branches as paternal (left) vs maternal (right)
-    function classifyParents(node: BranchNode): { paternalId: string | null; maternalId: string | null } {
+    // Classify a node's parent branches as paternal (left) vs maternal (right).
+    // Returns arrays because a couple branch can have 3+ parent branches when
+    // biological parents aren't paired as spouses (e.g. remarriage).
+    function classifyParents(node: BranchNode): { paternalIds: string[]; maternalIds: string[] } {
       const parentIds = node.parentBranchIds;
-      let paternalId: string | null = null;
-      let maternalId: string | null = null;
+      const paternalIds: string[] = [];
+      const maternalIds: string[] = [];
 
       const primary = node.primaryPerson;
       const secondary = node.secondaryPerson;
 
-      if (secondary) {
-        // Couple: primary (male) parents = left, secondary (female) parents = right
-        for (const pid of parentIds) {
-          const parentBranch = branchMap.get(pid);
-          if (!parentBranch) continue;
-          const pids = parentBranch.personIds;
-          if ((primary.fatherId != null && pids.includes(primary.fatherId)) ||
-              (primary.motherId != null && pids.includes(primary.motherId))) {
-            paternalId = pid;
-          } else if ((secondary.fatherId != null && pids.includes(secondary.fatherId)) ||
-                     (secondary.motherId != null && pids.includes(secondary.motherId))) {
-            maternalId = pid;
-          }
-        }
-      } else {
-        // Single person: father's branch = left, mother's branch = right
-        for (const pid of parentIds) {
-          const parentBranch = branchMap.get(pid);
-          if (!parentBranch) continue;
-          const pids = parentBranch.personIds;
-          if (primary.fatherId != null && pids.includes(primary.fatherId)) {
-            paternalId = pid;
-          } else if (primary.motherId != null && pids.includes(primary.motherId)) {
-            maternalId = pid;
-          }
-        }
-      }
-
-      // Assign any unclassified parents to empty slots
       for (const pid of parentIds) {
-        if (pid !== paternalId && pid !== maternalId) {
-          if (!paternalId) paternalId = pid;
-          else if (!maternalId) maternalId = pid;
+        const parentBranch = branchMap.get(pid);
+        if (!parentBranch) continue;
+        const pids = parentBranch.personIds;
+
+        const isPrimaryParent =
+          (primary.fatherId != null && pids.includes(primary.fatherId)) ||
+          (primary.motherId != null && pids.includes(primary.motherId));
+
+        const isSecondaryParent = secondary != null && (
+          (secondary.fatherId != null && pids.includes(secondary.fatherId)) ||
+          (secondary.motherId != null && pids.includes(secondary.motherId)));
+
+        if (isPrimaryParent) {
+          paternalIds.push(pid);
+        } else if (isSecondaryParent) {
+          maternalIds.push(pid);
+        } else {
+          // Unclassified — distribute to shorter side
+          if (paternalIds.length <= maternalIds.length) paternalIds.push(pid);
+          else maternalIds.push(pid);
         }
       }
 
-      return { paternalId, maternalId };
+      return { paternalIds, maternalIds };
     }
 
     // Walk downward through older generations (descending gen number).
@@ -144,28 +134,46 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
             parentRanges.set(pid, { minFrac: pos.frac, maxFrac: pos.frac + pos.width });
           }
         } else {
-          // Multiple parent branches: split this node's range
-          const { paternalId, maternalId } = classifyParents(node);
-          const halfWidth = pos.width / 2;
+          // Multiple parent branches: split this node's range into paternal (left) / maternal (right).
+          // Each side may contain multiple branches (e.g. when biological parents aren't paired as spouses).
+          const { paternalIds, maternalIds } = classifyParents(node);
 
-          if (paternalId) {
-            const leftFrac = pos.frac;
-            const existing = parentRanges.get(paternalId);
-            if (existing) {
-              existing.minFrac = Math.min(existing.minFrac, leftFrac);
-              existing.maxFrac = Math.max(existing.maxFrac, leftFrac + halfWidth);
-            } else {
-              parentRanges.set(paternalId, { minFrac: leftFrac, maxFrac: leftFrac + halfWidth });
+          const leftCount = paternalIds.length;
+          const rightCount = maternalIds.length;
+          // If one side is empty, the other gets the full width; otherwise split in half
+          const leftWidth = rightCount === 0 ? pos.width : leftCount === 0 ? 0 : pos.width / 2;
+          const rightWidth = pos.width - leftWidth;
+
+          // Distribute paternal branches evenly across the left portion
+          if (leftCount > 0) {
+            const subWidth = leftWidth / leftCount;
+            for (let pi = 0; pi < leftCount; pi++) {
+              const pid = paternalIds[pi];
+              const fracStart = pos.frac + pi * subWidth;
+              const existing = parentRanges.get(pid);
+              if (existing) {
+                existing.minFrac = Math.min(existing.minFrac, fracStart);
+                existing.maxFrac = Math.max(existing.maxFrac, fracStart + subWidth);
+              } else {
+                parentRanges.set(pid, { minFrac: fracStart, maxFrac: fracStart + subWidth });
+              }
             }
           }
-          if (maternalId) {
-            const rightFrac = pos.frac + halfWidth;
-            const existing = parentRanges.get(maternalId);
-            if (existing) {
-              existing.minFrac = Math.min(existing.minFrac, rightFrac);
-              existing.maxFrac = Math.max(existing.maxFrac, rightFrac + halfWidth);
-            } else {
-              parentRanges.set(maternalId, { minFrac: rightFrac, maxFrac: rightFrac + halfWidth });
+
+          // Distribute maternal branches evenly across the right portion
+          if (rightCount > 0) {
+            const subWidth = rightWidth / rightCount;
+            const rightStart = pos.frac + leftWidth;
+            for (let mi = 0; mi < rightCount; mi++) {
+              const pid = maternalIds[mi];
+              const fracStart = rightStart + mi * subWidth;
+              const existing = parentRanges.get(pid);
+              if (existing) {
+                existing.minFrac = Math.min(existing.minFrac, fracStart);
+                existing.maxFrac = Math.max(existing.maxFrac, fracStart + subWidth);
+              } else {
+                parentRanges.set(pid, { minFrac: fracStart, maxFrac: fracStart + subWidth });
+              }
             }
           }
         }

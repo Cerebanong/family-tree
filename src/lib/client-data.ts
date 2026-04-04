@@ -174,8 +174,24 @@ export function buildBranchTree(people: ClientPerson[]): BranchNode[] {
     let secondary: ClientPerson | null = null;
 
     if (person.spouseIds.length > 0) {
-      // Find the first spouse that hasn't been processed
-      const spouseId = person.spouseIds.find((sid) => !processed.has(sid));
+      // Find the best unprocessed spouse — prefer the one who shares the most
+      // children in the dataset (handles remarriage: pair with the co-parent).
+      const availableSpouses = person.spouseIds.filter((sid) => !processed.has(sid));
+      let spouseId: number | undefined;
+      if (availableSpouses.length > 1) {
+        let bestId = availableSpouses[0];
+        let bestScore = 0;
+        for (const sid of availableSpouses) {
+          const score = people.filter(
+            (c) => (c.fatherId === person.id && c.motherId === sid) ||
+                   (c.motherId === person.id && c.fatherId === sid)
+          ).length;
+          if (score > bestScore) { bestScore = score; bestId = sid; }
+        }
+        spouseId = bestId;
+      } else {
+        spouseId = availableSpouses[0];
+      }
       if (spouseId != null) {
         const spouse = byId.get(spouseId);
         if (spouse) {
