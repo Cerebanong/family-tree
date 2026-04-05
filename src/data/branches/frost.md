@@ -34,7 +34,7 @@
 | 290 | Philippa Frost | ~1497 | 1578-01-20 | 70% |
 | 287 | John Frost | ~1538 | 1610-02-09 | 100% |
 | 288 | Anne Frost | ~1538 | 1588-07-30 | 85% |
-| 286 | Prudence Frost | ~1583 | 1641 | 65% |
+| 286 | Prudence Frost | ~1583 | 1641 | 72% |
 | 283 | George Frost | ~1600 | 1666 | 95% |
 | 284 | Alice Frost | ~1610 | 1663 | 65% |
 | 282 | Mary Frost | ~1649 | 1690 | 80% |
@@ -48,6 +48,5 @@
 ## Open Questions
 - [ ] William Frost (ID 289): parents unknown
 - [ ] Philippa Frost (ID 290): parents unknown
-- [ ] Prudence Frost (ID 286): parents unknown
 - [ ] Alice Frost (ID 284): parents unknown
 - [ ] Lucy Frost (ID 278): parents unknown

@@ -6,7 +6,7 @@
 - **Maiden Name:** Valyant
 
 ## Family
-- **Father:** Unknown
+- **Father:** Henry Valyant
 - **Mother:** Unknown
 - **Spouse:** John Frost (m. England)
   - **Children:** George Frost
@@ -15,15 +15,14 @@
 Source 289: FamilySearch Family Tree — Frost line
 
 ## Notes
-FamilySearch PID: LRZG-57L. Wife of John Frost (1564). Married in England.
+FamilySearch PID: LRZG-57L. Wife of John Frost (1564). Married 2 Oct 1592, Langham, Suffolk. Buried 7 Jul 1641, Langham. Will dated 10 Jun 1636, proved 9 Aug 1641 by son James in Archdeaconry Court of Sudbury. Described as 'of Langham, Co. Suffolk, widow'. Daughter of Henry Valyant of Langham.
 
 ## Research Leads
-- [ ] Married in England. Valyant is an unusual surname — search English parish registers near Devon/Somerset where Valyant/Valiant surname concentrations exist.
+- [ ] Father Henry Valyant of Langham identified in published Frost genealogy. Mother unknown. Suffolk parish registers may provide more.
 
 ## Research Gaps
 - [ ] Birth place
-- [ ] Father
 - [ ] Mother
 
 ---
-*Record completeness: 65%*
+*Record completeness: 72%*

@@ -11304,7 +11304,7 @@
       "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
       "interesting_facts": "",
       "research_leads": [
-        "No specific parents found in online research. Search FamilySearch PID PQ2X-JVC for any linked parents. Maine colonial records may have more."
+        "CAUTION: Identity as 'Alice Sheldon' may be conflated with Alice Frost (b.~1600, Bakewell, Derbyshire) who married Godfrey Sheldon. The standard Frost reference (Norman Seaver Frost, 'Frost Genealogy in Five Families') records George Frost of Winter Harbor's wife as unknown. FamilySearch PID PQ2X-JVC may reflect user-contributed data. Treat with caution until a primary source is found."
       ],
       "spouses": [
         283
@@ -11373,18 +11373,18 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
+      "father_id": 502,
       "mother_id": null,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "FamilySearch PID: LRZG-57L. Wife of John Frost (1564). Married in England.",
+      "notes": "FamilySearch PID: LRZG-57L. Wife of John Frost (1564). Married 2 Oct 1592, Langham, Suffolk. Buried 7 Jul 1641, Langham. Will dated 10 Jun 1636, proved 9 Aug 1641 by son James in Archdeaconry Court of Sudbury. Described as 'of Langham, Co. Suffolk, widow'. Daughter of Henry Valyant of Langham.",
       "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
       "interesting_facts": "",
       "research_leads": [
-        "Married in England. Valyant is an unusual surname — search English parish registers near Devon/Somerset where Valyant/Valiant surname concentrations exist."
+        "Father Henry Valyant of Langham identified in published Frost genealogy. Mother unknown. Suffolk parish registers may provide more."
       ],
       "spouses": [
         285
@@ -18773,7 +18773,7 @@
         "first": "Joanna",
         "middle": "",
         "last": "Scott",
-        "maiden": "",
+        "maiden": "Pigot",
         "aliases": []
       },
       "sex": "F",
@@ -18797,11 +18797,11 @@
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "First wife of Richard Scott, clothier of Glemsford. Buried 23 August 1556 at Glemsford. Mother of Ann Scott (wife of John Frost). Maiden name unknown.",
+      "notes": "First wife of Richard Scott, clothier of Glemsford. Buried 23 August 1556 at Glemsford. Mother of Ann Scott (wife of John Frost). Maiden name Pigot per WikiTree (Scott-1649) and Geni profiles.",
       "source_citations": "328",
       "interesting_facts": "",
       "research_leads": [
-        "Maiden name unknown — Glemsford parish registers may identify her."
+        "Pigot family of Suffolk — search Glemsford parish registers for her baptism record."
       ],
       "confidence": "medium",
       "spouses": [
@@ -18862,8 +18862,8 @@
       },
       "sex": "F",
       "birth": {
-        "date": "~1730",
-        "place": ""
+        "date": "1728-02-28",
+        "place": "Berwick, York, Maine"
       },
       "death": {
         "date": "",
@@ -18881,7 +18881,7 @@
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Maiden name Nock. Wife of John Hersom. Mother of Hannah Hersom (wife of Mark Frost).",
+      "notes": "Born 28 Feb 1728, Berwick, York, Maine. Maiden name Nock. Descendant of Thomas Nock (1617-1666) line. Wife of John Hersom. Mother of Hannah Hersom (wife of Mark Frost).",
       "source_citations": "329",
       "interesting_facts": "",
       "research_leads": [
@@ -18973,6 +18973,45 @@
       "spouses": [
         500
       ]
+    },
+    {
+      "id": 502,
+      "name": {
+        "first": "Henry",
+        "middle": "",
+        "last": "Valyant",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1555",
+        "place": "Langham, Suffolk, England"
+      },
+      "death": {
+        "date": "",
+        "place": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "Langham, Suffolk, England",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Of Langham, Co. Suffolk. Named as father of Prudence (wife of John Frost) in 'The Frost Family in England and America' published genealogy. No parish register or probate record located for Henry himself.",
+      "source_citations": "331",
+      "interesting_facts": "",
+      "research_leads": [
+        "Search Suffolk parish registers for Henry Valyant baptism/burial in Langham area. Valyant/Valiant is an unusual surname."
+      ],
+      "confidence": "medium",
+      "spouses": []
     }
   ],
   "families": [
@@ -21932,6 +21971,20 @@
       "children": [
         292
       ]
+    },
+    {
+      "id": "F219",
+      "husband_id": 502,
+      "wife_id": null,
+      "marriage": {
+        "date": "",
+        "place": "",
+        "officiant": "",
+        "source": "331"
+      },
+      "children": [
+        286
+      ]
     }
   ],
   "sources": [
@@ -24856,6 +24909,15 @@
       "location": "",
       "url": "https://www.geni.com/projects/Early-Settlers-of-Kittery-Maine/13535",
       "notes": "Multiple Geni profiles list Sarah Ford as daughter of John Ford and Joanna Andrews of Kittery, Maine."
+    },
+    {
+      "id": 331,
+      "type": "published_book",
+      "description": "The Frost Family in England and America (published genealogy, Library of Congress). Pedigree chart names Prudence as daughter of Henry Valyant of Langham, Co. Suffolk. Also WikiTree (Frost-3600). Prudence's will dated 10 Jun 1636, proved 9 Aug 1641 by son James in Archdeaconry Court of Sudbury.",
+      "date": "2026-04-05",
+      "location": "",
+      "url": "https://archive.org/stream/frostfamilyineng00fros/frostfamilyineng00fros_djvu.txt",
+      "notes": "Published Frost family genealogy held by Library of Congress identifies Henry Valyant as Prudence's father."
     }
   ]
 }

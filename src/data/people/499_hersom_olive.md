@@ -1,7 +1,7 @@
 # Olive Hersom (ID: 499)
 
 ## Vital Information
-- **Born:** ~1730
+- **Born:** 1728-02-28, Berwick, York, Maine
 - **Died:** —
 - **Residence:** South Berwick, York, Maine
 - **Maiden Name:** Nock
@@ -16,16 +16,15 @@
 329
 
 ## Notes
-Maiden name Nock. Wife of John Hersom. Mother of Hannah Hersom (wife of Mark Frost).
+Born 28 Feb 1728, Berwick, York, Maine. Maiden name Nock. Descendant of Thomas Nock (1617-1666) line. Wife of John Hersom. Mother of Hannah Hersom (wife of Mark Frost).
 
 ## Research Leads
 - [ ] Search for Nock family in Berwick/South Berwick area for her parents.
 
 ## Research Gaps
-- [ ] Birth place
 - [ ] Death date
 - [ ] Father
 - [ ] Mother
 
 ---
-*Record completeness: 55%*
+*Record completeness: 65%*

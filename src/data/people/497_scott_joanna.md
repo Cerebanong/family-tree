@@ -6,6 +6,7 @@
 - **Age at Death:** ~41
 - **Residence:** Glemsford, Suffolk, England
 - **Burial:** Glemsford, Suffolk, England
+- **Maiden Name:** Pigot
 
 ## Family
 - **Father:** Unknown
@@ -17,10 +18,10 @@
 328
 
 ## Notes
-First wife of Richard Scott, clothier of Glemsford. Buried 23 August 1556 at Glemsford. Mother of Ann Scott (wife of John Frost). Maiden name unknown.
+First wife of Richard Scott, clothier of Glemsford. Buried 23 August 1556 at Glemsford. Mother of Ann Scott (wife of John Frost). Maiden name Pigot per WikiTree (Scott-1649) and Geni profiles.
 
 ## Research Leads
-- [ ] Maiden name unknown — Glemsford parish registers may identify her.
+- [ ] Pigot family of Suffolk — search Glemsford parish registers for her baptism record.
 
 ## Research Gaps
 - [ ] Father
