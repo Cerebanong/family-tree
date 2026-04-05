@@ -17,6 +17,9 @@ Source 289: FamilySearch Family Tree — Frost line
 ## Notes
 FamilySearch PID: PQ2X-JVC. First wife of George Frost. Married ~1630, Maine.
 
+## Research Leads
+- [ ] No specific parents found in online research. Search FamilySearch PID PQ2X-JVC for any linked parents. Maine colonial records may have more.
+
 ## Research Gaps
 - [ ] Birth place
 - [ ] Father

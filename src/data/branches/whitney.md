@@ -1,6 +1,6 @@
 # Whitney Branch
 
-**Individuals:** 29 | **With birth dates:** 28/29 | **With sources:** 28/29 | **Avg completeness:** 84%
+**Individuals:** 29 | **With birth dates:** 28/29 | **With sources:** 28/29 | **Avg completeness:** 85%
 
 ## Individuals
 
@@ -34,7 +34,7 @@
 | 298 | Mary Whitney | ~1563 | 1629 | 65% |
 | 296 | Elinor Whitney | ~1599 | 1659-05-11 | 70% |
 | 294 | Jane Whitney | ~1647 | 1690 | 65% |
-| 292 | Sarah Whitney | ~1679 | 1755 | 65% |
+| 292 | Sarah Whitney | ~1679 | 1755 | 80% |
 
 ## Open Questions
 - [ ] Gail Frances Whitney (ID 21): birth date missing
@@ -46,4 +46,3 @@
 - [ ] Mary Whitney (ID 298): parents unknown
 - [ ] Elinor Whitney (ID 296): parents unknown
 - [ ] Jane Whitney (ID 294): parents unknown
-- [ ] Sarah Whitney (ID 292): parents unknown

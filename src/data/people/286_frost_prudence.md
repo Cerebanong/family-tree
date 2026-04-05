@@ -17,6 +17,9 @@ Source 289: FamilySearch Family Tree — Frost line
 ## Notes
 FamilySearch PID: LRZG-57L. Wife of John Frost (1564). Married in England.
 
+## Research Leads
+- [ ] Married in England. Valyant is an unusual surname — search English parish registers near Devon/Somerset where Valyant/Valiant surname concentrations exist.
+
 ## Research Gaps
 - [ ] Birth place
 - [ ] Father

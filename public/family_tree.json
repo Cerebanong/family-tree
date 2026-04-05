@@ -10979,8 +10979,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 498,
+      "mother_id": 499,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -11067,7 +11067,9 @@
       "notes": "FamilySearch PID: LWXS-RPD. Wife of Stephen Frost. Married ~1740, Berwick, York, Maine.",
       "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
       "interesting_facts": "",
-      "research_leads": [],
+      "research_leads": [
+        "Lucy Jellison's parents not confirmed. Jellison family of Berwick descends from Nicholas Jellison (immigrant, ~1620-1715). Search Berwick vital records or WikiTree Jellison genealogy for her specific parentage."
+      ],
       "spouses": [
         277
       ]
@@ -11135,8 +11137,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 494,
+      "mother_id": 495,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -11213,8 +11215,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 492,
+      "mother_id": 493,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -11301,7 +11303,9 @@
       "notes": "FamilySearch PID: PQ2X-JVC. First wife of George Frost. Married ~1630, Maine.",
       "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
       "interesting_facts": "",
-      "research_leads": [],
+      "research_leads": [
+        "No specific parents found in online research. Search FamilySearch PID PQ2X-JVC for any linked parents. Maine colonial records may have more."
+      ],
       "spouses": [
         283
       ]
@@ -11379,7 +11383,9 @@
       "notes": "FamilySearch PID: LRZG-57L. Wife of John Frost (1564). Married in England.",
       "source_citations": "Source 289: FamilySearch Family Tree — Frost line",
       "interesting_facts": "",
-      "research_leads": [],
+      "research_leads": [
+        "Married in England. Valyant is an unusual surname — search English parish registers near Devon/Somerset where Valyant/Valiant surname concentrations exist."
+      ],
       "spouses": [
         285
       ]
@@ -11447,8 +11453,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 496,
+      "mother_id": 497,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -11603,8 +11609,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 500,
+      "mother_id": 501,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -11693,7 +11699,9 @@
       "notes": "FamilySearch PID: M5NC-DJN. First wife of Benjamin Whitney. Married 19 Jan 1668, Watertown, Middlesex.",
       "source_citations": "Source 290: FamilySearch Family Tree — Whitney line",
       "interesting_facts": "",
-      "research_leads": [],
+      "research_leads": [
+        "Maiden name 'Poor' not substantiated by credible primary evidence per WikiTree (Poor-529). Traditionally attributed to Daniel Poor (~1620-1689, Andover, MA) and Mary Farnum, but this is disputed. Search Watertown/Middlesex County records for primary documentation."
+      ],
       "spouses": [
         293
       ]
@@ -18553,6 +18561,418 @@
       "spouses": [
         490
       ]
+    },
+    {
+      "id": 492,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Wakefield",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1616",
+        "place": "Yorkshire, England"
+      },
+      "death": {
+        "date": "1674",
+        "place": "Wells, York, Maine"
+      },
+      "age_at_death": "~58",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "Wells, Maine",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "Before 1637, to Salem, Massachusetts; moved ~1641 to Wells, Maine",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Recorded in Salem 1638, may have been at Plymouth, then settled at Wells. Grand jury 1656. Parents disputed — one theory suggests Simon Wakefield and Elizabeth De Vere but this is unproven.",
+      "source_citations": "326",
+      "interesting_facts": "",
+      "research_leads": [
+        "Parents unknown — competing theories exist but none proven. English parish records from Yorkshire may help."
+      ],
+      "confidence": "high",
+      "spouses": [
+        493
+      ]
+    },
+    {
+      "id": 493,
+      "name": {
+        "first": "Elizabeth",
+        "middle": "",
+        "last": "Wakefield",
+        "maiden": "Littlefield",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1627-07-22",
+        "place": "England"
+      },
+      "death": {
+        "date": "~1676",
+        "place": "Wells, York, Maine"
+      },
+      "age_at_death": "~49",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "Wells, Maine",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "Immigrated with family to New England",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Baptised 22 Jul 1627. Daughter of Edmund Littlefield and Annis (maiden name unknown). FamilySearch, Geni, WikiTree all confirm.",
+      "source_citations": "326",
+      "interesting_facts": "Daughter of Edmund Littlefield, early settler of Wells, Maine",
+      "research_leads": [
+        "Search for Edmund Littlefield (father) records in Wells, Maine for further ancestry."
+      ],
+      "confidence": "high",
+      "spouses": [
+        492
+      ]
+    },
+    {
+      "id": 494,
+      "name": {
+        "first": "William",
+        "middle": "",
+        "last": "Goodwin",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1658",
+        "place": "Kittery, York, Maine"
+      },
+      "death": {
+        "date": "~1714",
+        "place": "Kittery, York, Maine"
+      },
+      "age_at_death": "~56",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "Berwick, York, Maine",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Son of Daniel Goodwin (~1620, England - 1712/13, Maine) and Margaret Spencer (~1633-1670). Brother of Margaret Goodwin (wife of James Frost Sr.) is noted in existing records. His sister-in-law Mehetable Goodwin was captured by Indians.",
+      "source_citations": "327",
+      "interesting_facts": "",
+      "research_leads": [
+        "Daniel Goodwin (father, ~1620, England) and Margaret Spencer (mother, ~1633-1670) are documented — could extend line further."
+      ],
+      "confidence": "high",
+      "spouses": [
+        495
+      ]
+    },
+    {
+      "id": 495,
+      "name": {
+        "first": "Deliverance",
+        "middle": "",
+        "last": "Goodwin",
+        "maiden": "Taylor",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1673",
+        "place": ""
+      },
+      "death": {
+        "date": "~1763",
+        "place": ""
+      },
+      "age_at_death": "~90",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "Berwick, York, Maine",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "WikiTree (Taylor-7826). Daughter of John Taylor. Married William Goodwin Oct 1687 in Berwick.",
+      "source_citations": "327",
+      "interesting_facts": "",
+      "research_leads": [
+        "Father identified as John Taylor — search for more details on John Taylor in Berwick area."
+      ],
+      "confidence": "medium",
+      "spouses": [
+        494
+      ]
+    },
+    {
+      "id": 496,
+      "name": {
+        "first": "Richard",
+        "middle": "",
+        "last": "Scott",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1510",
+        "place": "Glemsford, Suffolk, England"
+      },
+      "death": {
+        "date": "~1565",
+        "place": "Glemsford, Suffolk, England"
+      },
+      "age_at_death": "~55",
+      "occupation": "clothier",
+      "marital_status": "married",
+      "residence": "Glemsford, Suffolk, England",
+      "burial_place": "Glemsford, Suffolk, England",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Clothier of Glemsford, Suffolk. Will dated Feb 1565, proved 27 May 1565. Named children: John, Edward, Ann (wife of John Frost), Katherine, Mary, Margaret, Joanna. Married second wife Johan Tollington (widow of Christopher) on 8 Oct 1556. Some sources suggest parents John Scott and Ann Pympe but this requires verification.",
+      "source_citations": "328",
+      "interesting_facts": "Ancestor of Richard Scott who emigrated to Providence, Rhode Island",
+      "research_leads": [
+        "Parents possibly John Scott and Ann Pympe — needs verification from parish records."
+      ],
+      "confidence": "high",
+      "spouses": [
+        497
+      ]
+    },
+    {
+      "id": 497,
+      "name": {
+        "first": "Joanna",
+        "middle": "",
+        "last": "Scott",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1515",
+        "place": "Glemsford, Suffolk, England"
+      },
+      "death": {
+        "date": "1556-08-23",
+        "place": "Glemsford, Suffolk, England"
+      },
+      "age_at_death": "~41",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "Glemsford, Suffolk, England",
+      "burial_place": "Glemsford, Suffolk, England",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "First wife of Richard Scott, clothier of Glemsford. Buried 23 August 1556 at Glemsford. Mother of Ann Scott (wife of John Frost). Maiden name unknown.",
+      "source_citations": "328",
+      "interesting_facts": "",
+      "research_leads": [
+        "Maiden name unknown — Glemsford parish registers may identify her."
+      ],
+      "confidence": "medium",
+      "spouses": [
+        496
+      ]
+    },
+    {
+      "id": 498,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Hersom",
+        "maiden": "",
+        "aliases": [
+          "John Horsum"
+        ]
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1725",
+        "place": "South Berwick, York, Maine"
+      },
+      "death": {
+        "date": "",
+        "place": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "South Berwick, York, Maine",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Also spelled Horsum. Father of Hannah Hersom (wife of Mark Frost), Joshua Hersom, Benjamin Hersom, Molly Hersom, David Hersom, Elizabeth Hersom, Olive Hersom.",
+      "source_citations": "329",
+      "interesting_facts": "",
+      "research_leads": [
+        "Search Berwick vital records for birth/death dates. Search for parents in Hersom family of South Berwick."
+      ],
+      "confidence": "medium",
+      "spouses": [
+        499
+      ]
+    },
+    {
+      "id": 499,
+      "name": {
+        "first": "Olive",
+        "middle": "",
+        "last": "Hersom",
+        "maiden": "Nock",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1730",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "South Berwick, York, Maine",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Maiden name Nock. Wife of John Hersom. Mother of Hannah Hersom (wife of Mark Frost).",
+      "source_citations": "329",
+      "interesting_facts": "",
+      "research_leads": [
+        "Search for Nock family in Berwick/South Berwick area for her parents."
+      ],
+      "confidence": "medium",
+      "spouses": [
+        498
+      ]
+    },
+    {
+      "id": 500,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Ford",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1655",
+        "place": "Kittery, York, Maine"
+      },
+      "death": {
+        "date": "",
+        "place": "Kittery, York, Maine"
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "Kittery, York, Maine",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Father of Sarah Ford (wife of Nathaniel Whitney), John Ford Jr. (1680-1713), Lettice Ford, Catherine Ford, Samuel Ford. Early settler of Kittery, Maine.",
+      "source_citations": "330",
+      "interesting_facts": "",
+      "research_leads": [
+        "Search Kittery vital records and York County deeds for more details."
+      ],
+      "confidence": "medium",
+      "spouses": [
+        501
+      ]
+    },
+    {
+      "id": 501,
+      "name": {
+        "first": "Joanna",
+        "middle": "",
+        "last": "Ford",
+        "maiden": "Andrews",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1660",
+        "place": "Kittery, York, Maine"
+      },
+      "death": {
+        "date": "",
+        "place": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "Kittery, York, Maine",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Maiden name Andrews. Daughter of John Andrews of Braveboat Harbor, Kittery, Maine (~1600-1671) and Joane Andrews. Sister of Sarah (Andrews) Mitchell and Elizabeth (Andrews) Winchester.",
+      "source_citations": "330",
+      "interesting_facts": "",
+      "research_leads": [
+        "Father John Andrews (~1600-1671) of Braveboat Harbor, Kittery is documented — could extend maternal line through him."
+      ],
+      "confidence": "medium",
+      "spouses": [
+        500
+      ]
     }
   ],
   "families": [
@@ -21442,6 +21862,76 @@
       "children": [
         488
       ]
+    },
+    {
+      "id": "F214",
+      "husband_id": 492,
+      "wife_id": 493,
+      "marriage": {
+        "date": "~1648",
+        "place": "Wells, York, Maine",
+        "officiant": "",
+        "source": "326"
+      },
+      "children": [
+        282
+      ]
+    },
+    {
+      "id": "F215",
+      "husband_id": 494,
+      "wife_id": 495,
+      "marriage": {
+        "date": "1687-10",
+        "place": "Berwick, York, Maine",
+        "officiant": "",
+        "source": "327"
+      },
+      "children": [
+        280
+      ]
+    },
+    {
+      "id": "F216",
+      "husband_id": 496,
+      "wife_id": 497,
+      "marriage": {
+        "date": "~1535",
+        "place": "Glemsford, Suffolk, England",
+        "officiant": "",
+        "source": "328"
+      },
+      "children": [
+        288
+      ]
+    },
+    {
+      "id": "F217",
+      "husband_id": 498,
+      "wife_id": 499,
+      "marriage": {
+        "date": "~1750",
+        "place": "South Berwick, York, Maine",
+        "officiant": "",
+        "source": "329"
+      },
+      "children": [
+        276
+      ]
+    },
+    {
+      "id": "F218",
+      "husband_id": 500,
+      "wife_id": 501,
+      "marriage": {
+        "date": "~1678",
+        "place": "Kittery, York, Maine",
+        "officiant": "",
+        "source": "330"
+      },
+      "children": [
+        292
+      ]
     }
   ],
   "sources": [
@@ -24321,6 +24811,51 @@
       "location": "Roxbury, Massachusetts",
       "url": "",
       "notes": "Primary reference for the Cheney family of Roxbury. Documents Thomas Cheney Sr. (c.1633-1694) and Hannah (1689)."
+    },
+    {
+      "id": 326,
+      "type": "online_database",
+      "description": "WikiTree profile for John Wakefield (Wakefield-92); Geni.com profile; Noyes, Sybil I., 'Genealogical Dictionary of Maine and New Hampshire'",
+      "date": "2026-04-05",
+      "location": "",
+      "url": "https://www.wikitree.com/wiki/Wakefield-92",
+      "notes": "Multiple sources confirm John Wakefield of Wells, Maine married Elizabeth Littlefield."
+    },
+    {
+      "id": 327,
+      "type": "online_database",
+      "description": "WikiTree profiles for William Goodwin (Goodwin-957) and Deliverance Taylor (Taylor-7826); Geni.com profiles; multiple compiled genealogies",
+      "date": "2026-04-05",
+      "location": "",
+      "url": "https://www.wikitree.com/wiki/Goodwin-957",
+      "notes": "William Goodwin son of Daniel Goodwin and Margaret Spencer. Deliverance Taylor daughter of John Taylor."
+    },
+    {
+      "id": 328,
+      "type": "will",
+      "description": "Will of Richard Scott, clothier of Glemsford, dated Feb 1565, proved 27 May 1565. WikiTree (Scott-1649); Geni profiles. Will names son-in-law John Frost, left him two leases of 'My Polye' of Boxted, looms at Howldens, and 40 shillings.",
+      "date": "1565-02",
+      "location": "Glemsford, Suffolk, England",
+      "url": "https://www.wikitree.com/wiki/Scott-1649",
+      "notes": "Richard Scott's will confirms Ann as his daughter and John Frost as son-in-law."
+    },
+    {
+      "id": 329,
+      "type": "online_database",
+      "description": "WikiTree HERSOM genealogy page; Geni.com profiles for Joshua Hersom listing parents John Hersom and Olive (Nock) Hersom; multiple family trees agree",
+      "date": "2026-04-05",
+      "location": "",
+      "url": "https://www.wikitree.com/genealogy/HERSOM",
+      "notes": "Multiple genealogy sites list John Hersom and Olive Nock as parents of Hannah Hersom and siblings Joshua, Benjamin, Molly, David, Elizabeth, Olive."
+    },
+    {
+      "id": 330,
+      "type": "online_database",
+      "description": "Geni.com profiles for John Ford Jr. (son) listing parents John Ford and Joanna (Andrews) Ford; WikiTree Whitney-377 (Abel Whitney profile listing Sarah Ford as mother); Early Settlers of Kittery project on Geni",
+      "date": "2026-04-05",
+      "location": "",
+      "url": "https://www.geni.com/projects/Early-Settlers-of-Kittery-Maine/13535",
+      "notes": "Multiple Geni profiles list Sarah Ford as daughter of John Ford and Joanna Andrews of Kittery, Maine."
     }
   ]
 }
