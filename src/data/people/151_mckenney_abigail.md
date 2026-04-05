@@ -18,7 +18,7 @@
 FamilySearch KLWS-RLH (13 sources: US Census 1850, 1860; Maine records)
 
 ## Notes
-Mother of James Moody Crowell. Kevin's 4x great-grandmother (maternal). Born 1805 in Maine. Married Thomas Crowell 12 Dec 1831 in Pittsfield, Somerset, ME. Died 1860 (before husband and son). Buried Riverside Cemetery, Orono, ME. FamilySearch PID: KLWS-RLH (13 sources). Spelling variant: 'McKenney' / 'Mckenney'.
+Mother of James Moody Crowell. Kevin's 4x great-grandmother (maternal). Born 1805 in Maine. Married Thomas Crowell 12 Dec 1831 in Pittsfield, Somerset, ME. Died 1860 (before husband and son). Buried Riverside Cemetery, Orono, ME. FamilySearch PID: KLWS-RLH (13 sources). Spelling variant: 'McKenney' / 'Mckenney'. FS PID KLWS-RLH.
 
 ## Research Leads
 - [ ] Find birth date and place

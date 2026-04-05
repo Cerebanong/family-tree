@@ -1,7 +1,7 @@
 # Sarah Cook (ID: 274)
 
 ## Vital Information
-- **Born:** ~1719
+- **Born:** 1719
 - **Died:** —
 - **Maiden Name:** Davis
 
@@ -15,7 +15,7 @@
 Source 288: FamilySearch Family Tree — Bickford line
 
 ## Notes
-FamilySearch PID: L7JX-8WM. Wife of Hezekiah Cook. Married 1750, New Hampshire.
+FamilySearch PID: L7JX-8WM. Wife of Hezekiah Cook. Married 1750, New Hampshire. Maiden name confirmed as Davis. FS PID L7JX-8WM.
 
 ## Research Gaps
 - [ ] Birth place

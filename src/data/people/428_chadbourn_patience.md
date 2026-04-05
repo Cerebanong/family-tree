@@ -5,8 +5,8 @@
 - **Died:** 1683
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** William Chadbourne
+- **Mother:** Elizabeth Sparry
 - **Spouse:** Thomas Spencer (m. ~1631)
   - **Children:** Moses Spencer
 
@@ -14,12 +14,10 @@
 Source 311
 
 ## Notes
-FS PID LZLT-PQR. Confidence: high.
+FS PID LZLT-PQR. Confidence: high. Parents confirmed: William Chadbourne (ID 482) and Elizabeth Sparry (ID 483).
 
 ## Research Gaps
 - [ ] Birth place
-- [ ] Father
-- [ ] Mother
 
 ---
-*Record completeness: 65%*
+*Record completeness: 80%*

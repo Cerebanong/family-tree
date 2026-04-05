@@ -2026,18 +2026,18 @@
       "sex": "Female",
       "birth": {
         "date": "1770",
-        "place": ""
+        "place": "Berwick, York, Maine"
       },
       "death": {
-        "date": "1832",
-        "place": "",
+        "date": "1832-09-14",
+        "place": "Belgrade, Kennebec, Maine",
         "cause": ""
       },
       "age_at_death": "~62",
       "occupation": "",
       "marital_status": "Married",
       "residence": "Belgrade, Kennebec County, ME",
-      "burial_place": "",
+      "burial_place": "Woodside Cemetery, Belgrade, Kennebec, Maine",
       "father_id": null,
       "mother_id": null,
       "nationality_changes": "",
@@ -2045,12 +2045,14 @@
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Mother of Mark Frost. Married Benjamin Frost 23 May 1793 in Maine. 15 children. FamilySearch PID: KC9L-M51.",
+      "notes": "Mother of Mark Frost. Married Benjamin Frost 23 May 1793 in Maine. 15 children. FamilySearch PID: KC9L-M51. Birth confirmed Berwick, York, ME. Death confirmed 14 Sep 1832, Belgrade, ME. Burial at Woodside Cemetery, Belgrade. FS PID KC9L-M51. 6 sources. No parents found on FamilySearch.",
       "source_citations": "FamilySearch KC9L-M51",
       "interesting_facts": "",
       "research_leads": [
         "Search for Lord family in Maine",
-        "Check for maiden name records"
+        "Check for maiden name records",
+        "Search Berwick, York County vital records for Lord family births ~1770",
+        "Search Second Church of Berwick baptism records 1755-1822"
       ],
       "spouses": [
         61
@@ -3843,14 +3845,14 @@
       "marital_status": "Married",
       "residence": "China, ME (1850); Colfax, Placer County, CA (1866); Orono, ME (1870-1912)",
       "burial_place": "Riverside Cemetery, Orono, Penobscot County, ME",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 451,
+      "mother_id": 452,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Charles Henry Percy Mosher's father. Kevin's 3x great-grandfather. Born in China (town), Kennebec County, Maine. Alternate birth date: 13 Jan 1831, Weeks Mills, China. Married (1) Susan Perkins ~1858 — 1 child: Charles. Susan died 1863. Married (2) Mary Adams Holt (1844-1903, GTYR-C2G) — 4 children. Went to California in 1866 (voter registration in Colfax, Placer County). Returned to Orono by 1870. One of 15 children of William Mosher Sr. and Freelove Weeks. Parents: William Mosher Sr. (KNSB-M4Q, 1790-1854) and Freelove Weeks (KNSW-RGR, 1794-1881). FamilySearch PID: KPHP-HVG. 23 sources.",
+      "notes": "Charles Henry Percy Mosher's father. Kevin's 3x great-grandfather. Born in China (town), Kennebec County, Maine. Alternate birth date: 13 Jan 1831, Weeks Mills, China. Married (1) Susan Perkins ~1858 — 1 child: Charles. Susan died 1863. Married (2) Mary Adams Holt (1844-1903, GTYR-C2G) — 4 children. Went to California in 1866 (voter registration in Colfax, Placer County). Returned to Orono by 1870. One of 15 children of William Mosher Sr. and Freelove Weeks. Parents: William Mosher Sr. (KNSB-M4Q, 1790-1854) and Freelove Weeks (KNSW-RGR, 1794-1881). FamilySearch PID: KPHP-HVG. 23 sources. Parents confirmed: William Mosher Sr. (ID 451) and Freelove Weeks (ID 452). FS PID KPHP-HVG.",
       "source_citations": "FamilySearch KPHP-HVG (23 sources); US Census 1850, 1870, 1880, 1900, 1910",
       "interesting_facts": "Traveled to California during the Gold Rush era (1866 voter registration in Placer County). Born in a town literally named 'China' in Maine.",
       "research_leads": [
@@ -4008,27 +4010,27 @@
       },
       "sex": "Male",
       "birth": {
-        "date": "1790",
-        "place": ""
+        "date": "1790-03-21",
+        "place": "Hallowell, Maine"
       },
       "death": {
-        "date": "1865",
-        "place": "",
+        "date": "1865-06-17",
+        "place": "Bradford, Penobscot, Maine",
         "cause": ""
       },
       "age_at_death": "",
       "occupation": "Captain",
       "marital_status": "Married",
       "residence": "",
-      "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "burial_place": "Bradford, Penobscot, Maine",
+      "father_id": 465,
+      "mother_id": 466,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Father of Phoebe Young Butler. Held the rank of Captain. FamilySearch PID: LT87-SLW. Had 5 children with Catherine Norton: Phoebe Young, Alanson Gancelo (1817-1920), Mary Jane (1822-?), Caroline Amelia (1824-1904), Ann Elizabeth (1827-?).",
+      "notes": "Father of Phoebe Young Butler. Held the rank of Captain. FamilySearch PID: LT87-SLW. Had 5 children with Catherine Norton: Phoebe Young, Alanson Gancelo (1817-1920), Mary Jane (1822-?), Caroline Amelia (1824-1904), Ann Elizabeth (1827-?). FS PID LT87-SLW. 23 sources. Parents confirmed: Sarson Butler Sr. (ID 465) and Susanna Young (ID 466). Born Hallowell, ME. Died Bradford, Penobscot, ME.",
       "source_citations": "FamilySearch LT87-SLW",
       "interesting_facts": "His son Alanson Gancelo Butler reportedly lived to age 103 (1817-1920).",
       "research_leads": [
@@ -5698,7 +5700,7 @@
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Father of James Moody Crowell. Kevin's 4x great-grandfather (maternal). Born 1803 in Maine. Married Abigail McKenney 12 Dec 1831 in Pittsfield, Somerset, ME. Resided Orono, ME by 1850 (James in household per 1850 census). Died 1861. Buried Riverside Cemetery, Orono, ME. FamilySearch PID: KLWS-RL4 (13 sources). Children: James Moody (1833), Mary Elizabeth (1838–1861), Capt. Warren Thomas (1841–1867).",
+      "notes": "Father of James Moody Crowell. Kevin's 4x great-grandfather (maternal). Born 1803 in Maine. Married Abigail McKenney 12 Dec 1831 in Pittsfield, Somerset, ME. Resided Orono, ME by 1850 (James in household per 1850 census). Died 1861. Buried Riverside Cemetery, Orono, ME. FamilySearch PID: KLWS-RL4 (13 sources). Children: James Moody (1833), Mary Elizabeth (1838–1861), Capt. Warren Thomas (1841–1867). FS PID KLWS-RL4. 13 sources. FindAGrave memorial #73870995. Resided Orono 1850-1860.",
       "source_citations": "FamilySearch KLWS-RL4 (13 sources: US Census 1850, 1860; Maine records)",
       "interesting_facts": "",
       "research_leads": [
@@ -5742,7 +5744,7 @@
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Mother of James Moody Crowell. Kevin's 4x great-grandmother (maternal). Born 1805 in Maine. Married Thomas Crowell 12 Dec 1831 in Pittsfield, Somerset, ME. Died 1860 (before husband and son). Buried Riverside Cemetery, Orono, ME. FamilySearch PID: KLWS-RLH (13 sources). Spelling variant: 'McKenney' / 'Mckenney'.",
+      "notes": "Mother of James Moody Crowell. Kevin's 4x great-grandmother (maternal). Born 1805 in Maine. Married Thomas Crowell 12 Dec 1831 in Pittsfield, Somerset, ME. Died 1860 (before husband and son). Buried Riverside Cemetery, Orono, ME. FamilySearch PID: KLWS-RLH (13 sources). Spelling variant: 'McKenney' / 'Mckenney'. FS PID KLWS-RLH.",
       "source_citations": "FamilySearch KLWS-RLH (13 sources: US Census 1850, 1860; Maine records)",
       "interesting_facts": "",
       "research_leads": [
@@ -10847,12 +10849,12 @@
       },
       "sex": "Male",
       "birth": {
-        "date": "~1717",
-        "place": ""
+        "date": "1717-01-01",
+        "place": "Dover, Strafford, New Hampshire"
       },
       "death": {
-        "date": "1807",
-        "place": "",
+        "date": "1807-03-12",
+        "place": "Madbury, Strafford, New Hampshire",
         "cause": ""
       },
       "age_at_death": "",
@@ -10860,14 +10862,14 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 477,
+      "mother_id": 478,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "FamilySearch PID: LC85-QS2. Father of Susanna Cook. 9 children.",
+      "notes": "FamilySearch PID: LC85-QS2. Father of Susanna Cook. 9 children. 14 sources. Research alert. Resided Cochecho Parish (1741), Madbury Parish Selectman (1762). Parents confirmed: John Cook Jr. (ID 477) and Lydia Young (ID 478).",
       "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
       "interesting_facts": "",
       "research_leads": [],
@@ -10886,7 +10888,7 @@
       },
       "sex": "Female",
       "birth": {
-        "date": "~1719",
+        "date": "1719",
         "place": ""
       },
       "death": {
@@ -10906,7 +10908,7 @@
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "FamilySearch PID: L7JX-8WM. Wife of Hezekiah Cook. Married 1750, New Hampshire.",
+      "notes": "FamilySearch PID: L7JX-8WM. Wife of Hezekiah Cook. Married 1750, New Hampshire. Maiden name confirmed as Davis. FS PID L7JX-8WM.",
       "source_citations": "Source 288: FamilySearch Family Tree — Bickford line",
       "interesting_facts": "",
       "research_leads": [],
@@ -16182,9 +16184,9 @@
       "occupation": "",
       "marital_status": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
-      "notes": "FS PID LZLT-PQR. Confidence: high.",
+      "father_id": 482,
+      "mother_id": 483,
+      "notes": "FS PID LZLT-PQR. Confidence: high. Parents confirmed: William Chadbourne (ID 482) and Elizabeth Sparry (ID 483).",
       "source_citations": "Source 311",
       "residence": "",
       "spouses": [
@@ -16884,6 +16886,1672 @@
       "research_leads": [
         "Search Dutch/Holland records for Wood family",
         "Search Dutchess County NY marriage records ~1810s"
+      ]
+    },
+    {
+      "id": 451,
+      "name": {
+        "first": "William",
+        "middle": "",
+        "last": "Mosher",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1790-08-05",
+        "place": "Belgrade, Kennebec, Maine"
+      },
+      "death": {
+        "date": "1854-04-15",
+        "place": "China, Kennebec, Maine",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Captain",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Weeks Mills Cemetery, China, Kennebec, Maine",
+      "father_id": 453,
+      "mother_id": 454,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID KNSB-M4Q. 15 sources. Title: Captain. Married Freelove Weeks 10 Jun 1813, Belgrade, ME. 15 children. Resided Sidney (1810), Harlem (1820), China (1830-1850).",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        452
+      ]
+    },
+    {
+      "id": 452,
+      "name": {
+        "first": "Freelove",
+        "middle": "",
+        "last": "Mosher",
+        "maiden": "Weeks",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1794-10-08",
+        "place": "Maine"
+      },
+      "death": {
+        "date": "1881-03-05",
+        "place": "China, Kennebec, Maine",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Weeks Mills Cemetery, China, Kennebec, Maine",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID KNSW-RGR. FindAGrave memorial #66596747.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        451
+      ]
+    },
+    {
+      "id": 453,
+      "name": {
+        "first": "Elisha",
+        "middle": "",
+        "last": "Mosher",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1765-06-19",
+        "place": "Dartmouth, Bristol, Massachusetts"
+      },
+      "death": {
+        "date": "1847-01-02",
+        "place": "Unity, Waldo, Maine",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 455,
+      "mother_id": 456,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LZKG-571. 19 sources. Married Judith Crowell 13 Aug 1787, Vassalboro, ME. 11 children.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        454
+      ]
+    },
+    {
+      "id": 454,
+      "name": {
+        "first": "Judith",
+        "middle": "",
+        "last": "Mosher",
+        "maiden": "Crowell",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1767",
+        "place": "Massachusetts"
+      },
+      "death": {
+        "date": "1832",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID KG7V-CLT. Married Elisha Mosher Jr. 13 Aug 1787.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        453
+      ]
+    },
+    {
+      "id": 455,
+      "name": {
+        "first": "Elisha",
+        "middle": "",
+        "last": "Mosher",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1744-03-07",
+        "place": "Dartmouth, Bristol, Massachusetts"
+      },
+      "death": {
+        "date": "~1813",
+        "place": "Belgrade, Kennebec, Maine",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 457,
+      "mother_id": 458,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LCXW-MGF. 21 sources. Married Ann Springer 7 Apr 1762, Dartmouth. 3 children. Resided Belgrade (1790, 1810).",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        456
+      ]
+    },
+    {
+      "id": 456,
+      "name": {
+        "first": "Ann",
+        "middle": "",
+        "last": "Mosher",
+        "maiden": "Springer",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1743",
+        "place": ""
+      },
+      "death": {
+        "date": "1810",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LCXW-MLJ. Married Elisha Mosher Sr. 7 Apr 1762.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        455
+      ]
+    },
+    {
+      "id": 457,
+      "name": {
+        "first": "Ephraim",
+        "middle": "",
+        "last": "Mosher",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1718-12-28",
+        "place": "Dartmouth, Bristol, Massachusetts"
+      },
+      "death": {
+        "date": "1813",
+        "place": "Belgrade, Kennebec, Maine",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 459,
+      "mother_id": 460,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LHDY-RCC. 21 sources. Wife Eunice Raymond. 8 children.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        458
+      ]
+    },
+    {
+      "id": 458,
+      "name": {
+        "first": "Eunice",
+        "middle": "",
+        "last": "Mosher",
+        "maiden": "Raymond",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1717",
+        "place": ""
+      },
+      "death": {
+        "date": "1813",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LZ2L-64T.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        457
+      ]
+    },
+    {
+      "id": 459,
+      "name": {
+        "first": "Daniel",
+        "middle": "",
+        "last": "Mosher",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1678",
+        "place": "Portsmouth, Rhode Island"
+      },
+      "death": {
+        "date": "1751-08-07",
+        "place": "Bristol, Massachusetts",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Farmer",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 461,
+      "mother_id": 462,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID KN8G-37M. 37 sources. Married Elizabeth Mary Edwards 1704, Dartmouth. Will dated 19 Jul 1751, proved 19 Sep 1751. 11 children.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        460
+      ]
+    },
+    {
+      "id": 460,
+      "name": {
+        "first": "Elizabeth",
+        "middle": "Mary",
+        "last": "Mosher",
+        "maiden": "Edwards",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1681",
+        "place": ""
+      },
+      "death": {
+        "date": "1751",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LCTV-9WV.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        459
+      ]
+    },
+    {
+      "id": 461,
+      "name": {
+        "first": "Hugh",
+        "middle": "",
+        "last": "Mosher",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1632-06-06",
+        "place": "Bristol, Gloucestershire, England"
+      },
+      "death": {
+        "date": "1713-12-07",
+        "place": "Newport, Rhode Island",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Blacksmith; Pastor of Tiverton Baptist Church",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Common Ground Cemetery, Newport, Rhode Island",
+      "father_id": 463,
+      "mother_id": 464,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID 9HXD-GSG. 21 sources, 29 memories. Immigrant ancestor. Original surname Moger. Also known as Hugh Moger. Purchased land 29 Jun 1660 in Westerly, RI. Settled Portsmouth, RI 1669. Deeded land to daughter Hannah ~1707.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        462
+      ]
+    },
+    {
+      "id": 462,
+      "name": {
+        "first": "Rebecca",
+        "middle": "",
+        "last": "Mosher",
+        "maiden": "Maxson",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1637",
+        "place": ""
+      },
+      "death": {
+        "date": "1707",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 486,
+      "mother_id": 487,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID FCMS-31D. Married Hugh Mosher ~1662, Newport, RI. Parents confirmed: Richard Maxson (ID 486) and Rebecca (ID 487).",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        461
+      ]
+    },
+    {
+      "id": 463,
+      "name": {
+        "first": "Nicholas",
+        "middle": "",
+        "last": "Moger",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1596",
+        "place": "England"
+      },
+      "death": {
+        "date": "1632",
+        "place": "England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID M32B-9YH. Father of Hugh Mosher/Moger. Died same year Hugh was born. Married Ann ~1620 in England.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "medium",
+      "spouses": [
+        464
+      ]
+    },
+    {
+      "id": 464,
+      "name": {
+        "first": "Ann",
+        "middle": "",
+        "last": "Moger",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1598",
+        "place": "England"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID GDRV-NNP. Mother of Hugh Mosher/Moger.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "medium",
+      "spouses": [
+        463
+      ]
+    },
+    {
+      "id": 465,
+      "name": {
+        "first": "Sarson",
+        "middle": "",
+        "last": "Butler",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1761-10-13",
+        "place": "Edgartown, Dukes, Massachusetts"
+      },
+      "death": {
+        "date": "1842-06-20",
+        "place": "Hallowell, Kennebec, Maine",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 467,
+      "mother_id": 468,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LLHT-R11. 43 sources. Married Susanna Young. Military service 4 Mar 1831, Maine. 12 children.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        466
+      ]
+    },
+    {
+      "id": 466,
+      "name": {
+        "first": "Susanna",
+        "middle": "",
+        "last": "Butler",
+        "maiden": "Young",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1764",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LLHT-T97.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        465
+      ]
+    },
+    {
+      "id": 467,
+      "name": {
+        "first": "Elijah",
+        "middle": "",
+        "last": "Butler",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1738-03-21",
+        "place": "Edgartown, Dukes, Massachusetts"
+      },
+      "death": {
+        "date": "1825-08-20",
+        "place": "Farmington, Franklin, Maine",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Center Meeting House Cemetery, Farmington, Franklin, Maine",
+      "father_id": 469,
+      "mother_id": 470,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LCPL-XRJ. 14 sources. Christened 6 Jul 1740. Also known as Elijah Butler Jr. Married (1) Jane Sarson Kelley 16 Dec 1758, (2) Allefair Batts 14 May 1821. 15 children with Jane.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        468
+      ]
+    },
+    {
+      "id": 468,
+      "name": {
+        "first": "Jane",
+        "middle": "Sarson",
+        "last": "Butler",
+        "maiden": "Kelley",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1742",
+        "place": ""
+      },
+      "death": {
+        "date": "1820",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LLHT-R1B. The given name 'Sarson' in the Butler family derives from her maiden/middle name.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        467
+      ]
+    },
+    {
+      "id": 469,
+      "name": {
+        "first": "Elijah",
+        "middle": "",
+        "last": "Butler",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1713-05-16",
+        "place": "Edgartown, Dukes, Massachusetts"
+      },
+      "death": {
+        "date": "1789-04-05",
+        "place": "Edgartown, Dukes, Massachusetts",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Tanner; Gentleman",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Oak Grove Cemetery, Oak Bluffs, Dukes, Massachusetts",
+      "father_id": 471,
+      "mother_id": 472,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LZ2T-38X. 31 sources. Title: Captain. Known as gentleman and captain. FindAGrave memorial #65612943. Will 18 Mar 1789, probated 4 May 1789. 7 children.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        470
+      ]
+    },
+    {
+      "id": 470,
+      "name": {
+        "first": "Thankful",
+        "middle": "",
+        "last": "Butler",
+        "maiden": "Smith",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1718",
+        "place": ""
+      },
+      "death": {
+        "date": "1797-10-20",
+        "place": "New Vineyard, Maine",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LH7Z-5MV.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        469
+      ]
+    },
+    {
+      "id": 471,
+      "name": {
+        "first": "Simeon",
+        "middle": "",
+        "last": "Butler",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1685",
+        "place": "Edgartown, Dukes, Massachusetts"
+      },
+      "death": {
+        "date": "1732-08-18",
+        "place": "Edgartown, Dukes, Massachusetts",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Tanner; Representative to General Court 1732",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Tower Hill Cemetery, Edgartown, Dukes, Massachusetts",
+      "father_id": 473,
+      "mother_id": 474,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LZ2T-Q3N. 40 sources. Married Hannah Cheney 11 Sep 1712, Roxbury, MA. 9 children.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        472
+      ]
+    },
+    {
+      "id": 472,
+      "name": {
+        "first": "Hannah",
+        "middle": "",
+        "last": "Butler",
+        "maiden": "Cheney",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1689-03-14",
+        "place": "Roxbury, Suffolk, Massachusetts"
+      },
+      "death": {
+        "date": "1769-02",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 488,
+      "mother_id": 489,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID 9SDF-6WK. Daughter of Thomas and Hannah (Woodie) Cheney of Roxbury. Parents confirmed: Thomas Cheney Sr. (ID 488) and Jane Atkinson (ID 489). Born 14 Mar 1689, Roxbury.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        471
+      ]
+    },
+    {
+      "id": 473,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Butler",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1649-07-06",
+        "place": "Dorchester, Suffolk, Massachusetts"
+      },
+      "death": {
+        "date": "1738-10-03",
+        "place": "Great Neck, Nantucket, Massachusetts",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "First native whaler; Gentleman; Captain; County Coroner; Sergeant of Militia 1691",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Town Hill Burying Ground, Edgartown, Dukes, Massachusetts",
+      "father_id": 475,
+      "mother_id": 476,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LX72-82R. 18 sources. Christened 6 Jul 1651. Known as Captain John Butler II. Married Priscilla Norton ~1671. Will 10 Nov 1733, processed 3 Oct 1738. 12 children.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        474
+      ]
+    },
+    {
+      "id": 474,
+      "name": {
+        "first": "Priscilla",
+        "middle": "",
+        "last": "Butler",
+        "maiden": "Norton",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1655",
+        "place": ""
+      },
+      "death": {
+        "date": "1738",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LVM8-WRY.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        473
+      ]
+    },
+    {
+      "id": 475,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Butler",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1625",
+        "place": "England"
+      },
+      "death": {
+        "date": "1658",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID L6NG-K5K. Immigrant ancestor. Married Mary Lynde 1649, Ashford, Kent, England. 7 children.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        476
+      ]
+    },
+    {
+      "id": 476,
+      "name": {
+        "first": "Mary",
+        "middle": "",
+        "last": "Butler",
+        "maiden": "Lynde",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1630",
+        "place": ""
+      },
+      "death": {
+        "date": "1693",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID K196-BHS.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        475
+      ]
+    },
+    {
+      "id": 477,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Cook",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1692-05-05",
+        "place": "Dover, Strafford, New Hampshire"
+      },
+      "death": {
+        "date": "1755-01-29",
+        "place": "Windsor, Hartford, Connecticut",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 479,
+      "mother_id": 480,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID GMHG-Y52. 27 sources. Known as 'Great John Cook'. Married Lydia Young ~1716, Dover, NH. 8 children.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        478
+      ]
+    },
+    {
+      "id": 478,
+      "name": {
+        "first": "Lydia",
+        "middle": "",
+        "last": "Cook",
+        "maiden": "Young",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1694-11-09",
+        "place": ""
+      },
+      "death": {
+        "date": "1764",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LZV3-9BQ.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        477
+      ]
+    },
+    {
+      "id": 479,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Cook",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1660",
+        "place": "Dover, Strafford, New Hampshire"
+      },
+      "death": {
+        "date": "1693",
+        "place": "Hampton, Rockingham, New Hampshire",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 481,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LV54-QTJ. 8 sources. Research alert. Piscataqua Pioneer (early settler 1623-1776). Also known as John Cooke, John Kook. Married Mary Downes 25 Nov 1686, Dover, NH. Parentage uncertain — may have been nephew of Richard Cook.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "medium",
+      "spouses": [
+        480
+      ]
+    },
+    {
+      "id": 480,
+      "name": {
+        "first": "Mary",
+        "middle": "",
+        "last": "Cook",
+        "maiden": "Downes",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1663",
+        "place": ""
+      },
+      "death": {
+        "date": "1696",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LJTB-GVT.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "medium",
+      "spouses": [
+        479
+      ]
+    },
+    {
+      "id": 481,
+      "name": {
+        "first": "Thomas",
+        "middle": "",
+        "last": "Cook",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1611",
+        "place": "England"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID PHPR-ZYM. Parentage link to John Cook Sr. is uncertain. Only 1 child listed on FamilySearch.",
+      "source_citations": "",
+      "interesting_facts": "",
+      "research_leads": [
+        "Verify connection to John Cook Sr. — parentage disputed per FamilySearch research notes"
+      ],
+      "confidence": "low",
+      "spouses": []
+    },
+    {
+      "id": 482,
+      "name": {
+        "first": "William",
+        "middle": "",
+        "last": "Chadbourne",
+        "maiden": "",
+        "aliases": [
+          "Chadburne"
+        ]
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1582-03-30",
+        "place": "Tamworth, Staffordshire, England"
+      },
+      "death": {
+        "date": "~1652",
+        "place": "Kittery, York, Maine",
+        "cause": ""
+      },
+      "age_at_death": "~70",
+      "occupation": "Millwright",
+      "marital_status": "Married",
+      "residence": "Kittery/Berwick, York, Maine",
+      "burial_place": "",
+      "father_id": 484,
+      "mother_id": 485,
+      "nationality_changes": "",
+      "immigration": "Arrived New England aboard the Pied Cow on 8 Jul 1634 with James Wall and John Goddard, under contract with Capt. John Mason of London's Laconia Company to build mills in Berwick.",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LHVM-B87. Baptized at Church of St Editha, Tamworth. Built first water-powered saw mill and grist mill in New England at Asbenbedick Falls (Great Works River) on 22 Jul 1634. First signer of the Kittery Act of Submission, 16 Nov 1652. Piscataqua Pioneer.",
+      "source_citations": "FamilySearch Family Tree LHVM-B87; WikiTree Chadbourne-4; FindAGrave #46651181; Piscataqua Pioneers biography",
+      "interesting_facts": "Built the first water-powered saw mill and grist mill in New England (1634). First signer of the Kittery Act of Submission.",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        483
+      ]
+    },
+    {
+      "id": 483,
+      "name": {
+        "first": "Elizabeth",
+        "middle": "",
+        "last": "Sparry",
+        "maiden": "Sparry",
+        "aliases": [
+          "Sperry"
+        ]
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1589",
+        "place": "Tamworth, Staffordshire, England"
+      },
+      "death": {
+        "date": "~1623",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "~34",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Tamworth, Staffordshire, England",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Married William Chadbourne 8 Oct 1609 at Tamworth. Father may be Thomas Sperry (per one source). It is not known when or where she died; she may have come to Maine but no account found in the New World.",
+      "source_citations": "Tamworth Parish Register (marriage); WikiTree Chadbourne-4; FindAGrave #46651495",
+      "interesting_facts": "",
+      "research_leads": [
+        "Confirm father Thomas Sperry",
+        "Search Tamworth parish records for burial record"
+      ],
+      "confidence": "high",
+      "spouses": [
+        482
+      ]
+    },
+    {
+      "id": 484,
+      "name": {
+        "first": "Robert",
+        "middle": "",
+        "last": "Chadbourne",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1550",
+        "place": "Preston, Lancashire, England"
+      },
+      "death": {
+        "date": "1622-12-16",
+        "place": "Tamworth, Staffordshire, England",
+        "cause": ""
+      },
+      "age_at_death": "~72",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Tamworth, Staffordshire, England",
+      "burial_place": "Church of St Editha, Tamworth",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "WikiTree Chadbourne-5. Married Margaret Dooley 28 Jan 1576 at Tamworth. Had at least 6 children baptized at St Editha: Robert, Margery, William, John, Randall, Thomas. Buried 16 Dec 1622 at Tamworth.",
+      "source_citations": "Tamworth Parish Register (St Editha); WikiTree Chadbourne-5; FindAGrave #194561465",
+      "interesting_facts": "",
+      "research_leads": [
+        "Search Preston, Lancashire records for Robert's parents and birth"
+      ],
+      "confidence": "high",
+      "spouses": [
+        485
+      ]
+    },
+    {
+      "id": 485,
+      "name": {
+        "first": "Margaret",
+        "middle": "",
+        "last": "Dooley",
+        "maiden": "Dooley",
+        "aliases": [
+          "Margery"
+        ]
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1558",
+        "place": "England"
+      },
+      "death": {
+        "date": "1626-09-23",
+        "place": "Tamworth, Staffordshire, England",
+        "cause": ""
+      },
+      "age_at_death": "~68",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Tamworth, Staffordshire, England",
+      "burial_place": "Church of St Editha, Tamworth",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "WikiTree Dooley-38. Married Robert Chadbourne 28 Jan 1576 at Tamworth. Buried 23 Sep 1626 at Tamworth. Parentage not discovered.",
+      "source_citations": "Tamworth Parish Register (St Editha); WikiTree Dooley-38",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        484
+      ]
+    },
+    {
+      "id": 486,
+      "name": {
+        "first": "Richard",
+        "middle": "",
+        "last": "Maxson",
+        "maiden": "",
+        "aliases": [
+          "Maggeson",
+          "Maxon"
+        ]
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1602",
+        "place": "England"
+      },
+      "death": {
+        "date": "1643-09-01",
+        "place": "Pelham Bay, Bronx, New York",
+        "cause": "Killed in Indian massacre"
+      },
+      "age_at_death": "~41",
+      "occupation": "Blacksmith",
+      "marital_status": "Married",
+      "residence": "Portsmouth, Rhode Island",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "Arrived in Boston 1634, possibly on the ship Griffin. Worked as blacksmith for James Everill.",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "WikiTree Maxson-28. FindAGrave #102252438. One of the founders of Portsmouth (Pocasset), Rhode Island. Killed with his son Richard Jr. at Pelham Bay when they went ashore for provisions during an Indian uprising. English origins unknown per Robert Charles Anderson.",
+      "source_citations": "WikiTree Maxson-28; FindAGrave #102252438; Maxson Family Association; Rhode Island Colonial Records",
+      "interesting_facts": "One of the founders of Portsmouth (Pocasset), Rhode Island. Killed in 1643 Indian massacre at Pelham Bay along with his son.",
+      "research_leads": [
+        "English origins unknown — search London blacksmith guild records for Maxson/Maggeson ~1620s"
+      ],
+      "confidence": "high",
+      "spouses": [
+        487
+      ]
+    },
+    {
+      "id": 487,
+      "name": {
+        "first": "Rebecca",
+        "middle": "",
+        "last": "Maxson",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1605",
+        "place": "England"
+      },
+      "death": {
+        "date": "~1657",
+        "place": "Portsmouth, Rhode Island",
+        "cause": ""
+      },
+      "age_at_death": "~52",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Portsmouth, Rhode Island",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "Arrived in Boston 1634 with husband Richard Maxson.",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Married Richard Maxson 2 Jan 1627/28 in London. After Richard's death in 1643, married John Harndell. Some sources claim she was Rebecca Marbury, daughter of Rev. Francis Marbury (father of Anne Hutchinson), but this connection is DISPUTED. Chamberlain and Clarenbach (1990) corrected earlier errors.",
+      "source_citations": "WikiTree Maxson-28; Chamberlain and Clarenbach (1990); John Harndell will 1684/5",
+      "interesting_facts": "Escaped the 1643 Pelham Bay massacre with children John and Rebecca in a small open boat back to Rhode Island.",
+      "research_leads": [
+        "Verify maiden name — Marbury connection disputed",
+        "Search London marriage records for Maxson 1627/28"
+      ],
+      "confidence": "medium",
+      "spouses": [
+        486
+      ]
+    },
+    {
+      "id": 488,
+      "name": {
+        "first": "Thomas",
+        "middle": "",
+        "last": "Cheney",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1633",
+        "place": "Roxbury, Suffolk, Massachusetts Bay Colony"
+      },
+      "death": {
+        "date": "~1694",
+        "place": "Cambridge, Massachusetts Bay Colony",
+        "cause": ""
+      },
+      "age_at_death": "~61",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Brighton (then Cambridge), Massachusetts",
+      "burial_place": "",
+      "father_id": 490,
+      "mother_id": 491,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "Served in Capt. Johnson's Roxbury company, marched from Boston 6 Jul 1675 for Mt. Hope during King Philip's War.",
+      "religion": "",
+      "education": "",
+      "notes": "Will dated 23 Oct 1693, proved 4 Mar 1694/5. Children include: Margaret (1656), Thomas, Mehitable, John (1662), William, Mary, Jane, Joseph, Hannah (1689), Benjamin, Ebenezer. 13 Apr 1684, children Thomas, William and John 'owned the covenant' in the Roxbury church.",
+      "source_citations": "Cheney Genealogy by Charles Henry Pope (1897); Geni Thomas-Cheney-Sr",
+      "interesting_facts": "King Philip's War veteran (1675).",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        489
+      ]
+    },
+    {
+      "id": 489,
+      "name": {
+        "first": "Jane",
+        "middle": "",
+        "last": "Atkinson",
+        "maiden": "Atkinson",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1634",
+        "place": ""
+      },
+      "death": {
+        "date": "~1724-07-29",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "~90",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Cambridge/Brighton, Massachusetts",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Married Thomas Cheney 11 Jan 1655 at Roxbury. Parents unknown — may be sister of Theodore Atkinson of Boston or daughter of Thomas Atkinson of Concord, but no evidence found.",
+      "source_citations": "Cheney Genealogy by Charles Henry Pope (1897)",
+      "interesting_facts": "",
+      "research_leads": [
+        "Identify parents — check Theodore Atkinson of Boston or Thomas Atkinson of Concord"
+      ],
+      "confidence": "high",
+      "spouses": [
+        488
+      ]
+    },
+    {
+      "id": 490,
+      "name": {
+        "first": "William",
+        "middle": "",
+        "last": "Cheney",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1603-07-31",
+        "place": "England, possibly Derbyshire"
+      },
+      "death": {
+        "date": "1667-06-30",
+        "place": "Roxbury, Suffolk, Massachusetts Bay Colony",
+        "cause": ""
+      },
+      "age_at_death": "~64",
+      "occupation": "",
+      "marital_status": "Married",
+      "residence": "Roxbury, Massachusetts Bay Colony",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "Probably came with the Great Fleet in 1630. In Boston 1635, then Newbury, then Roxbury by 1635.",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "FS PID LZVG-D69. WikiTree Cheney-32. Immigrant ancestor. Founder of the Roxbury Free School (1664). Assessor 1648, constable 1654-56, selectman 1656-57. Possibly from Meynell Langley, Derbyshire. English parents UNKNOWN — previously claimed parents detached as unproven. Ancestor of President Taft and VP Dick Cheney.",
+      "source_citations": "FamilySearch LZVG-D69; WikiTree Cheney-32; FindAGrave #52482669; Pope (1897); Anderson Great Migration",
+      "interesting_facts": "Founder of the Roxbury Free School (now Roxbury Latin School). Ancestor of President William Howard Taft.",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        491
+      ]
+    },
+    {
+      "id": 491,
+      "name": {
+        "first": "Margaret",
+        "middle": "",
+        "last": "Cheney",
+        "maiden": "Cule",
+        "aliases": [
+          "Cole",
+          "Mason"
+        ]
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1604",
+        "place": "England"
+      },
+      "death": {
+        "date": "1686",
+        "place": "Boston, Suffolk, Massachusetts Bay Colony",
+        "cause": ""
+      },
+      "age_at_death": "~82",
+      "occupation": "",
+      "marital_status": "Widowed",
+      "residence": "Roxbury, then Boston, Massachusetts",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Maiden name disputed: Cule, Cole, or Mason. One source says daughter of William Cole and Elizabeth Deards (unverified). Married William Cheney ~1624. After William's death 1667, married a Mr. Burge. Widow again by 1679. Moved to Boston.",
+      "source_citations": "Cheney Genealogy by Pope (1897); WikiTree Unknown-438014",
+      "interesting_facts": "",
+      "research_leads": [
+        "Verify maiden name — Cule, Cole, or Mason? Parents unconfirmed"
+      ],
+      "confidence": "high",
+      "spouses": [
+        490
       ]
     }
   ],
@@ -19479,6 +21147,300 @@
       },
       "children": [
         141
+      ]
+    },
+    {
+      "id": "F193",
+      "husband_id": 463,
+      "wife_id": 464,
+      "marriage": {
+        "date": "~1620",
+        "place": "England",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        461
+      ]
+    },
+    {
+      "id": "F194",
+      "husband_id": 461,
+      "wife_id": 462,
+      "marriage": {
+        "date": "~1662",
+        "place": "Newport, Rhode Island",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        459
+      ]
+    },
+    {
+      "id": "F195",
+      "husband_id": 459,
+      "wife_id": 460,
+      "marriage": {
+        "date": "1704",
+        "place": "Dartmouth, Bristol, Massachusetts",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        457
+      ]
+    },
+    {
+      "id": "F196",
+      "husband_id": 457,
+      "wife_id": 458,
+      "marriage": {
+        "date": "",
+        "place": "",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        455
+      ]
+    },
+    {
+      "id": "F197",
+      "husband_id": 455,
+      "wife_id": 456,
+      "marriage": {
+        "date": "1762-04-07",
+        "place": "Dartmouth, Bristol, Massachusetts",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        453
+      ]
+    },
+    {
+      "id": "F198",
+      "husband_id": 453,
+      "wife_id": 454,
+      "marriage": {
+        "date": "1787-08-13",
+        "place": "Vassalboro, Kennebec, Maine",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        451
+      ]
+    },
+    {
+      "id": "F199",
+      "husband_id": 451,
+      "wife_id": 452,
+      "marriage": {
+        "date": "1813-06-10",
+        "place": "Belgrade, Kennebec, Maine",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        108
+      ]
+    },
+    {
+      "id": "F200",
+      "husband_id": 475,
+      "wife_id": 476,
+      "marriage": {
+        "date": "1649",
+        "place": "Ashford, Kent, England",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        473
+      ]
+    },
+    {
+      "id": "F201",
+      "husband_id": 473,
+      "wife_id": 474,
+      "marriage": {
+        "date": "~1671",
+        "place": "Martha's Vineyard",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        471
+      ]
+    },
+    {
+      "id": "F202",
+      "husband_id": 471,
+      "wife_id": 472,
+      "marriage": {
+        "date": "1712-09-11",
+        "place": "Roxbury, Suffolk, Massachusetts",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        469
+      ]
+    },
+    {
+      "id": "F203",
+      "husband_id": 469,
+      "wife_id": 470,
+      "marriage": {
+        "date": "1737-04-14",
+        "place": "Edgartown, Dukes, Massachusetts",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        467
+      ]
+    },
+    {
+      "id": "F204",
+      "husband_id": 467,
+      "wife_id": 468,
+      "marriage": {
+        "date": "1758-12-16",
+        "place": "Edgartown, Dukes, Massachusetts",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        465
+      ]
+    },
+    {
+      "id": "F205",
+      "husband_id": 465,
+      "wife_id": 466,
+      "marriage": {
+        "date": "",
+        "place": "",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        112
+      ]
+    },
+    {
+      "id": "F206",
+      "husband_id": 481,
+      "wife_id": null,
+      "marriage": {
+        "date": "",
+        "place": "",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        479
+      ]
+    },
+    {
+      "id": "F207",
+      "husband_id": 479,
+      "wife_id": 480,
+      "marriage": {
+        "date": "1686-11-25",
+        "place": "Dover, New Hampshire",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        477
+      ]
+    },
+    {
+      "id": "F208",
+      "husband_id": 477,
+      "wife_id": 478,
+      "marriage": {
+        "date": "~1716",
+        "place": "Dover, New Hampshire",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        273
+      ]
+    },
+    {
+      "id": "F209",
+      "husband_id": 482,
+      "wife_id": 483,
+      "marriage": {
+        "date": "1609-10-08",
+        "place": "Tamworth, Staffordshire, England",
+        "officiant": "",
+        "source": "Tamworth Parish Register (St Editha)"
+      },
+      "children": [
+        428
+      ]
+    },
+    {
+      "id": "F210",
+      "husband_id": 484,
+      "wife_id": 485,
+      "marriage": {
+        "date": "1576-01-28",
+        "place": "Tamworth, Staffordshire, England",
+        "officiant": "",
+        "source": "Tamworth Parish Register (St Editha)"
+      },
+      "children": [
+        482
+      ]
+    },
+    {
+      "id": "F211",
+      "husband_id": 486,
+      "wife_id": 487,
+      "marriage": {
+        "date": "1627-01-02",
+        "place": "London, England",
+        "officiant": "",
+        "source": "London marriage record"
+      },
+      "children": [
+        462
+      ]
+    },
+    {
+      "id": "F212",
+      "husband_id": 488,
+      "wife_id": 489,
+      "marriage": {
+        "date": "1655-01-11",
+        "place": "Roxbury, Suffolk, Massachusetts Bay Colony",
+        "officiant": "",
+        "source": "Roxbury church records"
+      },
+      "children": [
+        472
+      ]
+    },
+    {
+      "id": "F213",
+      "husband_id": 490,
+      "wife_id": 491,
+      "marriage": {
+        "date": "~1624",
+        "place": "",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        488
       ]
     }
   ],
@@ -22269,6 +24231,96 @@
       "location": "Medway, ME",
       "url": "https://www.findagrave.com/memorial/72514367/albert-hale",
       "notes": "b. 9 Sep 1806 Bristol NH, d. 27 Nov 1884. Headstone: Age 78y2m2d, h/o Tiley Howard"
+    },
+    {
+      "id": 316,
+      "type": "FamilySearch Family Tree",
+      "description": "Mosher line — William Mosher Sr. (KNSB-M4Q) through Nicholas Moger (M32B-9YH)",
+      "date": "2026-04-03",
+      "location": "",
+      "url": "https://www.familysearch.org/tree/person/details/KNSB-M4Q",
+      "notes": "7 generations traced. PIDs: KNSB-M4Q, KNSW-RGR, LZKG-571, KG7V-CLT, LCXW-MGF, LCXW-MLJ, LHDY-RCC, LZ2L-64T, KN8G-37M, LCTV-9WV, 9HXD-GSG, FCMS-31D, M32B-9YH, GDRV-NNP"
+    },
+    {
+      "id": 317,
+      "type": "FamilySearch Family Tree",
+      "description": "Butler line — Sarson Butler Sr. (LLHT-R11) through John Butler (L6NG-K5K)",
+      "date": "2026-04-03",
+      "location": "",
+      "url": "https://www.familysearch.org/tree/person/details/LLHT-R11",
+      "notes": "6 generations traced. PIDs: LLHT-R11, LLHT-T97, LCPL-XRJ, LLHT-R1B, LZ2T-38X, LH7Z-5MV, LZ2T-Q3N, 9SDF-6WK, LX72-82R, LVM8-WRY, L6NG-K5K, K196-BHS"
+    },
+    {
+      "id": 318,
+      "type": "FamilySearch Family Tree",
+      "description": "Cook line — Hezekiah Cook (LC85-QS2) through Thomas Cook (PHPR-ZYM)",
+      "date": "2026-04-03",
+      "location": "",
+      "url": "https://www.familysearch.org/tree/person/details/LC85-QS2",
+      "notes": "4 generations traced. PIDs: LC85-QS2, L7JX-8WM, GMHG-Y52, LZV3-9BQ, LV54-QTJ, LJTB-GVT, PHPR-ZYM"
+    },
+    {
+      "id": 319,
+      "type": "FindAGrave",
+      "description": "Thomas Crowell memorial #73870995, Riverside Cemetery, Orono, ME",
+      "date": "2026-04-03",
+      "location": "Orono, ME",
+      "url": "https://www.findagrave.com/memorial/73870995/thomas-crowell",
+      "notes": "Confirms burial at Riverside Cemetery. Spouse: Abigail (1805-1860). No parents listed."
+    },
+    {
+      "id": 320,
+      "type": "FindAGrave",
+      "description": "Freelove Weeks Mosher memorial #66596747, Weeks Mills Cemetery, China, ME",
+      "date": "2026-04-03",
+      "location": "China, ME",
+      "url": "https://www.findagrave.com/memorial/66596747/freelove-mosher",
+      "notes": "Born 8 Oct 1794, died 5 Mar 1881."
+    },
+    {
+      "id": 321,
+      "type": "FamilySearch Family Tree",
+      "description": "Chadbourne line — William Chadbourne (LHVM-B87) through Robert Chadbourne",
+      "date": "2026-04-04",
+      "location": "Tamworth, England / Kittery, Maine",
+      "url": "https://ancestors.familysearch.org/en/LHVM-B87/william-chadburne-1582-1652",
+      "notes": "Also sourced via WikiTree Chadbourne-4 and Chadbourne-5, FindAGrave #46651181, and Piscataqua Pioneers biography."
+    },
+    {
+      "id": 322,
+      "type": "FindAGrave",
+      "description": "William Chadbourne memorial #46651181",
+      "date": "2026-04-04",
+      "location": "Kittery, Maine",
+      "url": "https://www.findagrave.com/memorial/46651181/william-chadbourne",
+      "notes": "Baptized 30 Mar 1582 Tamworth, died after 16 Nov 1652 Kittery."
+    },
+    {
+      "id": 323,
+      "type": "FamilySearch / WikiTree / FindAGrave",
+      "description": "Maxson line — Richard Maxson (WikiTree Maxson-28)",
+      "date": "2026-04-04",
+      "location": "Portsmouth, Rhode Island",
+      "url": "https://www.findagrave.com/memorial/102252438/richard-maxson",
+      "notes": "Richard Maxson (c.1602-1643), blacksmith, co-founder of Portsmouth RI. Killed in 1643 Indian massacre at Pelham Bay."
+    },
+    {
+      "id": 324,
+      "type": "FamilySearch Family Tree",
+      "description": "Cheney line — William Cheney (LZVG-D69) through Thomas Cheney Sr.",
+      "date": "2026-04-04",
+      "location": "Roxbury / Cambridge, Massachusetts",
+      "url": "https://ancestors.familysearch.org/en/LZVG-D69/william-cheney-1603-1667",
+      "notes": "Also sourced via WikiTree Cheney-32, FindAGrave #52482669."
+    },
+    {
+      "id": 325,
+      "type": "Published Genealogy",
+      "description": "The Cheney Genealogy by Charles Henry Pope (1897)",
+      "date": "1897",
+      "location": "Roxbury, Massachusetts",
+      "url": "",
+      "notes": "Primary reference for the Cheney family of Roxbury. Documents Thomas Cheney Sr. (c.1633-1694) and Hannah (1689)."
     }
   ]
 }

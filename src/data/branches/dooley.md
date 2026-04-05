@@ -1,4 +1,4 @@
-# Lord Branch
+# Dooley Branch
 
 **Individuals:** 1 | **With birth dates:** 1/1 | **With sources:** 1/1 | **Avg completeness:** 80%
 
@@ -6,7 +6,7 @@
 
 | ID | Name | Born | Died | Completeness |
 |----|------|------|------|-------------|
-| 62 | Abigail Lord | 1770 | 1832-09-14 | 80% |
+| 485 | Margaret Dooley | ~1558 | 1626-09-23 | 80% |
 
 ## Open Questions
-- [ ] Abigail Lord (ID 62): parents unknown
+- [ ] Margaret Dooley (ID 485): parents unknown
