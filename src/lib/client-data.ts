@@ -89,6 +89,8 @@ function enrichPerson(raw: RawPerson, childrenMap: Map<number, number[]>, allRaw
     maritalStatus: raw.marital_status,
     notes: raw.notes,
     sourceCitations: raw.source_citations,
+    interestingFacts: raw.interesting_facts ?? '',
+    militaryService: raw.military_service ?? '',
     fatherId: raw.father_id,
     motherId: raw.mother_id,
     spouseIds: raw.spouses ?? [],

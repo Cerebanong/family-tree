@@ -20,6 +20,8 @@ export interface RawPerson {
   notes: string;
   source_citations: string;
   residence: string;
+  interesting_facts: string;
+  military_service: string;
   spouses: number[];
 }
 
@@ -78,6 +80,8 @@ export interface ClientPerson {
   maritalStatus: string;
   notes: string;
   sourceCitations: string;
+  interestingFacts: string;
+  militaryService: string;
   fatherId: number | null;
   motherId: number | null;
   spouseIds: number[];

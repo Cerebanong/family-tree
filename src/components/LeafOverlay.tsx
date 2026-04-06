@@ -187,6 +187,35 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
               </Section>
             )}
 
+            {/* Interesting Facts / Biography */}
+            {person.interestingFacts && (
+              <Section title="About">
+                <div style={{
+                  fontSize: '0.875rem',
+                  lineHeight: 1.7,
+                  color: '#4a3610',
+                }}>
+                  {person.interestingFacts.split('\n\n').map((para, i) => (
+                    <p key={i} style={{ margin: i === 0 ? 0 : '0.75rem 0 0 0' }}>{para}</p>
+                  ))}
+                </div>
+              </Section>
+            )}
+
+            {/* Military Service */}
+            {person.militaryService && (
+              <Section title="Military Service">
+                <p style={{
+                  fontSize: '0.875rem',
+                  lineHeight: 1.7,
+                  color: '#4a3610',
+                  margin: 0,
+                }}>
+                  {person.militaryService}
+                </p>
+              </Section>
+            )}
+
             {/* Sources */}
             {person.sourceCitations && (
               <Section title="Sources">
