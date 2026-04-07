@@ -1,0 +1,25 @@
+# Eleanor Tuchet (ID: 506)
+
+## Vital Information
+- **Born:** ~1405, England
+- **Died:** 1459, England
+- **Maiden Name:** de Holland
+
+## Family
+- **Father:** Unknown
+- **Mother:** Unknown
+- **Spouse:** James Tuchet (m. ~1430, England)
+  - **Children:** Constance Whitney
+
+## Sources
+S333
+
+## Notes
+Illegitimate daughter of Edmund Holland, 4th Earl of Kent. Marriage licence 14 September 1430.
+
+## Research Gaps
+- [ ] Father
+- [ ] Mother
+
+---
+*Record completeness: 80%*

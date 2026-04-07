@@ -9276,15 +9276,15 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 511,
+      "mother_id": 512,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
       "religion": "",
       "education": "",
       "notes": "FamilySearch PID LHPK-GJR. Married Nathaniel Whitney 3 Jan 1734.",
-      "source_citations": "Source 264: FamilySearch LHPK-GJR",
+      "source_citations": "Source 264: FamilySearch LHPK-GJR, S337",
       "interesting_facts": "",
       "research_leads": [],
       "spouses": [
@@ -11875,8 +11875,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 509,
+      "mother_id": 510,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -12031,8 +12031,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 507,
+      "mother_id": 508,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -12109,8 +12109,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 505,
+      "mother_id": 506,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -12187,8 +12187,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 503,
+      "mother_id": 504,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -19037,6 +19037,406 @@
       ],
       "confidence": "medium",
       "spouses": []
+    },
+    {
+      "id": 503,
+      "name": {
+        "first": "William",
+        "middle": "",
+        "last": "Trussell",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1385",
+        "place": "England"
+      },
+      "death": {
+        "date": "~1463",
+        "place": "England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Member of Parliament",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Sir William Trussell, MP. Father of Jennet (Juliane) Trussell who married Eustace Whitney.",
+      "source_citations": "S332",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "medium",
+      "spouses": [
+        504
+      ]
+    },
+    {
+      "id": 504,
+      "name": {
+        "first": "Margery",
+        "middle": "",
+        "last": "Trussell",
+        "maiden": "Ludlow",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1387",
+        "place": "England"
+      },
+      "death": {
+        "date": "~1414",
+        "place": "England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Daughter of John Ludlow, Knt., of Stokesay, Hodnet, and Westbury, Shropshire. May have died in childbirth.",
+      "source_citations": "S332",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "medium",
+      "spouses": [
+        503
+      ]
+    },
+    {
+      "id": 505,
+      "name": {
+        "first": "James",
+        "middle": "",
+        "last": "Tuchet",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1398",
+        "place": "England"
+      },
+      "death": {
+        "date": "1459-09-23",
+        "place": "Blore Heath, Staffordshire, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "5th Baron Audley",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "James Tuchet, 5th Baron Audley. Killed at the Battle of Blore Heath.",
+      "source_citations": "S333",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        506
+      ]
+    },
+    {
+      "id": 506,
+      "name": {
+        "first": "Eleanor",
+        "middle": "",
+        "last": "Tuchet",
+        "maiden": "de Holland",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1405",
+        "place": "England"
+      },
+      "death": {
+        "date": "1459",
+        "place": "England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Illegitimate daughter of Edmund Holland, 4th Earl of Kent. Marriage licence 14 September 1430.",
+      "source_citations": "S333",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        505
+      ]
+    },
+    {
+      "id": 507,
+      "name": {
+        "first": "Simon",
+        "middle": "",
+        "last": "Milbourne",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1435",
+        "place": "Herefordshire, England"
+      },
+      "death": {
+        "date": "1522-08-14",
+        "place": "Herefordshire, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Esquire, Sheriff of Herefordshire",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Held manor of Burghill. Father of eleven co-heiresses including Blanche.",
+      "source_citations": "S334",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        508
+      ]
+    },
+    {
+      "id": 508,
+      "name": {
+        "first": "Jane",
+        "middle": "",
+        "last": "Milbourne",
+        "maiden": "Baskerville",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1451",
+        "place": "Herefordshire, England"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Of the Baskerville family of Herefordshire.",
+      "source_citations": "S334",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "medium",
+      "spouses": [
+        507
+      ]
+    },
+    {
+      "id": 509,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Bray",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1525",
+        "place": "Westminster, Middlesex, England"
+      },
+      "death": {
+        "date": "",
+        "place": "England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Churchwarden of St. Margaret's Westminster (1554-1556)",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Will proved 6 December 1615.",
+      "source_citations": "S335",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        510
+      ]
+    },
+    {
+      "id": 510,
+      "name": {
+        "first": "Margaret",
+        "middle": "",
+        "last": "Bray",
+        "maiden": "Haslonde",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1536",
+        "place": "England"
+      },
+      "death": {
+        "date": "1588-03-28",
+        "place": "Westminster, Middlesex, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Buried 28 March 1588, St Margaret's Westminster.",
+      "source_citations": "S336",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        509
+      ]
+    },
+    {
+      "id": 511,
+      "name": {
+        "first": "Joseph",
+        "middle": "",
+        "last": "Day",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1687-02-04",
+        "place": "Gloucester, Essex County, Massachusetts"
+      },
+      "death": {
+        "date": "1742",
+        "place": "Wells, York County, Maine",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Moved family from Gloucester to Wells, Maine.",
+      "source_citations": "S337",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        512
+      ]
+    },
+    {
+      "id": 512,
+      "name": {
+        "first": "Patience",
+        "middle": "",
+        "last": "Day",
+        "maiden": "Hilton",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1692",
+        "place": ""
+      },
+      "death": {
+        "date": "~1737",
+        "place": "Wells, York County, Maine",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Married Joseph Day 3 May 1713, York, Maine. Parents: William Hilton (~1653-~1700) and Anne Parsons (~1657-~1737).",
+      "source_citations": "S338",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        511
+      ]
     }
   ],
   "families": [
@@ -22010,6 +22410,76 @@
       "children": [
         286
       ]
+    },
+    {
+      "id": "F220",
+      "husband_id": 503,
+      "wife_id": 504,
+      "marriage": {
+        "date": "",
+        "place": "",
+        "officiant": "",
+        "source": "S332"
+      },
+      "children": [
+        306
+      ]
+    },
+    {
+      "id": "F221",
+      "husband_id": 505,
+      "wife_id": 506,
+      "marriage": {
+        "date": "~1430",
+        "place": "England",
+        "officiant": "",
+        "source": "S333"
+      },
+      "children": [
+        304
+      ]
+    },
+    {
+      "id": "F222",
+      "husband_id": 507,
+      "wife_id": 508,
+      "marriage": {
+        "date": "",
+        "place": "Herefordshire, England",
+        "officiant": "",
+        "source": "S334"
+      },
+      "children": [
+        302
+      ]
+    },
+    {
+      "id": "F223",
+      "husband_id": 509,
+      "wife_id": 510,
+      "marriage": {
+        "date": "",
+        "place": "Westminster, Middlesex, England",
+        "officiant": "",
+        "source": "S335"
+      },
+      "children": [
+        298
+      ]
+    },
+    {
+      "id": "F224",
+      "husband_id": 511,
+      "wife_id": 512,
+      "marriage": {
+        "date": "1713-05-03",
+        "place": "York, Maine",
+        "officiant": "",
+        "source": "S337"
+      },
+      "children": [
+        232
+      ]
     }
   ],
   "sources": [
@@ -24943,6 +25413,78 @@
       "location": "",
       "url": "https://archive.org/stream/frostfamilyineng00fros/frostfamilyineng00fros_djvu.txt",
       "notes": "Published Frost family genealogy held by Library of Congress identifies Henry Valyant as Prudence's father."
+    },
+    {
+      "id": 332,
+      "type": "online_database",
+      "description": "WikiTree Trussell-59: Juliane (Trussell) de Whitney; Geni.com: Sir William Trussell, MP",
+      "date": "2026-04-07",
+      "location": "",
+      "url": "https://www.wikitree.com/wiki/Trussell-59",
+      "notes": ""
+    },
+    {
+      "id": 333,
+      "type": "online_database",
+      "description": "WikiTree Tuchet-29: Constance (Tuchet) Whitney; Wikipedia: James Tuchet, 5th Baron Audley",
+      "date": "2026-04-07",
+      "location": "",
+      "url": "https://www.wikitree.com/wiki/Tuchet-29",
+      "notes": ""
+    },
+    {
+      "id": 334,
+      "type": "online_database",
+      "description": "WikiTree Milbourne-8: Blanche (Milbourne) Herbert; Wikipedia: Blanche Milborne",
+      "date": "2026-04-07",
+      "location": "",
+      "url": "https://www.wikitree.com/wiki/Milbourne-8",
+      "notes": ""
+    },
+    {
+      "id": 335,
+      "type": "online_database",
+      "description": "WikiTree Bray-202: Mary (Bray) Whitney; parish records St Margaret's Westminster",
+      "date": "2026-04-07",
+      "location": "",
+      "url": "https://www.wikitree.com/wiki/Bray-202",
+      "notes": ""
+    },
+    {
+      "id": 336,
+      "type": "online_database",
+      "description": "WikiTree Haslonde-1: Margaret (Haslonde) Bray",
+      "date": "2026-04-07",
+      "location": "",
+      "url": "https://www.wikitree.com/wiki/Haslonde-1",
+      "notes": ""
+    },
+    {
+      "id": 337,
+      "type": "online_database",
+      "description": "WikiTree Day-687: Joseph Day (1687-1742); WeRelate: Family Joseph Day and Patience Hilton",
+      "date": "2026-04-07",
+      "location": "",
+      "url": "https://www.wikitree.com/wiki/Day-687",
+      "notes": ""
+    },
+    {
+      "id": 338,
+      "type": "online_database",
+      "description": "WikiTree Hilton-343: Patience Hilton (1692-1737)",
+      "date": "2026-04-07",
+      "location": "",
+      "url": "https://www.wikitree.com/wiki/Hilton-343",
+      "notes": ""
+    },
+    {
+      "id": 339,
+      "type": "online_database",
+      "description": "WikiTree Lord-4716: Abigail (Lord) Frost (1770-1832)",
+      "date": "2026-04-07",
+      "location": "",
+      "url": "https://www.wikitree.com/wiki/Lord-4716",
+      "notes": ""
     }
   ]
 }

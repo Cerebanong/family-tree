@@ -1,12 +1,15 @@
 # Day Branch
 
-**Individuals:** 1 | **With birth dates:** 1/1 | **With sources:** 1/1 | **Avg completeness:** 65%
+**Individuals:** 3 | **With birth dates:** 3/3 | **With sources:** 3/3 | **Avg completeness:** 77%
 
 ## Individuals
 
 | ID | Name | Born | Died | Completeness |
 |----|------|------|------|-------------|
-| 232 | Hannah Day | 1714 | 1800 | 65% |
+| 511 | Joseph Day | 1687-02-04 | 1742 | 80% |
+| 232 | Hannah Day | 1714 | 1800 | 80% |
+| 512 | Patience Day | ~1692 | ~1737 | 70% |
 
 ## Open Questions
-- [ ] Hannah Day (ID 232): parents unknown
+- [ ] Joseph Day (ID 511): parents unknown
+- [ ] Patience Day (ID 512): parents unknown

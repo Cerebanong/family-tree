@@ -6,8 +6,8 @@
 - **Maiden Name:** Touchet
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** James Tuchet
+- **Mother:** Eleanor Tuchet
 - **Spouse:** Robert I Whitney
   - **Children:** Robert II Whitney
 
@@ -17,9 +17,5 @@ Source 290: FamilySearch Family Tree — Whitney line [DISPUTED CONNECTION]
 ## Notes
 FamilySearch PID: KFX4-S26. Daughter of James Touchet, Lord Audley. [DISPUTED CONNECTION]
 
-## Research Gaps
-- [ ] Father
-- [ ] Mother
-
 ---
-*Record completeness: 75%*
+*Record completeness: 90%*
