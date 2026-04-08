@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1680, Scituate, Plymouth, Massachusetts
 - **Died:** 1748-12-09, Truro, Barnstable, Massachusetts
+- **Age at Death:** 68
 
 ## Family
 - **Father:** Simeon Newcomb
@@ -11,7 +12,7 @@
   - **Children:** Joshua Newcomb
 
 ## Sources
-Source 313
+Source 313; Source 355: age calculated from dates
 
 ## Notes
 FS PID LC2N-H39. 16 sources. Confidence: high.

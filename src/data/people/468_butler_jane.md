@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1742
 - **Died:** 1820
+- **Age at Death:** 78
 - **Maiden Name:** Kelley
 
 ## Family
@@ -11,6 +12,9 @@
 - **Spouse:** Elijah Butler (m. 1758-12-16, Edgartown, Dukes, Massachusetts)
   - **Children:** Sarson Butler
 
+## Sources
+Source 355: age calculated from dates
+
 ## Notes
 FS PID LLHT-R1B. The given name 'Sarson' in the Butler family derives from her maiden/middle name.
 
@@ -18,7 +22,6 @@ FS PID LLHT-R1B. The given name 'Sarson' in the Butler family derives from her m
 - [ ] Birth place
 - [ ] Father
 - [ ] Mother
-- [ ] Documentary sources needed
 
 ---
-*Record completeness: 45%*
+*Record completeness: 65%*

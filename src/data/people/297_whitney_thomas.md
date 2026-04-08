@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1560-07-14, Lambeth, Surrey, England
 - **Died:** 1637-04-14, Westminster, Middlesex, England
+- **Age at Death:** 76
 - **Occupation:** Gentleman
 - **Burial:** St Margaret, Westminster, Middlesex, England
 
@@ -13,7 +14,7 @@
   - **Children:** John Whitney
 
 ## Sources
-Source 290: FamilySearch Family Tree — Whitney line
+Source 290: FamilySearch Family Tree — Whitney line; Source 355: age calculated from dates
 
 ## Notes
 FamilySearch PID: L5TN-J5C. 57 sources. Baptized St Andrew, Holborn. Occupation: Gentleman. 12 children. CONFLICT: connection to Robert Whitney III (1498-1555) considered 'highly improbable' by Jacobus.

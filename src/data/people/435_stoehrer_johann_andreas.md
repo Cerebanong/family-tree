@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1677-09-18, Öschelbronn, Germany
 - **Died:** 1760-09-18, Öschelbronn, Germany
+- **Age at Death:** 83
 
 ## Family
 - **Father:** Hans Jeorg Stoerer
@@ -11,7 +12,7 @@
   - **Children:** Hans Jerg Stoehrer
 
 ## Sources
-Source 312
+Source 312; Source 355: age calculated from dates
 
 ## Notes
 FS PID KNQT-9G1. 8 sources. Confidence: high.

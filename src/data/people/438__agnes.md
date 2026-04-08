@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1657, Germany
 - **Died:** 1698, Germany
+- **Age at Death:** 41
 
 ## Family
 - **Father:** Unknown
@@ -11,7 +12,7 @@
   - **Children:** Johann Andreas Stoehrer
 
 ## Sources
-Source 312
+Source 312; Source 355: age calculated from dates
 
 ## Notes
 FS PID 93J1-NTM. Only known name Agnes. Confidence: medium.

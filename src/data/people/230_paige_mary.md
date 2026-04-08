@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1743-04-04, Derbyshire, England
 - **Died:** 1791, Gorham, Cumberland, Maine
+- **Age at Death:** 48
 - **Maiden Name:** Paige
 - **Also Known As:** Molly Page, Mary Polly Page
 
@@ -13,7 +14,7 @@
   - **Children:** Enoch Whitney
 
 ## Sources
-Source 262: FamilySearch L2ZD-RH8 (41 sources)
+Source 262: FamilySearch L2ZD-RH8 (41 sources); Source 355: age calculated from dates
 
 ## Notes
 FamilySearch PID L2ZD-RH8. Born 4 Apr 1743, Derbyshire, England. Died 1791, Gorham, Maine. Married Moses Whitney 6 Sep 1763. 9 children including Enoch Whitney. Also known as Molly Page, Mary Polly Page.

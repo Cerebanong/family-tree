@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1918-11-28, Lee, Penobscot County, ME
 - **Died:** 1979-11-21, Berlin, Washington County, VT
+- **Age at Death:** 61
 - **Residence:** Lee, ME (1920); Winn, ME (1930-1940); Montpelier, VT (1950-1979)
 - **Burial:** Green Mount Cemetery, Montpelier, Washington County, VT
 - **Military:** WWII service. Enlisted 25 Nov 1942, Bangor, ME. Served through at least Jul 1944 (Boston).
@@ -16,7 +17,7 @@
 - **Siblings:** Laurel A Whitney
 
 ## Sources
-FamilySearch L6B6-TFD (16 sources); SSDI; US Census 1920, 1930, 1940; WWII Army Enlistment Records (enlisted 25 Nov 1942, Bangor, ME); Vermont vital records; Green Mount Cemetery records, Montpelier, VT
+FamilySearch L6B6-TFD (16 sources); SSDI; US Census 1920, 1930, 1940; WWII Army Enlistment Records (enlisted 25 Nov 1942, Bangor, ME); Vermont vital records; Green Mount Cemetery records, Montpelier, VT; Source 355: age calculated from dates
 
 ## Notes
 Kevin's maternal grandfather. Kevin remembers his name as "Clifford" but records consistently show "Clifton." Born in Lee, Penobscot County, ME. Grew up in Winn, ME. Married Mary Elizabeth Mosher 9 Jun 1941 in Bangor, ME. WWII veteran. Moved to Montpelier, VT by 1950. Died in Berlin, VT (adjacent to Montpelier) one week before his 61st birthday. FamilySearch PID: L6B6-TFD. Death registration: 23 Nov 1979, Berlin, VT.

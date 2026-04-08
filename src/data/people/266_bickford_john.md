@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1580, Rattery, Devon, England
 - **Died:** 1625-12-14, Ratterye, Devonshire, England
+- **Age at Death:** 45
 - **Also Known As:** John Bickeford
 
 ## Family
@@ -12,7 +13,7 @@
   - **Children:** John Bickford
 
 ## Sources
-Source 288: FamilySearch Family Tree — Bickford line
+Source 288: FamilySearch Family Tree — Bickford line; Source 355: age calculated from dates
 
 ## Notes
 FamilySearch PID: LDLV-TCW. 2 sources. Three wives: Doritie Harris, Mary Harper, Alice Babb.

@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1790-03-21, Hallowell, Maine
 - **Died:** 1865-06-17, Bradford, Penobscot, Maine
+- **Age at Death:** 75
 - **Occupation:** Captain
 - **Burial:** Bradford, Penobscot, Maine
 - **Also Known As:** Captain Sarson Butler
@@ -14,7 +15,7 @@
   - **Children:** Phoebe Young Butler
 
 ## Sources
-FamilySearch LT87-SLW
+FamilySearch LT87-SLW; Source 355: age calculated from dates
 
 ## Notes
 Father of Phoebe Young Butler. Held the rank of Captain. FamilySearch PID: LT87-SLW. Had 5 children with Catherine Norton: Phoebe Young, Alanson Gancelo (1817-1920), Mary Jane (1822-?), Caroline Amelia (1824-1904), Ann Elizabeth (1827-?). FS PID LT87-SLW. 23 sources. Parents confirmed: Sarson Butler Sr. (ID 465) and Susanna Young (ID 466). Born Hallowell, ME. Died Bradford, Penobscot, ME.

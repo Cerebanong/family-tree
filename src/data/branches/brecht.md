@@ -1,13 +1,13 @@
 # Brecht Branch
 
-**Individuals:** 3 | **With birth dates:** 2/3 | **With sources:** 2/3 | **Avg completeness:** 71%
+**Individuals:** 3 | **With birth dates:** 2/3 | **With sources:** 3/3 | **Avg completeness:** 77%
 
 ## Individuals
 
 | ID | Name | Born | Died | Completeness |
 |----|------|------|------|-------------|
 | 243 | Balthas Brecht |  |  | 50% |
-| 220 | Magdalena Brecht | 1732 | 1768 | 75% |
+| 220 | Magdalena Brecht | 1732 | 1768 | 95% |
 | 241 | Johann Peter Brecht | ~1700-07 | 1773-05-28 | 87% |
 
 ## Open Questions

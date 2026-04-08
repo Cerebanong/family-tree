@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1883-07-28, Lee, Penobscot, Maine
 - **Died:** 1900-04-22, Lee, Penobscot, Maine
+- **Age at Death:** 16
 
 ## Family
 - **Father:** Joseph Franklin Whitney
@@ -10,7 +11,7 @@
 - **Siblings:** William G Whitney, Bertha Agness Whitney, Joseph Greenlaw Whitney
 
 ## Sources
-FamilySearch M7S3-Y73 (1 source)
+FamilySearch M7S3-Y73 (1 source); Source 355: age calculated from dates
 
 ## Notes
 Died age 16 in Lee, ME. Only 1 source attached to FamilySearch record. No burial location listed.

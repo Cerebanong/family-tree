@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1733
 - **Died:** 1817
+- **Age at Death:** 84
 
 ## Family
 - **Father:** Joshua Newcomb
@@ -11,7 +12,7 @@
   - **Children:** Hannah Newcomb
 
 ## Sources
-Source 267: FamilySearch KNSJ-VFZ
+Source 267: FamilySearch KNSJ-VFZ; Source 355: age calculated from dates
 
 ## Notes
 FamilySearch PID KNSJ-VFZ. Father of Hannah Newcomb. Married Abigail Young 10 Oct 1765, Wellfleet, Barnstable, Massachusetts Bay Colony. 8 children.

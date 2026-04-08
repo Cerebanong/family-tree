@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1866, Poland (Russia)
 - **Died:** 1935
+- **Age at Death:** 69
 - **Immigration:** 1898
 
 ## Family
@@ -12,7 +13,7 @@
   - **Children:** Leocasia Malinese, Helen Malinese, John Malinese, Cecilia Malinese, Frances Malinese, Joseph Malinese, Edward Malinese
 
 ## Sources
-Malanoski family narrative (source 342)
+Malanoski family narrative (source 342); Source 355: age calculated from dates
 
 ## Notes
 Husband of Katharine Malanowski. Also Polish.

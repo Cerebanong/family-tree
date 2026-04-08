@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1703
 - **Died:** 1767
+- **Age at Death:** 64
 - **Maiden Name:** Child
 
 ## Family
@@ -12,7 +13,7 @@
   - **Children:** Jonathan Abel Farrington
 
 ## Sources
-FamilySearch Person LHLS-H41
+FamilySearch Person LHLS-H41; Source 355: age calculated from dates
 
 ## Notes
 FamilySearch PID: LHLS-H41.

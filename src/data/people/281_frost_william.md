@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1644, Saco, York, Maine
 - **Died:** 1690-05-18, Wells, York, Maine
+- **Age at Death:** 46
 - **Occupation:** Cordwainer
 
 ## Family
@@ -12,7 +13,7 @@
   - **Children:** James Sr. Frost
 
 ## Sources
-Source 289: FamilySearch Family Tree — Frost line
+Source 289: FamilySearch Family Tree — Frost line; Source 355: age calculated from dates
 
 ## Notes
 FamilySearch PID: LZKV-Q56. 5 sources. Killed by Indians 18 May 1690 at Wells, Maine. Moved to Salem 1675-79 during Indian War. Land grants in Wells.

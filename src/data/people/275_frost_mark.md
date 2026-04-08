@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1749-10-20, South Berwick, York, Maine
 - **Died:** 1835-10-05, Belgrade, Kennebec, Maine
+- **Age at Death:** 86
 - **Burial:** Woodside Cemetery, Belgrade, Kennebec, Maine
 
 ## Family
@@ -12,7 +13,7 @@
   - **Children:** Benjamin Frost
 
 ## Sources
-Source 289: FamilySearch Family Tree — Frost line
+Source 289: FamilySearch Family Tree — Frost line; Source 355: age calculated from dates
 
 ## Notes
 FamilySearch PID: KHJ9-DF8. 9 sources. Father of Benjamin Frost. 9 children with Hannah Hersom.

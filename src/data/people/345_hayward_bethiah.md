@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1694
 - **Died:** 1735
+- **Age at Death:** 41
 - **Maiden Name:** Hayward
 
 ## Family
@@ -12,7 +13,7 @@
   - **Children:** Benjamin Boyce
 
 ## Sources
-FamilySearch Person LZF7-YDH
+FamilySearch Person LZF7-YDH; Source 355: age calculated from dates
 
 ## Notes
 FamilySearch PID: LZF7-YDH.

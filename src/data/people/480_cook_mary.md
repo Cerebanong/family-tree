@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1663
 - **Died:** 1696
+- **Age at Death:** 33
 - **Maiden Name:** Downes
 
 ## Family
@@ -11,6 +12,9 @@
 - **Spouse:** John Cook (m. 1686-11-25, Dover, New Hampshire)
   - **Children:** John Cook
 
+## Sources
+Source 355: age calculated from dates
+
 ## Notes
 FS PID LJTB-GVT.
 
@@ -18,7 +22,6 @@ FS PID LJTB-GVT.
 - [ ] Birth place
 - [ ] Father
 - [ ] Mother
-- [ ] Documentary sources needed
 
 ---
-*Record completeness: 45%*
+*Record completeness: 65%*

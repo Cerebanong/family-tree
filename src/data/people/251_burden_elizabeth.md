@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1755
 - **Died:** 1845
+- **Age at Death:** 90
 - **Maiden Name:** Burden
 
 ## Family
@@ -12,7 +13,7 @@
   - **Children:** James Gurr
 
 ## Sources
-Source 285: FamilySearch M3HY-M1W
+Source 285: FamilySearch M3HY-M1W; Source 355: age calculated from dates
 
 ## Notes
 FamilySearch PID M3HY-M1W. Married Thomas Gurr 19 Feb 1773, Hothfield, Kent.

@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1714
 - **Died:** 1800
+- **Age at Death:** 86
 - **Maiden Name:** Day
 
 ## Family
@@ -12,7 +13,7 @@
   - **Children:** Moses Whitney
 
 ## Sources
-Source 264: FamilySearch LHPK-GJR, S337
+Source 264: FamilySearch LHPK-GJR, S337; Source 355: age calculated from dates
 
 ## Notes
 FamilySearch PID LHPK-GJR. Married Nathaniel Whitney 3 Jan 1734.

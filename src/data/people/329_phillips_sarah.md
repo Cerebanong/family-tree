@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1789
 - **Died:** 1877
+- **Age at Death:** 88
 - **Maiden Name:** Phillips
 
 ## Family
@@ -12,7 +13,7 @@
   - **Children:** Justus Hathaway
 
 ## Sources
-FindAGrave
+FindAGrave; Source 355: age calculated from dates
 
 ## Notes
 FindAGrave (linked from Joshua Hathaway III memorial #114682595).

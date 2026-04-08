@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1708-09-21, Guilford, New Haven, CT
 - **Died:** 1786-09-25, Salisbury, Litchfield, CT
+- **Age at Death:** 78
 - **Occupation:** Patriot
 
 ## Family
@@ -12,7 +13,7 @@
   - **Children:** Daniel Evarts
 
 ## Sources
-FamilySearch Family Tree, PID: L7N4-ZN5
+FamilySearch Family Tree, PID: L7N4-ZN5; Source 355: age calculated from dates
 
 ---
 *Record completeness: 100%*

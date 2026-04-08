@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1890-03-04, Orneville Township, Piscataquis, Maine, United States
 - **Died:** 1962-07-12, Bangor, Penobscot, Maine, United States
+- **Age at Death:** 72
 - **Residence:** Orneville Township, ME (1890); Bangor Ward 1, ME (1900); North Attleborough, Bristol, MA (1930-1940); Lagrange, ME (1950)
 - **Burial:** Hill Crest Cemetery, Lagrange, ME
 - **Military:** WWI: Draft registration 1917-1918, Penobscot ME; enlisted 29 Apr 1918 Great Works, ME; discharged 20 Jun 1919. WWII: Draft registration 1942, North Attleboro, MA.
@@ -15,7 +16,7 @@
 - **Siblings:** John Andrew Frost, Ida Ethel Frost, Edith I Frost, Rychie Elba Frost, Eva May Frost, Elsie E. Frost
 
 ## Sources
-FindAGrave, Hill Crest Cemetery, Lagrange, ME; FamilySearch LYMX-G3L (20 sources); FamilySearch KGZG-7JQ (Vera Louise Smith); FamilySearch GXG1-HN7 (Angelina Cora Moyen); FamilySearch GF7W-MF5 (infant son); US Census 1900, 1930, 1940, 1950; WWI Draft Registration, Penobscot, ME; WWII Draft Registration, North Attleboro, MA
+FindAGrave, Hill Crest Cemetery, Lagrange, ME; FamilySearch LYMX-G3L (20 sources); FamilySearch KGZG-7JQ (Vera Louise Smith); FamilySearch GXG1-HN7 (Angelina Cora Moyen); FamilySearch GF7W-MF5 (infant son); US Census 1900, 1930, 1940, 1950; WWI Draft Registration, Penobscot, ME; WWII Draft Registration, North Attleboro, MA; Source 355: age calculated from dates
 
 ## Notes
 Child of John Lyman Frost and Carrie Wilder Storer. FamilySearch PID: LYMX-G3L (20 sources). Married (1) Vera Louise Smith (ID 189, 1897-Deceased, PID KGZG-7JQ), 28 Jun 1922, North Attleboro, Bristol, Massachusetts. One child: infant son Frost (1924-1924, PID GF7W-MF5), died in infancy. Married (2) Angelina Cora Moyen (ID 190, 1917-1989, PID GXG1-HN7), after 1944, Maine. Three children (not yet added). Residences: 1900 Bangor Ward 1; 1930-1940 North Attleborough, Bristol, Massachusetts; 1950 Lagrange, Penobscot, Maine. Race: Caucasian.

@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1893-05, Elmira, NY
 - **Died:** 1968-04-03
+- **Age at Death:** 74
 
 ## Family
 - **Father:** Frank J Malanoski
@@ -10,7 +11,7 @@
 - **Siblings:** John J Malanoski, Rose Malanoski, Chester J Malanoski, Theresa Malanoski
 
 ## Sources
-Malanoski family narrative (source 342)
+Malanoski family narrative (source 342); Source 355: age calculated from dates
 
 ## Notes
 Son of Frank J. Malanoski and Anna Kurowski.

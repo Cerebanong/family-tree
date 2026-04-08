@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1885-06-09, Lagrange, Penobscot, Maine, United States
 - **Died:** 1988-04-12, Howland, Penobscot, Maine, United States
+- **Age at Death:** 102
 - **Residence:** Lagrange, ME (1885); Bangor Ward 1, ME (1900); Bangor Ward 6, ME (1910); Brewer, ME (1930); Bangor Ward 6, ME (1940); Lagrange, ME (1950); Howland, ME (by 1988)
 - **Burial:** Hill Crest Cemetery, Lagrange, ME
 
@@ -12,7 +13,7 @@
 - **Siblings:** John Andrew Frost, Ida Ethel Frost, Edith I Frost, Lewis Edmund Frost, Eva May Frost, Elsie E. Frost
 
 ## Sources
-FindAGrave, Hill Crest Cemetery, Lagrange, ME; FamilySearch KG35-SQM (12 sources); US Census 1900, 1910, 1930, 1940, 1950; Social Security claim filed 10 Jul 1950
+FindAGrave, Hill Crest Cemetery, Lagrange, ME; FamilySearch KG35-SQM (12 sources); US Census 1900, 1910, 1930, 1940, 1950; Social Security claim filed 10 Jul 1950; Source 355: age calculated from dates
 
 ## Notes
 Child of John Lyman Frost and Carrie Wilder Storer. FamilySearch PID: KG35-SQM (12 sources). Never married. Lived to age 102. Residences: 1900 Bangor Ward 1; 1910 Bangor Ward 6; 1930 Brewer, Penobscot, Maine; 1940 Bangor Ward 6; 1950 Lagrange, Penobscot, Maine; later Howland, Penobscot, Maine (where she died). Social Security claim filed 10 July 1950.

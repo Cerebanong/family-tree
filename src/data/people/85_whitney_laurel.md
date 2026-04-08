@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1926
 - **Died:** 2012
+- **Age at Death:** 86
 
 ## Family
 - **Father:** William G Whitney
@@ -10,7 +11,7 @@
 - **Siblings:** Clifton Eugene Whitney
 
 ## Sources
-FamilySearch LBRZ-M84
+FamilySearch LBRZ-M84; Source 355: age calculated from dates
 
 ## Notes
 Sister of Clifton Eugene Whitney. FamilySearch PID: LBRZ-M84.

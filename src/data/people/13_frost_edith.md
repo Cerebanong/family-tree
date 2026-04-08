@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1882-11-22, Maine, United States
 - **Died:** 1947-12-29, Maine, United States
+- **Age at Death:** 65
 - **Residence:** Bangor Ward 1, ME (1900); Milo, Piscataquis, ME (1910-1947)
 - **Burial:** Penobscot, Maine, United States
 
@@ -13,7 +14,7 @@
 - **Siblings:** John Andrew Frost, Ida Ethel Frost, Rychie Elba Frost, Lewis Edmund Frost, Eva May Frost, Elsie E. Frost
 
 ## Sources
-FindAGrave; FamilySearch LYMX-55H (11 sources); FamilySearch KHC2-PTV (Frank Albert Wilder, 14 sources); US Census 1900, 1910, 1920, 1930, 1940
+FindAGrave; FamilySearch LYMX-55H (11 sources); FamilySearch KHC2-PTV (Frank Albert Wilder, 14 sources); US Census 1900, 1910, 1920, 1930, 1940; Source 355: age calculated from dates
 
 ## Notes
 Child of John Lyman Frost and Carrie Wilder Storer. FamilySearch PID: LYMX-55H (11 sources). Middle initial 'I' per FamilySearch; earlier records said 'Izola'. Married Frank Albert Wilder (ID 187, 1882-1944) on 14 Apr 1906 in Maine. No children. Residences: 1900 Bangor Ward 1; 1906 Bangor (at time of marriage); 1910-1940 Milo, Piscataquis, Maine (lived in Milo throughout married life). Survived husband by ~3 years.

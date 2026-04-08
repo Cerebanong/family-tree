@@ -1,22 +1,22 @@
 # Mosher Branch
 
-**Individuals:** 17 | **With birth dates:** 17/17 | **With sources:** 5/17 | **Avg completeness:** 73%
+**Individuals:** 17 | **With birth dates:** 17/17 | **With sources:** 15/17 | **Avg completeness:** 84%
 
 ## Individuals
 
 | ID | Name | Born | Died | Completeness |
 |----|------|------|------|-------------|
-| 461 | Hugh Mosher | 1632-06-06 | 1713-12-07 | 80% |
-| 462 | Rebecca Mosher | 1637 | 1707 | 60% |
-| 460 | Elizabeth Mary Mosher | 1681 | 1751 | 45% |
-| 458 | Eunice Mosher | 1717 | 1813 | 45% |
-| 457 | Ephraim Mosher | 1718-12-28 | 1813 | 75% |
-| 456 | Ann Mosher | 1743 | 1810 | 45% |
+| 461 | Hugh Mosher | 1632-06-06 | 1713-12-07 | 100% |
+| 462 | Rebecca Mosher | 1637 | 1707 | 80% |
+| 460 | Elizabeth Mary Mosher | 1681 | 1751 | 65% |
+| 458 | Eunice Mosher | 1717 | 1813 | 65% |
+| 457 | Ephraim Mosher | 1718-12-28 | 1813 | 95% |
+| 456 | Ann Mosher | 1743 | 1810 | 65% |
 | 455 | Elisha Mosher | 1744-03-07 | ~1813 | 75% |
-| 453 | Elisha Mosher | 1765-06-19 | 1847-01-02 | 75% |
-| 454 | Judith Mosher | 1767 | 1832 | 55% |
-| 451 | William Mosher | 1790-08-05 | 1854-04-15 | 80% |
-| 452 | Freelove Mosher | 1794-10-08 | 1881-03-05 | 60% |
+| 453 | Elisha Mosher | 1765-06-19 | 1847-01-02 | 95% |
+| 454 | Judith Mosher | 1767 | 1832 | 75% |
+| 451 | William Mosher | 1790-08-05 | 1854-04-15 | 100% |
+| 452 | Freelove Mosher | 1794-10-08 | 1881-03-05 | 80% |
 | 108 | Albert Brown Mosher | 1832-06-13 | 1912-02-08 | 95% |
 | 76 | Charles Henry Percy Mosher | 1859-06-02 | 1945-05-08 | 95% |
 | 18 | James Albert Mosher | 1891-04-27 | 1945-04-26 | 95% |

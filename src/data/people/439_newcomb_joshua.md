@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1712-06-17, Truro, Barnstable, Massachusetts
 - **Died:** 1751-06-20, Wellfleet, Barnstable, Massachusetts
+- **Age at Death:** 39
 
 ## Family
 - **Father:** Andrew Newcomb
@@ -11,7 +12,7 @@
   - **Children:** John Newcomb
 
 ## Sources
-Source 313
+Source 313; Source 355: age calculated from dates
 
 ## Notes
 FS PID LLWQ-5DR. 17 sources. Confidence: high.

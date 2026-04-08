@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1570
 - **Died:** 1635
+- **Age at Death:** 65
 
 ## Family
 - **Father:** Unknown
@@ -11,7 +12,7 @@
   - **Children:** Thomas Spencer
 
 ## Sources
-Source 311
+Source 311; Source 355: age calculated from dates
 
 ## Notes
 FS PID LDBH-1SK. 0 sources. Confidence: low.

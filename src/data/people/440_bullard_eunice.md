@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1712
 - **Died:** 1738
+- **Age at Death:** 26
 
 ## Family
 - **Father:** Unknown
@@ -11,7 +12,7 @@
   - **Children:** John Newcomb
 
 ## Sources
-Source 313
+Source 313; Source 355: age calculated from dates
 
 ## Notes
 FS PID L4TP-RCG. Confidence: high.

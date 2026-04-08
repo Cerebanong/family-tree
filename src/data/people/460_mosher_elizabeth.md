@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1681
 - **Died:** 1751
+- **Age at Death:** 70
 - **Maiden Name:** Edwards
 
 ## Family
@@ -11,6 +12,9 @@
 - **Spouse:** Daniel Mosher (m. 1704, Dartmouth, Bristol, Massachusetts)
   - **Children:** Ephraim Mosher
 
+## Sources
+Source 355: age calculated from dates
+
 ## Notes
 FS PID LCTV-9WV.
 
@@ -18,7 +22,6 @@ FS PID LCTV-9WV.
 - [ ] Birth place
 - [ ] Father
 - [ ] Mother
-- [ ] Documentary sources needed
 
 ---
-*Record completeness: 45%*
+*Record completeness: 65%*

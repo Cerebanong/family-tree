@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1903-07, Elmira, NY
 - **Died:** 1970
+- **Age at Death:** 67
 - **Also Known As:** Thomas J. Malanoski
 
 ## Family
@@ -11,7 +12,7 @@
 - **Siblings:** Elizabeth Bailey, John Joseph Malanoski, Sigmund Malanoski, Bronislaus Malanoski, Felix Malanoski, Robert Malanoski, Stella Malanoski, Stanley Malanoski
 
 ## Sources
-Malanoski family narrative (source 342)
+Malanoski family narrative (source 342); Source 355: age calculated from dates
 
 ## Notes
 Son of Michael and Leokadia. FamilySearch has 'Thomas J. (1903-1970).'

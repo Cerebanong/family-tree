@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1787-02-16
 - **Died:** 1863-03, New York
+- **Age at Death:** 76
 
 ## Family
 - **Father:** Unknown
@@ -11,7 +12,7 @@
   - **Children:** Richard H Booth
 
 ## Sources
-Source 314
+Source 314; Source 355: age calculated from dates
 
 ## Notes
 Mother of Richard H Booth (ID 141). Maiden name Wood. Holland (Dutch) ancestry. Confidence: medium.

@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1612
 - **Died:** 1683
+- **Age at Death:** 71
 
 ## Family
 - **Father:** William Chadbourne
@@ -11,7 +12,7 @@
   - **Children:** Moses Spencer
 
 ## Sources
-Source 311
+Source 311; Source 355: age calculated from dates
 
 ## Notes
 FS PID LZLT-PQR. Confidence: high. Parents confirmed: William Chadbourne (ID 482) and Elizabeth Sparry (ID 483).

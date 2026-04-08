@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1777, Massachusetts, United States
 - **Died:** 1865-09-18, Worcester, Worcester, Massachusetts, United States
+- **Age at Death:** 88
 
 ## Family
 - **Father:** John Gowen
@@ -11,7 +12,7 @@
   - **Children:** Augustus Gowen
 
 ## Sources
-FamilySearch Person LVQY-DS9; 12 sources attached
+FamilySearch Person LVQY-DS9; 12 sources attached; Source 355: age calculated from dates
 
 ## Notes
 FamilySearch PID: LVQY-DS9. Also known as Benjamin Cowan. Resided Old Town, ME (1850), Auburn, MA (1860), Worcester, MA (1865).

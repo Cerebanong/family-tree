@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1891-04-27, Bangor, Penobscot County, ME
 - **Died:** 1945-04-26, Maine
+- **Age at Death:** 54
 - **Burial:** Mount Hope Cemetery, Bangor, Penobscot County, ME
 
 ## Family
@@ -12,7 +13,7 @@
   - **Children:** Mary Elizabeth Mosher, Eleanor F Mosher, Barbara Louise DeWolfe
 
 ## Sources
-FamilySearch L4CB-9V9 (18 sources); US Census 1900, 1910, 1920, 1930, 1940; WWI Draft Registration; SSDI; Mount Hope Cemetery records, Bangor, ME
+FamilySearch L4CB-9V9 (18 sources); US Census 1900, 1910, 1920, 1930, 1940; WWI Draft Registration; SSDI; Mount Hope Cemetery records, Bangor, ME; Source 355: age calculated from dates
 
 ## Notes
 Kevin's great-grandfather. Husband of Elsie E. Frost. Resided Bangor Ward 6 throughout life. WWI draft registrant. Died one day before his 54th birthday. FamilySearch PID: L4CB-9V9. Parents: Charles Henry Percy Mosher (1859-1945) and Mary A Crowell (1860-1944).

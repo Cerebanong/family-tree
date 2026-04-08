@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1699-11-05, Dedham, Norfolk, Massachusetts Bay, British America
 - **Died:** 1752-04-24, Dedham, Norfolk, Massachusetts, United States
+- **Age at Death:** 52
 
 ## Family
 - **Father:** Nathaniel Farrington
@@ -11,7 +12,7 @@
   - **Children:** Jonathan Abel Farrington
 
 ## Sources
-FamilySearch Person LZX1-T8C; 32 sources attached
+FamilySearch Person LZX1-T8C; 32 sources attached; Source 355: age calculated from dates
 
 ## Notes
 FamilySearch PID: LZX1-T8C. Buried Dedham, Norfolk, MA.

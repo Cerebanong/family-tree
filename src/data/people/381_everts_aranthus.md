@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1782-05-24, Salisbury, Litchfield, CT
 - **Died:** 1867-04-18, Hector, Schuyler, NY
+- **Age at Death:** 84
 - **Occupation:** Colonel in War of 1812
 
 ## Family
@@ -12,7 +13,7 @@
   - **Children:** Earnest Miller
 
 ## Sources
-FamilySearch Family Tree, PID: K29F-NS4
+FamilySearch Family Tree, PID: K29F-NS4; Source 355: age calculated from dates
 
 ---
 *Record completeness: 100%*

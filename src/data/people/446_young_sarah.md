@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1642
 - **Died:** 1674
+- **Age at Death:** 32
 
 ## Family
 - **Father:** Unknown
@@ -11,7 +12,7 @@
   - **Children:** Simeon Newcomb
 
 ## Sources
-Source 313
+Source 313; Source 355: age calculated from dates
 
 ## Notes
 FS PID LZLJ-GXY. Confidence: high.

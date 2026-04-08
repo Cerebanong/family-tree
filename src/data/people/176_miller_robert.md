@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1911
 - **Died:** 1967
+- **Age at Death:** 56
 
 ## Family
 - **Father:** Robert Lee Miller
@@ -10,7 +11,7 @@
 - **Siblings:** Karl Francis Miller, Ethel Josephine Prentice, Anna Evangeline Nolan, Walter E Miller, Ernest S Miller, Ella L Polk
 
 ## Sources
-Source 207: FindAGrave Belle C. Miller #190781240; Source 208: FindAGrave Robert L. Miller #190781230
+Source 207: FindAGrave Belle C. Miller #190781240; Source 208: FindAGrave Robert L. Miller #190781230; Source 355: age calculated from dates
 
 ## Notes
 Son of Robert L Miller and Belle Curtis Miller. Listed on both parents' FindAGrave memorials (#190781230, #190781240).

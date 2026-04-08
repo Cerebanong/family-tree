@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1782-01-21, Sutton, Worcester County, Massachusetts, United States
 - **Died:** 1857-02-12, Passadumkeag, Penobscot County, Maine, United States
+- **Age at Death:** 75
 - **Burial:** Village Cemetery, Passadumkeag, Penobscot County, Maine
 
 ## Family
@@ -12,7 +13,7 @@
   - **Children:** Justus Hathaway
 
 ## Sources
-FindAGrave Memorial #114682595
+FindAGrave Memorial #114682595; Source 355: age calculated from dates
 
 ## Notes
 FindAGrave Memorial #114682595. Known as 'Squire'. Buried Village Cemetery, Passadumkeag, ME.

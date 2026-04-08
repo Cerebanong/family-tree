@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1781
 - **Died:** 1849
+- **Age at Death:** 68
 
 ## Family
 - **Father:** Unknown
@@ -11,7 +12,7 @@
   - **Children:** Phoebe Young Butler
 
 ## Sources
-FamilySearch LHKY-CKQ
+FamilySearch LHKY-CKQ; Source 355: age calculated from dates
 
 ## Notes
 Mother of Phoebe Young Butler. Married Captain Sarson Butler on 15 February 1815. FamilySearch PID: LHKY-CKQ.

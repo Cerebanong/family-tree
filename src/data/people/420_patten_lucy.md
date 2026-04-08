@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1737
 - **Died:** 1846
+- **Age at Death:** 109
 
 ## Family
 - **Father:** Unknown
@@ -11,7 +12,7 @@
   - **Children:** Isaac Spencer
 
 ## Sources
-Source 311
+Source 311; Source 355: age calculated from dates
 
 ## Notes
 FS PID L9H7-419. Confidence: medium.

@@ -3,6 +3,7 @@
 ## Vital Information
 - **Born:** 1812
 - **Died:** 1892
+- **Age at Death:** 80
 - **Maiden Name:** Hughes
 
 ## Family
@@ -12,7 +13,7 @@
   - **Children:** Abigail H. Archer
 
 ## Sources
-FamilySearch Person LHX8-NMK
+FamilySearch Person LHX8-NMK; Source 355: age calculated from dates
 
 ## Notes
 FamilySearch PID: LHX8-NMK.
