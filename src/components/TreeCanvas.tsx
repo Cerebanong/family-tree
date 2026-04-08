@@ -6,6 +6,7 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
 import * as d3 from 'd3';
 import type { BranchNode } from '../lib/types';
+import { useTheme } from './ThemeContext';
 
 interface Props {
   branchNodes: BranchNode[];
@@ -27,6 +28,7 @@ const V_GAP = 80;
 const SNAP_DURATION = 400;
 
 export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, onFocusChange }: Props) {
+  const { colors } = useTheme();
   const svgRef = useRef<SVGSVGElement>(null);
   const layoutRef = useRef<LayoutNode[]>([]);
   const zoomRef = useRef<d3.ZoomBehavior<SVGSVGElement, unknown> | null>(null);
@@ -34,6 +36,8 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
   const focusedIdRef = useRef<string | null>(null);
   const snapTimeoutRef = useRef<number | null>(null);
   const isSnappingRef = useRef(false);
+  const colorsRef = useRef(colors);
+  colorsRef.current = colors;
 
   // Keep ref in sync with state so D3 click handlers see the latest value
   focusedIdRef.current = focusedId;
@@ -66,8 +70,6 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
     });
 
     // Classify a node's parent branches as paternal (left) vs maternal (right).
-    // Returns arrays because a couple branch can have 3+ parent branches when
-    // biological parents aren't paired as spouses (e.g. remarriage).
     function classifyParents(node: BranchNode): { paternalIds: string[]; maternalIds: string[] } {
       const parentIds = node.parentBranchIds;
       const paternalIds: string[] = [];
@@ -94,7 +96,6 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
         } else if (isSecondaryParent) {
           maternalIds.push(pid);
         } else {
-          // Unclassified — distribute to shorter side
           if (paternalIds.length <= maternalIds.length) paternalIds.push(pid);
           else maternalIds.push(pid);
         }
@@ -103,17 +104,11 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
       return { paternalIds, maternalIds };
     }
 
-    // Walk downward through older generations (descending gen number).
-    // Two passes per generation:
-    //   Pass 1: Collect the combined range each parent should span from all its children.
-    //   Pass 2: For parents with 2 grandparent branches, split their range left/right.
     const minGen = generations[0];
     for (let g = maxGen; g >= minGen; g--) {
       const nodesAtGen = byGen.get(g);
       if (!nodesAtGen) continue;
 
-      // Pass 1: For each child node, propose ranges for its parent branches.
-      // If a parent is referenced by multiple children, take the union of all ranges.
       const parentRanges = new Map<string, { minFrac: number; maxFrac: number }>();
 
       for (const node of nodesAtGen) {
@@ -124,7 +119,6 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
         if (parentIds.length === 0) continue;
 
         if (parentIds.length === 1) {
-          // Single parent branch gets this node's full range
           const pid = parentIds[0];
           const existing = parentRanges.get(pid);
           if (existing) {
@@ -134,17 +128,13 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
             parentRanges.set(pid, { minFrac: pos.frac, maxFrac: pos.frac + pos.width });
           }
         } else {
-          // Multiple parent branches: split this node's range into paternal (left) / maternal (right).
-          // Each side may contain multiple branches (e.g. when biological parents aren't paired as spouses).
           const { paternalIds, maternalIds } = classifyParents(node);
 
           const leftCount = paternalIds.length;
           const rightCount = maternalIds.length;
-          // If one side is empty, the other gets the full width; otherwise split in half
           const leftWidth = rightCount === 0 ? pos.width : leftCount === 0 ? 0 : pos.width / 2;
           const rightWidth = pos.width - leftWidth;
 
-          // Distribute paternal branches evenly across the left portion
           if (leftCount > 0) {
             const subWidth = leftWidth / leftCount;
             for (let pi = 0; pi < leftCount; pi++) {
@@ -160,7 +150,6 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
             }
           }
 
-          // Distribute maternal branches evenly across the right portion
           if (rightCount > 0) {
             const subWidth = rightWidth / rightCount;
             const rightStart = pos.frac + leftWidth;
@@ -179,7 +168,6 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
         }
       }
 
-      // Assign computed ranges to parent branches (only if not already positioned)
       for (const [pid, range] of parentRanges) {
         if (!positions.has(pid)) {
           positions.set(pid, { frac: range.minFrac, width: range.maxFrac - range.minFrac });
@@ -187,8 +175,6 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
       }
     }
 
-    // Convert fractional positions to pixel positions with consistent gaps.
-    // Sort each generation's nodes by their fractional center, then space evenly.
     const layoutNodes: LayoutNode[] = [];
 
     for (const gen of generations) {
@@ -297,7 +283,6 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
     switch (event.key) {
       case 'ArrowLeft':
       case 'ArrowRight': {
-        // Find adjacent node in same generation, sorted by x-position
         const sameGen = layout
           .filter((ln) => ln.branch.generation === focused.branch.generation)
           .sort((a, b) => a.x - b.x);
@@ -309,13 +294,11 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
         break;
       }
       case 'ArrowUp': {
-        // Move to child branch (more recent gen = visually upward)
         const childIds = focused.branch.childBranchIds;
         if (childIds.length > 0) nextId = childIds[0];
         break;
       }
       case 'ArrowDown': {
-        // Move to parent branch (older gen = visually downward)
         const parentIds = focused.branch.parentBranchIds;
         if (parentIds.length > 0) nextId = parentIds[0];
         break;
@@ -369,7 +352,7 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
           .attr('data-to', childId)
           .attr('d', `M${parentCenterX},${parentBottomY} C${parentCenterX},${midY} ${childCenterX},${midY} ${childCenterX},${childTopY}`)
           .attr('fill', 'none')
-          .attr('stroke', '#d4a574')
+          .attr('stroke', colors.nodeStroke)
           .attr('stroke-width', 2)
           .attr('opacity', 0.6);
       }
@@ -391,8 +374,8 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
       .attr('height', NODE_HEIGHT)
       .attr('rx', 8)
       .attr('ry', 8)
-      .attr('fill', '#f5e6d3')
-      .attr('stroke', '#d4a574')
+      .attr('fill', colors.nodeBg)
+      .attr('stroke', colors.nodeStroke)
       .attr('stroke-width', 1.5);
 
     // First names line (hidden by default, shown on focus)
@@ -403,7 +386,7 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
       .attr('text-anchor', 'middle')
       .attr('font-family', 'Inter, system-ui, sans-serif')
       .attr('font-size', '10px')
-      .attr('fill', '#6b4f10')
+      .attr('fill', colors.textSecondary)
       .attr('opacity', 0)
       .text('');
 
@@ -416,7 +399,7 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
       .attr('font-family', 'Merriweather, Georgia, serif')
       .attr('font-size', '12px')
       .attr('font-weight', '700')
-      .attr('fill', '#4a3610')
+      .attr('fill', colors.text)
       .text((d) => d.branch.displaySurname);
 
     // Date range (always visible, smaller)
@@ -427,7 +410,7 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
       .attr('text-anchor', 'middle')
       .attr('font-family', 'Inter, system-ui, sans-serif')
       .attr('font-size', '9px')
-      .attr('fill', '#6b4f10')
+      .attr('fill', colors.textSecondary)
       .text((d) => d.branch.dateRange);
 
     // Click handler: first click focuses, second click on focused node opens branch view
@@ -498,7 +481,6 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
     const recentNodes = layout.filter((ln) => recentGens.includes(ln.branch.generation));
 
     if (recentNodes.length > 0) {
-      // Calculate bounding box of recent nodes
       const minX = Math.min(...recentNodes.map((ln) => ln.x));
       const maxX = Math.max(...recentNodes.map((ln) => ln.x + NODE_WIDTH));
       const minY = Math.min(...recentNodes.map((ln) => ln.y));
@@ -509,18 +491,16 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
       const contentCenterX = (minX + maxX) / 2;
       const contentCenterY = (minY + maxY) / 2;
 
-      // Scale to fit with some padding
       const padding = 100;
       const scaleX = (width - padding * 2) / contentWidth;
       const scaleY = (height - padding * 2) / contentHeight;
-      const scale = Math.min(scaleX, scaleY, 1); // Don't zoom in past 1x
+      const scale = Math.min(scaleX, scaleY, 1);
 
       const initialX = width / 2 - contentCenterX * scale;
       const initialY = height / 2 - contentCenterY * scale;
 
       svgSel.call(zoom.transform, d3.zoomIdentity.translate(initialX, initialY).scale(scale));
 
-      // Set initial focus on the first node of the most recent generation
       const mostRecentNode = layout.find((ln) => ln.branch.generation === maxGen);
       if (mostRecentNode) {
         setFocusedId(mostRecentNode.branch.id);
@@ -531,7 +511,7 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
     return () => {
       if (snapTimeoutRef.current) clearTimeout(snapTimeoutRef.current);
     };
-  }, [branchNodes, buildLayout, findNearestNode, onBranchClick, onFocusChange, snapToBranch]);
+  }, [branchNodes, buildLayout, findNearestNode, onBranchClick, onFocusChange, snapToBranch, colors]);
 
   // React to external focus changes (e.g., from search)
   useEffect(() => {
@@ -545,6 +525,7 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
     const svg = svgRef.current;
     if (!svg) return;
 
+    const c = colorsRef.current;
     const svgSel = d3.select(svg);
     const connected = focusedId ? getConnectedBranches(focusedId) : null;
 
@@ -556,6 +537,7 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
       const isConnected = connected && connected.has(from) && connected.has(to);
 
       path.transition().duration(200)
+        .attr('stroke', c.nodeStroke)
         .attr('stroke-width', isConnected ? 3.5 : 2)
         .attr('opacity', connected ? (isConnected ? 1.0 : 0.15) : 0.6);
     });
@@ -570,18 +552,22 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
       group.select('rect')
         .transition()
         .duration(200)
-        .attr('fill', isFocused ? '#e8cba7' : isConnected ? '#f0dbc0' : '#f5e6d3')
-        .attr('stroke', isFocused ? '#b8834a' : isConnected ? '#c49560' : '#d4a574')
+        .attr('fill', isFocused ? c.nodeFocused : isConnected ? c.nodeConnected : c.nodeBg)
+        .attr('stroke', isFocused ? c.nodeStrokeFocused : isConnected ? c.nodeStrokeConnected : c.nodeStroke)
         .attr('stroke-width', isFocused ? 2.5 : isConnected ? 2.0 : 1.5);
 
       // Dim non-connected nodes when something is focused
       group.transition().duration(200)
         .attr('opacity', connected ? (isConnected ? 1.0 : 0.3) : 1.0);
 
+      // Update text colors
+      group.select('.first-names-label').attr('fill', c.textSecondary);
+      group.select('.surname-label').attr('fill', c.text);
+      group.select('.date-label').attr('fill', c.textSecondary);
+
       // Update text content for focused/unfocused
       const branch = d.branch;
       if (isFocused) {
-        // Show first names above surname
         const firstNames = branch.secondaryPerson
           ? `${branch.primaryPerson.firstName} & ${branch.secondaryPerson.firstName}`
           : branch.primaryPerson.firstName;
@@ -602,7 +588,7 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
         group.select('.date-label').text(branch.dateRange);
       }
     });
-  }, [focusedId, getConnectedBranches]);
+  }, [focusedId, getConnectedBranches, colors]);
 
   return (
     <svg
@@ -613,7 +599,7 @@ export default function TreeCanvas({ branchNodes, onBranchClick, focusBranchId, 
         width: '100vw',
         height: '100vh',
         display: 'block',
-        background: '#fdf8f0',
+        background: colors.bg,
         outline: 'none',
       }}
     />

@@ -4,6 +4,7 @@
  */
 import type { ClientPerson } from '../lib/types';
 import { getParents, getSpouses, getChildren, getSiblings } from '../lib/client-data';
+import { useTheme, type ThemeColors } from './ThemeContext';
 
 interface Props {
   person: ClientPerson;
@@ -11,7 +12,7 @@ interface Props {
   onNavigate: (person: ClientPerson) => void;
 }
 
-function FamilyLink({ person, onClick }: { person: ClientPerson; onClick: () => void }) {
+function FamilyLink({ person, onClick, colors }: { person: ClientPerson; onClick: () => void; colors: ThemeColors }) {
   const years = [person.birthYear, person.deathYear].filter(Boolean).join('\u2013');
   return (
     <button
@@ -21,30 +22,30 @@ function FamilyLink({ person, onClick }: { person: ClientPerson; onClick: () => 
         background: 'none',
         border: 'none',
         padding: 0,
-        color: '#4f6e3d',
+        color: colors.link,
         textDecoration: 'underline',
-        textDecorationColor: 'rgba(143,170,123,0.5)',
+        textDecorationColor: colors.linkUnderline,
         cursor: 'pointer',
         fontFamily: 'inherit',
         fontSize: 'inherit',
         transition: 'color 0.15s',
       }}
-      onMouseEnter={(e) => { e.currentTarget.style.color = '#6b8c55'; }}
-      onMouseLeave={(e) => { e.currentTarget.style.color = '#4f6e3d'; }}
+      onMouseEnter={(e) => { e.currentTarget.style.color = colors.linkHover; }}
+      onMouseLeave={(e) => { e.currentTarget.style.color = colors.link; }}
     >
       {person.fullName}{years ? ` (${years})` : ''}
     </button>
   );
 }
 
-function Section({ title, children }: { title: string; children: React.ReactNode }) {
+function Section({ title, children, colors }: { title: string; children: React.ReactNode; colors: ThemeColors }) {
   return (
     <section style={{ marginBottom: '1.5rem' }}>
       <h3 style={{
         fontFamily: 'Merriweather, Georgia, serif',
         fontSize: '1.1rem',
         fontWeight: 700,
-        color: '#4a3610',
+        color: colors.text,
         marginBottom: '0.75rem',
       }}>
         {title}
@@ -54,25 +55,26 @@ function Section({ title, children }: { title: string; children: React.ReactNode
   );
 }
 
-function InfoRow({ label, value }: { label: string; value: string }) {
+function InfoRow({ label, value, colors }: { label: string; value: string; colors: ThemeColors }) {
   if (!value) return null;
   return (
     <div style={{ display: 'flex', gap: '1rem', marginBottom: '0.4rem', fontSize: '0.875rem' }}>
-      <span style={{ fontWeight: 600, color: '#6b4f10', minWidth: '100px', flexShrink: 0 }}>{label}</span>
-      <span style={{ color: '#2d2010' }}>{value}</span>
+      <span style={{ fontWeight: 600, color: colors.textSecondary, minWidth: '100px', flexShrink: 0 }}>{label}</span>
+      <span style={{ color: colors.text }}>{value}</span>
     </div>
   );
 }
 
-function formatCitations(citations: string): string {
+function formatCitations(citations: string, linkColor: string): string {
   if (!citations) return '';
   return citations.replace(
     /FamilySearch ([A-Z0-9]{4}-[A-Z0-9]{2,4})/g,
-    (_match, pid) => `<a href="https://www.familysearch.org/tree/person/details/${pid}" target="_blank" rel="noopener" style="color:#4f6e3d;text-decoration:underline;">FamilySearch ${pid}</a>`
+    (_match, pid) => `<a href="https://www.familysearch.org/tree/person/details/${pid}" target="_blank" rel="noopener" style="color:${linkColor};text-decoration:underline;">FamilySearch ${pid}</a>`
   );
 }
 
 export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
+  const { colors } = useTheme();
   const parents = getParents(person.id);
   const spouses = getSpouses(person.id);
   const children = getChildren(person.id);
@@ -118,9 +120,9 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
       {/* Panel */}
       <div style={{
         position: 'relative',
-        background: 'white',
+        background: colors.panel,
         borderRadius: '1rem',
-        boxShadow: '0 20px 60px rgba(0,0,0,0.25)',
+        boxShadow: `0 20px 60px ${colors.shadowHeavy}`,
         maxWidth: '900px',
         width: '100%',
         maxHeight: '90vh',
@@ -131,24 +133,24 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
         {/* Header */}
         <div style={{
           padding: '1.5rem 2rem 1rem',
-          borderBottom: '1px solid #e8cba7',
+          borderBottom: `1px solid ${colors.divider}`,
         }}>
           <h2 style={{
             fontFamily: 'Merriweather, Georgia, serif',
             fontSize: '1.75rem',
             fontWeight: 700,
-            color: '#4a3610',
+            color: colors.text,
             margin: 0,
           }}>
             {person.fullName}
           </h2>
           {person.aliases.length > 0 && (
-            <div style={{ fontSize: '0.85rem', color: '#8b6914', marginTop: '0.25rem' }}>
+            <div style={{ fontSize: '0.85rem', color: colors.textMuted, marginTop: '0.25rem' }}>
               Also known as: {person.aliases.join(', ')}
             </div>
           )}
           {years && (
-            <div style={{ fontSize: '1rem', color: '#6b4f10', marginTop: '0.25rem' }}>
+            <div style={{ fontSize: '1rem', color: colors.textSecondary, marginTop: '0.25rem' }}>
               {years}
             </div>
           )}
@@ -164,22 +166,22 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
           {/* Main content */}
           <div>
             {/* Vital Information */}
-            <Section title="Vital Information">
-              <InfoRow label="Born" value={birthInfo} />
-              <InfoRow label="Died" value={deathInfo} />
-              <InfoRow label="Age at Death" value={person.ageAtDeath} />
-              <InfoRow label="Occupation" value={person.occupation} />
-              <InfoRow label="Residence" value={person.residence} />
-              <InfoRow label="Burial" value={person.burialPlace} />
+            <Section title="Vital Information" colors={colors}>
+              <InfoRow label="Born" value={birthInfo} colors={colors} />
+              <InfoRow label="Died" value={deathInfo} colors={colors} />
+              <InfoRow label="Age at Death" value={person.ageAtDeath} colors={colors} />
+              <InfoRow label="Occupation" value={person.occupation} colors={colors} />
+              <InfoRow label="Residence" value={person.residence} colors={colors} />
+              <InfoRow label="Burial" value={person.burialPlace} colors={colors} />
             </Section>
 
             {/* Notes */}
             {person.notes && (
-              <Section title="Notes">
+              <Section title="Notes" colors={colors}>
                 <p style={{
                   fontSize: '0.875rem',
                   lineHeight: 1.7,
-                  color: '#4a3610',
+                  color: colors.text,
                   margin: 0,
                 }}>
                   {person.notes}
@@ -189,11 +191,11 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
 
             {/* Interesting Facts / Biography */}
             {person.interestingFacts && (
-              <Section title="About">
+              <Section title="About" colors={colors}>
                 <div style={{
                   fontSize: '0.875rem',
                   lineHeight: 1.7,
-                  color: '#4a3610',
+                  color: colors.text,
                 }}>
                   {person.interestingFacts.split('\n\n').map((para, i) => (
                     <p key={i} style={{ margin: i === 0 ? 0 : '0.75rem 0 0 0' }}>{para}</p>
@@ -204,11 +206,11 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
 
             {/* Military Service */}
             {person.militaryService && (
-              <Section title="Military Service">
+              <Section title="Military Service" colors={colors}>
                 <p style={{
                   fontSize: '0.875rem',
                   lineHeight: 1.7,
-                  color: '#4a3610',
+                  color: colors.text,
                   margin: 0,
                 }}>
                   {person.militaryService}
@@ -218,15 +220,15 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
 
             {/* Sources */}
             {person.sourceCitations && (
-              <Section title="Sources">
+              <Section title="Sources" colors={colors}>
                 <p
                   style={{
                     fontSize: '0.875rem',
                     lineHeight: 1.7,
-                    color: '#6b4f10',
+                    color: colors.textSecondary,
                     margin: 0,
                   }}
-                  dangerouslySetInnerHTML={{ __html: formatCitations(person.sourceCitations) }}
+                  dangerouslySetInnerHTML={{ __html: formatCitations(person.sourceCitations, colors.link) }}
                 />
               </Section>
             )}
@@ -235,8 +237,8 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
           {/* Sidebar: Family connections */}
           <div>
             <div style={{
-              background: '#f5e6d3',
-              border: '1px solid #e8cba7',
+              background: colors.surface,
+              border: `1px solid ${colors.borderLight}`,
               borderRadius: '0.75rem',
               padding: '1rem',
             }}>
@@ -244,7 +246,7 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
                 fontFamily: 'Merriweather, Georgia, serif',
                 fontSize: '1rem',
                 fontWeight: 700,
-                color: '#4a3610',
+                color: colors.text,
                 marginBottom: '1rem',
               }}>
                 Family
@@ -255,7 +257,7 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
                   <div style={{
                     fontSize: '0.7rem',
                     fontWeight: 600,
-                    color: '#8b6914',
+                    color: colors.textMuted,
                     textTransform: 'uppercase',
                     letterSpacing: '0.05em',
                     marginBottom: '0.3rem',
@@ -264,10 +266,10 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
                   </div>
                   <div style={{ fontSize: '0.85rem' }}>
                     {parents.father && (
-                      <div><FamilyLink person={parents.father} onClick={() => onNavigate(parents.father!)} /></div>
+                      <div><FamilyLink person={parents.father} onClick={() => onNavigate(parents.father!)} colors={colors} /></div>
                     )}
                     {parents.mother && (
-                      <div><FamilyLink person={parents.mother} onClick={() => onNavigate(parents.mother!)} /></div>
+                      <div><FamilyLink person={parents.mother} onClick={() => onNavigate(parents.mother!)} colors={colors} /></div>
                     )}
                   </div>
                 </div>
@@ -278,7 +280,7 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
                   <div style={{
                     fontSize: '0.7rem',
                     fontWeight: 600,
-                    color: '#8b6914',
+                    color: colors.textMuted,
                     textTransform: 'uppercase',
                     letterSpacing: '0.05em',
                     marginBottom: '0.3rem',
@@ -287,7 +289,7 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
                   </div>
                   <div style={{ fontSize: '0.85rem' }}>
                     {spouses.map((s) => (
-                      <div key={s.id}><FamilyLink person={s} onClick={() => onNavigate(s)} /></div>
+                      <div key={s.id}><FamilyLink person={s} onClick={() => onNavigate(s)} colors={colors} /></div>
                     ))}
                   </div>
                 </div>
@@ -298,7 +300,7 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
                   <div style={{
                     fontSize: '0.7rem',
                     fontWeight: 600,
-                    color: '#8b6914',
+                    color: colors.textMuted,
                     textTransform: 'uppercase',
                     letterSpacing: '0.05em',
                     marginBottom: '0.3rem',
@@ -307,7 +309,7 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
                   </div>
                   <div style={{ fontSize: '0.85rem' }}>
                     {children.map((c) => (
-                      <div key={c.id}><FamilyLink person={c} onClick={() => onNavigate(c)} /></div>
+                      <div key={c.id}><FamilyLink person={c} onClick={() => onNavigate(c)} colors={colors} /></div>
                     ))}
                   </div>
                 </div>
@@ -318,7 +320,7 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
                   <div style={{
                     fontSize: '0.7rem',
                     fontWeight: 600,
-                    color: '#8b6914',
+                    color: colors.textMuted,
                     textTransform: 'uppercase',
                     letterSpacing: '0.05em',
                     marginBottom: '0.3rem',
@@ -327,7 +329,7 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
                   </div>
                   <div style={{ fontSize: '0.85rem' }}>
                     {siblings.map((s) => (
-                      <div key={s.id}><FamilyLink person={s} onClick={() => onNavigate(s)} /></div>
+                      <div key={s.id}><FamilyLink person={s} onClick={() => onNavigate(s)} colors={colors} /></div>
                     ))}
                   </div>
                 </div>
@@ -340,7 +342,7 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
               style={{
                 display: 'block',
                 textAlign: 'center',
-                background: '#6b8c55',
+                background: colors.submitBg,
                 color: 'white',
                 textDecoration: 'none',
                 borderRadius: '0.5rem',
@@ -350,8 +352,8 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
                 marginTop: '0.75rem',
                 transition: 'background 0.2s',
               }}
-              onMouseEnter={(e) => { e.currentTarget.style.background = '#4f6e3d'; }}
-              onMouseLeave={(e) => { e.currentTarget.style.background = '#6b8c55'; }}
+              onMouseEnter={(e) => { e.currentTarget.style.background = colors.submitBgHover; }}
+              onMouseLeave={(e) => { e.currentTarget.style.background = colors.submitBg; }}
             >
               Submit a Tip
             </a>

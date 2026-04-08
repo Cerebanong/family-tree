@@ -12,10 +12,12 @@ import LeafOverlay from './LeafOverlay';
 import NavChrome from './NavChrome';
 import SearchBar from './SearchBar';
 import SearchResults from './SearchResults';
+import { ThemeProvider, useTheme } from './ThemeContext';
 
 export type ViewLevel = 'tree' | 'branch' | 'leaf' | 'search-results';
 
-export default function FamilyTreeApp() {
+function FamilyTreeInner() {
+  const { colors } = useTheme();
   const [loading, setLoading] = useState(true);
   const [branchNodes, setBranchNodes] = useState<BranchNode[]>([]);
   const [viewLevel, setViewLevel] = useState<ViewLevel>('tree');
@@ -103,12 +105,12 @@ export default function FamilyTreeApp() {
         alignItems: 'center',
         justifyContent: 'center',
         height: '100vh',
-        background: '#fdf8f0',
+        background: colors.bg,
         fontFamily: 'Inter, system-ui, sans-serif',
-        color: '#6b4f10',
+        color: colors.textSecondary,
       }}>
         <div style={{ textAlign: 'center' }}>
-          <div style={{ fontSize: '1.5rem', fontFamily: 'Merriweather, Georgia, serif', fontWeight: 700, color: '#4a3610', marginBottom: '0.5rem' }}>
+          <div style={{ fontSize: '1.5rem', fontFamily: 'Merriweather, Georgia, serif', fontWeight: 700, color: colors.text, marginBottom: '0.5rem' }}>
             Frank-Miller Family Tree
           </div>
           <div>Loading family data...</div>
@@ -120,7 +122,7 @@ export default function FamilyTreeApp() {
   const isDimmed = viewLevel === 'branch' || viewLevel === 'leaf' || viewLevel === 'search-results';
 
   return (
-    <div style={{ position: 'relative', width: '100vw', height: '100vh', overflow: 'hidden', background: '#fdf8f0' }}>
+    <div style={{ position: 'relative', width: '100vw', height: '100vh', overflow: 'hidden', background: colors.bg }}>
       {/* Tree canvas — always rendered as base layer */}
       <div style={{ opacity: isDimmed ? 0.3 : 1, transition: 'opacity 0.3s ease', pointerEvents: isDimmed ? 'none' : 'auto' }}>
         <TreeCanvas
@@ -174,5 +176,13 @@ export default function FamilyTreeApp() {
         />
       )}
     </div>
+  );
+}
+
+export default function FamilyTreeApp() {
+  return (
+    <ThemeProvider>
+      <FamilyTreeInner />
+    </ThemeProvider>
   );
 }

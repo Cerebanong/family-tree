@@ -1,10 +1,11 @@
 /**
  * NavChrome — Minimal persistent navigation overlay.
  * Top-left: contextual back icon (hidden at tree level)
- * Top-right: magnifying glass search icon + hamburger menu
+ * Top-right: theme toggle + magnifying glass search icon + hamburger menu
  */
 import type { ViewLevel } from './FamilyTreeApp';
 import { useState } from 'react';
+import { useTheme } from './ThemeContext';
 
 interface Props {
   viewLevel: ViewLevel;
@@ -70,30 +71,55 @@ function ArrowLeftIcon() {
   );
 }
 
-const buttonStyle: React.CSSProperties = {
-  display: 'flex',
-  alignItems: 'center',
-  justifyContent: 'center',
-  width: '40px',
-  height: '40px',
-  borderRadius: '50%',
-  border: 'none',
-  cursor: 'pointer',
-  color: '#4a3610',
-  background: 'rgba(253, 248, 240, 0.85)',
-  backdropFilter: 'blur(8px)',
-  boxShadow: '0 2px 8px rgba(0,0,0,0.1)',
-  transition: 'all 0.2s ease',
-};
+function SunIcon() {
+  return (
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <circle cx="12" cy="12" r="4" />
+      <path d="M12 2v2" />
+      <path d="M12 20v2" />
+      <path d="m4.93 4.93 1.41 1.41" />
+      <path d="m17.66 17.66 1.41 1.41" />
+      <path d="M2 12h2" />
+      <path d="M20 12h2" />
+      <path d="m6.34 17.66-1.41 1.41" />
+      <path d="m19.07 4.93-1.41 1.41" />
+    </svg>
+  );
+}
+
+function MoonIcon() {
+  return (
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z" />
+    </svg>
+  );
+}
 
 export default function NavChrome({ viewLevel, onBack, searchOpen, onToggleSearch }: Props) {
   const [menuOpen, setMenuOpen] = useState(false);
+  const { isDark, toggle, colors } = useTheme();
 
   const showBack = viewLevel !== 'tree';
 
   const backLabel = viewLevel === 'leaf' ? 'Back to branch' :
     viewLevel === 'branch' ? 'Back to tree' :
     viewLevel === 'search-results' ? 'Back to tree' : '';
+
+  const buttonStyle: React.CSSProperties = {
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    width: '40px',
+    height: '40px',
+    borderRadius: '50%',
+    border: 'none',
+    cursor: 'pointer',
+    color: colors.buttonText,
+    background: colors.buttonBg,
+    backdropFilter: 'blur(8px)',
+    boxShadow: `0 2px 8px ${colors.shadow}`,
+    transition: 'all 0.2s ease',
+  };
 
   return (
     <>
@@ -111,18 +137,18 @@ export default function NavChrome({ viewLevel, onBack, searchOpen, onToggleSearc
             zIndex: 50,
             gap: '0.25rem',
           }}
-          onMouseEnter={(e) => { e.currentTarget.style.background = 'rgba(232, 203, 167, 0.9)'; }}
-          onMouseLeave={(e) => { e.currentTarget.style.background = 'rgba(253, 248, 240, 0.85)'; }}
+          onMouseEnter={(e) => { e.currentTarget.style.background = colors.buttonBgHover; }}
+          onMouseLeave={(e) => { e.currentTarget.style.background = colors.buttonBg; }}
         >
           <ArrowLeftIcon />
-          <span style={{ position: 'absolute', left: '48px', fontSize: '0.75rem', whiteSpace: 'nowrap', display: 'flex', alignItems: 'center', gap: '0.25rem', color: '#6b4f10' }}>
+          <span style={{ position: 'absolute', left: '48px', fontSize: '0.75rem', whiteSpace: 'nowrap', display: 'flex', alignItems: 'center', gap: '0.25rem', color: colors.textSecondary }}>
             {viewLevel === 'leaf' && <LeafIcon />}
             {viewLevel === 'branch' && <BranchIcon />}
           </span>
         </button>
       )}
 
-      {/* Top-right: search + menu */}
+      {/* Top-right: theme toggle + search + menu */}
       <div style={{
         position: 'fixed',
         top: '1rem',
@@ -131,14 +157,26 @@ export default function NavChrome({ viewLevel, onBack, searchOpen, onToggleSearc
         display: 'flex',
         gap: '0.5rem',
       }}>
+        {/* Theme toggle */}
+        <button
+          onClick={toggle}
+          title={isDark ? 'Switch to light mode' : 'Switch to dark mode'}
+          aria-label={isDark ? 'Switch to light mode' : 'Switch to dark mode'}
+          style={buttonStyle}
+          onMouseEnter={(e) => { e.currentTarget.style.background = colors.buttonBgHover; }}
+          onMouseLeave={(e) => { e.currentTarget.style.background = colors.buttonBg; }}
+        >
+          {isDark ? <SunIcon /> : <MoonIcon />}
+        </button>
+
         {/* Search toggle */}
         <button
           onClick={onToggleSearch}
           title={searchOpen ? 'Close search' : 'Search'}
           aria-label={searchOpen ? 'Close search' : 'Search'}
           style={buttonStyle}
-          onMouseEnter={(e) => { e.currentTarget.style.background = 'rgba(232, 203, 167, 0.9)'; }}
-          onMouseLeave={(e) => { e.currentTarget.style.background = 'rgba(253, 248, 240, 0.85)'; }}
+          onMouseEnter={(e) => { e.currentTarget.style.background = colors.buttonBgHover; }}
+          onMouseLeave={(e) => { e.currentTarget.style.background = colors.buttonBg; }}
         >
           {searchOpen ? <MinusIcon /> : <SearchIcon />}
         </button>
@@ -150,8 +188,8 @@ export default function NavChrome({ viewLevel, onBack, searchOpen, onToggleSearc
             title="Menu"
             aria-label="Menu"
             style={buttonStyle}
-            onMouseEnter={(e) => { e.currentTarget.style.background = 'rgba(232, 203, 167, 0.9)'; }}
-            onMouseLeave={(e) => { e.currentTarget.style.background = 'rgba(253, 248, 240, 0.85)'; }}
+            onMouseEnter={(e) => { e.currentTarget.style.background = colors.buttonBgHover; }}
+            onMouseLeave={(e) => { e.currentTarget.style.background = colors.buttonBg; }}
           >
             <MenuIcon />
           </button>
@@ -174,10 +212,10 @@ export default function NavChrome({ viewLevel, onBack, searchOpen, onToggleSearc
                 position: 'absolute',
                 top: '48px',
                 right: 0,
-                background: 'rgba(253, 248, 240, 0.95)',
+                background: colors.searchBg,
                 backdropFilter: 'blur(8px)',
                 borderRadius: '0.5rem',
-                boxShadow: '0 4px 16px rgba(0,0,0,0.15)',
+                boxShadow: `0 4px 16px ${colors.shadowHeavy}`,
                 minWidth: '160px',
                 overflow: 'hidden',
                 animation: 'fadeIn 0.15s ease',
@@ -188,12 +226,12 @@ export default function NavChrome({ viewLevel, onBack, searchOpen, onToggleSearc
                     display: 'block',
                     padding: '0.75rem 1rem',
                     fontSize: '0.875rem',
-                    color: '#4a3610',
+                    color: colors.text,
                     textDecoration: 'none',
                     fontFamily: 'Inter, system-ui, sans-serif',
                     transition: 'background 0.15s',
                   }}
-                  onMouseEnter={(e) => { e.currentTarget.style.background = 'rgba(232, 203, 167, 0.5)'; }}
+                  onMouseEnter={(e) => { e.currentTarget.style.background = colors.suggestionHover; }}
                   onMouseLeave={(e) => { e.currentTarget.style.background = 'transparent'; }}
                 >
                   Research Dashboard

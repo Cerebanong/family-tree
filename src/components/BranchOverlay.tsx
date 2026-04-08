@@ -5,6 +5,7 @@
  */
 import type { BranchNode, ClientPerson } from '../lib/types';
 import { getChildren, getParents } from '../lib/client-data';
+import { useTheme, type ThemeColors } from './ThemeContext';
 
 interface Props {
   branch: BranchNode;
@@ -12,7 +13,7 @@ interface Props {
   onClose: () => void;
 }
 
-function PersonCard({ person, onClick, size = 'normal' }: { person: ClientPerson; onClick: () => void; size?: 'normal' | 'large' }) {
+function PersonCard({ person, onClick, size = 'normal', colors }: { person: ClientPerson; onClick: () => void; size?: 'normal' | 'large'; colors: ThemeColors }) {
   const years = [person.birthYear, person.deathYear].filter(Boolean).join(' \u2013 ');
   const isLarge = size === 'large';
 
@@ -24,8 +25,8 @@ function PersonCard({ person, onClick, size = 'normal' }: { person: ClientPerson
         flexDirection: 'column',
         alignItems: 'center',
         padding: isLarge ? '1.75rem 2rem' : '1rem 1.25rem',
-        background: '#fdf8f0',
-        border: `1.5px solid #d4a574`,
+        background: colors.bg,
+        border: `1.5px solid ${colors.border}`,
         borderRadius: '0.75rem',
         cursor: 'pointer',
         transition: 'all 0.2s ease',
@@ -33,14 +34,14 @@ function PersonCard({ person, onClick, size = 'normal' }: { person: ClientPerson
         fontFamily: 'Inter, system-ui, sans-serif',
       }}
       onMouseEnter={(e) => {
-        e.currentTarget.style.background = '#f5e6d3';
-        e.currentTarget.style.borderColor = '#b8834a';
+        e.currentTarget.style.background = colors.surface;
+        e.currentTarget.style.borderColor = colors.nodeStrokeFocused;
         e.currentTarget.style.transform = 'translateY(-2px)';
-        e.currentTarget.style.boxShadow = '0 4px 12px rgba(0,0,0,0.1)';
+        e.currentTarget.style.boxShadow = `0 4px 12px ${colors.shadow}`;
       }}
       onMouseLeave={(e) => {
-        e.currentTarget.style.background = '#fdf8f0';
-        e.currentTarget.style.borderColor = '#d4a574';
+        e.currentTarget.style.background = colors.bg;
+        e.currentTarget.style.borderColor = colors.border;
         e.currentTarget.style.transform = 'translateY(0)';
         e.currentTarget.style.boxShadow = 'none';
       }}
@@ -49,7 +50,7 @@ function PersonCard({ person, onClick, size = 'normal' }: { person: ClientPerson
         width: isLarge ? '64px' : '40px',
         height: isLarge ? '64px' : '40px',
         borderRadius: '50%',
-        background: person.sex === 'Female' ? '#b8834a' : '#6b8c55',
+        background: person.sex === 'Female' ? colors.female : colors.male,
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
@@ -65,7 +66,7 @@ function PersonCard({ person, onClick, size = 'normal' }: { person: ClientPerson
         fontFamily: 'Merriweather, Georgia, serif',
         fontWeight: 700,
         fontSize: isLarge ? '1.15rem' : '0.85rem',
-        color: '#4a3610',
+        color: colors.text,
         textAlign: 'center',
         marginBottom: '0.25rem',
       }}>
@@ -74,7 +75,7 @@ function PersonCard({ person, onClick, size = 'normal' }: { person: ClientPerson
       {years && (
         <div style={{
           fontSize: isLarge ? '0.85rem' : '0.75rem',
-          color: '#6b4f10',
+          color: colors.textSecondary,
         }}>
           {years}
         </div>
@@ -82,7 +83,7 @@ function PersonCard({ person, onClick, size = 'normal' }: { person: ClientPerson
       {person.occupation && (
         <div style={{
           fontSize: isLarge ? '0.8rem' : '0.7rem',
-          color: '#8b6914',
+          color: colors.textMuted,
           marginTop: '0.25rem',
           fontStyle: 'italic',
         }}>
@@ -93,13 +94,13 @@ function PersonCard({ person, onClick, size = 'normal' }: { person: ClientPerson
   );
 }
 
-function SectionLabel({ children }: { children: React.ReactNode }) {
+function SectionLabel({ children, colors }: { children: React.ReactNode; colors: ThemeColors }) {
   return (
     <h3 style={{
       fontFamily: 'Merriweather, Georgia, serif',
       fontSize: '0.8rem',
       fontWeight: 700,
-      color: '#8b6914',
+      color: colors.textMuted,
       textTransform: 'uppercase',
       letterSpacing: '0.05em',
       marginBottom: '0.5rem',
@@ -111,6 +112,7 @@ function SectionLabel({ children }: { children: React.ReactNode }) {
 }
 
 export default function BranchOverlay({ branch, onPersonClick, onClose }: Props) {
+  const { colors } = useTheme();
   const people = [branch.primaryPerson];
   if (branch.secondaryPerson) people.push(branch.secondaryPerson);
 
@@ -174,9 +176,9 @@ export default function BranchOverlay({ branch, onPersonClick, onClose }: Props)
       {/* Panel */}
       <div style={{
         position: 'relative',
-        background: 'white',
+        background: colors.panel,
         borderRadius: '1rem',
-        boxShadow: '0 20px 60px rgba(0,0,0,0.2)',
+        boxShadow: `0 20px 60px ${colors.shadowHeavy}`,
         padding: '2rem',
         maxWidth: '700px',
         width: '100%',
@@ -189,7 +191,7 @@ export default function BranchOverlay({ branch, onPersonClick, onClose }: Props)
           <div style={{ marginBottom: '1.25rem' }}>
             {primaryParentList.length > 0 && (
               <div style={{ marginBottom: secondaryParentList.length > 0 ? '0.75rem' : 0 }}>
-                <SectionLabel>{branch.primaryPerson.firstName}&apos;s Parents</SectionLabel>
+                <SectionLabel colors={colors}>{branch.primaryPerson.firstName}&apos;s Parents</SectionLabel>
                 <div style={{
                   display: 'flex',
                   justifyContent: 'center',
@@ -201,6 +203,7 @@ export default function BranchOverlay({ branch, onPersonClick, onClose }: Props)
                       key={parent.id}
                       person={parent}
                       onClick={() => onPersonClick(parent)}
+                      colors={colors}
                     />
                   ))}
                 </div>
@@ -208,7 +211,7 @@ export default function BranchOverlay({ branch, onPersonClick, onClose }: Props)
             )}
             {secondaryParentList.length > 0 && (
               <div>
-                <SectionLabel>{branch.secondaryPerson!.firstName}&apos;s Parents</SectionLabel>
+                <SectionLabel colors={colors}>{branch.secondaryPerson!.firstName}&apos;s Parents</SectionLabel>
                 <div style={{
                   display: 'flex',
                   justifyContent: 'center',
@@ -220,6 +223,7 @@ export default function BranchOverlay({ branch, onPersonClick, onClose }: Props)
                       key={parent.id}
                       person={parent}
                       onClick={() => onPersonClick(parent)}
+                      colors={colors}
                     />
                   ))}
                 </div>
@@ -229,7 +233,7 @@ export default function BranchOverlay({ branch, onPersonClick, onClose }: Props)
             {/* Divider */}
             <div style={{
               height: '1px',
-              background: '#e8cba7',
+              background: colors.divider,
               margin: '1.25rem 2rem 0',
             }} />
           </div>
@@ -241,7 +245,7 @@ export default function BranchOverlay({ branch, onPersonClick, onClose }: Props)
             fontFamily: 'Merriweather, Georgia, serif',
             fontSize: '1.5rem',
             fontWeight: 700,
-            color: '#4a3610',
+            color: colors.text,
             margin: 0,
           }}>
             {title}
@@ -249,7 +253,7 @@ export default function BranchOverlay({ branch, onPersonClick, onClose }: Props)
           {branch.dateRange && (
             <div style={{
               fontSize: '0.9rem',
-              color: '#6b4f10',
+              color: colors.textSecondary,
               marginTop: '0.25rem',
             }}>
               {branch.secondaryDateRange
@@ -272,6 +276,7 @@ export default function BranchOverlay({ branch, onPersonClick, onClose }: Props)
               person={person}
               onClick={() => onPersonClick(person)}
               size="large"
+              colors={colors}
             />
           ))}
         </div>
@@ -282,11 +287,11 @@ export default function BranchOverlay({ branch, onPersonClick, onClose }: Props)
             {/* Divider */}
             <div style={{
               height: '1px',
-              background: '#e8cba7',
+              background: colors.divider,
               margin: '0 2rem 1.25rem',
             }} />
 
-            <SectionLabel>Children</SectionLabel>
+            <SectionLabel colors={colors}>Children</SectionLabel>
             <div style={{
               display: 'flex',
               justifyContent: 'center',
@@ -298,6 +303,7 @@ export default function BranchOverlay({ branch, onPersonClick, onClose }: Props)
                   key={child.id}
                   person={child}
                   onClick={() => onPersonClick(child)}
+                  colors={colors}
                 />
               ))}
             </div>

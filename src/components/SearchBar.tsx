@@ -5,6 +5,7 @@
 import { useState, useCallback, useRef, useEffect } from 'react';
 import type { ClientPerson } from '../lib/types';
 import { getAllPeople } from '../lib/client-data';
+import { useTheme } from './ThemeContext';
 
 interface Props {
   onSearch: (results: ClientPerson[]) => void;
@@ -42,7 +43,6 @@ function filterPeople(firstName: string, lastName: string, timePeriod: string): 
     if (yearStart != null && yearEnd != null) {
       const by = p.birthYear ? parseInt(p.birthYear) : null;
       const dy = p.deathYear ? parseInt(p.deathYear) : null;
-      // Person overlaps with the time period if they were alive during any part of it
       if (by != null && by > yearEnd) return false;
       if (dy != null && dy < yearStart) return false;
       if (by == null && dy == null) return false;
@@ -52,6 +52,7 @@ function filterPeople(firstName: string, lastName: string, timePeriod: string): 
 }
 
 export default function SearchBar({ onSearch, onClose }: Props) {
+  const { colors } = useTheme();
   const [firstName, setFirstName] = useState('');
   const [lastName, setLastName] = useState('');
   const [timePeriod, setTimePeriod] = useState('');
@@ -105,12 +106,12 @@ export default function SearchBar({ onSearch, onClose }: Props) {
 
   const inputStyle: React.CSSProperties = {
     padding: '0.5rem 0.75rem',
-    border: '1.5px solid #d4a574',
+    border: `1.5px solid ${colors.inputBorder}`,
     borderRadius: '0.375rem',
     fontSize: '0.875rem',
     fontFamily: 'Inter, system-ui, sans-serif',
-    background: 'white',
-    color: '#2d2010',
+    background: colors.inputBg,
+    color: colors.text,
     outline: 'none',
     width: '100%',
     transition: 'border-color 0.15s',
@@ -119,7 +120,7 @@ export default function SearchBar({ onSearch, onClose }: Props) {
   const labelStyle: React.CSSProperties = {
     fontSize: '0.7rem',
     fontWeight: 600,
-    color: '#6b4f10',
+    color: colors.textSecondary,
     textTransform: 'uppercase',
     letterSpacing: '0.05em',
     marginBottom: '0.25rem',
@@ -143,12 +144,12 @@ export default function SearchBar({ onSearch, onClose }: Props) {
       <form
         onSubmit={handleSubmit}
         style={{
-          background: 'rgba(253, 248, 240, 0.95)',
+          background: colors.searchBg,
           backdropFilter: 'blur(12px)',
           borderRadius: '0.75rem',
-          boxShadow: '0 8px 32px rgba(0,0,0,0.15)',
+          boxShadow: `0 8px 32px ${colors.shadowHeavy}`,
           padding: '1rem 1.25rem',
-          border: '1px solid #e8cba7',
+          border: `1px solid ${colors.borderLight}`,
         }}
       >
         <div style={{
@@ -166,7 +167,6 @@ export default function SearchBar({ onSearch, onClose }: Props) {
               onChange={(e) => handleFirstNameChange(e.target.value)}
               placeholder="e.g. Kevin"
               style={inputStyle}
-              onFocus={() => inputStyle.borderColor = '#b8834a'}
             />
           </div>
           <div>
@@ -193,7 +193,7 @@ export default function SearchBar({ onSearch, onClose }: Props) {
             type="submit"
             style={{
               padding: '0.5rem 1rem',
-              background: '#6b8c55',
+              background: colors.submitBg,
               color: 'white',
               border: 'none',
               borderRadius: '0.375rem',
@@ -204,8 +204,8 @@ export default function SearchBar({ onSearch, onClose }: Props) {
               fontFamily: 'Inter, system-ui, sans-serif',
               height: '37px',
             }}
-            onMouseEnter={(e) => { e.currentTarget.style.background = '#4f6e3d'; }}
-            onMouseLeave={(e) => { e.currentTarget.style.background = '#6b8c55'; }}
+            onMouseEnter={(e) => { e.currentTarget.style.background = colors.submitBgHover; }}
+            onMouseLeave={(e) => { e.currentTarget.style.background = colors.submitBg; }}
           >
             Search
           </button>
@@ -215,11 +215,11 @@ export default function SearchBar({ onSearch, onClose }: Props) {
       {/* Autocomplete suggestions */}
       {showSuggestions && suggestions.length > 0 && (
         <div style={{
-          background: 'rgba(253, 248, 240, 0.98)',
+          background: colors.searchBg,
           backdropFilter: 'blur(12px)',
           borderRadius: '0 0 0.75rem 0.75rem',
-          boxShadow: '0 8px 32px rgba(0,0,0,0.1)',
-          border: '1px solid #e8cba7',
+          boxShadow: `0 8px 32px ${colors.shadow}`,
+          border: `1px solid ${colors.borderLight}`,
           borderTop: 'none',
           overflow: 'hidden',
           marginTop: '-2px',
@@ -238,19 +238,19 @@ export default function SearchBar({ onSearch, onClose }: Props) {
                   padding: '0.5rem 1.25rem',
                   background: 'none',
                   border: 'none',
-                  borderBottom: '1px solid rgba(232, 203, 167, 0.3)',
+                  borderBottom: `1px solid ${colors.divider}`,
                   cursor: 'pointer',
                   fontFamily: 'Inter, system-ui, sans-serif',
                   fontSize: '0.85rem',
-                  color: '#4a3610',
+                  color: colors.text,
                   textAlign: 'left',
                   transition: 'background 0.1s',
                 }}
-                onMouseEnter={(e) => { e.currentTarget.style.background = 'rgba(232, 203, 167, 0.3)'; }}
+                onMouseEnter={(e) => { e.currentTarget.style.background = colors.suggestionHover; }}
                 onMouseLeave={(e) => { e.currentTarget.style.background = 'none'; }}
               >
                 <span style={{ fontWeight: 500 }}>{person.fullName}</span>
-                {years && <span style={{ color: '#8b6914', fontSize: '0.8rem' }}>{years}</span>}
+                {years && <span style={{ color: colors.textMuted, fontSize: '0.8rem' }}>{years}</span>}
               </button>
             );
           })}

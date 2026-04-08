@@ -21,6 +21,15 @@ import FamilyTreeApp from '../components/FamilyTreeApp';
         background: #fdf8f0;
       }
     </style>
+    <script is:inline>
+      // Prevent flash of wrong theme before React hydrates
+      (function() {
+        var stored = localStorage.getItem('family-tree-theme');
+        var isDark = stored ? stored === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if (isDark) document.documentElement.style.background = '#1a1209';
+        document.body.style.background = isDark ? '#1a1209' : '#fdf8f0';
+      })();
+    </script>
   </head>
   <body>
     <FamilyTreeApp client:only="react" />

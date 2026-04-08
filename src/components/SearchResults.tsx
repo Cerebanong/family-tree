@@ -3,6 +3,7 @@
  * Rendered as an overlay replacing the tree canvas content.
  */
 import type { ClientPerson } from '../lib/types';
+import { useTheme } from './ThemeContext';
 
 interface Props {
   results: ClientPerson[];
@@ -11,6 +12,8 @@ interface Props {
 }
 
 export default function SearchResults({ results, onSelect, onClose }: Props) {
+  const { colors } = useTheme();
+
   return (
     <div style={{
       position: 'absolute',
@@ -21,7 +24,7 @@ export default function SearchResults({ results, onSelect, onClose }: Props) {
       zIndex: 20,
       display: 'flex',
       flexDirection: 'column',
-      background: 'rgba(253, 248, 240, 0.95)',
+      background: colors.searchBg,
       backdropFilter: 'blur(8px)',
       animation: 'fadeIn 0.2s ease',
     }}>
@@ -34,14 +37,14 @@ export default function SearchResults({ results, onSelect, onClose }: Props) {
           fontFamily: 'Merriweather, Georgia, serif',
           fontSize: '1.25rem',
           fontWeight: 700,
-          color: '#4a3610',
+          color: colors.text,
           margin: 0,
         }}>
           {results.length} {results.length === 1 ? 'Result' : 'Results'} Found
         </h2>
         <p style={{
           fontSize: '0.85rem',
-          color: '#6b4f10',
+          color: colors.textSecondary,
           marginTop: '0.25rem',
         }}>
           Select a person to view their family branch
@@ -72,20 +75,20 @@ export default function SearchResults({ results, onSelect, onClose }: Props) {
                   flexDirection: 'column',
                   alignItems: 'center',
                   padding: '1.25rem 1rem',
-                  background: 'white',
-                  border: '1.5px solid #d4a574',
+                  background: colors.panel,
+                  border: `1.5px solid ${colors.border}`,
                   borderRadius: '0.75rem',
                   cursor: 'pointer',
                   transition: 'all 0.2s ease',
                   fontFamily: 'Inter, system-ui, sans-serif',
                 }}
                 onMouseEnter={(e) => {
-                  e.currentTarget.style.borderColor = '#b8834a';
+                  e.currentTarget.style.borderColor = colors.nodeStrokeFocused;
                   e.currentTarget.style.transform = 'translateY(-2px)';
-                  e.currentTarget.style.boxShadow = '0 4px 12px rgba(0,0,0,0.1)';
+                  e.currentTarget.style.boxShadow = `0 4px 12px ${colors.shadow}`;
                 }}
                 onMouseLeave={(e) => {
-                  e.currentTarget.style.borderColor = '#d4a574';
+                  e.currentTarget.style.borderColor = colors.border;
                   e.currentTarget.style.transform = 'translateY(0)';
                   e.currentTarget.style.boxShadow = 'none';
                 }}
@@ -94,7 +97,7 @@ export default function SearchResults({ results, onSelect, onClose }: Props) {
                   width: '40px',
                   height: '40px',
                   borderRadius: '50%',
-                  background: person.sex === 'Female' ? '#b8834a' : '#6b8c55',
+                  background: person.sex === 'Female' ? colors.female : colors.male,
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'center',
@@ -110,7 +113,7 @@ export default function SearchResults({ results, onSelect, onClose }: Props) {
                   fontFamily: 'Merriweather, Georgia, serif',
                   fontWeight: 700,
                   fontSize: '0.9rem',
-                  color: '#4a3610',
+                  color: colors.text,
                   textAlign: 'center',
                   marginBottom: '0.2rem',
                 }}>
@@ -119,7 +122,7 @@ export default function SearchResults({ results, onSelect, onClose }: Props) {
                 {years && (
                   <div style={{
                     fontSize: '0.8rem',
-                    color: '#6b4f10',
+                    color: colors.textSecondary,
                   }}>
                     {years}
                   </div>
@@ -127,7 +130,7 @@ export default function SearchResults({ results, onSelect, onClose }: Props) {
                 {person.occupation && (
                   <div style={{
                     fontSize: '0.7rem',
-                    color: '#8b6914',
+                    color: colors.textMuted,
                     marginTop: '0.2rem',
                     fontStyle: 'italic',
                     textAlign: 'center',
