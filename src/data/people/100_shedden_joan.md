@@ -11,7 +11,7 @@
 
 ## Family
 - **Father:** Karl Francis Miller
-- **Mother:** Bernice F Miller
+- **Mother:** Bernice Frances Miller
 - **Spouse:** Richard Shedden
 - **Siblings:** Margaret H Fargo, John S Miller, James B Miller
 

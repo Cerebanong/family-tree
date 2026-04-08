@@ -12,7 +12,7 @@
 | 95 | Robert Lee Miller | 1883-05-01 | 1945 | 95% |
 | 96 | Belle Miller | 1883-10-07 | 1976 | 95% |
 | 93 | Karl Francis Miller | 1905-10-16 | 1954-03-24 | 100% |
-| 94 | Bernice F Miller | 1910-03-28 | 1978 | 90% |
+| 94 | Bernice Frances Miller | 1910-03-28 | 1978 | 90% |
 | 176 | Robert Glen Miller | 1911 | 1967 | 80% |
 | 179 | Walter E Miller | 1918 | 1988 | 80% |
 | 180 | Ernest S Miller | 1921 | 2013 | 80% |

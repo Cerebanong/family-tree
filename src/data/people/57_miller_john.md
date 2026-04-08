@@ -9,7 +9,7 @@
 
 ## Family
 - **Father:** Karl Francis Miller
-- **Mother:** Bernice F Miller
+- **Mother:** Bernice Frances Miller
 - **Spouse:** Beryl Miller (m. 1968, Southwark, London, England)
   - **Children:** Pauline Marie Frank
 - **Siblings:** Margaret H Fargo, Joan Marie Shedden, James B Miller

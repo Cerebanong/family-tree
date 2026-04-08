@@ -10,7 +10,7 @@
 
 ## Family
 - **Father:** Karl Francis Miller
-- **Mother:** Bernice F Miller
+- **Mother:** Bernice Frances Miller
 - **Spouse:** Warren Fargo
 - **Siblings:** Joan Marie Shedden, John S Miller, James B Miller
 
