@@ -6,20 +6,19 @@
 - **Maiden Name:** de Holland
 
 ## Family
-- **Father:** Unknown
+- **Father:** Edmund Holland
 - **Mother:** Unknown
 - **Spouse:** James Tuchet (m. ~1430, England)
   - **Children:** Constance Whitney
 
 ## Sources
-S333
+S333, S347
 
 ## Notes
-Illegitimate daughter of Edmund Holland, 4th Earl of Kent. Marriage licence 14 September 1430.
+Illegitimate daughter of Edmund Holland, 4th Earl of Kent. Mother unknown. Marriage licence 14 September 1430.
 
 ## Research Gaps
-- [ ] Father
 - [ ] Mother
 
 ---
-*Record completeness: 80%*
+*Record completeness: 87%*

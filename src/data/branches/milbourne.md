@@ -1,14 +1,20 @@
 # Milbourne Branch
 
-**Individuals:** 2 | **With birth dates:** 2/2 | **With sources:** 2/2 | **Avg completeness:** 75%
+**Individuals:** 6 | **With birth dates:** 6/6 | **With sources:** 6/6 | **Avg completeness:** 84%
 
 ## Individuals
 
 | ID | Name | Born | Died | Completeness |
 |----|------|------|------|-------------|
-| 507 | Simon Milbourne | ~1435 | 1522-08-14 | 85% |
-| 508 | Jane Milbourne | ~1451 |  | 65% |
+| 571 | Piers Milbourne | ~1373 | 1419 | 85% |
+| 572 | Elizabeth Milbourne | ~1377 | 1414-05-12 | 80% |
+| 569 | Elizabeth Milbourne | ~1397 | 1475 | 80% |
+| 568 | John Milbourne | ~1404 | 1435 | 85% |
+| 507 | Simon Milbourne | ~1435 | 1522-08-14 | 100% |
+| 508 | Jane Milbourne | ~1451 |  | 72% |
 
 ## Open Questions
-- [ ] Simon Milbourne (ID 507): parents unknown
-- [ ] Jane Milbourne (ID 508): parents unknown
+- [ ] Piers Milbourne (ID 571): parents unknown
+- [ ] Elizabeth Milbourne (ID 572): parents unknown
+- [ ] Elizabeth Milbourne (ID 569): parents unknown
+- [ ] John Milbourne (ID 568): parents unknown

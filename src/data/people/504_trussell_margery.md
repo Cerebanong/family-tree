@@ -6,20 +6,16 @@
 - **Maiden Name:** Ludlow
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** John Ludlow
+- **Mother:** Isabel Ludlow
 - **Spouse:** William Trussell
   - **Children:** Jennet Whitney
 
 ## Sources
-S332
+S332, S350
 
 ## Notes
-Daughter of John Ludlow, Knt., of Stokesay, Hodnet, and Westbury, Shropshire. May have died in childbirth.
-
-## Research Gaps
-- [ ] Father
-- [ ] Mother
+Daughter of Sir John Ludlow, Knt., of Stokesay, Hodnet, and Westbury, Shropshire, and Isabel Lingen. Married William Trussell before March 1402. Died before September 1448 (WikiTree says bef. 1448; Geni says ~1414).
 
 ---
-*Record completeness: 80%*
+*Record completeness: 95%*

@@ -6,20 +6,16 @@
 - **Occupation:** Esquire, Sheriff of Herefordshire
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** John Milbourne
+- **Mother:** Elizabeth Milbourne
 - **Spouse:** Jane Milbourne (m. Herefordshire, England)
   - **Children:** Blanche Whitney
 
 ## Sources
-S334
+S334, S351
 
 ## Notes
 Held manor of Burghill. Father of eleven co-heiresses including Blanche.
 
-## Research Gaps
-- [ ] Father
-- [ ] Mother
-
 ---
-*Record completeness: 85%*
+*Record completeness: 100%*
