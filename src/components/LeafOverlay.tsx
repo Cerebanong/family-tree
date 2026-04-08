@@ -2,9 +2,22 @@
  * LeafOverlay — Full person detail view, rendered as an overlay.
  * Contains vital info, family connections, sources, notes, and research.
  */
+import { useState, useEffect } from 'react';
 import type { ClientPerson } from '../lib/types';
 import { getParents, getSpouses, getChildren, getSiblings } from '../lib/client-data';
 import { useTheme, type ThemeColors } from './ThemeContext';
+
+function useIsMobile(breakpoint = 768) {
+  const [isMobile, setIsMobile] = useState(() =>
+    typeof window !== 'undefined' ? window.innerWidth < breakpoint : false
+  );
+  useEffect(() => {
+    const onResize = () => setIsMobile(window.innerWidth < breakpoint);
+    window.addEventListener('resize', onResize);
+    return () => window.removeEventListener('resize', onResize);
+  }, [breakpoint]);
+  return isMobile;
+}
 
 interface Props {
   person: ClientPerson;
@@ -55,11 +68,11 @@ function Section({ title, children, colors }: { title: string; children: React.R
   );
 }
 
-function InfoRow({ label, value, colors }: { label: string; value: string; colors: ThemeColors }) {
+function InfoRow({ label, value, colors, compact }: { label: string; value: string; colors: ThemeColors; compact?: boolean }) {
   if (!value) return null;
   return (
-    <div style={{ display: 'flex', gap: '1rem', marginBottom: '0.4rem', fontSize: '0.875rem' }}>
-      <span style={{ fontWeight: 600, color: colors.textSecondary, minWidth: '100px', flexShrink: 0 }}>{label}</span>
+    <div style={{ display: 'flex', gap: compact ? '0.5rem' : '1rem', marginBottom: '0.4rem', fontSize: '0.875rem' }}>
+      <span style={{ fontWeight: 600, color: colors.textSecondary, minWidth: compact ? '70px' : '100px', flexShrink: 0 }}>{label}</span>
       <span style={{ color: colors.text }}>{value}</span>
     </div>
   );
@@ -75,6 +88,7 @@ function formatCitations(citations: string, linkColor: string): string {
 
 export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
   const { colors } = useTheme();
+  const isMobile = useIsMobile();
   const parents = getParents(person.id);
   const spouses = getSpouses(person.id);
   const children = getChildren(person.id);
@@ -103,7 +117,7 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
       alignItems: 'center',
       justifyContent: 'center',
       zIndex: 30,
-      padding: '1rem',
+      padding: isMobile ? '0.5rem' : '1rem',
     }}>
       {/* Backdrop */}
       <div
@@ -121,23 +135,23 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
       <div style={{
         position: 'relative',
         background: colors.panel,
-        borderRadius: '1rem',
+        borderRadius: isMobile ? '0.75rem' : '1rem',
         boxShadow: `0 20px 60px ${colors.shadowHeavy}`,
         maxWidth: '900px',
         width: '100%',
-        maxHeight: '90vh',
+        maxHeight: isMobile ? '95vh' : '90vh',
         overflow: 'auto',
         animation: 'slideUp 0.3s ease',
         fontFamily: 'Inter, system-ui, sans-serif',
       }}>
         {/* Header */}
         <div style={{
-          padding: '1.5rem 2rem 1rem',
+          padding: isMobile ? '1rem 1rem 0.75rem' : '1.5rem 2rem 1rem',
           borderBottom: `1px solid ${colors.divider}`,
         }}>
           <h2 style={{
             fontFamily: 'Merriweather, Georgia, serif',
-            fontSize: '1.75rem',
+            fontSize: isMobile ? '1.35rem' : '1.75rem',
             fontWeight: 700,
             color: colors.text,
             margin: 0,
@@ -159,20 +173,20 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
         {/* Body: two-column layout on wider screens */}
         <div style={{
           display: 'grid',
-          gridTemplateColumns: 'minmax(0, 2fr) minmax(200px, 1fr)',
-          gap: '1.5rem',
-          padding: '1.5rem 2rem',
+          gridTemplateColumns: isMobile ? '1fr' : 'minmax(0, 2fr) minmax(200px, 1fr)',
+          gap: isMobile ? '1rem' : '1.5rem',
+          padding: isMobile ? '1rem' : '1.5rem 2rem',
         }}>
           {/* Main content */}
           <div>
             {/* Vital Information */}
             <Section title="Vital Information" colors={colors}>
-              <InfoRow label="Born" value={birthInfo} colors={colors} />
-              <InfoRow label="Died" value={deathInfo} colors={colors} />
-              <InfoRow label="Age at Death" value={person.ageAtDeath} colors={colors} />
-              <InfoRow label="Occupation" value={person.occupation} colors={colors} />
-              <InfoRow label="Residence" value={person.residence} colors={colors} />
-              <InfoRow label="Burial" value={person.burialPlace} colors={colors} />
+              <InfoRow label="Born" value={birthInfo} colors={colors} compact={isMobile} />
+              <InfoRow label="Died" value={deathInfo} colors={colors} compact={isMobile} />
+              <InfoRow label="Age at Death" value={person.ageAtDeath} colors={colors} compact={isMobile} />
+              <InfoRow label="Occupation" value={person.occupation} colors={colors} compact={isMobile} />
+              <InfoRow label="Residence" value={person.residence} colors={colors} compact={isMobile} />
+              <InfoRow label="Burial" value={person.burialPlace} colors={colors} compact={isMobile} />
             </Section>
 
             {/* Notes */}
@@ -350,6 +364,7 @@ export default function LeafOverlay({ person, onClose, onNavigate }: Props) {
                 fontSize: '0.875rem',
                 fontWeight: 500,
                 marginTop: '0.75rem',
+                marginBottom: isMobile ? '0.5rem' : 0,
                 transition: 'background 0.2s',
               }}
               onMouseEnter={(e) => { e.currentTarget.style.background = colors.submitBgHover; }}
