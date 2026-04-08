@@ -13,7 +13,7 @@
 - **Father:** Robert Lee Miller
 - **Mother:** Belle Miller
 - **Spouse:** Bernice F Miller (m. 1930-06-14, Batavia, Genesee, New York, United States)
-  - **Children:** Margaret H Miller, Joan M Miller, John S Miller, James B Miller
+  - **Children:** Margaret H Fargo, Joan Marie Shedden, John S Miller, James B Miller
 - **Siblings:** Robert Glen Miller, Ethel Josephine Prentice, Anna Evangeline Nolan, Walter E Miller, Ernest S Miller, Ella L Polk
 
 ## Sources
