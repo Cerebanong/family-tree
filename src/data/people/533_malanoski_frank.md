@@ -12,6 +12,7 @@
 - **Mother:** Wiktoria Cetkowska
 - **Spouse:** Anna Kurowski (m. 1886, United States)
   - **Children:** John J Malanoski, Rose Malanoski, Chester J Malanoski, Alexander Malanoski, Theresa Malanoski
+- **Siblings:** Michael Marian Malanoski, William J Malanoski, Katharine Malinese
 
 ## Sources
 Malanoski family narrative (source 342)

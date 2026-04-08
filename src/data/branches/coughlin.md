@@ -7,7 +7,7 @@
 | ID | Name | Born | Died | Completeness |
 |----|------|------|------|-------------|
 | 514 | John K Coughlin |  | 1971 | 50% |
-| 513 | Helen B Coughlin | 1916-08-21 | 2012-05-22 | 100% |
+| 513 | Helen Joan Coughlin | 1916-08-21 | 2012-05-22 | 100% |
 
 ## Open Questions
 - [ ] John K Coughlin (ID 514): parents unknown

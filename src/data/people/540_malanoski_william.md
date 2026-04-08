@@ -12,6 +12,7 @@
 - **Mother:** Wiktoria Cetkowska
 - **Spouse:** Mary Ivalocki (m. 1900, United States)
   - **Children:** Lucy Malanoski, Catherine Malanoski, Rose Malanoski, Edward Malanoski, Raymond J Malanoski
+- **Siblings:** Michael Marian Malanoski, Frank J Malanoski, Katharine Malinese
 
 ## Sources
 Malanoski family narrative (source 342)

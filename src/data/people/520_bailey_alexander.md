@@ -8,7 +8,7 @@
 ## Family
 - **Father:** John Bailey
 - **Mother:** Elizabeth Bailey
-- **Siblings:** Bernice Frances Miller, Helen B Coughlin, Harriett T Bailey, Marie Charlotte Bailey, Margery Bailey
+- **Siblings:** Bernice Frances Miller, Helen Joan Coughlin, Harriett T Bailey, Marie Charlotte Bailey, Margery Bailey
 
 ## Sources
 Malanoski family narrative (source 342)

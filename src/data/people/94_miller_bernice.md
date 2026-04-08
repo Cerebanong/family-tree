@@ -13,7 +13,7 @@
 - **Mother:** Elizabeth Bailey
 - **Spouse:** Karl Francis Miller (m. 1930-06-14, Batavia, Genesee, New York, United States)
   - **Children:** Margaret H Fargo, Joan Marie Shedden, John S Miller, James B Miller
-- **Siblings:** Helen B Coughlin, Harriett T Bailey, Marie Charlotte Bailey, Alexander Bailey, Margery Bailey
+- **Siblings:** Helen Joan Coughlin, Harriett T Bailey, Marie Charlotte Bailey, Alexander Bailey, Margery Bailey
 
 ## Sources
 FamilySearch GSR7-ZVH (5 sources); FindAGrave #142529905 (Bernice Miller, Saint James Cemetery, Waverly); New York State Census 1925: Bernice Bailey, Barton, Tioga, NY (FamilySearch hint); Malanoski family narrative (source 342)

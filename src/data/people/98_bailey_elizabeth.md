@@ -12,7 +12,7 @@
 - **Father:** Michael Marian Malanoski
 - **Mother:** Leokadia Rogowski
 - **Spouse:** John Bailey (m. 1906-05-14, New York, United States)
-  - **Children:** Bernice Frances Miller, Helen B Coughlin, Harriett T Bailey, Marie Charlotte Bailey, Alexander Bailey, Margery Bailey
+  - **Children:** Bernice Frances Miller, Helen Joan Coughlin, Harriett T Bailey, Marie Charlotte Bailey, Alexander Bailey, Margery Bailey
 - **Siblings:** John Joseph Malanoski, Sigmund Malanoski, Bronislaus Malanoski, Felix Malanoski, Robert Malanoski, Thomas Malanoski, Stella Malanoski, Stanley Malanoski
 
 ## Sources

@@ -10,7 +10,7 @@
 - **Father:** Maciej Malanowski
 - **Mother:** Marianna Turska
 - **Spouse:** Wiktoria Cetkowska (m. 1860, Żałe, Brzuze, radziejowski, kujawsko-pomorskie, Poland)
-  - **Children:** Michael Marian Malanoski
+  - **Children:** Michael Marian Malanoski, Frank J Malanoski, William J Malanoski, Katharine Malinese
 
 ## Sources
 FamilySearch Family Tree GSMB-ML1 (3 sources). Accessed 2026-03-30. See source 137.

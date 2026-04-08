@@ -13,6 +13,7 @@
 - **Mother:** Wiktoria Cetkowska
 - **Spouse:** John J Malinese (m. 1897-10)
   - **Children:** Leocasia Malinese, Helen Malinese, John Malinese, Cecilia Malinese, Frances Malinese, Joseph Malinese, Edward Malinese
+- **Siblings:** Michael Marian Malanoski, Frank J Malanoski, William J Malanoski
 
 ## Sources
 Malanoski family narrative (source 342)

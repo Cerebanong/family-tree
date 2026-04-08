@@ -15,7 +15,7 @@
 - **Father:** Unknown
 - **Mother:** Unknown
 - **Spouse:** Elizabeth Bailey (m. 1906-05-14, New York, United States)
-  - **Children:** Bernice Frances Miller, Helen B Coughlin, Harriett T Bailey, Marie Charlotte Bailey, Alexander Bailey, Margery Bailey
+  - **Children:** Bernice Frances Miller, Helen Joan Coughlin, Harriett T Bailey, Marie Charlotte Bailey, Alexander Bailey, Margery Bailey
 
 ## Sources
 FamilySearch GSRQ-TVL (5 sources: 1910/1920/1930/1940 US Census, NY County Marriages); FindAGrave #145177208 (Saint James Cemetery, Waverly, Tioga County, NY); US WWII Draft Registration Card, 27 Apr 1942, Waverly, Tioga, NY (FamilySearch); The Evening Times (Sayre, PA) obituary, 8 Aug 1970 (newspapers.com); Star Gazette (Elmira, NY), May 24, 2012 — Helen B. Coughlin obituary; "Excerpts from the Life of John Bialy" autobiography, dictated to granddaughter Joan Shedden, March 24, 1969; Malanoski family narrative (source 342)

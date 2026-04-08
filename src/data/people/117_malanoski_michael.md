@@ -18,6 +18,7 @@
   - **Children:** Elizabeth Bailey, John Joseph Malanoski, Sigmund Malanoski, Bronislaus Malanoski, Felix Malanoski, Robert Malanoski, Thomas Malanoski, Stella Malanoski, Stanley Malanoski
 - **Spouse:** Johanna Novakowski (m. 1919-09, New York)
   - **Children:** Agnes Malanoski, Frances Malanoski
+- **Siblings:** Frank J Malanoski, William J Malanoski, Katharine Malinese
 
 ## Sources
 FamilySearch LTKQ-9YB (13 sources including Polish parish records, US Census 1900/1905); NY State Death Index 1880-1956, entry 25129, 29 Apr 1929 (FamilySearch ark:/61903/1:1:QGK9-KCXN, source 139).; Malanoski family narrative (source 342)

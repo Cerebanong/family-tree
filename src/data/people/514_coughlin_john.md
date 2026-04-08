@@ -8,7 +8,7 @@
 ## Family
 - **Father:** Unknown
 - **Mother:** Unknown
-- **Spouse:** Helen B Coughlin
+- **Spouse:** Helen Joan Coughlin
 
 ## Sources
 Star Gazette (Elmira, NY), May 24, 2012 — Helen B. Coughlin obituary
