@@ -3545,7 +3545,7 @@
       "occupation": "",
       "marital_status": "Married",
       "residence": "Gillett, PA",
-      "burial_place": "",
+      "burial_place": "Gillett Cemetery, Gillett, PA",
       "father_id": 93,
       "mother_id": 94,
       "nationality_changes": "",
@@ -3553,14 +3553,13 @@
       "military_service": "",
       "religion": "",
       "education": "One-room schoolhouse on Dry Brook; Waverly High School, class of 1948",
-      "notes": "John S Miller's sister. Listed in 1950 Census as 'Joan M Miller' in Karl F Miller household, Chemung, NY. Obituary confirms: born Sept 6, 1932 in Waverly, NY. Daughter of Karl F. and Bernice F. Bialy Miller. Married Richard 'Dick' Shedden. Attended one-room schoolhouse on Dry Brook, graduated Waverly High School class of 1948. Survived by children Jeffrey Shedden, Christine S. (Darryl) Maynard, Richard M. (Lori) Shedden Jr., Dan (Sharon) Newbury, Steve Newbury. Sister Peg (Warren) Fargo of NH. Brothers John (Beryl) Miller of AZ, James (Susan) Miller of NY. Funeral at Olthof Funeral Home, Elmira, NY. Rev. Donald Rockwell officiated.",
-      "source_citations": "US Census 1950, Chemung, Chemung, NY (Karl F Miller household); Joan Marie Shedden obituary (funeral home notice, March 2010)",
+      "notes": "John S Miller's sister. Listed in 1950 Census as 'Joan M Miller' in Karl F Miller household, Chemung, NY. Obituary confirms: born Sept 6, 1932 in Waverly, NY. Daughter of Karl F. and Bernice F. Bialy Miller. Married Richard 'Dick' Shedden. Attended one-room schoolhouse on Dry Brook, graduated Waverly High School class of 1948. Survived by children Jeffrey Shedden, Christine S. (Darryl) Maynard, Richard M. (Lori) Shedden Jr., Dan (Sharon) Newbury, Steve Newbury. Sister Peg (Warren) Fargo of NH. Brothers John (Beryl) Miller of AZ, James (Susan) Miller of NY. Funeral at Olthof Funeral Home, Elmira, NY. Rev. Donald Rockwell officiated. Richard Shedden obituary (2007) confirms Joan as 'wife of 41 years' (married ~1966). Richard's children with Joan: Richard M. Jr. (Lori), Christine R.M. (Darryl) Maynard, Jeffrey D. (Lisa) Shedden. Seven grandchildren: Casey, Katie, Kia, Jenny, Ashley, Cassie, Blake. Christine's middle initials 'R.M.' in Richard's obituary vs 'S.' in Joan's obituary — possible discrepancy.",
+      "source_citations": "US Census 1950, Chemung, Chemung, NY (Karl F Miller household); Joan Marie Shedden obituary (funeral home notice, March 2010); Star-Gazette obituary of Richard M. Shedden Sr., Dec. 12, 2007 (source 343)",
       "interesting_facts": "Joan attended a one-room schoolhouse on Dry Brook before graduating from Waverly High School in the class of 1948. She married Richard 'Dick' Shedden and together they built a business that became well known throughout the area. She passed away at home in Gillett, PA, surrounded by her loving family.",
-      "research_leads": [
-        "Find birth date",
-        "Find married name"
+      "research_leads": [],
+      "spouses": [
+        515
       ],
-      "spouses": [],
       "confidence": "high"
     },
     {
@@ -19540,44 +19539,45 @@
       "id": 515,
       "name": {
         "first": "Richard",
-        "middle": "",
+        "middle": "M",
         "last": "Shedden",
         "maiden": "",
         "aliases": [
           "Dick Shedden",
-          "Richard Shedden Sr."
+          "Richard Shedden Sr.",
+          "Square Deal"
         ]
       },
       "sex": "Male",
       "birth": {
-        "date": "",
+        "date": "~1937",
         "place": ""
       },
       "death": {
-        "date": "",
-        "place": "",
+        "date": "2007-12-11",
+        "place": "Fassett, PA (at home)",
         "cause": ""
       },
-      "age_at_death": "",
-      "occupation": "Business owner (built well-known local business with wife Joan)",
+      "age_at_death": "70",
+      "occupation": "Auctioneer since 1960 (Shedden's Auctioneer Service from family farm); co-owner Shedden's Wholesale Store (opened 1968)",
       "marital_status": "Married",
-      "residence": "Gillett, PA",
-      "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "residence": "Fassett, PA",
+      "burial_place": "Gillett Cemetery, Gillett, PA",
+      "father_id": 556,
+      "mother_id": 557,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
       "religion": "",
       "education": "",
-      "notes": "Husband of Joan Marie Miller. Predeceased Joan (per obituary). Built a business with Joan.",
-      "source_citations": "Joan Marie Shedden obituary (March 2010)",
-      "interesting_facts": "",
-      "research_leads": [
-        "Find Richard Shedden obituary for dates"
-      ],
-      "confidence": "medium",
-      "spouses": []
+      "notes": "Husband of Joan Miller Shedden (ID 100). Married ~1966 ('wife of 41 years' as of 2007). Son of Pete and Merle Jenkins Shedden (both predeceased). Children: Richard M. Jr. (Lori), Christine R.M. (Darryl) Maynard, Jeffrey D. (Lisa) Shedden — all of Fassett, PA. Seven grandchildren: Casey, Katie, Kia, Jenny, Ashley, Cassie, Blake. Predeceased by brother Dwayne Shedden and sister Agnes Makovitch. Devoted member of Fassett and Gillett community. Member: South Creek Volunteer Fire Department, South Creek Volunteer Ambulance, Lyons Club, South Creek Rod and Gun Club, Ridgebury Sportsman Club, Fassett Grange, PA Auctioneers Assoc., National Auctioneers Assoc. Fallen Firefighters service held at funeral. Funeral at Olthof Funeral Home, Elmira, NY, Dec. 14, 2007. Rev. Donald Rockwell and Rev. Charles Root officiated. Joan's obituary (2010) lists Dan (Sharon) Newbury and Steve Newbury as her children not listed in Richard's obituary — likely Joan's children from a prior relationship.",
+      "source_citations": "Joan Marie Shedden obituary (March 2010); Star-Gazette obituary, Dec. 12, 2007 (source 343)",
+      "interesting_facts": "Dick Shedden was an auctioneer for over 47 years, operating Shedden's Auctioneer Service from the family farm in Fassett, PA. In 1968, together with his family, they opened Shedden's Wholesale Store. He was a devoted member of the South Creek Volunteer Fire Department, and a Fallen Firefighters service was held in his honor. He loved to travel and was an avid hunter and fisherman. His favorite time of year was Christmas.",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        100
+      ]
     },
     {
       "id": 516,
@@ -21142,6 +21142,204 @@
       "education": "",
       "notes": "Child of Katharine Malanowski and John J. Malinese. First name only from narrative. First name only from narrative — needs further research.",
       "source_citations": "Malanoski family narrative (source 342)",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "low",
+      "spouses": []
+    },
+    {
+      "id": 556,
+      "name": {
+        "first": "Pete",
+        "middle": "",
+        "last": "Shedden",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Father of Richard M. Shedden Sr. (ID 515). Deceased by Dec. 2007.",
+      "source_citations": "Star-Gazette obituary of Richard M. Shedden Sr., Dec. 12, 2007 (source 343)",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "low",
+      "spouses": [
+        557
+      ]
+    },
+    {
+      "id": 557,
+      "name": {
+        "first": "Merle",
+        "middle": "",
+        "last": "Shedden",
+        "maiden": "Jenkins",
+        "aliases": [
+          "Merle Jenkins"
+        ]
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Mother of Richard M. Shedden Sr. (ID 515). Maiden name Jenkins. Deceased by Dec. 2007.",
+      "source_citations": "Star-Gazette obituary of Richard M. Shedden Sr., Dec. 12, 2007 (source 343)",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "low",
+      "spouses": [
+        556
+      ]
+    },
+    {
+      "id": 558,
+      "name": {
+        "first": "Jeffrey",
+        "middle": "D",
+        "last": "Shedden",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 515,
+      "mother_id": 100,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Son of Richard M. Shedden Sr. (ID 515) and Joan Miller Shedden (ID 100). Resided in Fassett, PA. Wife 'Lisa' in 2007 obituary; Joan's 2010 obituary lists partner as 'Tressa Brown' — likely a change in partner.",
+      "source_citations": "Star-Gazette obituary of Richard M. Shedden Sr., Dec. 12, 2007 (source 343)",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "medium",
+      "spouses": []
+    },
+    {
+      "id": 559,
+      "name": {
+        "first": "Dwayne",
+        "middle": "",
+        "last": "Shedden",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "Male",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 556,
+      "mother_id": 557,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Brother of Richard M. Shedden Sr. (ID 515). Predeceased Richard (before Dec. 2007).",
+      "source_citations": "Star-Gazette obituary of Richard M. Shedden Sr., Dec. 12, 2007 (source 343)",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "low",
+      "spouses": []
+    },
+    {
+      "id": 560,
+      "name": {
+        "first": "Agnes",
+        "middle": "",
+        "last": "Makovitch",
+        "maiden": "Shedden",
+        "aliases": [
+          "Agnes Shedden"
+        ]
+      },
+      "sex": "Female",
+      "birth": {
+        "date": "",
+        "place": ""
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 556,
+      "mother_id": 557,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Sister of Richard M. Shedden Sr. (ID 515). Maiden name Shedden. Predeceased Richard (before Dec. 2007).",
+      "source_citations": "Star-Gazette obituary of Richard M. Shedden Sr., Dec. 12, 2007 (source 343)",
       "interesting_facts": "",
       "research_leads": [],
       "confidence": "low",
@@ -24221,13 +24419,15 @@
       "husband_id": 515,
       "wife_id": 100,
       "marriage": {
-        "date": "",
+        "date": "~1966",
         "place": "",
         "officiant": "",
-        "source": ""
+        "source": "Calculated from '41 years' in Richard's obituary (Star-Gazette, Dec. 12, 2007, source 343)"
       },
-      "children": [],
-      "notes": "Joan and Richard Shedden. Children: Jeffrey Shedden, Christine S. Maynard, Richard M. Shedden Jr., Dan Newbury, Steve Newbury. Children not added individually as distant from main tree."
+      "children": [
+        558
+      ],
+      "notes": "Joan and Richard Shedden. Married ~1966. Children: Richard M. Jr. (Lori), Christine R.M. (Darryl) Maynard, Jeffrey D. (Lisa/Tressa) Shedden. Dan and Steve Newbury are likely Joan's children from a prior relationship."
     },
     {
       "id": "F227",
@@ -24324,6 +24524,22 @@
         553,
         554,
         555
+      ]
+    },
+    {
+      "id": "F233",
+      "husband_id": 556,
+      "wife_id": 557,
+      "marriage": {
+        "date": "",
+        "place": "",
+        "officiant": "",
+        "source": ""
+      },
+      "children": [
+        515,
+        559,
+        560
       ]
     }
   ],
@@ -27357,6 +27573,15 @@
       "location": "",
       "url": "",
       "notes": "Document images: 20260406_091250.jpg through 20260406_092020.jpg. Contains some internal inconsistencies (see extraction notes). Medium confidence — typed from memory/oral history."
+    },
+    {
+      "id": 343,
+      "type": "obituary",
+      "description": "Richard M. Shedden Sr. obituary, published in Star-Gazette, Dec. 12, 2007",
+      "date": "2007-12-12",
+      "location": "Elmira, NY",
+      "url": "www.olthof.com",
+      "notes": "Source images: 20260406_093713.jpg, 20260406_093751.jpg, 20260406_093815.jpg. High confidence."
     }
   ]
 }
