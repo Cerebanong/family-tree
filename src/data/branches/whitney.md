@@ -22,7 +22,7 @@
 | 78 | William G Whitney | 1888-07-23 | 1972-07-27 | 95% |
 | 20 | Clifton Eugene Whitney | 1918-11-28 | 1979-11-21 | 95% |
 | 85 | Laurel A Whitney | 1926 | 2012 | 80% |
-| 82 | Spencer Hale Whitney | 1942 | 2002 | 80% |
+| 82 | Spencer Hale Whitney | 1942 | 2002 | 95% |
 | 305 | Eustace Whitney | ~1411 | 1481 | 65% |
 | 306 | Jennet Whitney | ~1414 | 1441 | 80% |
 | 303 | Robert I Whitney | ~1436 | 1494-10-06 | 100% |
