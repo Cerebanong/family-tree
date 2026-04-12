@@ -8,7 +8,7 @@
 |----|------|------|------|-------------|
 | 431 | Christian David Storer | 1752-08-13 | 1827-04-26 | 95% |
 | 33 | Andrew George Storer | 1778-05-26 | 1831-07-19 | 95% |
-| 24 | Andrew Obed Storer | 1811-07-25 | 1867-09-18 | 95% |
+| 24 | Andrew Obed Storer | 1811-07-25 | 1867-09-18 | 100% |
 | 26 | Edward Moody Storer | 1840-05-19 | 1889-11-10 | 95% |
 | 27 | Andrew George Storer | 1842-08-17 | 1925-08-19 | 95% |
 | 28 | Franklin Fletcher Storer | 1845-05-20 | 1921-08-23 | 95% |
