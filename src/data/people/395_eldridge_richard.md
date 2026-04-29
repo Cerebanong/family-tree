@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1643-03-26, Battle, Sussex
 - **Died:** 1671-07-22
-- **Age at Death:** 28
 - **Occupation:** Victualer
 - **Burial:** St Mary the Virgin Churchyard, Battle
 
@@ -14,7 +13,7 @@
   - **Children:** Richard Eldridge
 
 ## Sources
-FamilySearch Family Tree, PID: LTSQ-539; Source 355: age calculated from dates
+FamilySearch Family Tree, PID: LTSQ-539
 
 ---
 *Record completeness: 95%*

@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1717
 - **Died:** 1813
-- **Age at Death:** 96
 - **Maiden Name:** Raymond
 
 ## Family
@@ -12,9 +11,6 @@
 - **Spouse:** Ephraim Mosher
   - **Children:** Elisha Mosher
 
-## Sources
-Source 355: age calculated from dates
-
 ## Notes
 FS PID LZ2L-64T.
 
@@ -22,6 +18,7 @@ FS PID LZ2L-64T.
 - [ ] Birth place
 - [ ] Father
 - [ ] Mother
+- [ ] Documentary sources needed
 
 ---
-*Record completeness: 65%*
+*Record completeness: 45%*

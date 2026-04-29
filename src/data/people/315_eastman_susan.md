@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1803
 - **Died:** 1879
-- **Age at Death:** 76
 - **Maiden Name:** Eastman
 
 ## Family
@@ -13,7 +12,7 @@
   - **Children:** Stephen B. Farrington
 
 ## Sources
-FamilySearch Person LC3Z-DGG; Source 355: age calculated from dates
+FamilySearch Person LC3Z-DGG
 
 ## Notes
 FamilySearch PID: LC3Z-DGG.

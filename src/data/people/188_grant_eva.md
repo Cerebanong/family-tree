@@ -3,14 +3,13 @@
 ## Vital Information
 - **Born:** 1880
 - **Died:** 1975
-- **Age at Death:** 95
 
 ## Family
 - **Father:** Unknown
 - **Mother:** Unknown
 
 ## Sources
-FamilySearch Family Tree M5D8-WSM (linked to Ida Ethel Frost LYMX-TXG); Source 355: age calculated from dates
+FamilySearch Family Tree M5D8-WSM (linked to Ida Ethel Frost LYMX-TXG)
 
 ## Notes
 Listed as companion/partner of Ida Ethel Frost (ID 12) on FamilySearch Family Tree. FamilySearch PID: M5D8-WSM. No marriage event recorded on FamilySearch. Ida's marital status listed as 'Single' despite this relationship listing. Further research needed to determine relationship nature and biographical details.

@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1660
 - **Died:** 1732
-- **Age at Death:** 72
 - **Maiden Name:** Whiting
 
 ## Family
@@ -13,7 +12,7 @@
   - **Children:** Jonathan Abel Farrington
 
 ## Sources
-FamilySearch Person LKBF-81N; Source 355: age calculated from dates
+FamilySearch Person LKBF-81N
 
 ## Notes
 FamilySearch PID: LKBF-81N.

@@ -10,7 +10,7 @@
 - **Father:** Roswell Eldridge Lewis
 - **Mother:** Muriel Helena Bickford
 - **Spouse:** Joseph Franklin Frank
-  - **Children:** Lewis G Frank, Mildred E Frank, Thomas William Frank, Joseph D Frank
+  - **Children:** Lewis G Frank, Mildred E Arndt, Thomas William Frank, Joseph D Frank
 - **Siblings:** Muriel D Lewis, Roswell Eldridge Jr Lewis
 
 ## Sources

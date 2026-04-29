@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1681, Germany
 - **Died:** 1720, Germany
-- **Age at Death:** 39
 
 ## Family
 - **Father:** Unknown
@@ -12,7 +11,7 @@
   - **Children:** Hans Jerg Stoehrer
 
 ## Sources
-Source 312; Source 355: age calculated from dates
+Source 312
 
 ## Notes
 FS PID KXVT-1DB. Confidence: high.

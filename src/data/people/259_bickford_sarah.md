@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1691
 - **Died:** 1774
-- **Age at Death:** 83
 - **Maiden Name:** Simpson
 
 ## Family
@@ -13,7 +12,7 @@
   - **Children:** Ebenezer Bickford
 
 ## Sources
-Source 288: FamilySearch Family Tree — Bickford line; Source 355: age calculated from dates
+Source 288: FamilySearch Family Tree — Bickford line
 
 ## Notes
 FamilySearch PID: LHNW-HG3. Wife of Thomas Bickford. Married 26 Jul 1711, Newington, NH.

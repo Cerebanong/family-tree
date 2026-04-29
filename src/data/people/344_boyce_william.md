@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1690
 - **Died:** 1739
-- **Age at Death:** 49
 
 ## Family
 - **Father:** Unknown
@@ -12,7 +11,7 @@
   - **Children:** Benjamin Boyce
 
 ## Sources
-FamilySearch Person MQRS-56P; Source 355: age calculated from dates
+FamilySearch Person MQRS-56P
 
 ## Notes
 FamilySearch PID: MQRS-56P.

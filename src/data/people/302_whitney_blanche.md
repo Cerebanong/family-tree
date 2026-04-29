@@ -6,8 +6,8 @@
 - **Maiden Name:** Milbourne
 
 ## Family
-- **Father:** Simon Milbourne
-- **Mother:** Jane Milbourne
+- **Father:** Unknown
+- **Mother:** Unknown
 - **Spouse:** Robert II Whitney (m. ~1497, Whitney-on-Wye, Herefordshire, England)
   - **Children:** Robert III Whitney
 
@@ -19,6 +19,8 @@ FamilySearch PID: GKKS-WJH. [DISPUTED CONNECTION]
 
 ## Research Gaps
 - [ ] Birth place
+- [ ] Father
+- [ ] Mother
 
 ---
-*Record completeness: 80%*
+*Record completeness: 65%*

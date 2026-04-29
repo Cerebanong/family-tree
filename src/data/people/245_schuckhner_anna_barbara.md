@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1668
 - **Died:** 1750
-- **Age at Death:** 82
 - **Maiden Name:** Schuckhner
 
 ## Family
@@ -13,7 +12,7 @@
   - **Children:** Anna Magdalena Engelbrecht
 
 ## Sources
-Source 279: FamilySearch L2ST-C95; Source 355: age calculated from dates
+Source 279: FamilySearch L2ST-C95
 
 ## Notes
 FamilySearch PID L2ST-C95. Married Hanß Peter Engelbrecht 1694.

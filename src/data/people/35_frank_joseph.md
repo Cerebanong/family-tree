@@ -11,7 +11,7 @@
 - **Father:** William Biddle Frank
 - **Mother:** Mary Elizabeth Farnkopf
 - **Spouse:** Mildred Elsie Lewis
-  - **Children:** Lewis G Frank, Mildred E Frank, Thomas William Frank, Joseph D Frank
+  - **Children:** Lewis G Frank, Mildred E Arndt, Thomas William Frank, Joseph D Frank
 - **Siblings:** William T Frank, Laura Frank, Augustus Frank, Harry Henry Frank, George Reed Frank, Anna Elizabeth Croft, Warren DuBois Frank, Albert Jacob Frank
 
 ## Sources

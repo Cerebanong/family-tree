@@ -1,11 +1,12 @@
 # Richards Branch
 
-**Individuals:** 17 | **With birth dates:** 17/17 | **With sources:** 16/17 | **Avg completeness:** 79%
+**Individuals:** 20 | **With birth dates:** 20/20 | **With sources:** 16/20 | **Avg completeness:** 77%
 
 ## Individuals
 
 | ID | Name | Born | Died | Completeness |
 |----|------|------|------|-------------|
+| 665 | Thomas Richards | 1596-04-15 | 1651-01 | 72% |
 | 185 | Henry Richards | 1890-Q2 | 1954-12-11 | 95% |
 | 60 | William Joshua M Richards | 1902-05-07 | 1988-09 | 95% |
 | 59 | Violet Dorothy Richards | 1908-06-15 | 1982-10-10 | 95% |
@@ -16,6 +17,8 @@
 | 90 | Edith M Richards | 1937 |  | 80% |
 | 91 | Frances Richards | 1942 |  | 80% |
 | 92 | Janet L Richards | 1950 |  | 80% |
+| 678 | Thomas Richards | ~1571 | ~1620 | 60% |
+| 666 | Welthian Richards | ~1600 | after 1651 | 60% |
 | 223 | James Richards | ~1813 | 1880-Q2 | 80% |
 | 224 | Elizabeth Richards | ~1815 |  | 45% |
 | 191 | William Richards | ~1839 |  | 85% |
@@ -25,6 +28,8 @@
 | 186 | Gertrude Richards | ~1886 | 1978-08-18 | 70% |
 
 ## Open Questions
+- [ ] Thomas Richards (ID 678): parents unknown
+- [ ] Welthian Richards (ID 666): parents unknown
 - [ ] James Richards (ID 223): parents unknown
 - [ ] Elizabeth Richards (ID 224): parents unknown
 - [ ] Mary Ann Richards (ID 192): parents unknown

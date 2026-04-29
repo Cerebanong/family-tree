@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1590-12-31, England
 - **Died:** 1686-12-01, Massachusetts
-- **Age at Death:** 95
 
 ## Family
 - **Father:** Unknown
@@ -12,7 +11,7 @@
   - **Children:** Andrew Newcomb
 
 ## Sources
-Source 313; Source 355: age calculated from dates
+Source 313
 
 ## Notes
 FS PID MXF1-32T. 18 sources. Immigrant ancestor. Dead end. Confidence: high.

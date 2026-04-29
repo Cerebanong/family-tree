@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1656-08-09, Dedham County, Massachusetts Bay Colony
 - **Died:** 1723-05-08, Dedham County, Norfolk, Massachusetts Bay Colony
-- **Age at Death:** 66
 
 ## Family
 - **Father:** John Farrington
@@ -12,7 +11,7 @@
   - **Children:** Jonathan Abel Farrington
 
 ## Sources
-FamilySearch Person L6K2-94Y; 23 sources attached; FindAGrave #222006013; Source 355: age calculated from dates
+FamilySearch Person L6K2-94Y; 23 sources attached; FindAGrave #222006013
 
 ## Notes
 FamilySearch PID: L6K2-94Y. Christened 7 Sep 1656, 1st Congregational Church, Dedham. Buried Old Village Cemetery, Dedham. FindAGrave Memorial #222006013.

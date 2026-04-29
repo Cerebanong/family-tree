@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1748
 - **Died:** 1835
-- **Age at Death:** 87
 - **Maiden Name:** Young
 
 ## Family
@@ -13,7 +12,7 @@
   - **Children:** Hannah Newcomb
 
 ## Sources
-Source 268: FamilySearch 2S4K-5QH; Source 355: age calculated from dates
+Source 268: FamilySearch 2S4K-5QH
 
 ## Notes
 FamilySearch PID 2S4K-5QH. Mother of Hannah Newcomb. Married John Newcomb 10 Oct 1765.

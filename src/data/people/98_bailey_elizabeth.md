@@ -2,9 +2,8 @@
 
 ## Vital Information
 - **Born:** 1886-05, Poland
-- **Died:** ~1924-04-18, Binghamton State Hospital, Binghamton, Broome County, New York
+- **Died:** 1924-04, Binghamton, Broome County, New York, United States
 - **Age at Death:** ~38
-- **Residence:** Moved with parents to Elmira, NY 1894 (age 8); Providence St., Waverly area (house bought 1908)
 - **Immigration:** 1888, Pittsburgh, Allegheny, Pennsylvania, United States (as infant, age ~2, came with family)
 - **Maiden Name:** Malanoski
 
@@ -12,14 +11,13 @@
 - **Father:** Michael Marian Malanoski
 - **Mother:** Leokadia Rogowski
 - **Spouse:** John Bailey (m. 1906-05-14, New York, United States)
-  - **Children:** Bernice Frances Miller, Helen Joan Coughlin, Harriett T Bailey, Marie Charlotte Bailey, Alexander Bailey, Margery Bailey
-- **Siblings:** John Joseph Malanoski, Sigmund Malanoski, Bronislaus Malanoski, Felix Malanoski, Robert Malanoski, Thomas Malanoski, Stella Malanoski, Stanley Malanoski
+  - **Children:** Bernice F Miller
 
 ## Sources
-FamilySearch GHD2-158 (6 sources: US Census 1910/1920, SS application, NY vital records); FamilySearch family record linking parents Michael Marian Malanoski (LTKQ-9YB) and Leokadia Rogowski (GQV3-TQ7); Star Gazette (Elmira, NY), May 24, 2012 — Helen B. Coughlin obituary; "Excerpts from the Life of John Bialy" autobiography, March 24, 1969; Malanoski family narrative (source 342)
+FamilySearch GHD2-158 (6 sources: US Census 1910/1920, SS application, NY vital records); FamilySearch family record linking parents Michael Marian Malanoski (LTKQ-9YB) and Leokadia Rogowski (GQV3-TQ7)
 
 ## Notes
-Bernice F Bailey's mother. John S Miller's maternal grandmother. Polish surname Malanoski. Born May 1886 in Poland. Immigrated to the US in 1888 as an infant (age ~2) with her family via Pittsburgh, PA. Family subsequently moved to Elmira, Chemung County, NY where she grew up. Married John Bailey (Bialy) 14 May 1906, New York. Resided: 1900 Elmira Ward 6, Chemung NY; 1905 Elmira, Chemung NY; 1910 Barton, Tioga, NY; 1920 Waverly, Tioga, NY. Died April 1924 in Binghamton, Broome County, New York, leaving 8 children (youngest born 1920, age ~4). Parents: Michael Marian Malanoski (1866-1929, FamilySearch LTKQ-9YB) and Leokadia Rogowski (1866-1919, FamilySearch GQV3-TQ7), married 1884 in Poland; family from Żałe, Brzuze, radziejowski county, Poland. FamilySearch PID: GHD2-158 (6 sources). Helen Coughlin obituary spells maiden name as 'Malinoski' (variant of Malanoski). Per John Bialy's autobiography: married May 14, 1906; lived on Cayuta Avenue for one year after marriage; moved to Providence Street house in 1907. John 'took your grandmother to Binghamton' on April 18, 1924 (implying she was taken for medical care and died there or shortly after). Had 6 children from 1908 to 1924. Autobiography spells maiden name 'Malanowski' (variant of Malanoski). Malanoski family narrative: headstone shows birthdate as 1889 (conflicts with 1886 from census/documents). Nickname was 'Lissie.' Emigrated with parents to Pittsburgh, PA in 1888 at age 2. Death place was Binghamton State Hospital (psychiatric institution).
+Bernice F Bailey's mother. John S Miller's maternal grandmother. Polish surname Malanoski. Born May 1886 in Poland. Immigrated to the US in 1888 as an infant (age ~2) with her family via Pittsburgh, PA. Family subsequently moved to Elmira, Chemung County, NY where she grew up. Married John Bailey (Bialy) 14 May 1906, New York. Resided: 1900 Elmira Ward 6, Chemung NY; 1905 Elmira, Chemung NY; 1910 Barton, Tioga, NY; 1920 Waverly, Tioga, NY. Died April 1924 in Binghamton, Broome County, New York, leaving 8 children (youngest born 1920, age ~4). Parents: Michael Marian Malanoski (1866-1929, FamilySearch LTKQ-9YB) and Leokadia Rogowski (1866-1919, FamilySearch GQV3-TQ7), married 1884 in Poland; family from Żałe, Brzuze, radziejowski county, Poland. FamilySearch PID: GHD2-158 (6 sources).
 
 ## Interesting Facts
 Died young at ~38, leaving 8 children including 14-year-old Bernice.

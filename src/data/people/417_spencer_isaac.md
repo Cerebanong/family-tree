@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1785-09-17, Penobscot, Maine
 - **Died:** 1850-08-22, Bangor, Penobscot, Maine
-- **Age at Death:** 64
 - **Burial:** Fairview Cemetery, Veazie, Penobscot, Maine
 
 ## Family
@@ -13,7 +12,7 @@
   - **Children:** George Spencer
 
 ## Sources
-Source 311; Source 355: age calculated from dates
+Source 311
 
 ## Notes
 FS PID L418-QTF. 29 sources. Buried Fairview Cemetery, Veazie, ME. Confidence: high.

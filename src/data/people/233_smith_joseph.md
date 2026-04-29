@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1773
 - **Died:** 1852
-- **Age at Death:** 79
 
 ## Family
 - **Father:** Unknown
@@ -12,7 +11,7 @@
   - **Children:** Agnes Smith
 
 ## Sources
-Source 265: FamilySearch KHFR-RRH; Source 355: age calculated from dates
+Source 265: FamilySearch KHFR-RRH
 
 ## Notes
 FamilySearch PID KHFR-RRH. Father of Agnes Smith (ID {id_agnes_smith}). Married Martha A Robinson 9 Aug 1794, Litchfield, Kennebec, Maine. 11 children.

@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1680, York, Maine
 - **Died:** 1746, York, Maine
-- **Age at Death:** 66
 
 ## Family
 - **Father:** Moses Spencer
@@ -12,7 +11,7 @@
   - **Children:** Freathy Spencer
 
 ## Sources
-Source 311; Source 355: age calculated from dates
+Source 311
 
 ## Notes
 FS PID ML4N-9PN. 9 sources. Confidence: high.

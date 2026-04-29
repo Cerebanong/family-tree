@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1637
 - **Died:** 1707
-- **Age at Death:** 70
 - **Maiden Name:** Maxson
 
 ## Family
@@ -12,14 +11,12 @@
 - **Spouse:** Hugh Mosher (m. ~1662, Newport, Rhode Island)
   - **Children:** Daniel Mosher
 
-## Sources
-Source 355: age calculated from dates
-
 ## Notes
 FS PID FCMS-31D. Married Hugh Mosher ~1662, Newport, RI. Parents confirmed: Richard Maxson (ID 486) and Rebecca (ID 487).
 
 ## Research Gaps
 - [ ] Birth place
+- [ ] Documentary sources needed
 
 ---
-*Record completeness: 80%*
+*Record completeness: 60%*

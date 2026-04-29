@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1675
 - **Died:** 1759
-- **Age at Death:** 84
 
 ## Family
 - **Father:** Unknown
@@ -12,7 +11,7 @@
   - **Children:** Isaac Hathaway
 
 ## Sources
-FindAGrave; Source 355: age calculated from dates
+FindAGrave
 
 ## Notes
 FindAGrave (linked from Isaac Hathaway memorial #16348419). Father of Isaac Hathaway.

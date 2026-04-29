@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1783
 - **Died:** 1808
-- **Age at Death:** 25
 - **Maiden Name:** Pracka
 
 ## Family
@@ -13,7 +12,7 @@
   - **Children:** Maciej Malanowski
 
 ## Sources
-FamilySearch Person GHYW-QX3; Source 355: age calculated from dates
+FamilySearch Person GHYW-QX3
 
 ## Notes
 FamilySearch PID: GHYW-QX3. Mother of Maciej Malanowski.

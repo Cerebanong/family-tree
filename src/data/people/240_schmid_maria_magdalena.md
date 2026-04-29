@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1670
 - **Died:** 1745
-- **Age at Death:** 75
 - **Maiden Name:** Schmid
 
 ## Family
@@ -13,7 +12,7 @@
   - **Children:** Georg Ludwig Franck
 
 ## Sources
-Source 273: FamilySearch MRFS-Z74; Source 355: age calculated from dates
+Source 273: FamilySearch MRFS-Z74
 
 ## Notes
 FamilySearch PID MRFS-Z74. Married Johann Georg Franck 29 Jul 1690.

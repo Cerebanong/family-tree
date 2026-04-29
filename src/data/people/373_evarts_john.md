@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1639-12-29, Concord, Middlesex, MA
 - **Died:** 1692-12-28, Guilford, New Haven, CT
-- **Age at Death:** 53
 
 ## Family
 - **Father:** John Evarts
@@ -12,7 +11,7 @@
   - **Children:** Nathaniel Evarts
 
 ## Sources
-FamilySearch Family Tree, PID: L6B8-M29; Source 355: age calculated from dates
+FamilySearch Family Tree, PID: L6B8-M29
 
 ---
 *Record completeness: 95%*

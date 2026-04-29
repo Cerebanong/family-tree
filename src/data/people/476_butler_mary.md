@@ -3,25 +3,21 @@
 ## Vital Information
 - **Born:** 1630
 - **Died:** 1693
-- **Age at Death:** 63
 - **Maiden Name:** Lynde
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Thomas Lynde
+- **Mother:** Hannah Lynde
 - **Spouse:** John Butler (m. 1649, Ashford, Kent, England)
-  - **Children:** John Butler
-
-## Sources
-Source 355: age calculated from dates
+  - **Children:** John Butler, Thomas Butler
+- **Siblings:** Thomas Lynde
 
 ## Notes
 FS PID K196-BHS.
 
 ## Research Gaps
 - [ ] Birth place
-- [ ] Father
-- [ ] Mother
+- [ ] Documentary sources needed
 
 ---
-*Record completeness: 65%*
+*Record completeness: 60%*

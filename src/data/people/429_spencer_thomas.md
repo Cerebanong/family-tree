@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1571-03-12, England
 - **Died:** 1631-06-13, England
-- **Age at Death:** 60
 
 ## Family
 - **Father:** Unknown
@@ -12,7 +11,7 @@
   - **Children:** Thomas Spencer
 
 ## Sources
-Source 311; Source 355: age calculated from dates
+Source 311
 
 ## Notes
 FS PID PZZL-618. 0 sources. Dead end. Confidence: low.

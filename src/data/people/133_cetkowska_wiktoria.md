@@ -11,7 +11,7 @@
 - **Father:** Franciszek Cetkowski
 - **Mother:** Franciszka Cetkowski
 - **Spouse:** Konstanty Malanowski (m. 1860, Żałe, Brzuze, radziejowski, kujawsko-pomorskie, Poland)
-  - **Children:** Michael Marian Malanoski, Frank J Malanoski, William J Malanoski, Katharine Malinese
+  - **Children:** Michael Marian Malanoski
 
 ## Sources
 FamilySearch Family Tree GSMB-3ZL (3 sources). Accessed 2026-03-30. See source 138.

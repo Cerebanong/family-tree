@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1675-07-24, Guilford, New Haven, CT
 - **Died:** 1739-06-13, Guilford, New Haven, CT
-- **Age at Death:** 63
 - **Occupation:** Captain
 
 ## Family
@@ -13,7 +12,7 @@
   - **Children:** John Evarts
 
 ## Sources
-FamilySearch Family Tree, PID: LHXC-PKH; Source 355: age calculated from dates
+FamilySearch Family Tree, PID: LHXC-PKH
 
 ---
 *Record completeness: 100%*

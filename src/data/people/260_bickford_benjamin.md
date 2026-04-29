@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1672-10-20, Dover, Norfolk, Massachusetts Bay Colony
 - **Died:** 1725, Newington, New Hampshire
-- **Age at Death:** 53
 - **Occupation:** Planter/Constable
 
 ## Family
@@ -13,7 +12,7 @@
   - **Children:** Thomas Bickford
 
 ## Sources
-Source 288: FamilySearch Family Tree — Bickford line; Source 355: age calculated from dates
+Source 288: FamilySearch Family Tree — Bickford line
 
 ## Notes
 FamilySearch PID: LBGV-DBD. 4 sources. Will dated 4 Apr 1724, proved 2 Jun 1725. Constable of Newington. 11 children. Founding member of Newington church 1715.

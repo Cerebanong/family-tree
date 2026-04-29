@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1685, Edgartown, Dukes, Massachusetts
 - **Died:** 1732-08-18, Edgartown, Dukes, Massachusetts
-- **Age at Death:** 47
 - **Occupation:** Tanner; Representative to General Court 1732
 - **Burial:** Tower Hill Cemetery, Edgartown, Dukes, Massachusetts
 
@@ -13,11 +12,11 @@
 - **Spouse:** Hannah Butler (m. 1712-09-11, Roxbury, Suffolk, Massachusetts)
   - **Children:** Elijah Butler
 
-## Sources
-Source 355: age calculated from dates
-
 ## Notes
 FS PID LZ2T-Q3N. 40 sources. Married Hannah Cheney 11 Sep 1712, Roxbury, MA. 9 children.
 
+## Research Gaps
+- [ ] Documentary sources needed
+
 ---
-*Record completeness: 100%*
+*Record completeness: 80%*

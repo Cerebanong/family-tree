@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1656
 - **Died:** 1715
-- **Age at Death:** 59
 
 ## Family
 - **Father:** Unknown
@@ -12,7 +11,7 @@
   - **Children:** Moses Spencer
 
 ## Sources
-Source 311; Source 355: age calculated from dates
+Source 311
 
 ## Notes
 FS PID LC3J-SVR. Confidence: high.

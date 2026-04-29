@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1689
 - **Died:** 1730
-- **Age at Death:** 41
 
 ## Family
 - **Father:** Unknown
@@ -12,7 +11,7 @@
   - **Children:** Joshua Newcomb
 
 ## Sources
-Source 313; Source 355: age calculated from dates
+Source 313
 
 ## Notes
 FS PID LC2N-4G5. Maiden name Oldham. Confidence: high.

@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1640, Massachusetts
 - **Died:** 1708-08-20, Sandwich, Barnstable, Massachusetts
-- **Age at Death:** 68
 
 ## Family
 - **Father:** Andrew Newcomb
@@ -12,7 +11,7 @@
   - **Children:** Simeon Newcomb
 
 ## Sources
-Source 313; Source 355: age calculated from dates
+Source 313
 
 ## Notes
 FS PID 9KVP-5PX. 28 sources. Andrew Newcomb II. Confidence: high.

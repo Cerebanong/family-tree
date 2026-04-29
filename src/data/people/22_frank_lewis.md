@@ -11,7 +11,7 @@
 - **Mother:** Mildred Elsie Lewis
 - **Spouse:** Gail Frances Whitney
   - **Children:** Kevin Frank
-- **Siblings:** Mildred E Frank, Thomas William Frank, Joseph D Frank
+- **Siblings:** Mildred E Arndt, Thomas William Frank, Joseph D Frank
 
 ## Sources
 Family knowledge (Kevin Frank, 2026-03-30); 1950 US Census (FamilySearch ark:/61903/1:1:6F9P-64PY) — indexed as "Davis G Frank, son, age 5"; 1950 US Census as 'Davis G Frank' (FamilySearch ark:/61903/1:1:6F9P-64PY); FamilySearch NJ Births and Christenings (ark:/61903/1:1:Q2SZ-5XN6) — listed as father of child 'Frank' born 1 Jul 1968

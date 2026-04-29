@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1699
 - **Died:** 1782
-- **Age at Death:** 83
 - **Maiden Name:** Krumm
 
 ## Family
@@ -13,7 +12,7 @@
   - **Children:** Gottfried Franck
 
 ## Sources
-Source 271: FamilySearch KC4V-H4Q; Source 355: age calculated from dates
+Source 271: FamilySearch KC4V-H4Q
 
 ## Notes
 FamilySearch PID KC4V-H4Q. Married Georg Ludwig Franck 11 May 1723.

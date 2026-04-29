@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1925
 - **Died:** 2013
-- **Age at Death:** 88
 - **Maiden Name:** Miller
 - **Also Known As:** Ella L Miller
 
@@ -13,7 +12,7 @@
 - **Siblings:** Karl Francis Miller, Robert Glen Miller, Ethel Josephine Prentice, Anna Evangeline Nolan, Walter E Miller, Ernest S Miller
 
 ## Sources
-Source 207: FindAGrave Belle C. Miller #190781240; Source 208: FindAGrave Robert L. Miller #190781230; Source 355: age calculated from dates
+Source 207: FindAGrave Belle C. Miller #190781240; Source 208: FindAGrave Robert L. Miller #190781230
 
 ## Notes
 Daughter of Robert L Miller and Belle Curtis Miller. Married surname Polk. Listed on both parents' FindAGrave memorials.

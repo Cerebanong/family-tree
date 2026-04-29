@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1752
 - **Died:** 1826
-- **Age at Death:** 74
 
 ## Family
 - **Father:** Unknown
@@ -12,7 +11,7 @@
   - **Children:** James Gurr
 
 ## Sources
-Source 284: FamilySearch LCQQ-DM9; Source 355: age calculated from dates
+Source 284: FamilySearch LCQQ-DM9
 
 ## Notes
 FamilySearch PID LCQQ-DM9. Married Elizabeth Burden 19 Feb 1773, Hothfield, Kent. 11 children including James Gurr.

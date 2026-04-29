@@ -1,8 +1,8 @@
 # Sarah Whitlock (ID: 116)
 
 ## Vital Information
-- **Born:** ~1757
-- **Died:** ~1824
+- **Born:** ~1758
+- **Died:** 1824, St. Armands, Canada
 - **Age at Death:** ~67
 - **Residence:** Wilton, Fairfield, Connecticut
 
@@ -13,10 +13,10 @@
   - **Children:** Anna Olmsted
 
 ## Sources
-FamilySearch KGNH-48J
+FamilySearch KGNH-48J, Source 326
 
 ## Notes
-Mother of Anna Olmsted (wife of John Fay). Married James Olmstead on 8 Feb 1774 in Wilton, Fairfield, Connecticut. 7 children. FamilySearch PID: KGNH-48J.
+Mother of Anna Olmsted (wife of John Fay). Married James Olmstead on 8 Feb 1774 in Wilton, Fairfield, Connecticut. 7 children. FamilySearch PID: KGNH-48J. Updated 2026-04-07: death confirmed 1824 in St. Armands, Canada, from Descendants of Sarah Whitlock document.
 
 ## Research Leads
 - [ ] Find birth and death places
@@ -28,4 +28,4 @@ Mother of Anna Olmsted (wife of John Fay). Married James Olmstead on 8 Feb 1774 
 - [ ] Mother
 
 ---
-*Record completeness: 65%*
+*Record completeness: 70%*

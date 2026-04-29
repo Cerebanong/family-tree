@@ -6,8 +6,8 @@
 - **Maiden Name:** Trussell
 
 ## Family
-- **Father:** William Trussell
-- **Mother:** Margery Trussell
+- **Father:** Unknown
+- **Mother:** Unknown
 - **Spouse:** Eustace Whitney
   - **Children:** Robert I Whitney
 
@@ -19,6 +19,8 @@ FamilySearch PID: L5TN-MH2. Wife of Eustace Whitney. Daughter of Sir William Tru
 
 ## Research Gaps
 - [ ] Birth place
+- [ ] Father
+- [ ] Mother
 
 ---
-*Record completeness: 80%*
+*Record completeness: 65%*

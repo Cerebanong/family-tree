@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1726
 - **Died:** 1787
-- **Age at Death:** 61
 - **Maiden Name:** Dyer
 
 ## Family
@@ -13,7 +12,7 @@
   - **Children:** Lydia Boyce
 
 ## Sources
-FamilySearch Person KD3B-FY9; Source 355: age calculated from dates
+FamilySearch Person KD3B-FY9
 
 ## Notes
 FamilySearch PID: KD3B-FY9.

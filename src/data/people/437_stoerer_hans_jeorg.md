@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1655, Germany
 - **Died:** 1707, Germany
-- **Age at Death:** 52
 
 ## Family
 - **Father:** Unknown
@@ -12,7 +11,7 @@
   - **Children:** Johann Andreas Stoehrer
 
 ## Sources
-Source 312; Source 355: age calculated from dates
+Source 312
 
 ## Notes
 FS PID 93J1-NR6. Dead end. Confidence: medium.

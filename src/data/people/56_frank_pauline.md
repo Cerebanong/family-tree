@@ -4,7 +4,6 @@
 - **Born:** Unknown
 - **Died:** —
 - **Residence:** Olympia, WA
-- **Education:** Palo Verde High School (Tucson, AZ); University of Arizona
 - **Maiden Name:** Miller
 - **Also Known As:** Pauline Muckelroy, Pauline Miller
 
@@ -15,7 +14,7 @@
   - **Children:** Axton Joseph Frank, Kitara Violet Frank
 
 ## Sources
-Family knowledge (Kevin Frank, 2026-03-29); Family knowledge (Kevin Frank, 2026-04-07)
+Family knowledge (Kevin Frank, 2026-03-29)
 
 ## Notes
 Kevin Frank's partner/wife. Previous married name Muckelroy. Maiden name Miller.

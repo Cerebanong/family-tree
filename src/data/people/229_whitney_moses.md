@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1739-03-17, Desert Of Maine, Freeport, York, Massachusetts Bay Colony
 - **Died:** 1820-04-12, Harrison, Cumberland, Maine
-- **Age at Death:** 81
 - **Burial:** South Harrison Cemetery, Harrison, Cumberland, Maine
 - **Also Known As:** Nathan Whitney, Moses Whitny, Capt Moses Whitney
 
@@ -14,7 +13,7 @@
   - **Children:** Enoch Whitney
 
 ## Sources
-Source 261: FamilySearch L2ZD-R7J (52 sources); Source 355: age calculated from dates
+Source 261: FamilySearch L2ZD-R7J (52 sources)
 
 ## Notes
 FamilySearch PID L2ZD-R7J. CPL (Corporal). Born 17 Mar 1739. Died 12 Apr 1820. Three marriages: (1) Susannah 'Sarah' Crockett m.1760, (2) Mary Paige m.1763, (3) Abigail Skillings m.1792. Enoch Whitney born from 2nd marriage to Mary Paige. Also known as Nathan Whitney, Moses Whitny, Moses Whiting, Capt Moses Whitney.

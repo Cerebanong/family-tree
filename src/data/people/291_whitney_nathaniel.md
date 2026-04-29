@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1680-04-14, York Village, York, Maine
 - **Died:** 1768, Gorham, Cumberland, Maine
-- **Age at Death:** 88
 - **Occupation:** Weaver
 - **Burial:** South Street Cemetery, Gorham, Cumberland, Maine
 
@@ -14,7 +13,7 @@
   - **Children:** Nathaniel Whitney
 
 ## Sources
-Source 290: FamilySearch Family Tree — Whitney line; Source 355: age calculated from dates
+Source 290: FamilySearch Family Tree — Whitney line
 
 ## Notes
 FamilySearch PID: LV3P-7KV. 14 sources. Father of Nathaniel Whitney (1709). 11 children.

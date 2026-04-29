@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1758
 - **Died:** 1824, Waldoboro, Lincoln, Maine
-- **Age at Death:** 66
 
 ## Family
 - **Father:** Unknown
@@ -12,7 +11,7 @@
   - **Children:** Andrew George Storer
 
 ## Sources
-Source 312; Source 355: age calculated from dates
+Source 312
 
 ## Notes
 FS PID KG6R-3NJ. Confidence: high.

@@ -12,7 +12,7 @@
 - **Mother:** Mildred Elsie Lewis
 - **Spouse:** Lucy Ely Pagán
   - **Children:** Brian Thomas Frank, Michael Steven Frank
-- **Siblings:** Lewis G Frank, Mildred E Frank, Joseph D Frank
+- **Siblings:** Lewis G Frank, Mildred E Arndt, Joseph D Frank
 
 ## Sources
 1950 US Census (FamilySearch ark:/61903/1:1:6F9P-64PY); Vermont Marriage Records 1909-2008 (FamilySearch ark:/61903/1:1:KN3G-B74) — marriage to Janet Ann Dooley, 18 Aug 2007, Barton, Orleans, VT; Vermont Birth Records 1909-2008 (FamilySearch ark:/61903/1:1:KF5P-KZX) — birth of son Brian Thomas Frank, 16 Mar 1984; Family knowledge (Kevin Frank, 2026-03-31)

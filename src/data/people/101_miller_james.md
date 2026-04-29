@@ -3,19 +3,17 @@
 ## Vital Information
 - **Born:** ~1946, New York, United States
 - **Died:** —
-- **Residence:** NY (at time of Joan's death, 2010)
 
 ## Family
 - **Father:** Karl Francis Miller
-- **Mother:** Bernice Frances Miller
-- **Spouse:** Susan Miller
-- **Siblings:** Margaret H Fargo, Joan Marie Shedden, John S Miller
+- **Mother:** Bernice F Miller
+- **Siblings:** Margaret H Miller, Joan M Miller, John S Miller
 
 ## Sources
-US Census 1950, Chemung, Chemung, NY (Karl F Miller household); Joan Marie Shedden obituary (March 2010)
+US Census 1950, Chemung, Chemung, NY (Karl F Miller household)
 
 ## Notes
-John S Miller's brother. Listed in 1950 Census as 'James B Miller' in Karl F Miller household, Chemung, NY. Public records show 'Jonathan Miller' associated with John and Beryl Miller at Tucson address. Joan Shedden's obituary lists 'James (Susan) Miller of NY' — wife's name is Susan.
+John S Miller's brother. Listed in 1950 Census as 'James B Miller' in Karl F Miller household, Chemung, NY. Public records show 'Jonathan Miller' associated with John and Beryl Miller at Tucson address.
 
 ## Research Leads
 - [ ] Find birth date

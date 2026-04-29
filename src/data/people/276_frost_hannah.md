@@ -6,8 +6,8 @@
 - **Maiden Name:** Hersom
 
 ## Family
-- **Father:** John Hersom
-- **Mother:** Olive Hersom
+- **Father:** Unknown
+- **Mother:** Unknown
 - **Spouse:** Mark Frost (m. 1770-05-05, Berwick, York, Maine)
   - **Children:** Benjamin Frost
 
@@ -19,6 +19,8 @@ FamilySearch PID: KD9Q-7K5. Wife of Mark Frost. Married 5 May 1770, Berwick, Yor
 
 ## Research Gaps
 - [ ] Birth place
+- [ ] Father
+- [ ] Mother
 
 ---
-*Record completeness: 80%*
+*Record completeness: 65%*

@@ -1,6 +1,6 @@
 # Frost Branch
 
-**Individuals:** 38 | **With birth dates:** 38/38 | **With sources:** 38/38 | **Avg completeness:** 87%
+**Individuals:** 38 | **With birth dates:** 38/38 | **With sources:** 38/38 | **Avg completeness:** 85%
 
 ## Individuals
 
@@ -33,20 +33,25 @@
 | 17 | Elsie E. Frost | 1894-06-02 | 1966-09-04 | 95% |
 | 290 | Philippa Frost | ~1497 | 1578-01-20 | 70% |
 | 287 | John Frost | ~1538 | 1610-02-09 | 100% |
-| 288 | Anne Frost | ~1538 | 1588-07-30 | 85% |
-| 286 | Prudence Frost | ~1583 | 1641 | 72% |
+| 288 | Anne Frost | ~1538 | 1588-07-30 | 70% |
+| 286 | Prudence Frost | ~1583 | 1641 | 65% |
 | 283 | George Frost | ~1600 | 1666 | 95% |
 | 284 | Alice Frost | ~1610 | 1663 | 65% |
-| 282 | Mary Frost | ~1649 | 1690 | 80% |
+| 282 | Mary Frost | ~1649 | 1690 | 65% |
 | 279 | James Sr. Frost | ~1683 | 1744 | 95% |
-| 280 | Margaret Frost | ~1687 | 1763 | 80% |
+| 280 | Margaret Frost | ~1687 | 1763 | 65% |
 | 278 | Lucy Frost | ~1722 |  | 55% |
-| 276 | Hannah Frost | ~1752 | 1839 | 80% |
+| 276 | Hannah Frost | ~1752 | 1839 | 65% |
 | 8 | Etta Clarista J Frost | ~1858 | 1920 | 85% |
 | 11 | John Andrew Frost | ~1879 | 1882 | 80% |
 
 ## Open Questions
 - [ ] William Frost (ID 289): parents unknown
 - [ ] Philippa Frost (ID 290): parents unknown
+- [ ] Anne Frost (ID 288): parents unknown
+- [ ] Prudence Frost (ID 286): parents unknown
 - [ ] Alice Frost (ID 284): parents unknown
+- [ ] Mary Frost (ID 282): parents unknown
+- [ ] Margaret Frost (ID 280): parents unknown
 - [ ] Lucy Frost (ID 278): parents unknown
+- [ ] Hannah Frost (ID 276): parents unknown

@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1752-08-13, Öschelbronn, Baden-Württemberg, Germany
 - **Died:** 1827-04-26, Waldoboro, Lincoln, Maine
-- **Age at Death:** 74
 
 ## Family
 - **Father:** Hans Jerg Stoehrer
@@ -12,7 +11,7 @@
   - **Children:** Andrew George Storer
 
 ## Sources
-Source 312; Source 355: age calculated from dates
+Source 312
 
 ## Notes
 FS PID KG6R-3FJ. 39 sources. German immigrant. Confidence: high.

@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1771, Limington, York, Maine
 - **Died:** 1824
-- **Age at Death:** 53
 - **Maiden Name:** Newcomb
 - **Also Known As:** Hiannah Newcomb
 
@@ -14,7 +13,7 @@
   - **Children:** William G Whitney
 
 ## Sources
-Source 260: FamilySearch M86J-XCJ (3 sources); Source 355: age calculated from dates
+Source 260: FamilySearch M86J-XCJ (3 sources)
 
 ## Notes
 FamilySearch PID M86J-XCJ. Born 1771, Limington, York, Maine. Died 1824. Married Enoch Whitney 2 Jun 1792. 8 children.

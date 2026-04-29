@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1810-05-19, Bangor, Penobscot, Maine
 - **Died:** 1897-10-16, Veazie, Penobscot, Maine
-- **Age at Death:** 87
 - **Burial:** Fairview Cemetery, Veazie, Penobscot, Maine
 
 ## Family
@@ -13,7 +12,7 @@
   - **Children:** Hannah Delanah Spencer
 
 ## Sources
-FamilySearch 27LB-94M (17 sources: census 1850–1860, Maine vital records); Source 355: age calculated from dates
+FamilySearch 27LB-94M (17 sources: census 1850–1860, Maine vital records)
 
 ## Notes
 Father of Hannah Delanah Spencer (ID 81). Born Bangor, lived Bangor and Veazie, died Veazie. Parents: Isaac Spencer (1785–1850, FS L418-QTF) and Lucy Harthorn (1785–1848, FS LHNX-FFD) — not added to tree (gen 5 from Kevin). Siblings include Reuben Spencer (1817–1899).

@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1756
 - **Died:** 1794
-- **Age at Death:** 38
 - **Maiden Name:** Żółtowska
 
 ## Family
@@ -13,7 +12,7 @@
   - **Children:** Jan Malanowski
 
 ## Sources
-FamilySearch Person GHY7-VL7; Source 355: age calculated from dates
+FamilySearch Person GHY7-VL7
 
 ## Notes
 FamilySearch PID: GHY7-VL7.

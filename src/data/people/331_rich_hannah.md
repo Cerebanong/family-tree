@@ -3,7 +3,6 @@
 ## Vital Information
 - **Born:** 1760
 - **Died:** 1844
-- **Age at Death:** 84
 - **Maiden Name:** Rich
 
 ## Family
@@ -13,7 +12,7 @@
   - **Children:** Joshua Hathaway
 
 ## Sources
-FindAGrave; Source 355: age calculated from dates
+FindAGrave
 
 ## Notes
 FindAGrave (linked from Joshua Hathaway Jr memorial #131309742).
