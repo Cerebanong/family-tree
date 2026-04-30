@@ -6,7 +6,7 @@
 - **Maiden Name:** Valyant
 
 ## Family
-- **Father:** Unknown
+- **Father:** Henry Valyant
 - **Mother:** Unknown
 - **Spouse:** John Frost (m. England)
   - **Children:** George Frost

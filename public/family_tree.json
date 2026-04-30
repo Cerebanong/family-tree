@@ -9262,8 +9262,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 759,
+      "mother_id": 760,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -10990,8 +10990,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 746,
+      "mother_id": 747,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -11146,8 +11146,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 742,
+      "mother_id": 743,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -11224,8 +11224,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 740,
+      "mother_id": 741,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -11380,7 +11380,7 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
+      "father_id": 750,
       "mother_id": null,
       "nationality_changes": "",
       "immigration": "",
@@ -11458,8 +11458,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 744,
+      "mother_id": 745,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -11614,8 +11614,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 748,
+      "mother_id": 749,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -11853,8 +11853,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 757,
+      "mother_id": 758,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -12009,8 +12009,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 755,
+      "mother_id": 756,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -12087,8 +12087,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 753,
+      "mother_id": 754,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -12165,8 +12165,8 @@
       "marital_status": "",
       "residence": "",
       "burial_place": "",
-      "father_id": null,
-      "mother_id": null,
+      "father_id": 751,
+      "mother_id": 752,
       "nationality_changes": "",
       "immigration": "",
       "military_service": "",
@@ -29046,6 +29046,1285 @@
       "spouses": [
         738
       ]
+    },
+    {
+      "id": 740,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Wakefield",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1616",
+        "place": "Yorkshire, England"
+      },
+      "death": {
+        "date": "1674",
+        "place": "Wells, York, Maine"
+      },
+      "age_at_death": "~58",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "Wells, Maine",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "Before 1637, to Salem, Massachusetts; moved ~1641 to Wells, Maine",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Recorded in Salem 1638, may have been at Plymouth, then settled at Wells. Grand jury 1656. Parents disputed — one theory suggests Simon Wakefield and Elizabeth De Vere but this is unproven.",
+      "source_citations": "326",
+      "interesting_facts": "",
+      "research_leads": [
+        "Parents unknown — competing theories exist but none proven. English parish records from Yorkshire may help."
+      ],
+      "confidence": "high",
+      "spouses": [
+        493
+      ]
+    },
+    {
+      "id": 741,
+      "name": {
+        "first": "Elizabeth",
+        "middle": "",
+        "last": "Wakefield",
+        "maiden": "Littlefield",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1627-07-22",
+        "place": "England"
+      },
+      "death": {
+        "date": "~1676",
+        "place": "Wells, York, Maine"
+      },
+      "age_at_death": "~49",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "Wells, Maine",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "Immigrated with family to New England",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Baptised 22 Jul 1627. Daughter of Edmund Littlefield and Annis (maiden name unknown). FamilySearch, Geni, WikiTree all confirm.",
+      "source_citations": "326",
+      "interesting_facts": "Daughter of Edmund Littlefield, early settler of Wells, Maine",
+      "research_leads": [
+        "Search for Edmund Littlefield (father) records in Wells, Maine for further ancestry."
+      ],
+      "confidence": "high",
+      "spouses": [
+        492
+      ]
+    },
+    {
+      "id": 742,
+      "name": {
+        "first": "William",
+        "middle": "",
+        "last": "Goodwin",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1658",
+        "place": "Kittery, York, Maine"
+      },
+      "death": {
+        "date": "~1714",
+        "place": "Kittery, York, Maine"
+      },
+      "age_at_death": "~56",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "Berwick, York, Maine",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Son of Daniel Goodwin (~1620, England - 1712/13, Maine) and Margaret Spencer (~1633-1670). Brother of Margaret Goodwin (wife of James Frost Sr.) is noted in existing records. His sister-in-law Mehetable Goodwin was captured by Indians.",
+      "source_citations": "327",
+      "interesting_facts": "",
+      "research_leads": [
+        "Daniel Goodwin (father, ~1620, England) and Margaret Spencer (mother, ~1633-1670) are documented — could extend line further."
+      ],
+      "confidence": "high",
+      "spouses": [
+        495
+      ]
+    },
+    {
+      "id": 743,
+      "name": {
+        "first": "Deliverance",
+        "middle": "",
+        "last": "Goodwin",
+        "maiden": "Taylor",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1673",
+        "place": ""
+      },
+      "death": {
+        "date": "~1763",
+        "place": ""
+      },
+      "age_at_death": "~90",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "Berwick, York, Maine",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "WikiTree (Taylor-7826). Daughter of John Taylor. Married William Goodwin Oct 1687 in Berwick.",
+      "source_citations": "327",
+      "interesting_facts": "",
+      "research_leads": [
+        "Father identified as John Taylor — search for more details on John Taylor in Berwick area."
+      ],
+      "confidence": "medium",
+      "spouses": [
+        494
+      ]
+    },
+    {
+      "id": 744,
+      "name": {
+        "first": "Richard",
+        "middle": "",
+        "last": "Scott",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1510",
+        "place": "Glemsford, Suffolk, England"
+      },
+      "death": {
+        "date": "~1565",
+        "place": "Glemsford, Suffolk, England"
+      },
+      "age_at_death": "~55",
+      "occupation": "clothier",
+      "marital_status": "married",
+      "residence": "Glemsford, Suffolk, England",
+      "burial_place": "Glemsford, Suffolk, England",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Clothier of Glemsford, Suffolk. Will dated Feb 1565, proved 27 May 1565. Named children: John, Edward, Ann (wife of John Frost), Katherine, Mary, Margaret, Joanna. Married second wife Johan Tollington (widow of Christopher) on 8 Oct 1556. Some sources suggest parents John Scott and Ann Pympe but this requires verification.",
+      "source_citations": "328",
+      "interesting_facts": "Ancestor of Richard Scott who emigrated to Providence, Rhode Island",
+      "research_leads": [
+        "Parents possibly John Scott and Ann Pympe — needs verification from parish records."
+      ],
+      "confidence": "high",
+      "spouses": [
+        497
+      ]
+    },
+    {
+      "id": 745,
+      "name": {
+        "first": "Joanna",
+        "middle": "",
+        "last": "Scott",
+        "maiden": "Pigot",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1515",
+        "place": "Glemsford, Suffolk, England"
+      },
+      "death": {
+        "date": "1556-08-23",
+        "place": "Glemsford, Suffolk, England"
+      },
+      "age_at_death": "~41",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "Glemsford, Suffolk, England",
+      "burial_place": "Glemsford, Suffolk, England",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "First wife of Richard Scott, clothier of Glemsford. Buried 23 August 1556 at Glemsford. Mother of Ann Scott (wife of John Frost). Maiden name Pigot per WikiTree (Scott-1649) and Geni profiles.",
+      "source_citations": "328",
+      "interesting_facts": "",
+      "research_leads": [
+        "Pigot family of Suffolk — search Glemsford parish registers for her baptism record."
+      ],
+      "confidence": "medium",
+      "spouses": [
+        496
+      ]
+    },
+    {
+      "id": 746,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Hersom",
+        "maiden": "",
+        "aliases": [
+          "John Horsum"
+        ]
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1725",
+        "place": "South Berwick, York, Maine"
+      },
+      "death": {
+        "date": "",
+        "place": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "South Berwick, York, Maine",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Also spelled Horsum. Father of Hannah Hersom (wife of Mark Frost), Joshua Hersom, Benjamin Hersom, Molly Hersom, David Hersom, Elizabeth Hersom, Olive Hersom.",
+      "source_citations": "329",
+      "interesting_facts": "",
+      "research_leads": [
+        "Search Berwick vital records for birth/death dates. Search for parents in Hersom family of South Berwick."
+      ],
+      "confidence": "medium",
+      "spouses": [
+        499
+      ]
+    },
+    {
+      "id": 747,
+      "name": {
+        "first": "Olive",
+        "middle": "",
+        "last": "Hersom",
+        "maiden": "Nock",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "1728-02-28",
+        "place": "Berwick, York, Maine"
+      },
+      "death": {
+        "date": "",
+        "place": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "South Berwick, York, Maine",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Born 28 Feb 1728, Berwick, York, Maine. Maiden name Nock. Descendant of Thomas Nock (1617-1666) line. Wife of John Hersom. Mother of Hannah Hersom (wife of Mark Frost).",
+      "source_citations": "329",
+      "interesting_facts": "",
+      "research_leads": [
+        "Search for Nock family in Berwick/South Berwick area for her parents."
+      ],
+      "confidence": "medium",
+      "spouses": [
+        498
+      ]
+    },
+    {
+      "id": 748,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Ford",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1655",
+        "place": "Kittery, York, Maine"
+      },
+      "death": {
+        "date": "",
+        "place": "Kittery, York, Maine"
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "Kittery, York, Maine",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Father of Sarah Ford (wife of Nathaniel Whitney), John Ford Jr. (1680-1713), Lettice Ford, Catherine Ford, Samuel Ford. Early settler of Kittery, Maine.",
+      "source_citations": "330",
+      "interesting_facts": "",
+      "research_leads": [
+        "Search Kittery vital records and York County deeds for more details."
+      ],
+      "confidence": "medium",
+      "spouses": [
+        501
+      ]
+    },
+    {
+      "id": 749,
+      "name": {
+        "first": "Joanna",
+        "middle": "",
+        "last": "Ford",
+        "maiden": "Andrews",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1660",
+        "place": "Kittery, York, Maine"
+      },
+      "death": {
+        "date": "",
+        "place": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "married",
+      "residence": "Kittery, York, Maine",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Maiden name Andrews. Daughter of John Andrews of Braveboat Harbor, Kittery, Maine (~1600-1671) and Joane Andrews. Sister of Sarah (Andrews) Mitchell and Elizabeth (Andrews) Winchester.",
+      "source_citations": "330",
+      "interesting_facts": "",
+      "research_leads": [
+        "Father John Andrews (~1600-1671) of Braveboat Harbor, Kittery is documented — could extend maternal line through him."
+      ],
+      "confidence": "medium",
+      "spouses": [
+        500
+      ]
+    },
+    {
+      "id": 750,
+      "name": {
+        "first": "Henry",
+        "middle": "",
+        "last": "Valyant",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1555",
+        "place": "Langham, Suffolk, England"
+      },
+      "death": {
+        "date": "",
+        "place": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "Langham, Suffolk, England",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Of Langham, Co. Suffolk. Named as father of Prudence (wife of John Frost) in 'The Frost Family in England and America' published genealogy. No parish register or probate record located for Henry himself.",
+      "source_citations": "331",
+      "interesting_facts": "",
+      "research_leads": [
+        "Search Suffolk parish registers for Henry Valyant baptism/burial in Langham area. Valyant/Valiant is an unusual surname."
+      ],
+      "confidence": "medium",
+      "spouses": []
+    },
+    {
+      "id": 751,
+      "name": {
+        "first": "William",
+        "middle": "",
+        "last": "Trussell",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1385",
+        "place": "England"
+      },
+      "death": {
+        "date": "~1463",
+        "place": "England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Member of Parliament",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 764,
+      "mother_id": 765,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Sir William Trussell, MP. Father of Jennet (Juliane) Trussell who married Eustace Whitney.",
+      "source_citations": "S332, S348",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "medium",
+      "spouses": [
+        504
+      ]
+    },
+    {
+      "id": 752,
+      "name": {
+        "first": "Margery",
+        "middle": "",
+        "last": "Trussell",
+        "maiden": "Ludlow",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1387",
+        "place": "England"
+      },
+      "death": {
+        "date": "~1414",
+        "place": "England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 766,
+      "mother_id": 767,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Daughter of Sir John Ludlow, Knt., of Stokesay, Hodnet, and Westbury, Shropshire, and Isabel Lingen. Married William Trussell before March 1402. Died before September 1448 (WikiTree says bef. 1448; Geni says ~1414).",
+      "source_citations": "S332, S350",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "medium",
+      "spouses": [
+        503
+      ]
+    },
+    {
+      "id": 753,
+      "name": {
+        "first": "James",
+        "middle": "",
+        "last": "Tuchet",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1398",
+        "place": "England"
+      },
+      "death": {
+        "date": "1459-09-23",
+        "place": "Blore Heath, Staffordshire, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "5th Baron Audley",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 761,
+      "mother_id": 762,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "James Tuchet, 5th Baron Audley. Killed at the Battle of Blore Heath.",
+      "source_citations": "S333, S344",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        506
+      ]
+    },
+    {
+      "id": 754,
+      "name": {
+        "first": "Eleanor",
+        "middle": "",
+        "last": "Tuchet",
+        "maiden": "de Holland",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1405",
+        "place": "England"
+      },
+      "death": {
+        "date": "1459",
+        "place": "England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 763,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Illegitimate daughter of Edmund Holland, 4th Earl of Kent. Mother unknown. Marriage licence 14 September 1430.",
+      "source_citations": "S333, S347",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        505
+      ]
+    },
+    {
+      "id": 755,
+      "name": {
+        "first": "Simon",
+        "middle": "",
+        "last": "Milbourne",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1435",
+        "place": "Herefordshire, England"
+      },
+      "death": {
+        "date": "1522-08-14",
+        "place": "Herefordshire, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Esquire, Sheriff of Herefordshire",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 768,
+      "mother_id": 769,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Held manor of Burghill. Father of eleven co-heiresses including Blanche.",
+      "source_citations": "S334, S351",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        508
+      ]
+    },
+    {
+      "id": 756,
+      "name": {
+        "first": "Jane",
+        "middle": "",
+        "last": "Milbourne",
+        "maiden": "Baskerville",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1451",
+        "place": "Herefordshire, England"
+      },
+      "death": {
+        "date": "",
+        "place": "",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": 770,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Only child and heiress of Ralph Baskerville, Esq. of Eardisley, Herefordshire. Mother unknown. Married Simon Milbourne c.1460.",
+      "source_citations": "S334, S353",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "medium",
+      "spouses": [
+        507
+      ]
+    },
+    {
+      "id": 757,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Bray",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1525",
+        "place": "Westminster, Middlesex, England"
+      },
+      "death": {
+        "date": "",
+        "place": "England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Churchwarden of St. Margaret's Westminster (1554-1556)",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Will proved 6 December 1615.",
+      "source_citations": "S335",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        510
+      ]
+    },
+    {
+      "id": 758,
+      "name": {
+        "first": "Margaret",
+        "middle": "",
+        "last": "Bray",
+        "maiden": "Haslonde",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1536",
+        "place": "England"
+      },
+      "death": {
+        "date": "1588-03-28",
+        "place": "Westminster, Middlesex, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Buried 28 March 1588, St Margaret's Westminster.",
+      "source_citations": "S336",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        509
+      ]
+    },
+    {
+      "id": 759,
+      "name": {
+        "first": "Joseph",
+        "middle": "",
+        "last": "Day",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1687-02-04",
+        "place": "Gloucester, Essex County, Massachusetts"
+      },
+      "death": {
+        "date": "1742",
+        "place": "Wells, York County, Maine",
+        "cause": ""
+      },
+      "age_at_death": "55",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Moved family from Gloucester to Wells, Maine.",
+      "source_citations": "S337; Source 355: age calculated from dates",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        512
+      ]
+    },
+    {
+      "id": 760,
+      "name": {
+        "first": "Patience",
+        "middle": "",
+        "last": "Day",
+        "maiden": "Hilton",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1692",
+        "place": ""
+      },
+      "death": {
+        "date": "~1737",
+        "place": "Wells, York County, Maine",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Married Joseph Day 3 May 1713, York, Maine. Parents: William Hilton (~1653-~1700) and Anne Parsons (~1657-~1737).",
+      "source_citations": "S338",
+      "interesting_facts": "",
+      "research_leads": [],
+      "confidence": "high",
+      "spouses": [
+        511
+      ]
+    },
+    {
+      "id": 761,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Tuchet",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1371-04-23",
+        "place": "Markheaton, Derbyshire, England"
+      },
+      "death": {
+        "date": "1408-12-19",
+        "place": "Heleigh Castle, Staffordshire, England",
+        "cause": ""
+      },
+      "age_at_death": "37",
+      "occupation": "4th Baron Audley, 1st Baron Tuchet",
+      "marital_status": "",
+      "residence": "Heleigh Castle, Staffordshire",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "John Tuchet, 4th Baron Audley, 1st Baron Tuchet. Created Baron Tuchet in 1403. Son of Sir John Tuchet and Maud (widow of Sir Richard de Willoughby). Married Elizabeth Stafford before 1398.",
+      "source_citations": "S345",
+      "interesting_facts": "",
+      "research_leads": [
+        "Trace back to Sir John Tuchet (d.1371) and his wife Joan Audley, daughter of James Audley, 2nd Baron Audley"
+      ],
+      "confidence": "high",
+      "spouses": [
+        562
+      ]
+    },
+    {
+      "id": 762,
+      "name": {
+        "first": "Elizabeth",
+        "middle": "",
+        "last": "Tuchet",
+        "maiden": "Stafford",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1375",
+        "place": "Staffordshire, England"
+      },
+      "death": {
+        "date": "1447",
+        "place": "Heleigh, Staffordshire, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "Heleigh Castle, Staffordshire",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Daughter of Sir Humphrey Stafford, Knt., of Amblecote, Bramshall, and Perton, co. Stafford, by his 1st wife Alice, daughter and heiress of John Grenville, Knt., of Southwick.",
+      "source_citations": "S346",
+      "interesting_facts": "",
+      "research_leads": [
+        "Trace Humphrey Stafford line; trace Alice Grenville line"
+      ],
+      "confidence": "high",
+      "spouses": [
+        561
+      ]
+    },
+    {
+      "id": 763,
+      "name": {
+        "first": "Edmund",
+        "middle": "",
+        "last": "Holland",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1383-01-06",
+        "place": "Brockenhurst, Hampshire, England"
+      },
+      "death": {
+        "date": "1408-09-15",
+        "place": "Ile-de-Brehat, Brittany, France",
+        "cause": "Killed in battle"
+      },
+      "age_at_death": "25",
+      "occupation": "4th Earl of Kent, Knight of the Garter",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "Fought in siege of Ile-de-Brehat",
+      "religion": "",
+      "education": "",
+      "notes": "Son of Thomas Holland, 2nd Earl of Kent and Alice FitzAlan. Eleanor de Holland (wife of James Tuchet, 5th Baron Audley) was his illegitimate daughter. He married Lucia Visconti in 1407 but had no legitimate issue; the earldom became extinct at his death.",
+      "source_citations": "S347",
+      "interesting_facts": "Last Earl of Kent from the Holland family. Died in battle at age 25.",
+      "research_leads": [
+        "Thomas Holland, 2nd Earl of Kent; Alice FitzAlan"
+      ],
+      "confidence": "high",
+      "spouses": []
+    },
+    {
+      "id": 764,
+      "name": {
+        "first": "Laurence",
+        "middle": "",
+        "last": "Trussell",
+        "maiden": "",
+        "aliases": [
+          "Lawrence"
+        ]
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1356",
+        "place": "Shottesbrook, Berkshire, England"
+      },
+      "death": {
+        "date": "1399-09-18",
+        "place": "Elmesthorpe, Leicestershire, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "Elmesthorpe, Leicestershire",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Son of Sir Warin Trussell and Maud de Saint Philibert. Married Maud Charnels before 1383.",
+      "source_citations": "S349",
+      "interesting_facts": "",
+      "research_leads": [
+        "Trace Sir Warin Trussell and Maud de Saint Philibert"
+      ],
+      "confidence": "medium",
+      "spouses": [
+        565
+      ]
+    },
+    {
+      "id": 765,
+      "name": {
+        "first": "Maud",
+        "middle": "",
+        "last": "Trussell",
+        "maiden": "Charnels",
+        "aliases": [
+          "Matilda"
+        ]
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1367",
+        "place": "England"
+      },
+      "death": {
+        "date": "~1409",
+        "place": "England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Daughter of Sir Thomas Charnels and Maud Garnet. Heiress of Elmesthorpe, Leicestershire. Married Laurence Trussell before 1383.",
+      "source_citations": "S349",
+      "interesting_facts": "",
+      "research_leads": [
+        "Trace Sir Thomas Charnels and Maud Garnet"
+      ],
+      "confidence": "medium",
+      "spouses": [
+        564
+      ]
+    },
+    {
+      "id": 766,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Ludlow",
+        "maiden": "",
+        "aliases": [
+          "Ludlowe",
+          "Ludelowe"
+        ]
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1360",
+        "place": "Stokesay, Shropshire, England"
+      },
+      "death": {
+        "date": "1398-07-20",
+        "place": "Hodnet, Shropshire, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Knight; Steward of the King's Castle of Montgomery",
+      "marital_status": "",
+      "residence": "Stokesay Castle, Shropshire",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Sir John Ludlow of Hodnet and Stokesay, Shropshire. Son of John de Ludlowe and Joan Sibbeton. Owner of Stokesay Castle. Also described as a wool merchant.",
+      "source_citations": "S350",
+      "interesting_facts": "Owner of the famous Stokesay Castle in Shropshire.",
+      "research_leads": [
+        "Trace John de Ludlowe (father) and Joan Sibbeton (mother)"
+      ],
+      "confidence": "medium",
+      "spouses": [
+        567
+      ]
+    },
+    {
+      "id": 767,
+      "name": {
+        "first": "Isabel",
+        "middle": "",
+        "last": "Ludlow",
+        "maiden": "Lingen",
+        "aliases": [
+          "Isabell",
+          "Lingayn"
+        ]
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1370",
+        "place": "Wigmore, Herefordshire, England"
+      },
+      "death": {
+        "date": "1446-12-06",
+        "place": "England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Daughter of Sir Ralph Lingen of Wigmore, Herefordshire. Married Sir John Ludlow at Hodnet in 1390. Heiress of Hodnet.",
+      "source_citations": "S350",
+      "interesting_facts": "",
+      "research_leads": [
+        "Trace Sir Ralph Lingen of Wigmore"
+      ],
+      "confidence": "medium",
+      "spouses": [
+        566
+      ]
+    },
+    {
+      "id": 768,
+      "name": {
+        "first": "John",
+        "middle": "",
+        "last": "Milbourne",
+        "maiden": "",
+        "aliases": [
+          "Milborne"
+        ]
+      },
+      "sex": "M",
+      "birth": {
+        "date": "~1404",
+        "place": "Tillington, Herefordshire, England"
+      },
+      "death": {
+        "date": "1435",
+        "place": "Herefordshire, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "Esquire; Lord of Tillington",
+      "marital_status": "",
+      "residence": "Tillington, Herefordshire",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Son and heir of Piers (Peter) Milbourne and Elizabeth Eylesford. Held lands in Tillington, Burghill, and Munsley, Herefordshire.",
+      "source_citations": "S351",
+      "interesting_facts": "",
+      "research_leads": [
+        "Trace Piers Milbourne and Elizabeth Eylesford further"
+      ],
+      "confidence": "high",
+      "spouses": [
+        569
+      ]
+    },
+    {
+      "id": 769,
+      "name": {
+        "first": "Elizabeth",
+        "middle": "",
+        "last": "Milbourne",
+        "maiden": "Devereux",
+        "aliases": []
+      },
+      "sex": "F",
+      "birth": {
+        "date": "~1397",
+        "place": "Herefordshire, England"
+      },
+      "death": {
+        "date": "1475",
+        "place": "Gloucestershire, England",
+        "cause": ""
+      },
+      "age_at_death": "",
+      "occupation": "",
+      "marital_status": "",
+      "residence": "",
+      "burial_place": "Burghill, Herefordshire",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Daughter of Sir Walter Devereux (d.1402) of Weobley, Herefordshire and Agnes Crophill. Her father was killed at the Battle of Pilleth against Owain Glyndwr. Inscription on her tomb at Burghill confirms her parentage.",
+      "source_citations": "S352",
+      "interesting_facts": "Her father's family later became Viscounts Hereford and Earls of Essex.",
+      "research_leads": [
+        "Trace Sir Walter Devereux and Agnes Crophill (de Lacy and de Verdon heiress)"
+      ],
+      "confidence": "high",
+      "spouses": [
+        568
+      ]
+    },
+    {
+      "id": 770,
+      "name": {
+        "first": "Ralph",
+        "middle": "",
+        "last": "Baskerville",
+        "maiden": "",
+        "aliases": []
+      },
+      "sex": "M",
+      "birth": {
+        "date": "1410-10-21",
+        "place": "Eardisley, Herefordshire, England"
+      },
+      "death": {
+        "date": "1442",
+        "place": "Stow on the Wold, Gloucestershire, England",
+        "cause": ""
+      },
+      "age_at_death": "32",
+      "occupation": "Esquire",
+      "marital_status": "",
+      "residence": "Eardisley, Herefordshire",
+      "burial_place": "",
+      "father_id": null,
+      "mother_id": null,
+      "nationality_changes": "",
+      "immigration": "",
+      "military_service": "",
+      "religion": "",
+      "education": "",
+      "notes": "Younger son of Sir John Baskerville and Anne Blackett (daughter of Sir John Blackett). Jane Baskerville was his only child and heir.",
+      "source_citations": "S353",
+      "interesting_facts": "",
+      "research_leads": [
+        "Trace Sir John Baskerville and Anne Blackett"
+      ],
+      "confidence": "medium",
+      "spouses": []
     }
   ],
   "families": [

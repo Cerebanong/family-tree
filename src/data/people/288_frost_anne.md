@@ -6,8 +6,8 @@
 - **Maiden Name:** Scott
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Richard Scott
+- **Mother:** Joanna Scott
 - **Spouse:** John Frost (m. 1558-01-29, Glemsford, Suffolk, England)
   - **Children:** John Frost
 

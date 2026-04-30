@@ -6,8 +6,8 @@
 - **Maiden Name:** Trussell
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** William Trussell
+- **Mother:** Margery Trussell
 - **Spouse:** Eustace Whitney
   - **Children:** Robert I Whitney
 

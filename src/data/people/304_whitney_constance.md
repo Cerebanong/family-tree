@@ -6,8 +6,8 @@
 - **Maiden Name:** Touchet
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** James Tuchet
+- **Mother:** Eleanor Tuchet
 - **Spouse:** Robert I Whitney
   - **Children:** Robert II Whitney
 

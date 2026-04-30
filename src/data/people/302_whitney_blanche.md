@@ -6,8 +6,8 @@
 - **Maiden Name:** Milbourne
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Simon Milbourne
+- **Mother:** Jane Milbourne
 - **Spouse:** Robert II Whitney (m. ~1497, Whitney-on-Wye, Herefordshire, England)
   - **Children:** Robert III Whitney
 

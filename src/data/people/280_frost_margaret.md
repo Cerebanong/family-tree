@@ -6,8 +6,8 @@
 - **Maiden Name:** Goodwin
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** William Goodwin
+- **Mother:** Deliverance Goodwin
 - **Spouse:** James Sr. Frost (m. 1707-05-15, Kittery, York, Massachusetts Bay Colony)
   - **Children:** Stephen Frost
 

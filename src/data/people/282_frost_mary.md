@@ -6,8 +6,8 @@
 - **Maiden Name:** Wakefield
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** John Wakefield
+- **Mother:** Elizabeth Wakefield
 - **Spouse:** William Frost (m. 1670, Wells, York, Maine)
   - **Children:** James Sr. Frost
 

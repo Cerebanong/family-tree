@@ -6,8 +6,8 @@
 - **Maiden Name:** Bray
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** John Bray
+- **Mother:** Margaret Bray
 - **Spouse:** Thomas Whitney (m. 1583-05-12, Westminster, London, England)
   - **Children:** John Whitney
 

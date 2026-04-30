@@ -6,8 +6,8 @@
 - **Maiden Name:** Ford
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** John Ford
+- **Mother:** Joanna Ford
 - **Spouse:** Nathaniel Whitney (m. 1705, Kittery, York, Massachusetts Bay Colony)
   - **Children:** Nathaniel Whitney
 

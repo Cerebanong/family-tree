@@ -6,8 +6,8 @@
 - **Maiden Name:** Day
 
 ## Family
-- **Father:** Unknown
-- **Mother:** Unknown
+- **Father:** Joseph Day
+- **Mother:** Patience Day
 - **Spouse:** Nathaniel Whitney (m. 1734-01-03, Wells, York, Massachusetts Bay Colony)
   - **Children:** Moses Whitney
 
