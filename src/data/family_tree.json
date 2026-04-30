@@ -183,7 +183,9 @@
       "notes": "Married name Hubbard. Married Philander L Hubbard (ID 148, 1831-1906) ~1870, Fairfield, Somerset, ME. Five children: Cora E Hubbard (1871-1898), Lenora F Hubbard (1873-1930), Wilton Sherman Hubbard (1876-1950), Wilbur Hubbard (1876-Deceased), Ernest Mark Hubbard (1877-Deceased). Child named Mark E Hubbard in 1880 census — named after Clara's father Mark Frost. Family moved: Fairfield Somerset ME → Chapman Aroostook ME (1880) → Bradford/Bangor Penobscot ME (1900-1930). Burial per FamilySearch: Williams Cemetery, Bradford, Penobscot, ME (near husband Philander). FamilySearch PID: GQ4F-7LH (13 sources). SESSION 3 FINDINGS (2026-03-31): 1900 Census (ark:/61903/1:1:MMLR-SV4): Clara R Hubbard, age 47, born Aug 1853, Maine, married 30 years, 5 children total / 3 living, listed as 'Sister' of household head John L Frost (age 45) — her brother John Lyman Frost (ID 7). Father's birthplace: Maine (=Mark Frost), Mother's birthplace: Maine (=Catherine Gibberd). Confirms Clara is daughter of Mark and Catherine Frost. 1930 Census (ark:/61903/1:1:XMD7-PCS): Clara R Hubbard, age 75, widowed, Bradford, Penobscot, ME. Listed as 'mother-in-law' of household head Fred L Jones (55). Son Ernest M Hubbard (52) also in household. Not found in 1940 census — died between April 1930 and April 1940 (age ~77-87). Death date remains unknown. Neither FindAGrave nor Nathan Hale Cemetery Collection record a death date. Residences: 1850 Norway, Oxford, ME; 1860 Medford, Piscataquis, ME; 1880 Chapman, Aroostook, ME; 1900 Bangor Ward 1, Penobscot, ME; 1910-1930 Bradford, Penobscot, ME.",
       "source_citations": "FindAGrave #130371604; FamilySearch GQ4F-7LH (13 sources); FamilySearch Family Tree LC33-JRJ (Philander Hubbard); 1900 US Census (ark:/61903/1:1:MMLR-SV4) — Clara as 'Sister' of John L Frost, Bangor, Penobscot; 1930 US Census (ark:/61903/1:1:XMD7-PCS) — Clara age 75, widowed, Bradford, Penobscot; Maine Nathan Hale Cemetery Collection (ark:/61903/1:1:QVJ5-4VWL) — burial Williams Cemetery, Bradford",
       "residence": "Norway, Oxford, ME (1850); Medford, Piscataquis, ME (1860); Chapman, Aroostook, ME (1880); Bangor, Penobscot, ME (1900); Bradford, Penobscot, ME (1910-1930)",
-      "spouses": [],
+      "spouses": [
+        148
+      ],
       "research_leads": []
     },
     {
@@ -390,7 +392,9 @@
       "mother_id": 10,
       "notes": "Child of John Lyman Frost and Carrie Wilder Storer. FamilySearch PID: LYMX-55H (11 sources). Middle initial 'I' per FamilySearch; earlier records said 'Izola'. Married Frank Albert Wilder (ID 187, 1882-1944) on 14 Apr 1906 in Maine. No children. Residences: 1900 Bangor Ward 1; 1906 Bangor (at time of marriage); 1910-1940 Milo, Piscataquis, Maine (lived in Milo throughout married life). Survived husband by ~3 years.",
       "source_citations": "FindAGrave; FamilySearch Family Tree LYMX-55H (11 sources — name, sex, birth, death, burial, censuses 1900-1940, marriage)",
-      "spouses": [],
+      "spouses": [
+        187
+      ],
       "research_leads": []
     },
     {
@@ -446,7 +450,10 @@
       "mother_id": 10,
       "notes": "Child of John Lyman Frost and Carrie Wilder Storer. FamilySearch PID: LYMX-G3L (20 sources). Married (1) Vera Louise Smith (ID 189, 1897-Deceased, PID KGZG-7JQ), 28 Jun 1922, North Attleboro, Bristol, Massachusetts. One child: infant son Frost (1924-1924, PID GF7W-MF5), died in infancy. Married (2) Angelina Cora Moyen (ID 190, 1917-1989, PID GXG1-HN7), after 1944, Maine. Three children (not yet added). Residences: 1900 Bangor Ward 1; 1930-1940 North Attleborough, Bristol, Massachusetts; 1950 Lagrange, Penobscot, Maine. Race: Caucasian.",
       "source_citations": "FindAGrave; FamilySearch Family Tree LYMX-G3L (20 sources — name, sex, birth, death, burial, military drafts, censuses 1900-1950, marriages)",
-      "spouses": [],
+      "spouses": [
+        189,
+        190
+      ],
       "military_service": "WWI: Draft registration 1917-1918, Penobscot ME; enlisted 29 Apr 1918 Great Works, ME; discharged 20 Jun 1919. WWII: Draft registration 1942, North Attleboro, MA.",
       "research_leads": []
     },
@@ -5649,7 +5656,9 @@
         "Hubbard children not in tree — Lenora F Hubbard (1873-1930) and Wilton Sherman Hubbard (1876-1950) findable on FamilySearch if needed"
       ],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        6
+      ]
     },
     {
       "id": 149,
@@ -7274,7 +7283,9 @@
         "Search 1939 Register for Henry and Gertrude Richards in Sturminster Newton area"
       ],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        186
+      ]
     },
     {
       "id": 186,
@@ -7315,7 +7326,9 @@
         "Search 1939 Register for Gertrude Richards in Sturminster Newton — would show exact birth date and maiden name"
       ],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        185
+      ]
     },
     {
       "id": 187,
@@ -7356,7 +7369,9 @@
         "Find Maine death certificate for exact death location and cause of death"
       ],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        13
+      ]
     },
     {
       "id": 188,
@@ -7438,7 +7453,9 @@
         "Search for Vera Smith/Frost death record — may have divorced Lewis before his second marriage ~1944"
       ],
       "confidence": "medium",
-      "spouses": []
+      "spouses": [
+        15
+      ]
     },
     {
       "id": 190,
@@ -7479,7 +7496,9 @@
         "Identify the three children of Lewis and Angelina from FamilySearch or census records"
       ],
       "confidence": "medium",
-      "spouses": []
+      "spouses": [
+        15
+      ]
     },
     {
       "id": 191,
@@ -9825,7 +9844,9 @@
       "source_citations": "Source 280: FamilySearch LZXL-L8Z (21 sources)",
       "interesting_facts": "",
       "research_leads": [],
-      "spouses": []
+      "spouses": [
+        247
+      ]
     },
     {
       "id": 247,
@@ -9862,7 +9883,9 @@
       "source_citations": "Source 281: FamilySearch LZXL-PB7",
       "interesting_facts": "",
       "research_leads": [],
-      "spouses": []
+      "spouses": [
+        246
+      ]
     },
     {
       "id": 248,
@@ -12294,7 +12317,8 @@
       "interesting_facts": "",
       "research_leads": [],
       "spouses": [
-        310
+        310,
+        311
       ]
     },
     {
@@ -12374,7 +12398,9 @@
       "source_citations": "Source 292",
       "interesting_facts": "",
       "research_leads": [],
-      "spouses": []
+      "spouses": [
+        309
+      ]
     },
     {
       "id": 312,
@@ -13271,7 +13297,9 @@
       "source_citations": "FindAGrave Memorial #16348419",
       "interesting_facts": "",
       "research_leads": [],
-      "spouses": []
+      "spouses": [
+        335
+      ]
     },
     {
       "id": 335,
@@ -13308,7 +13336,9 @@
       "source_citations": "FindAGrave Memorial #16348419 (Isaac Hathaway bio)",
       "interesting_facts": "Descendant of Mayflower passenger Richard Warren (~1585-1628)",
       "research_leads": [],
-      "spouses": []
+      "spouses": [
+        334
+      ]
     },
     {
       "id": 336,
@@ -21674,7 +21704,9 @@
         "Research all children of Isaac and Ruth"
       ],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        583
+      ]
     },
     {
       "id": 565,
@@ -22483,7 +22515,9 @@
       "interesting_facts": "She and her sister Mary both married sons of immigrant Nicholas Norton, intertwining the Bayes and Norton families on Martha's Vineyard.",
       "research_leads": [],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        564
+      ]
     },
     {
       "id": 584,
@@ -23267,7 +23301,9 @@
       "interesting_facts": "",
       "research_leads": [],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        627
+      ]
     },
     {
       "id": 603,
@@ -23305,7 +23341,9 @@
       "interesting_facts": "",
       "research_leads": [],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        628
+      ]
     },
     {
       "id": 604,
@@ -23343,7 +23381,9 @@
       "interesting_facts": "",
       "research_leads": [],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        629
+      ]
     },
     {
       "id": 605,
@@ -23381,7 +23421,9 @@
       "interesting_facts": "",
       "research_leads": [],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        630
+      ]
     },
     {
       "id": 606,
@@ -23457,7 +23499,9 @@
       "interesting_facts": "",
       "research_leads": [],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        631
+      ]
     },
     {
       "id": 608,
@@ -24294,7 +24338,9 @@
       "interesting_facts": "Marriage connects the Butler and Daggett branches; both families were among the founding settlers of Martha's Vineyard",
       "research_leads": [],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        602
+      ]
     },
     {
       "id": 628,
@@ -24336,7 +24382,9 @@
         "Identify Jeremiah Howes' parents — likely from the Howes family of Yarmouth"
       ],
       "confidence": "medium",
-      "spouses": []
+      "spouses": [
+        603
+      ]
     },
     {
       "id": 629,
@@ -24376,7 +24424,9 @@
         "Identify Samuel Annable's parents — likely from Barnstable Annable family"
       ],
       "confidence": "medium",
-      "spouses": []
+      "spouses": [
+        604
+      ]
     },
     {
       "id": 630,
@@ -24416,7 +24466,9 @@
         "Identify John Crane's parents — likely from the Crane family of Guilford, CT"
       ],
       "confidence": "medium",
-      "spouses": []
+      "spouses": [
+        605
+      ]
     },
     {
       "id": 631,
@@ -24456,7 +24508,9 @@
         "Identify Nathaniel Bacon's parents"
       ],
       "confidence": "medium",
-      "spouses": []
+      "spouses": [
+        607
+      ]
     },
     {
       "id": 632,
@@ -24497,7 +24551,9 @@
         "Find marriage record for Jean Whitney and Steve Purdy"
       ],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        633
+      ]
     },
     {
       "id": 633,
@@ -24535,7 +24591,9 @@
       "interesting_facts": "",
       "research_leads": [],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        632
+      ]
     },
     {
       "id": 634,
@@ -24659,7 +24717,9 @@
       "interesting_facts": "",
       "research_leads": [],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        637
+      ]
     },
     {
       "id": 637,
@@ -24697,7 +24757,9 @@
       "interesting_facts": "",
       "research_leads": [],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        636
+      ]
     },
     {
       "id": 638,
@@ -24979,7 +25041,9 @@
       "interesting_facts": "",
       "research_leads": [],
       "confidence": "high",
-      "spouses": []
+      "spouses": [
+        645
+      ]
     },
     {
       "id": 645,
@@ -25019,7 +25083,9 @@
         "Verify maiden name Tufts — some sources give maiden name as unknown"
       ],
       "confidence": "medium",
-      "spouses": []
+      "spouses": [
+        644
+      ]
     },
     {
       "id": 646,
@@ -25313,7 +25379,8 @@
       ],
       "confidence": "high",
       "spouses": [
-        653
+        653,
+        673
       ]
     },
     {
@@ -26187,7 +26254,9 @@
         "Search All Saints, Cambridge parish records for Jane Momford baptism ~1600"
       ],
       "confidence": "medium",
-      "spouses": []
+      "spouses": [
+        652
+      ]
     },
     {
       "id": 674,
@@ -28406,7 +28475,9 @@
         "Resolve relationship to Richard Whitfield (720) -- son, grandson, or great-grandson? The 1574 pedigree by John Whitfield of Skelgill needs full transcription."
       ],
       "confidence": "medium",
-      "spouses": []
+      "spouses": [
+        726
+      ]
     },
     {
       "id": 726,
@@ -28452,7 +28523,9 @@
         "Identify the other two daughters of William Whitley (Maud's sisters) who inherited the Vipont Westmorland/Northumberland shares."
       ],
       "confidence": "medium",
-      "spouses": []
+      "spouses": [
+        725
+      ]
     },
     {
       "id": 727,
